@@ -14,7 +14,7 @@ Séminaire HAR7005, travail remis le 10 octobre 2023
 ## Étude de cas
 
 L’entrée des femmes-artistes dans l’espace public. 
-Cartographier des œuvres pour penser une contre-histoire de l’art dans l’espace public
+Cartographier des œuvres pour penser une contre-histoire de l’art public
 
 ### Contexte de la recherche
 
