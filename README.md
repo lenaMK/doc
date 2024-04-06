@@ -1,3 +1,6 @@
 # doc
 
-Divers contenus - écriture liée à mon doctorat
+Divers contenus 
+
+- écriture liée à mon doctorat
+- tests et visualisations
