@@ -63,8 +63,8 @@ function map (geobaseMTL, pre1982, top50){
             .attr("cy", d => proj([d.location.lng, d.location.lat])[1])
             .attr("id", d => d.id)
             .attr("r", "1px")
-            .attr("fill", 'black')
-            .attr("opacity", 1)    
+            .attr("fill", '#AA244F')
+            .attr("opacity", 0.9)    
 
     var moreDots = container.selectAll("circle");
 
@@ -77,7 +77,7 @@ function map (geobaseMTL, pre1982, top50){
             .attr("cy", d => proj([d.location.lng, d.location.lat])[1])
             .attr("id", d => d.id)
             .attr("r", "1px")
-            .attr("fill", 'black')
+            .attr("fill", '#AA244F')
             .attr("opacity", 0.5)    
 
 
@@ -97,7 +97,7 @@ function map (geobaseMTL, pre1982, top50){
 
 
 Promise.all([
-    d3.json('../data/MTLgeobase.json'),
+    d3.json('../data/reseau_cyclable.geojson'),
     d3.json('../data/pre1982femx.json'),
     d3.json('../data/top50femx.json'),
   ]).then(([geobasemtl, pre1982, top50]) => {
