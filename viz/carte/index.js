@@ -35,7 +35,7 @@ function showToolTip (text, coords){
 }
 
 
-function map (geobaseMTL, pre1982, top50){
+function map (geobaseMTL, outer, pre1982, top50){
 
     proj.center([-73.5878, 45.5088]) // Center on Montreal
         .scale(1000)
@@ -44,14 +44,20 @@ function map (geobaseMTL, pre1982, top50){
     path.projection(proj);
 
 
-//layer réseau routier MTL
+//layer réseau cyclable MTL
     container.selectAll("path")
         .data(geobaseMTL.features)
         .enter().append("path")
         .attr("d", d => path(d))
         .attr('stroke', 'lightgrey')
         .attr('fill', 'none')    
-
+/*
+//layer contour île
+    container.selectAll("path")
+        .data(outer.features)
+        .join('path')
+        .attr("d", d => path(d)) 
+*/
     var dots = container.selectAll("circle");
 
     dots
@@ -98,11 +104,12 @@ function map (geobaseMTL, pre1982, top50){
 
 Promise.all([
     d3.json('../data/reseau_cyclable.geojson'),
+    d3.json('../data/Mtl-outer-simplified.json'),
     d3.json('../data/pre1982femx.json'),
     d3.json('../data/top50femx.json'),
-  ]).then(([geobasemtl, pre1982, top50]) => {
+  ]).then(([geobasemtl, outer, pre1982, top50]) => {
     
-    map(geobasemtl, pre1982, top50);
+    map(geobasemtl, outer, pre1982, top50);
 
   }).catch(function(error) {
     console.log(error);
