@@ -71,7 +71,7 @@ moreDots
         .attr("cy", d => proj([d.location.lng, d.location.lat])[1])
         .attr("id", d => d.id)
         .attr("r", "3px")
-        .attr("fill", '#AA244F')
+        .attr("fill", 'black')
         .attr("opacity", 0.5)    
 
 
@@ -110,25 +110,29 @@ moreDots
 Promise.all([
     d3.json('../data/reseau_cyclable.geojson'),
     d3.json('../data/Mtl-outer-simplified.json'),
-    d3.json('../data/pre1982femx.json'),
+    d3.json('../data/femx.json'),
     d3.json('../data/top50femx.json'),
-  ]).then(([geobasemtl, outer, pre1982]) => {
-    var data = []
+  ]).then(([geobasemtl, outer, femx]) => {
 
-    /*
-    augmentation progressive de i pour la séance d'acuponcture de la carte
-    for (var i = 0; i < 18; i++){
-        console.log(i + " " +pre1982[i].title.fr + " " + pre1982[i].artists[0].name + " " + pre1982[i].produced_at)
-        console.log(pre1982[i])
-        data.push(pre1982[i])
+    //changer le compte
+    var count = 18
+
+    d3.select("#titre").text(`${count} and counting`)
+
+    //augmentation progressive de i pour la séance d'acuponcture de la carte
+    var data = []
+    for (var i = 0; i <= count; i++){
+        console.log(i + ": " +femx[i].title.fr + ", " + femx[i].artists[0].name + ", " + femx[i].produced_at)
+        console.log(femx[i])
+        data.push(femx[i])
     } 
        
-    map(geobasemtl, outer, data, top50);
-    */
-    map(geobasemtl, outer, pre1982);
+    map(geobasemtl, outer, data);
 
   }).catch(function(error) {
+
     console.log(error);
-  });
+  
+});
 
 
