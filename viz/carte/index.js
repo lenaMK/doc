@@ -119,7 +119,7 @@ Promise.all([
 
     femx.sort((a, b) => {
         return a.produced_at - b.produced_at;
-    })
+    }).splice(0,3)
 
     d3.select("#titre").text(`${count} and counting`)
 

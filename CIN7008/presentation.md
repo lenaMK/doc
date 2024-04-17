@@ -4,13 +4,9 @@
 
 ## Contexte de la recherche
 
-<!--Imaginaires de l’art public : cartographies algorithmiques et féministes-->
-
 Dans le cadre de mon projet de thèse, j’expérimente avec des créations visuelles algorithmiques pour offrir une nouvelle forme d’accès aux données culturelles. À l’heure de la mise en données de collections par des institutions muséales et patrimoniales, ma recherche vise à démontrer l’usage de la contre-curation et de la visualisation interactive pour offrir une approche esthétique, sensible et non-hiérarchique des contenus culturels. La production de graphiques ou de nouvelles formes visuelles permet non seulement de produire des représentations de collections, mais aussi, dans le cas de visualisations interactives, de découvrir leurs contenus. De façon complémentaire à la médiation et à la curation, il devient possible de faciliter une forme d’accès à l’art caractérisée par la sérendipité et la sensibilité. 
 
 Je présente ici trois exemples issus de mes expérimentations sur l’art public à Montréal. L’art public est une forme d’art particulièrement sujette à la surreprésentation de la normativité: artistes-hommes d’origine européenne ou coloniale, sujets coloniaux et favorisés par les pouvoirs en place, vision capitaliste de la société et approche extractiviste du territoire. Ces récits (*narratives*) forment l’imaginaire actuel de l’art dans l’espace public et marginalisent notamment la contribution des femmes et des personnes issues de la diversité. Ma recherche a pour but de renouveler l’imaginaire de l’art public en déjouant ces normes de visibilité. J’emploie des données sur l’art public pour proposer d’autres récits (*counter-narratives*), centrés sur l’entrée des femmes-artistes dans l’espace public. 
-
-### <!--Méthodologie algorithmique?-->
 
 ## Données
 
@@ -27,4 +23,4 @@ Les données utilisées proviennent du projet de recherche « Vers un commun num
 
 ## Expérimentations
 
-Voir le [descriptif](experimentations) des trois expérimentations présentées.
+Voir des [notes](experimentations) à propos des trois expérimentations présentées.
