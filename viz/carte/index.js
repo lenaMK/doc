@@ -117,6 +117,10 @@ Promise.all([
     //changer le compte
     var count = 18
 
+    femx.sort((a, b) => {
+        return a.produced_at - b.produced_at;
+    })
+
     d3.select("#titre").text(`${count} and counting`)
 
     //augmentation progressive de i pour la séance d'acuponcture de la carte
