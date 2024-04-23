@@ -110,12 +110,11 @@ moreDots
 Promise.all([
     d3.json('../data/reseau_cyclable.geojson'),
     d3.json('../data/Mtl-outer-simplified.json'),
-    d3.json('../data/femx.json'),
-    d3.json('../data/top50femx.json'),
+    d3.json('../data/femx.json')
   ]).then(([geobasemtl, outer, femx]) => {
 
     //changer le compte
-    var count = 18
+    var count = 28
 
     femx.sort((a, b) => {
         return a.produced_at - b.produced_at;
@@ -125,7 +124,7 @@ Promise.all([
 
     //augmentation progressive de i pour la séance d'acuponcture de la carte
     var data = []
-    for (var i = 0; i <= count; i++){
+    for (var i = 0; i < count; i++){
         console.log(i + ": " +femx[i].title.fr + ", " + femx[i].artists[0].name + ", " + femx[i].produced_at)
         console.log(femx[i])
         data.push(femx[i])
