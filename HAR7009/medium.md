@@ -20,7 +20,15 @@ Faith Holland
 >
 > strangely antiquated
 
-
+> The digital medium exhibits distinguishing characteristics, which are often used in varying combinations. 
+>
+> - It is **interactive**, allowing forms of navigating, assembling, or contributing to artwork to go beyond the mental event of experiencing it. 
+> - It often is **dynamic**, responding to a changing data flow and real-time data transmission. 
+> - The art is not always collaborative in the original sense of the word, but **often participatory**, relying on multiuser input. 
+> - Another distinguishing feature of the digital medium is that it can be **customizable and adaptable** to a single user’s needs or intervention. 
+> - While some of these concepts have been explored in performance art, happenings, and video art, the **possibilities of remote and immediate intervention** are unique to the networked digital medium. 
+> - The interactive, digital medium has **challenged traditional notions of the artwork, audience, and artist**. 
+> - Developments in this object suggest a **paradigm shift for art practice from the art object to the postobject conditions of possibility and a fluid interaction between different manifestations of information**.
 
 
 
@@ -30,7 +38,24 @@ Faith Holland
 
 plan
 
+Le numérique est-il un médium? 
+
+commun?
+
+- alloa
+- intermedialité?
+
+- medium en informatique
+  - computer as a dynamic medium Lambert
+  - data as an art material (choice not to use medium) Freeman
 - changer le médium pour changer le sens, la sensibilité 
   - nico williams
   - faith holland
 - expérimentations en physicalisation de données: note sur le nombre de choix, l’impact de la matérialité dans la transposition 
+- 
+
+
+
+
+
+perturber le milieu, perturber le commun?
