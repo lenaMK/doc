@@ -105,7 +105,7 @@ En brouillant la transparence de l’écran, Faith Holland amène notre regard s
 
 ### Nico Williams ᐅᑌᒥᐣ
 
-Un autre artiste qui travailler à brouiller le sens des choses en jouant sur le medium est Nico Williams ᐅᑌᒥᐣ.
+Un autre artiste qui travailler à brouiller le sens des choses en jouant sur le medium est Nico Williams ᐅᑌᒥᐣ[^11].
 
 ---
 
@@ -122,9 +122,25 @@ Nico Williams actualise le regard sur des objets du quotidien par la pratique du
 
 ## Le medium en visualisation de données
 
+Qu’est-ce que la visualisation de données?
+
+quelle est la chose et quel est le medium ?
 
 
-recherche doctorale sur la visualisation et la physicalisation de données
+
+Dans ma recherche en visualisation de données, le changement de medium est motivé par plusieurs enjeux
+
+- rencontre parfois les limitations / contraintes d’un écran pour un projet
+- rapport tactile (faith)
+- imbriquer le récit dans le medium (nico)
+
+
+
+
+
+
+
+requiert un essai complet, pistes  à suivre  dans la thèse de Lambert (computer art) et de Freeman (data as an art material)
 
 
 
@@ -132,7 +148,19 @@ recherche doctorale sur la visualisation et la physicalisation de données
 
 “An artist using the computer can see into another medium, and by using interfaces they can operate and affect this medium, even to the extent of being able to feel sensations that correspond to the surfaces and masses of objects therein. But they can never enter this medium, there can never be direct physical contact or immersion in this space, because the medium they inhabit is wholly different” (Lambert, 2010, p. 93) 
 
-- “they cannot enter his except through visual displays or being physically rendered into inert objects, at which point they lose their digital basis and are transmuted into chunks of solid matter” (Lambert, 2010, p. 93)
+
+
+
+
+quel est l’impact de la physicalisation
+
+“they cannot enter his except through visual displays or being physically rendered into inert objects, at which point they lose their digital basis and are transmuted into chunks of solid matter” (Lambert, 2010, p. 93)
+
+
+
+pourquoi changer le medium? 
+
+pratique féminine et aujourd’hui liée au féminisme pour matérialiser une histoire féministe de l’art public
 
 
 
@@ -170,3 +198,4 @@ recherche doctorale sur la visualisation et la physicalisation de données
 [^8]: Je suis retombée sur cette citation (pourtant à la Une de l’article de Guillaume Giroud) un peu trop tardivement. L’ouvrage n’étant disponible qu’en version papier, et la copie la plus proche étant à Ottawa, je n’ai pas pu faire un prêt entre bibliothèques à temps pour aller voir s’il contient une définition de ce fameux « numérique ».
 [^9]: J’ai appris ce terme lors de ma collaboration avec William sur *Gertraud & The Machines*, depuis ça me travaille. À l’Ouvroir, nous avons aussi utilisé une ontologie pour décrire des bâtiments pour les zones adjacentes entre les pièces sont des interfaces. Face à tant d’usages variés selon les les milieux, la possibilité une conversation interdisciplinaire sur les interfaces qui parviendrait à confirmer que nous parlons des mêmes choses m’intrigue.
 [^10]: Nico Williams a également une œuvre institulée *[NDN's Frozen Computer](https://www.nicowilliams.com/ndns-frozen-computer)* (2018). Malgré l’envie de l’intégrer à cet essai, ses autres œuvres semblaient plus pertinentes pour le propos soutenu, je la mentionne donc en note de bas de page pour le moment.
+[^11]: Il y a actuellement une exposition du travail de Nico Williams à la maison de la culture Monkland. Je n’ai trouvé que peu de documentation en ligne, l’artiste la signale sur sa page [instagram](https://www.instagram.com/p/C5jEEw1LECh/) et elle est annoncée jusqu’au 26 mai 2024.
