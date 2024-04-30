@@ -12,6 +12,12 @@ medium: impact de la pratique manuelle (manual labor) / artisanale sur le récit
 
 Nico Williams
 
+https://www.nicowilliams.com/ndns-frozen-computer
+
+Indian’s Frozen Computer was inspired by Williams's experience of  accidentally getting locked into a bid on a beaded bag after his  computer froze.  (Jessica Deer / CBC News 2018)
+
+## 
+
 > I choose to work with forms and objects that, like beadwork, have an  overt—if often overlooked—relationship to gratitude, exchange and  commerce, land, and the shaping, and morphing ability of language.  Sculptural geometries are a meeting point for technologies, stories, and lineages of knowledge. 
 >
 > Translating everyday, accessible objects into  beadwork re-presents regular things from our daily lives to reattune us  to their attraction and code-switching, overlapping, shifting resonances across cultural contexts and modes of identity. <!--objets qui sont des lieux communs-->

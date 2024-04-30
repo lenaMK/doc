@@ -9,13 +9,7 @@ Le titre de cet essai est le souvenir que je garde d’une question épineuse po
 - qu’est-ce que « le numérique »?
 - qu’est-ce qu’un medium?
 
-Je vais tout d’abord m’atteler à déconstruire l’expression « le numérique », devenue un lieu commun pour lequel nous ne semblons toutefois pas avoir de définition claire, pour identifier où seraient les choses et le (ou les) medium(s). Je me baserai ensuite sur l’introduction d’Emmanuel Alloa à la traduction du texte *Chose et medium* par Fritz Heider pour répondre à la seconde.
-
-
-
-Ces éléments théoriques seront ensuite revisités dans les pratiques artistiques de Faith Holland et de Nico Williams. Ils serviront également d’ouverture pour penser les expérimentations de ma recherche doctorale.
-
-
+Je vais tout d’abord m’atteler à déconstruire l’expression « le numérique », devenue un lieu commun pour lequel nous ne semblons toutefois pas avoir de définition claire, pour identifier ce dont il est constitué. Je me baserai ensuite sur l’introduction d’Emmanuel Alloa à la traduction du texte *Chose et medium* par Fritz Heider pour répondre à la seconde question. Ces éléments théoriques seront ensuite un parfait contexte pour analyser les pratiques artistiques de Faith Holland et de Nico Williams ᐅᑌᒥᐣ. Ils serviront également d’ouverture pour penser les expérimentations de ma recherche doctorale.
 
 ## De quoi parle-t-on lorsqu’on parle « du numérique »?
 
@@ -40,7 +34,7 @@ Dans le but de développer une culture générale sur la question, j’ai lu l�
 >
 > (Isaacson 2014: 38-39)
 
-À ses débuts, l’ordinateur est, avant tout, une machine à calculer. Cet usage est encore présent dans le terme anglais *computer*, qui vient de *compute* (la définition actuelle de ce terme étant « *to determine by calculation or by using a computer* » (WordReference))[^5], ou encore dans le terme (un peu vieux jeu) *Rechner* en allemand, qui signifie également « calculateur ». En français, on perd ce sens avec l’étymologie latine *ordinator* «celui qui met en ordre, qui règle» (REf………. ).
+À ses débuts, l’ordinateur est, avant tout, une machine à calculer. Cet usage est encore présent dans le terme anglais *computer*, qui vient de *compute* (la définition actuelle de ce terme étant « *to determine by calculation or by using a computer* » (WordReference))[^5], ou encore dans le terme (un peu vieux jeu) *Rechner* en allemand, qui signifie également « calculateur ». En français, on perd ce sens avec l’étymologie latine *ordinator* «celui qui met en ordre, qui règle» ([CNRTL](https://www.cnrtl.fr/etymologie/ordinateur)).
 
 Dans l’ouvrage s’ensuivent ensuite les inventions matérielles, comme le transistor et la puce électronique, la diversification de l’utilisation d’un ordinateur avec les jeux vidéos, la mise en réseau qui mena à internet, la production d’ordinateurs personnels, les logiciels et, finalement, le « cyberespace » puis le World Wide Web. La lecture de cet ouvrage m’a beaucoup aidé à comprendre les étapes et les éléments qui composent l’histoire de l’informatique, tout en restant critique sur l’idée même d’un grand récit unificateur. Elle m’a surtout permis de situer, chronologiquement et techniquement parlant, d’autres lectures sur les contributions d’Ada Lovelace (Plant 1995), les femmes qui programmaient les machines dans les années 40 (Sydell 2014, Leon 2018), ou encore l’analyse critique du concept de logiciel (*software*) par Wendy Hui Kyong Chun (2004) [^3]. 
 
@@ -48,7 +42,7 @@ Dans l’ouvrage s’ensuivent ensuite les inventions matérielles, comme le tra
 
 > [Le numérique] est une sorte de medium universel. (Chazal cité par Giroud 2021: 2)
 
-Après avoir déconstruit l’ordinateur et « le numérique » ainsi déconstruits en une multitude d’objets, de processus, d’infrastructures et de fonctionnalités, je ne sais comment interpréter cette affirmation par Gérard Chazal. Elle me semble incomplète ou du moins, trop généraliste, car au final, je ne sais pas ce qu’il entend, lui, par « le numérique » [^8]. Je propose plutôt de bâtir une réflexion sur le medium à partir de la pensée de Heider: « Le medium n’est pas une chose mais ce à travers quoi on peut appréhender des choses » nous dit Heider (cité par Alloa 2017: 13). L’ordinateur serait-il un medium qui nous permet d’appréhender l’espace numérique? [^6]
+Après avoir déconstruit l’ordinateur et « le numérique » ainsi déconstruits en une multitude d’objets, de processus, d’infrastructures et de fonctionnalités, je ne sais comment interpréter cette affirmation par Gérard Chazal. Sortie de son contexte (telle qu’elle apparaît dans l’article de Giroud), elle me semble incomplète ou du moins, trop généraliste, car au final, je ne sais pas ce qu’il entend, lui, par « le numérique » [^8]. Je propose plutôt de bâtir une réflexion sur le medium à partir de la pensée de Heider: « Le medium n’est pas une chose mais ce à travers quoi on peut appréhender des choses » nous dit Heider (cité par Alloa 2017: 13). L’ordinateur serait-il un medium qui nous permet d’appréhender l’espace numérique? [^6]
 
 ### Au milieu d’un ordinateur
 
@@ -60,7 +54,7 @@ Si « nous ne regardons pas l’écran au fond de la salle de cinéma, mais un f
 
 *Soft Computing*, Faith Holland 
 
-<img src="https://www.faithholland.com/wp-content/uploads/2020/07/soft-computing-blue-fath-holland-1100x733.jpg" style="zoom:67%;" />
+<img id=" softComputing " src="https://www.faithholland.com/wp-content/uploads/2020/07/soft-computing-blue-fath-holland-1100x733.jpg" style="zoom:67%;" />
 
 > ***Soft Computing\*** is a series of plush dolls that depict technologies. It reconfigures our physical relationship to devices such as desktop computers, keyboard, mice, cell phones, and ethernet cables. As technologies get closer and closer to the body in our back pockets, our laps, and in our beds they still remain obstinately hard. Plushies, on the other hand, are huggable media: soft to the touch and very willing to accept our embrace. ([Artist statement](https://www.faithholland.com/portfolio_page/soft-computing/))
 
@@ -72,9 +66,9 @@ Les qualités secondes de l’ordinateur seraient alors les interfaces. Relevant
 
 ## Les interfaces
 
-L’interface est définie, en informatique, comme un « dispositif qui assure le transfert de l’information à un autre » (Giroud 2021: 2 …. num page?…………. ). Par exemple, l’appareil qui effectue le transfert des données d’un microphone à un ordinateur s’appelle une interface audio. Une API, *application programming interface*, assure la communication entre deux programmes (de machine à machine). Un voyant lumineux peut, toutefois, être considéré comme une interface, qui signale par exemple le fait qu’une fonctionnalité est active. 
+L’interface est définie, en informatique, comme un « dispositif qui assure le transfert de l’information à un autre » (Giroud 2021: 2). Par exemple, l’appareil qui effectue le transfert des données d’un microphone à un ordinateur s’appelle une interface audio[^9]. Une API, *application programming interface*, assure la communication entre deux programmes (de machine à machine). 
 
-L‘interface personne-machine, quand à elle, est conçue comme lieu d’interaction entre les humains et les logiciels: de façon dominante, elle se situe sur l’espace visuel de l’écran. Elle est composée d’éléments textuels et visuels organisés de façon à communiquer des informations, ainsi que de boutons et d’autres alternatives pour les interactions. Pour profiter des interactions offertes par le logiciel, l’utilisateur se sert de son clavier et/ou de sa souris. Selon les bonnes pratiques développées dans les théories d’interfaces personnes-machines, les retours (*feedback*) des actions posées par l’utilisateurs doivent être visibles à l’écran, afin de confirmer l’action posée sur le dispositif. 
+L‘interface personne-machine, quand à elle, est conçue comme lieu d’interaction entre les humains et les logiciels: de façon dominante, elle se situe sur l’espace visuel de l’écran. Un voyant lumineux peut être considéré comme une interface personne-machine, qui signale par exemple le fait qu’une fonctionnalité est active. Plus souvent cependant, elle est visible sur l’écran et composée d’éléments textuels et visuels organisés de façon à communiquer des informations, ainsi que de boutons et d’autres moyens (*affordances*) d’interactions. Pour faire usage de ces interactions mises à disposition par un logiciel, l’utilisateur se sert de son clavier et/ou de sa souris. Selon les bonnes pratiques développées dans les théories d’interfaces personnes-machines, les retours (*feedback*) des actions posées par l’utilisateurs doivent être visibles à l’écran, afin de confirmer l’action posée sur le dispositif. 
 
 > Le sens de l’interface n’est pas en elle, mais dans la relation qu’elle établit avec autre chose qu’elle-même […] L’interface fait donc office de « medium » au sens de milieu, dans le double sens de celui.ci, à savoir de moyen et d’intermédiaire, sans lequel l’altérité nous serait inaccessible, et partant dénuée de sens. (Giroud 2021: 4)
 
@@ -82,39 +76,36 @@ L’altérité de l’espace numérique, binaire et « de nature calculatoire, d
 
 ### Pelures d’oignons ou mille-feuille
 
-En revenant à l’idée de penser l’ordinateur en terme de *hardware*, ne serait-ce pas plutôt l’écran qui serait le medium des interfaces? Puisque c’est l’écran, grâce au *bitmap* (isaacson …… ) qui cartographie chaque pixel, qui dispose de la plasticité du médium pour allier persistance de la forme et virginité de l’accueil (Alloa 2017: 28). L’outil d’écriture devient une extension du corps et l’opacité de l’écran s’ouvre pour faire place à une fenêtre sur l’ailleurs. (Alloa 2017: 27)
+Cependant, en revenant à l’idée de penser l’ordinateur en terme de *hardware*, ne serait-ce pas plutôt l’écran qui serait le medium des interfaces? Puisque c’est l’écran, lieu du *bitmapping* (Isaacson 2014: 364-365) qui permet à l’ordinateur de contrôler chaque pixel et qui dispose ainsi de la plasticité du médium pour allier persistance de la forme et virginité de l’accueil (Alloa 2017: 28). 
 
-L’interface est pourtant le medium d’un logiciel par exemple. Elle « fait apparaître les choses et transmet des informations à leur sujet » (Alloa 2017: 20). Un logiciel comme un éditeur de texte passe par l’interface du système d’opération pour accéder à la mémoire de l’appareil, pour gérer les *inputs* comme l’action d’un utilisateur sur le clavier. Le logiciel négocie l’espace qui lui est accordé, dans la machine comme sur l’écran, avec les autres applications du système d’opération. Il faut alors penser le tout de façon scalaire, à différentes échelles. 
+> L’outil d’écriture devient une extension du corps et l’opacité de l’écran s’ouvre pour faire place à une fenêtre sur l’ailleurs. (Alloa 2017: 27)
+
+L’interface est pourtant le medium d’un logiciel par exemple. Elle « fait apparaître les choses et transmet des informations à leur sujet » (Alloa 2017: 20). Un logiciel comme un éditeur de texte passe par l’interface du système d’opération pour accéder à la mémoire de l’appareil, pour gérer les *inputs* comme l’action d’un utilisateur sur le clavier. Le logiciel négocie l’espace qui lui est accordé, dans la machine comme sur l’écran, avec les autres applications du système d’opération. Il faut alors penser le tout de façon scalaire, c’est-à-dire à différentes échelles. 
 
 > L’interface n’est pas seulement à l’intérieur de l’ordinateur (*subface*), faisant de celui-ci un « emboitement, un feuilletage, un réseau d’interfaces successibles » (Lévy cité par Giroud 2017: 5), mais elle est aussi orientée vers l’extérieur (*surface*) (Nake).
 
-Lorsqu’on regarde un ordinateur, on peut difficilement parler d’une seule interface. Ce sont des couches d’interfaces que l’on peut explorer pour aller en profondeur, comme des pelures d’oignons. 
+Lorsqu’on regarde un ordinateur, on peut difficilement parler d’une seule interface. Ce sont des couches d’interfaces que l’on peut explorer pour aller en profondeur, comme des pelures d’oignons. Cette caractéristique scalaire pourrait être caractéristique de l’espace numérique. J’émets cette hypothèse car je donne la même explication lorsqu’on me demande quelle est la différence entre des données et des métadonnées. La qualification de donnée ou de métadonnée ne dépend pas de la chose en soi, mais du contexte et de l’échelle à laquelle on l’étudie. Ainsi, lorsque j’effectue une analyse des œuvres d’art de la collection du MAC, ce sont mes données. Aux yeux de certains, ce sont toutefois des métadonnées puisqu’elles décrivent des œuvres d’art, qui seraient la véritable « donnée ». Dans le sens inverse, les métadonnées sur les œuvres peuvent inclure, par exemple, la date d’acquisition de l’œuvre. Si, cependant, je change mon attention pour étudier les acquisitions du musée d’art contemporain, la date d’acquisition devient une donnée et les métadonnées pourraient être, cette fois, les renseignements sur la mise à jour de la fiche de l’œuvre. Ainsi, c’est l’objet d’étude qui est la données, et  la partie « un cran plus loin dans l’échelle » est qualifiée de métadonnée. Ainsi, selon l’échelle à laquelle on fixe son attention, toute chose peut devenir donnée ou métadonnée, tout comme « Toute chose peut devenir medium et inversement » (Alloa 2017: 23). Il faut donc définir précisément la chose numérique sur laquelle on place son attention, ce qui nous permet de se situer puis de changer d’échelle « un cran plus proche » pour trouver, si la logique de cet essai est valide, le medium. 
 
 
 
-Toute chose peut devenir medium et inversement
-
- (Alloa 2017: ……………….)
-
-
-
- <!--parallèle données&métadonnées-->
-
-
-
-
-
-## L’intervention artistique sur le medium
+## Jouer avec le medium
 
 > Quand la transparence [du medium] se brouille, cela peut conduire à des expériences de type esthétique, mais aussi à des scénarios imprévisibles (Alloa 2017: 28)
 
+Pour poursuivre la réflexion de cet essai, j’ai identifié deux pratiques artistiques qui jouent sur le medium: 
+
+- Faith Holland, net artist new yorkaise notamment exposée à EasternBloc lors du festival *Sight + Sound 2022*
+- Nico Williams ᐅᑌᒥᐣ , artiste anishinaabe basé à Tiohtià:ke/Montréal dont la pratique de perlage, présentées à l’exposition *La machine qui enseignait des airs aux oiseaux* au MAC et *Conditions d’utilisations* à la Fondation Phi, a particulièrement attiré mon attention.
+
 ### Faith Holland
 
-En brouillant la transparence de l’écran, Faith Holland amène notre regard sur l’aspect matériel de l’ordinateur. Toutes les interactions que nous avons avec – glisser son doigts sur le pavé tactile, effleurer les touches du clavier, taper nerveusement le bord de l’appareil – perdent leur sens intial : sélectionner un navigateur, inscrire « dossier FRQSC » dans la barre de recherche, cliquer sur  le portail et attendre nerveusement qu’il charge. Effectuées sur une peluche, ces actions se révèlent bien plus intimes qu’elles ne le semblaient en regardant l’interface et non pas la machine. La force du medium, dans l’ordinateur, est de se faire oublier au point où nous ne percevons même plus les actions que nous faisons dans l’espace physique, mais uniquement leur impact dans l’espace numérique. Changer le medium peut donc être révélateur de nos interactions avec celui-ci.
+([œuvre présentée plus haut](./#softComputing))
 
-### Nico Williams
+En brouillant la transparence de l’écran, Faith Holland amène notre regard sur l’aspect matériel de l’ordinateur. Toutes les interactions que nous avons avec – glisser son doigts sur le pavé tactile, effleurer les touches du clavier, taper nerveusement le bord de l’appareil – perdent leur sens intial : sélectionner un navigateur, inscrire « dossier FRQSC » dans la barre de recherche, cliquer sur le portail et attendre nerveusement qu’il charge. Effectuées sur une peluche, ces actions se révèlent bien plus intimes qu’elles ne le semblaient en fixant l’interface et plutôt que la machine. La force du medium, dans l’ordinateur, est de se faire oublier au point où nous ne percevons même plus les actions que nous faisons dans l’espace physique, mais uniquement leur impact dans l’espace numérique. Changer le medium peut donc être révélateur de nos interactions avec celui-ci.
 
-Un autre artiste qui travailler à brouiller le sens des choses en jouant sur le medium est ᐅᑌᒥᐣ Nico Williams.
+### Nico Williams ᐅᑌᒥᐣ
+
+Un autre artiste qui travailler à brouiller le sens des choses en jouant sur le medium est Nico Williams ᐅᑌᒥᐣ.
 
 ---
 
@@ -127,13 +118,21 @@ D 20 58 TM 2 Collection Musée d’art contemporain de Montréal
 
 ---
 
-Nico Williams actualise le regard sur des objets du quotidien par la pratique du perlage.
-
- une pratique qui est en elle-même une réappropriation de sa culture Anishinaabe
-
-Williams considère le perlage géométrique et sculptural comme une discipline qui lui permet de puiser dans un savoir intergénérationnel et collaboratif pour réaliser des œuvres traitant d’expériences autochtones
+Nico Williams actualise le regard sur des objets du quotidien par la pratique du perlage. Il transforme le regard sur un [billet de loto](https://macrepertoire.macm.org/oeuvre/mots-caches-orange/), [des documents produits par le gouvernement Canadien](https://www.nicowilliams.com/ndn-status-cards), [un sac en plastique](https://www.erudit.org/fr/revues/va/2023-v67-n269-va07722/101193ac/) ou encore [une boîte de colis Amazon](https://www.nicowilliams.com/special-delivery) en proposant une réplique faisant usage d’un medium traditionnel autochtone. « He's encoding Indigenous history in his beaded architectural pieces. » (Nadine St-Louis citée par CBC News 2018) Le changement de medium inscrit, ou encode, un autre récit dans ces objets qui pourraient autrement être des lieux communs[^10].
 
 ## Le medium en visualisation de données
+
+
+
+recherche doctorale sur la visualisation et la physicalisation de données
+
+
+
+
+
+“An artist using the computer can see into another medium, and by using interfaces they can operate and affect this medium, even to the extent of being able to feel sensations that correspond to the surfaces and masses of objects therein. But they can never enter this medium, there can never be direct physical contact or immersion in this space, because the medium they inhabit is wholly different” (Lambert, 2010, p. 93) 
+
+- “they cannot enter his except through visual displays or being physically rendered into inert objects, at which point they lose their digital basis and are transmuted into chunks of solid matter” (Lambert, 2010, p. 93)
 
 
 
@@ -166,6 +165,8 @@ Williams considère le perlage géométrique et sculptural comme une discipline 
 [^3]: Je prévois m’atteler plus longuement à ce titanesque article que Lau-Tze Fan m’a chaudement recommandé après une conversation passionnante sur le rôle des femmes dans l’histoire de l’informatique. Vu l’ampleur des sujets abordés et la densité du contenu, je n’ai pas encore l’impression d’avoir réussi à atteindre une compréhension suffisamment approfondie pour écrire à ce sujet.
 [^4]: L’appellation « art algorithmique » notamment a été favorisée pour le titre du cours IFT6251 donnée par Benoit Baudry car le terme « art génératif » est trop proche « l’IA générative » et risque ainsi de porter à confusion un public non-initié. En anglais, le terme « computer art » 
 [^5]: Le film [*Hidden Figures*](https://en.wikipedia.org/wiki/Hidden_Figures) fait d’ailleurs connaître ce terme tel qu’il a longtemps été utilisé, comme métier. Souvent exercé par des femmes mathématiciennes, il était à ce moment plus rapide et accessible de demander à des employées de faire des calculs plutôt que de les encoder et d’attendre l’accès à la puissance de calcul d’un (parfois unique) ordinateur partagé au sein d’une institution.
-[^6]: Je pense ici à la notion d’espace numérique telle que développée par Marcello Vitali-Rosati. Toutefois, n’ayant pas eu le temps de me replonger dans ses textes, je ne suis pas en mesure de développer la notion.
+[^6]: Je pense ici à la notion d’espace numérique telle que développée par Marcello Vitali-Rosati. Je trouve un peu artificiel de juste mettre une référence sans me replonger dans ses écrits. Sa nouvelle publication « Éloge du bug. Être libre à l’époque du numérique » (à paraître le 7 mai 2024) est haut placée dans ma liste de lecture pour cet été et, par son analyse critique de l’impératif fonctionnel, rejoint certainement les questions liées à la transparence (et au brouillage) du medium ici abordées.
 [^7]: Je parle là des chercheur·se·s en humanités numériques par exemple, mais aussi d’informaticien·ne·s, de théoricien·ne·s et d’analystes qui œuvrent dans le domaine de l’informatique sans toucher aux questions de bas niveau comme des *system calls* ou de l’électronique.
 [^8]: Je suis retombée sur cette citation (pourtant à la Une de l’article de Guillaume Giroud) un peu trop tardivement. L’ouvrage n’étant disponible qu’en version papier, et la copie la plus proche étant à Ottawa, je n’ai pas pu faire un prêt entre bibliothèques à temps pour aller voir s’il contient une définition de ce fameux « numérique ».
+[^9]: J’ai appris ce terme lors de ma collaboration avec William sur *Gertraud & The Machines*, depuis ça me travaille. À l’Ouvroir, nous avons aussi utilisé une ontologie pour décrire des bâtiments pour les zones adjacentes entre les pièces sont des interfaces. Face à tant d’usages variés selon les les milieux, la possibilité une conversation interdisciplinaire sur les interfaces qui parviendrait à confirmer que nous parlons des mêmes choses m’intrigue.
+[^10]: Nico Williams a également une œuvre institulée *[NDN's Frozen Computer](https://www.nicowilliams.com/ndns-frozen-computer)* (2018). Malgré l’envie de l’intégrer à cet essai, ses autres œuvres semblaient plus pertinentes pour le propos soutenu, je la mentionne donc en note de bas de page pour le moment.
