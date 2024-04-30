@@ -7,9 +7,7 @@ Le titre de cet essai est le souvenir que je garde d’une question épineuse po
 - qu’est-ce que « le numérique »?
 - qu’est-ce qu’un medium?
 
-Je répondrai d’abord à la seconde, avec pour référence principale l’introduction d’Emmanuel Alloa à la traduction du texte *Chose et medium* par Fritz Heider. 
-
-Je m’attellerai ensuite à déconstruire l’expression « le numérique », devenue un lieu commun pour lequel nous ne semblons toutefois pas avoir de définition claire, pour identifier où seraient les choses et le (ou les) medium(s). 
+Je vais tout d’abord m’atteler à déconstruire l’expression « le numérique », devenue un lieu commun pour lequel nous ne semblons toutefois pas avoir de définition claire, pour identifier où seraient les choses et le (ou les) medium(s). Je me baserai ensuite sur l’introduction d’Emmanuel Alloa à la traduction du texte *Chose et medium* par Fritz Heider pour répondre à la seconde.
 
 
 
@@ -31,7 +29,7 @@ Le Centre national de ressources textuelles et lexicales (CNRTL) est plus strict
 
 Pour ma part, j’étais jusqu’à présent plutôt à l’aise d’expliquer les couches logicielles de haut niveau, mais je ne connaissais pas grand chose aux systèmes d’exploitation (*operating systems*) et rien du tout à l’électronique et aux ressources matérielles d’un ordinateur. Il me semblait qu’il fallait que je retourne dans l’histoire de l’informatique, que je comprenne comment nous sommes passé·e·s des cartes perforées aux ordinateurs portables. Je ne savais d’ailleurs pas plus comment fonctionnaient réellement ces cartes perforées, excepté le fait qu’elles étaient l’interface principale entre l’humain et la machine, c’est-à-dire que c’était le moyen le plus commun d’interagir avec ce qu’était un ordinateur à l’époque. Qu’est-ce qu’un ordinateur alors? 
 
-Dans le but de développer une culture générale sur la question, j’ai lu l’ouvrage *The Innovators: How a Group of Hackers, Geniuses, and Geeks Created the Digital Revolution* de Walter Isaacson (2014). Journaliste et auteur américain, Isaacson a écrit plusieurs biographies dont celle de Steve Jobs (2011), Albert Einstein (2007) et plus récemment, celle d’Elon Musk (2023). Particulièrement depuis un séminaire sur la biographie d’artiste, je suis très critique de la glorification de personnages historiques dans les biographies (ne parlons même pas de biopics). J’étais donc un peu sceptique de lire son ouvrage que j’avais trouvé par le biais de citations dans des articles de presse sur l’histoire de l’informatique [^2]. Son introduction, centrée sur la collaboration et les contributions multiples qui ont menés aux innovations techniques de la « révolution numérique », m’a cependant convaincue de la pertinence de cette lecture. Près de 500 pages et un nombre colossal de noms (comme en atteste l’index bien garni à la fin de l’ouvrage) m’ont amenée de la machine à calculer de Charles Babbing et de la publication des *Notes* d’Ada Lovelace en 1843 jusqu’à l’indexation des contenus du web et la recherche avec Google. En décrivant les premières machines qui se rapprochaient, de près ou de loin, de ce que nous appelons un ordinateur aujourd’hui, Isaacson propose la conjonction de quatre propriétés pour établir les bases fonctionnelles de l’ordinateur moderne: 
+Dans le but de développer une culture générale sur la question, j’ai lu l’ouvrage *The Innovators: How a Group of Hackers, Geniuses, and Geeks Created the Digital Revolution* de Walter Isaacson (2014). Journaliste et auteur américain, Isaacson a écrit plusieurs biographies dont celle de Steve Jobs (2011), Albert Einstein (2007) et plus récemment, celle d’Elon Musk (2023). Particulièrement depuis un séminaire sur la biographie d’artiste, je suis très critique de la glorification de personnages historiques dans les biographies. J’étais donc un peu sceptique de lire son ouvrage que j’avais trouvé par le biais de citations dans des articles de presse sur l’histoire de l’informatique [^2]. Son introduction, centrée sur la collaboration et les contributions multiples qui ont menés aux innovations techniques de la « révolution numérique », m’a cependant convaincue de laisser une chance à cette lecture. Près de 500 pages et un nombre colossal de noms, d’institutions et d’entreprises (comme en atteste l’index bien garni à la fin de l’ouvrage) forment un récit qui m’a emmenée de la machine analytique de Charles Babbing et de la publication des *Notes* d’Ada Lovelace en 1843 jusqu’à l’indexation des contenus du web et la recherche avec Google. En décrivant les premières machines qui se rapprochaient, de près ou de loin, de ce que nous appelons un ordinateur aujourd’hui, Isaacson propose la conjonction de quatre propriétés pour établir les bases fonctionnelles de l’ordinateur moderne: 
 
 > - *Digital*: des machines digitales, et non analogues
 > - *Binary*: des machines qui adoptent un système binaire, performant des opérations logiques utilisant des circuits composés d’interrupteurs (*on-off switches*)
@@ -40,50 +38,90 @@ Dans le but de développer une culture générale sur la question, j’ai lu l�
 >
 > (Isaacson 2014: 38-39)
 
+À ses débuts, l’ordinateur est, avant tout, une machine à calculer. Cet usage est encore présent dans le terme anglais *computer*, qui vient de *compute* (la définition actuelle de ce terme étant « *to determine by calculation or by using a computer* » (WordReference))[^5], ou encore dans le terme (un peu vieux jeu) *Rechner* en allemand, qui signifie également « calculateur ». En français, on perd ce sens avec l’étymologie latine *ordinator* «celui qui met en ordre, qui règle».
+
 Dans l’ouvrage s’ensuivent ensuite les inventions matérielles, comme le transistor et la puce électronique, la diversification de l’utilisation d’un ordinateur avec les jeux vidéos, la mise en réseau qui mena à internet, la production d’ordinateurs personnels, les logiciels et, finalement, le « cyberespace » puis le World Wide Web. La lecture de cet ouvrage m’a beaucoup aidé à comprendre les étapes et les éléments qui composent l’histoire de l’informatique, tout en restant critique sur l’idée même d’un grand récit unificateur. Elle m’a surtout permis de situer, chronologiquement et techniquement parlant, d’autres lectures sur les contributions d’Ada Lovelace (Plant 1995), les femmes qui programmaient les machines dans les années 40 (Sydell 2014, Leon 2018), ou encore l’analyse critique du concept de logiciel (*software*) par Wendy Hui Kyong Chun (2004) [^3]. 
 
 ## Chercher le medium
 
-L’ordinateur et « le numérique » ainsi déconstruits en une multitude d’objets, de processus, d’infrastructures et de fonctionnalités, je peux désormais construire une réflexion sur le medium qui s’y applique. « Le medium n’est pas une chose mais ce à travers quoi on peut appréhender des choses » nous dit Heider (cité par Alloa 2017: 13).
+> [Le numérique] est une sorte de medium universel. (Chazal cité par Giroud  2021: 2)
 
-Allons tout d’abord plus en détail sur la définition fonctionnelle du medium proposée dans l’introduction d’Alloa.
+Après avoir déconstruit l’ordinateur et « le numérique » ainsi déconstruits en une multitude d’objets, de processus, d’infrastructures et de fonctionnalités, je ne sais comment interpréter cette affirmation par Gérard Chazal. Elle me semble incomplète ou du moins, trop généraliste, car au final, je ne sais pas ce qu’il entend, lui, par « le numérique » [^8]. Je propose plutôt de bâtir une réflexion sur le medium à partir de la pensée de Heider: « Le medium n’est pas une chose mais ce à travers quoi on peut appréhender des choses » nous dit Heider (cité par Alloa 2017: 13). L’ordinateur serait-il un medium qui nous permet d’appréhender l’espace numérique?
 
-### *Au milieu des choses: une petite phénoménologie des médias*
+### *Au milieu d’un ordinateur?*
 
-> Nous ne regardons pas l’écran au fond de la salle de cinéma, mais un film (Alloa 2017: 8)
+L’ordinateur fait certainement partie des exemples qui contredisent parfaitement le préjugé critiqué par Alloa dans son introduction: « ce que nous savons de ce qui nous entoure proviendrait d’une connaissance directe, […], tandis que ce qui est lointain nous échapperait en raison de son caractère médiat »  (Alloa 2017: 7-8). En effet, pour la majeure partie d’entre nous, l’ordinateur nous est extrêmement familier et il se situe souvent « au bout de nos doigts » (*at our fingertips*). Les ordinateurs font désormais partie du quotidien de presque tou·te·s, mais malgré cette grande proximité, la majorité des utilisateur·rice·s n’ont pas de connaissances sur leurs fonctionnements. L’espace numérique, pourtant inatteignable physiquement serait donc lointain et nécessairement médiat, est maîtrisé par certain·e·s  – savoir programmer, étudier les logiciels, analyser des infrastructures comme les réseaux sociaux ou le *cloud* –, à qui le fonctionnement électronique de la machine peut pourtant échapper complètement[^7]. C’est donc un excellent exemple de l’intuition de Heider paraphrasée par Alloa: « Nous ignorons à peu près tout de ce qui nous est le plus proche » (2017: 10).
 
-Alors que regardons-nous lorsque nous regardons un ordinateur?
+Si « nous ne regardons pas l’écran au fond de la salle de cinéma, mais un film » (Alloa 2017: 8), que regardons-nous lorsque nous regardons un ordinateur? À essayer de distinguer l’apparence sensible de la nature de la chose (Alloa 2017: 11) , les qualités premières de l’ordinateur seraient le *hardware*, terme pour lequel la traduction « matériel informatique » semble insuffisante ou inexacte. Le *hardware* inclut de nombreuses composantes électroniques. Même démontées et sorties du boîtier, le fonctionnement de ces circuits électriques ont plus visibles à l’œil nu mais il demeure encore dans notre espace « physique ». Le *hardware* qui est à notre portée – visible, mesurable et manipulable – inclut l’écran, le clavier, la souris (ou le pavé tactile, *trackpad*) et les câbles. 
 
-proche- familier vs lointain: inconnu car caractère médiat (Alloa 2017: 7) 
+---
 
-proximité de l’ordinateur, un lieu commun sans aucune connaissance directe?
+*Soft Computing*, Faith Holland 
 
-> Nous ignorons à peu près tout de ce qui nous est le plus proche (intuition de Heider paraphrasée par Alloa 2017: 10)
+<img src="https://www.faithholland.com/wp-content/uploads/2020/07/soft-computing-blue-fath-holland-1100x733.jpg" style="zoom:67%;" />
+
+> ***Soft Computing\*** is a series of plush dolls that depict technologies. It reconfigures our physical relationship to devices such as desktop computers, keyboard, mice, cell phones, and ethernet cables. As technologies get closer and closer to the body in our back pockets, our laps, and in our beds they still remain obstinately hard. Plushies, on the other hand, are huggable media: soft to the touch and very willing to accept our embrace. ([Artist statement](https://www.faithholland.com/portfolio_page/soft-computing/))
+
+----
+
+Ces qualités primaires sont mises au défi par l’artiste Faith Holland dans sa série *Soft Computing*. En changeant leur matérialité, elle utilise une démonstration par l’absurde qui nous amène à porter un nouveau regard sur notre relation physique avec ces objets.
+
+Les qualités secondes de l’ordinateur seraient alors les interfaces. Relevant de son apparaître sensible (Alloa 2017: 11), il importe de les définir d’avantage pour poursuivre cette réflexion.
+
+## Les interfaces
+
+L’interface, en tant que lieu d’interaction entre la personne et la machine
+
+def: 
+
+- informatique: dispositif qui assure le transfert de l’information à un autre
+- sens étendu: modalité de la relation 
+
+> Soutenir que l’interface est *entre*, c’est donc soutenir qu’elle n’a pas de consistance propre (Nancy cité par Giroud 2017: 3)
 >
-> McLuhann « La seule chose dont les poissons ne savent absolument rien, c’est l’eau, puisqu’ils n’ont aucun anti-environnement qui leur permettrait de percevoir l’élément dans lequel ils vivent » (Alloa 2017: 11) 
+> Le sens de l’interface n’est pas en elle, mais dans la relation qu’elle établit avec autre chose qu’elle-même […] L’interface fait donc office de « medium » au sens de milieu, dans le double sens de celui.ci, à savoir de moyen et d’intermédiaire, sans lequel l’altérité nous serait inaccessible, et partant dénuée de sens. (Giroud 2017: 4)
 
 
 
-apparence sensible vs nature (Alloa 2017: 11) 
+Effet de l’interface : elle représente, dans les deux sens du terme, c’est-à-dire de réppéter et de se substituer à la présence. 
 
-- qualités premières: consusbstantielles de la chose (hardware?)
-- qualités secondes: relèvent de son apparaître sensible (interface, principalement l’écran mais aussi clavier, souris, son, voyants lumineux, …)
-
-
-
-- 
+Le corollaire est que l’interface ne présente pas le numérique, mais le représente grâce au symbole
 
 
 
-Définition fonctionnelle des opérations médiales
+Parce que le numérique est de nature calculatoire, dans la mesure où il ne porte que sur des entités formelles dénuées de sens, réduites à leur simple manipulabilité, à l’instar des *calculi* (Bachimont 2008), alors seule la médiation du symbole permet de le représenter. (Giroud 2017: 5)
 
-> voir de ses propres yeux, ce n’est pas forcément voir sans médiation (Alloa 2017: 19)
->
+
+
+L’interface n’est pas seulement à l’intérieur de l’ordinateur (*subface*), faisant de celui-ci un « emboitement, un feuilletage, un réseau d’interfaces successibles » (Lévy cité par Giroud 2017: 5), mais elle est aussi orientée vers l’extérieur (*surface*) (Nake).
+
+La surface, faisant office d’interface, c’est-à-dire *l’interface [humain]/ordinateur*, disgne ainsi la face de l’ordinateur orientée vers l’utilisateur humain. L’homme ne manipule donc pas directement le numérique (Laurel 1993) (Giroud 2017: 5-6)
+
+
+
+(interface, principalement l’écran mais aussi clavier, souris, son, voyants lumineux, …)
+
+
+
+### Pelures d’oignons ou mille-feuille
+
+
+
 > chaque fois qu’une chose est appréhendée à travers une autre, on est en présence d’un medium (Alloa 2017: 19)
->
-> medium: tout ce qui fait apparaître les choses et transmet des infromations à leur sujet (Alloa 2017: 20)
+
+alors l’écran est le médium , la chose est l’interface.
+
+> medium: tout ce qui fait apparaître les choses et transmet des informations à leur sujet (Alloa 2017: 20)
+
+L’interface est pourtant le medium d’un logiciel par exemple.
+
+
 
 Toute chose peut devenir medium et inversement <!--parallèle données&métadonnées-->
+
+
+
+
 
 plasticité du médium: (28)
 
@@ -103,6 +141,10 @@ plasticité du médium: (28)
 milieux perceptifs (habituellement transparents: notre regard les traverse sans les voir) (Alloa 2017: 9), perturbation des milieux perceptifs (écran de tv qui se brouille)
 
 
+
+> McLuhann « La seule chose dont les poissons ne savent absolument rien, c’est l’eau, puisqu’ils n’ont aucun anti-environnement qui leur permettrait de percevoir l’élément dans lequel ils vivent » (Alloa 2017: 11) 
+>
+> voir de ses propres yeux, ce n’est pas forcément voir sans médiation (Alloa 2017: 19)
 
 brouiller la transparence: l’intervention artistique
 
@@ -170,9 +212,34 @@ vera molnar
 
 
 
+## Notes de bas de page
+
+
+
+
+
 
 
 [^1]: Le Robert en ligne, plus actuel, a également les deux variantes, nom masculin et adjectifs, avec une définition du nom masculin très proche de celle du GDT. 
 [^2]: Particulièrement mis de l’avant dans: [« The Forgotten Female Programmers Who Created Modern Tech »](https://www.npr.org/sections/alltechconsidered/2014/10/06/345799830/the-forgotten-female-programmers-who-created-modern-tech) de Laura Sydell (2014)
 [^3]: Je prévois m’atteler plus longuement à ce titanesque article que Lau-Tze Fan m’a chaudement recommandé après une conversation passionnante sur le rôle des femmes dans l’histoire de l’informatique. Vu l’ampleur des sujets abordés et la densité du contenu, je n’ai pas encore l’impression d’avoir réussi à atteindre une compréhension suffisamment approfondie pour écrire à ce sujet.
 [^4]: L’appellation « art algorithmique » notamment a été favorisée pour le titre du cours IFT6251 donnée par Benoit Baudry car le terme « art génératif » est trop proche « l’IA générative » et risque ainsi de porter à confusion un public non-initié. En anglais, le terme « computer art » 
+[^5]: Le film [*Hidden Figures*](https://en.wikipedia.org/wiki/Hidden_Figures) fait d’ailleurs connaître ce terme tel qu’il a longtemps été utilisé, comme métier. Souvent exercé par des femmes mathématiciennes, il était à ce moment plus rapide et accessible de demander à des employées de faire des calculs plutôt que de les encoder et d’attendre l’accès à la puissance de calcul d’un (parfois unique) ordinateur partagé au sein d’une institution. 
+[^7]: Je parle là des chercheur·se·s en humanités numériques par exemple, mais aussi d’informaticien·ne·s, de théoricien·ne·s et d’analystes qui œuvrent dans le domaine de l’informatique sans toucher aux questions de bas niveau comme des *system calls* ou de l’électronique.
+[^8]: Je suis retombée sur cette citation (pourtant à la Une de l’article de Guillaume Giroud) un peu trop tardivement. L’ouvrage n’étant disponible qu’en version papier, et la copie la plus proche étant à Ottawa, je n’ai pas pu faire un prêt entre bibliothèques à temps pour aller voir s’il contient une définition de ce fameux « numérique ».
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Bibliographie
