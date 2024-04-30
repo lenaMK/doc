@@ -44,7 +44,7 @@ Dans l’ouvrage s’ensuivent ensuite les inventions matérielles, comme le tra
 
 ## Chercher le medium
 
-> [Le numérique] est une sorte de medium universel. (Chazal cité par Giroud  2021: 2)
+> [Le numérique] est une sorte de medium universel. (Chazal cité par Giroud 2021: 2)
 
 Après avoir déconstruit l’ordinateur et « le numérique » ainsi déconstruits en une multitude d’objets, de processus, d’infrastructures et de fonctionnalités, je ne sais comment interpréter cette affirmation par Gérard Chazal. Elle me semble incomplète ou du moins, trop généraliste, car au final, je ne sais pas ce qu’il entend, lui, par « le numérique » [^8]. Je propose plutôt de bâtir une réflexion sur le medium à partir de la pensée de Heider: « Le medium n’est pas une chose mais ce à travers quoi on peut appréhender des choses » nous dit Heider (cité par Alloa 2017: 13). L’ordinateur serait-il un medium qui nous permet d’appréhender l’espace numérique?
 
@@ -70,65 +70,31 @@ Les qualités secondes de l’ordinateur seraient alors les interfaces. Relevant
 
 ## Les interfaces
 
-L’interface, en tant que lieu d’interaction entre la personne et la machine
+L’interface est définie, en informatique, comme un « dispositif qui assure le transfert de l’information à un autre » (Giroud 2021: 2 …. num page?…………. ). Par exemple, l’appareil qui effectue le transfert des données d’un microphone à un ordinateur s’appelle une interface audio. Une API, *application programming interface*, assure la communication entre deux programmes (de machine à machine). Un voyant lumineux peut, toutefois, être considéré comme une interface, qui signale par exemple le fait qu’une fonctionnalité est active. 
 
-def: 
+L‘interface personne-machine, quand à elle, est conçue comme lieu d’interaction entre les humains et les logiciels: de façon dominante, elle se situe sur l’espace visuel de l’écran. Elle est composée d’éléments textuels et visuels organisés de façon à communiquer des informations, ainsi que de boutons et d’autres alternatives pour les interactions. Pour profiter des interactions offertes par le logiciel, l’utilisateur se sert de son clavier et/ou de sa souris. Selon les bonnes pratiques développées dans les théories d’interfaces personnes-machines, les retours (*feedback*) des actions posées par l’utilisateurs doivent être visibles à l’écran, afin de confirmer l’action posée sur le dispositif. 
 
-- informatique: dispositif qui assure le transfert de l’information à un autre
-- sens étendu: modalité de la relation 
+> Le sens de l’interface n’est pas en elle, mais dans la relation qu’elle établit avec autre chose qu’elle-même […] L’interface fait donc office de « medium » au sens de milieu, dans le double sens de celui.ci, à savoir de moyen et d’intermédiaire, sans lequel l’altérité nous serait inaccessible, et partant dénuée de sens. (Giroud 2021: 4)
 
-> Soutenir que l’interface est *entre*, c’est donc soutenir qu’elle n’a pas de consistance propre (Nancy cité par Giroud 2017: 3)
->
-> Le sens de l’interface n’est pas en elle, mais dans la relation qu’elle établit avec autre chose qu’elle-même […] L’interface fait donc office de « medium » au sens de milieu, dans le double sens de celui.ci, à savoir de moyen et d’intermédiaire, sans lequel l’altérité nous serait inaccessible, et partant dénuée de sens. (Giroud 2017: 4)
-
-
-
-Effet de l’interface : elle représente, dans les deux sens du terme, c’est-à-dire de réppéter et de se substituer à la présence. 
-
-Le corollaire est que l’interface ne présente pas le numérique, mais le représente grâce au symbole
-
-
-
-Parce que le numérique est de nature calculatoire, dans la mesure où il ne porte que sur des entités formelles dénuées de sens, réduites à leur simple manipulabilité, à l’instar des *calculi* (Bachimont 2008), alors seule la médiation du symbole permet de le représenter. (Giroud 2017: 5)
-
-
-
-L’interface n’est pas seulement à l’intérieur de l’ordinateur (*subface*), faisant de celui-ci un « emboitement, un feuilletage, un réseau d’interfaces successibles » (Lévy cité par Giroud 2017: 5), mais elle est aussi orientée vers l’extérieur (*surface*) (Nake).
-
-La surface, faisant office d’interface, c’est-à-dire *l’interface [humain]/ordinateur*, disgne ainsi la face de l’ordinateur orientée vers l’utilisateur humain. L’homme ne manipule donc pas directement le numérique (Laurel 1993) (Giroud 2017: 5-6)
-
-
-
-(interface, principalement l’écran mais aussi clavier, souris, son, voyants lumineux, …)
-
-
+L’altérité de l’espace numérique, binaire et « de nature calculatoire, dans la mesure où il ne porte que sur des entités formelles dénuées de sens, réduites à leur simple manipulabilité» (Giroud 2021: 5), ne peut pas être appréhendé sans l’interface. L’interface est se confirme alors comme un medium au sens de Heider, puisque « chaque fois qu’une chose est appréhendée à travers une autre, on est en présence d’un medium » (Alloa 2017: 19).
 
 ### Pelures d’oignons ou mille-feuille
 
+En revenant à l’idée de penser l’ordinateur en terme de *hardware*, ne serait-ce pas plutôt l’écran qui serait le medium des interfaces? Puisque c’est l’écran, grâce au *bitmap* (isaacson …… ) qui cartographie chaque pixel, qui dispose de la plasticité du médium pour allier persistance de la forme et virginité de l’accueil (Alloa 2017: 28). 
 
+L’interface est pourtant le medium d’un logiciel par exemple. Elle « fait apparaître les choses et transmet des informations à leur sujet » (Alloa 2017: 20). 
 
-> chaque fois qu’une chose est appréhendée à travers une autre, on est en présence d’un medium (Alloa 2017: 19)
+Il faut alors penser le tout de façon scalaire, à différentes échelles. 
 
-alors l’écran est le médium , la chose est l’interface.
+> L’interface n’est pas seulement à l’intérieur de l’ordinateur (*subface*), faisant de celui-ci un « emboitement, un feuilletage, un réseau d’interfaces successibles » (Lévy cité par Giroud 2017: 5), mais elle est aussi orientée vers l’extérieur (*surface*) (Nake).
 
-> medium: tout ce qui fait apparaître les choses et transmet des informations à leur sujet (Alloa 2017: 20)
+Toute chose peut devenir medium et inversement (Alloa 2017: ……………….)
 
-L’interface est pourtant le medium d’un logiciel par exemple.
+ <!--parallèle données&métadonnées-->
 
+- 
 
-
-Toute chose peut devenir medium et inversement <!--parallèle données&métadonnées-->
-
-
-
-
-
-plasticité du médium: (28)
-
-- persitance de la forme, virginité de l’accueil 
-- fixation (trace)
-
-> tout medium présente donc une inflexibilité minimale qui témoigne d’une structuration matérielle singulière des éléments qui le composent  (Alloa 2017: 29)
+> 
 
 > l’outil d’écriture devient une extension du corps et l’opacité de l’écran s’ouvre pour faire place à une fenêtre sur l’ailleurs. (Alloa 2017: 27)
 >
@@ -145,6 +111,14 @@ milieux perceptifs (habituellement transparents: notre regard les traverse sans 
 > McLuhann « La seule chose dont les poissons ne savent absolument rien, c’est l’eau, puisqu’ils n’ont aucun anti-environnement qui leur permettrait de percevoir l’élément dans lequel ils vivent » (Alloa 2017: 11) 
 >
 > voir de ses propres yeux, ce n’est pas forcément voir sans médiation (Alloa 2017: 19)
+>
+> Soutenir que l’interface est *entre*, c’est donc soutenir qu’elle n’a pas de consistance propre (Nancy cité par Giroud 2017: 3)
+>
+> Effet de l’interface : elle représente, dans les deux sens du terme, c’est-à-dire de réppéter et de se substituer à la présence. 
+>
+> Le corollaire est que l’interface ne présente pas le numérique, mais le représente grâce au symbole
+>
+> 
 
 brouiller la transparence: l’intervention artistique
 
@@ -155,30 +129,20 @@ brouiller la transparence: l’intervention artistique
 
 Le milieu de l’art algorithmique (ou art génératif) [^4] apporte une toute autre réflexion sur l’ordinateur et la notion de medium. En effet, dans ce domaine également appelé « *computer art* » en anglais, se pose rapidement la question: l’ordinateur est-il un medium artistique?
 
-[Nick Lambert](https://nicklambert4.wixsite.com/nickresearch/about), chercheur reconnu dans le milieu de l’art algorithmique et auteur de la thèse « A critical examination of ‘computer art’ » (2003), a publié sa conférence donnée à la Computer Art and Technocultures (CAT) 2010 London Conference intitulée « The Computer as a Dynamic Medium ».
+[Nick Lambert](https://nicklambert4.wixsite.com/nickresearch/about), chercheur reconnu dans le milieu de l’art algorithmique et auteur de la thèse « A critical examination of ‘computer art’ » (2003), a publié sa conférence donnée à la Computer Art and Technocultures (CAT) 2010 London Conference intitulée « The Computer as a Dynamic Medium ». Il effectue un tour d’horizon de diverses postures, de théoriciens ainsi que d’artistes en art algorithmique, questionnant le potentiel de l’ordinateur comme medium artistique. 
 
+> The computer is simultaneously tool, interface, surface and material; in this it is quite unlike any previous art medium” (Lambert 2010:  87)
+>
+> [In] Computer Art the real medium is software art, the computer is only a mere thing.” (Lambert 2010: 88)
+>
+> the computer in art could be what Alan Kay (quoted by Larry Cuba) considers to be a meta-medium because of its power to simulate other media” (Lambert, 2010, p. 89(
+>
+> the fact that multiple environments and expectations can exist simultaneously on one machine demonstrates its status as a **meta-medium** (Lambert, 2010, p. 89)
+>
+> When computer images are created and displayed, the computer also functions as an intermediary for the artist and viewer to see its visual content . 
+> The artist can only interact with computational processes by treating them as program elements – directing their operation and outcomes – or by using physical devices to move proxies around the screen. The artist cannot enter the **digital environment** itself, but they can influence it from the outside.
+> The viewer, meanwhile, can only see these results displayed on the screen, unless they are printed or recorded on film. In this sense, the computer becomes an “**intermedium**” – a quasi-physical digital substrate which enables interaction or viewing. (Lambert, 2010, p. 89)
 
-
-- “The computer is simultaneously tool, interface, surface and material; in this it is quite unlike any previous art medium” (Lambert 2010:  87)
-- “With respect to its modes of operation, its specific requirements and the skills needed to master it, the computer should qualify as a medium” (Lambert, 2010, p. 87) 
-- “digital basis makes it fundamentally different to previous physical media, I believe the term is not strictly correct, if “medium” refers to an artistic or a communications medium” (Lambert, 2010, p. 87)
-- “Edward Lias holds that any environment of the human mind is a medium, in the sense that it can embody human thoughts and instructions” (Lambert, 2010, p. 87)
-  - “In this sense at least, the computer as a whole is a new medium. Yet only in some of its functions could it be seen as a medium for the visual arts; when functioning as a word processor or a spreadsheet the visual aspect is not engaged to any great extent. Lias’s definition is too broad for pinning down the specific nature of the computer’s status as a material or surface for visual art.” (Lambert, 2010, p. 87)
-
-- “Theorist Tim Binkley is dismissive of the notion that the computer functions as a “medium”. He considers that computer imagery relates back to existing art media, drawing on different aspects depending on the type of image, even when the content is generated in wholly new ways. He adds “although interactivity epitomizes the unique capabilities of computers, it does not invent a new medium”” (Lambert, 2010, p. 88)
-
-  - “[In] Computer Art the real medium is software art, the computer is only a mere thing.” (Lambert, 2010, p. 88)
-- “art-making with a computer involves modifying the symbolic content of the program rather than the physical processes that constitute it” (Lambert, 2010, p. 88)<!--software |  symbolic content of a program VS physical processes-->
-
-  - “The material makes little difference so long as it can store and process the code. In this sense, Binkley denies the possibility that the computer qualifies as a medium in the singular, because its visual effects are not bound to its physical components.” (Lambert, 2010, p. 88)
-- “the computer in art could be what Alan Kay (quoted by Larry Cuba) considers to be a meta-medium because of its power to simulate other media” (Lambert, 2010, p. 89)
-
-  - “For instance, in Cuba’s work as an abstract animator, he programs the computer for his animations but has decided not to use it as a display medium, or employ any form of interactivity for the viewer. His films run as linear sequences on video formats. Thus Cuba works on the computer rather than working in it” (Lambert, 2010, p. 89)<!--deoesn't need to run / execute-->
-- “the fact that multiple environments and expectations can exist simultaneously on one machine demonstrates its status as a **meta-medium**” (Lambert, 2010, p. 89)
-- “When computer images are created and displayed, the computer also functions as an intermediary for the artist and viewer to see its visual content” (Lambert, 2010, p. 89)
-- “The artist can only interact with computational processes by treating them as program elements – directing their operation and outcomes – or by using physical devices to move proxies around the screen. The artist cannot enter the **digital environment** itself, but they can influence it from the outside” (Lambert, 2010, p. 89)
-  - “The viewer, meanwhile, can only see these results displayed on the screen, unless they are printed or recorded on film” (Lambert, 2010, p. 89)
-  - “In this sense, the computer becomes an “**intermedium**” – a quasi-physical digital substrate which enables interaction or viewing.” (Lambert, 2010, p. 89)
 - “Stephen R. Ellis considers an **environment** to be “the theater of human activity” which consists of a content, a geometry and dynamics” (Lambert, 2010, p. 90) <!-- l’espace numérique comme environnement de travail de certains artistes-->
   - “The content consists of both the actors and the objects with which they interact. The geometry is a description of the properties of the stage of action. The dynamics describes the rules of interaction between the actors and the objects. [...] [10]” (Lambert, 2010, p. 90)
   - “content is provided by the artist and their interaction with the computer, including the alterations and developments its usage engenders” (Lambert, 2010, p. 90)
