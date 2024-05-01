@@ -1,10 +1,8 @@
-<iframe src="http://churchofcat.faithholland.com/" width="100%" frameborder="0"></iframe>
+<img src="https://www.faithholland.com/wp-content/uploads/2015/01/screenshot-1100x727.jpg" style="zoom:67%;" />
 
 > *First Feline Church of the Internet*, Faith Holland
 
 ---
-
-
 
 
 
