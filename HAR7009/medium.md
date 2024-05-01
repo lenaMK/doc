@@ -62,7 +62,7 @@ Si « nous ne regardons pas l’écran au fond de la salle de cinéma, mais un f
 
 *Soft Computing*, Faith Holland 
 
-<img id=" softComputing " src="https://www.faithholland.com/wp-content/uploads/2020/07/soft-computing-blue-fath-holland-1100x733.jpg" style="zoom:67%;" />
+<img id="softComputing" src="https://www.faithholland.com/wp-content/uploads/2020/07/soft-computing-blue-fath-holland-1100x733.jpg" style="zoom:67%;" />
 
 > ***Soft Computing\*** is a series of plush dolls that depict technologies. It reconfigures our physical relationship to devices such as desktop computers, keyboard, mice, cell phones, and ethernet cables. As technologies get closer and closer to the body in our back pockets, our laps, and in our beds they still remain obstinately hard. Plushies, on the other hand, are huggable media: soft to the touch and very willing to accept our embrace. ([Artist statement](https://www.faithholland.com/portfolio_page/soft-computing/))
 
