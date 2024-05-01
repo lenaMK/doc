@@ -1,4 +1,4 @@
-<iframe href="https://www.faithholland.com/blendedfamily/" width="auto"></iframe>
+<iframe src="https://www.faithholland.com/blendedfamily/" width="100%" frameborder="0"></iframe>
 
 > *Blended Family*, Faith Holland
 
@@ -108,7 +108,7 @@ Pour poursuivre la réflexion de cet essai, j’ai identifié deux pratiques art
 
 ### Faith Holland
 
-([œuvre présentée plus haut](./#softComputing))
+([œuvre présentée plus haut](#softComputing))
 
 En brouillant la transparence de l’écran, Faith Holland amène notre regard sur l’aspect matériel de l’ordinateur. Toutes les interactions que nous avons avec – glisser son doigts sur le pavé tactile, effleurer les touches du clavier, taper nerveusement le bord de l’appareil – perdent leur sens intial : sélectionner un navigateur, inscrire « dossier FRQSC » dans la barre de recherche, cliquer sur le portail et attendre nerveusement qu’il charge. Effectuées sur une peluche, ces actions se révèlent bien plus intimes qu’elles ne le semblaient en fixant l’interface et plutôt que la machine. La force du medium, dans l’ordinateur, est de se faire oublier au point où nous ne percevons même plus les actions que nous faisons dans l’espace physique, mais uniquement leur impact dans l’espace numérique. Changer le medium peut donc être révélateur de nos interactions avec celui-ci.
 
