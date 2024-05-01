@@ -1,6 +1,8 @@
-<iframe src="https://www.faithholland.com/blendedfamily/" width="100%" frameborder="0"></iframe>
+<iframe src="http://churchofcat.faithholland.com/" width="100%" frameborder="0"></iframe>
 
-> *Blended Family*, Faith Holland
+> *First Feline Church of the Internet*, Faith Holland
+
+---
 
 
 
@@ -171,7 +173,7 @@ Williams, Nico. s.d. « Artist Statement ». Consulté le 30 avril 2024. [En lig
 
 ### Œuvres
 
-Holland, Faith. (date non renseignée). *Blended Family*. GIF. Consulté le 30 avril 2024. [En ligne](https://www.faithholland.com/portfolio_page/blended-family/).
+Holland, Faith. (date non renseignée). *First Feline Church of the Internet*. Consulté le 30 avril 2024. [En ligne](https://www.faithholland.com/portfolio_page/first-feline-church-of-the-internet/).
 
 ———. (date non renseignée). *Soft Computing*. Consulté le 20 octobre 2023. [En ligne](https://www.faithholland.com/portfolio_page/soft-computing/).
 
