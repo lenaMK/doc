@@ -10,13 +10,13 @@ medium: impact de la pratique manuelle (manual labor) / artisanale sur le récit
   - [ ] voir si une relecture de on software mène  à quelque chose
 - [ ] relire Alloa
 
-Nico Williams
+### Nico Williams
 
 https://www.nicowilliams.com/ndns-frozen-computer
 
 Indian’s Frozen Computer was inspired by Williams's experience of  accidentally getting locked into a bid on a beaded bag after his  computer froze.  (Jessica Deer / CBC News 2018)
 
-## 
+
 
 > I choose to work with forms and objects that, like beadwork, have an  overt—if often overlooked—relationship to gratitude, exchange and  commerce, land, and the shaping, and morphing ability of language.  Sculptural geometries are a meeting point for technologies, stories, and lineages of knowledge. 
 >
@@ -24,7 +24,7 @@ Indian’s Frozen Computer was inspired by Williams's experience of  accidentall
 >
 > This deep layering of  held meaning about the connectivity of the past and present,  cross-cultural interweaving, and both the harshness and beauty of our  current reality shapes and motivates my practice. [Nico Williams’ Artist statement](https://www.nicowilliams.com/about) en date du 22 avril 2023
 
-Faith Holland
+### Faith Holland
 
 > ***Soft Computing\*** is a series of plush dolls that depict technologies. It reconfigures our physical relationship to devices such as desktop computers, keyboard, mice, cell phones, and ethernet cables. As technologies get closer and closer to the body in our back pockets, our laps, and in our beds they still remain obstinately hard. Plushies, on the other hand, are huggable media: soft to the touch and very willing to accept our embrace. (Artist statement)
 >
@@ -48,7 +48,7 @@ Faith Holland
 
 
 
-plan
+## plan
 
 Le numérique est-il un médium? 
 
@@ -103,9 +103,81 @@ milieux perceptifs (habituellement transparents: notre regard les traverse sans 
 
 
 
+## Le medium en visualisation de données
+
+Qu’est-ce que la visualisation de données?
 
 
-### *The Computer as a Dynamic Medium*
+
+description de mon projet de thèse
+
+
+
+
+
+### Définir une pratique de recherche-création
+
+Lorsque je parle de ma pratique de la visualisation de données, je fais allusion à un travail situé principalement dans l'espace numérique. J'utilise mon ordinateur personnel (GNU/Linux - Ubuntu), sur lequel je fais "rouler" des programmes, des algorithmes, que j'écris  dans un environnement de programmation (VS code) ou dans des notebooks (comme la plateforme en ligne Observable). J'utilise principalement le langage de programmation Javascript, notamment car c'est le langage du web, c'est-à-dire que je peux publier ce code sur le web et qu'il pourra être exécuté par n'importe quel navigateur.
+
+Les programmes que j'écris utilisent généralement des données culturelles, c'est-à-dire des descriptions structurées d'œuvres d'art par exemple. Ils produisent en sortie un ou des résultats qui traduisent ces données sous une forme visuelle. Lorsque j'utilise la librairie de code d3.js, le résultat produit n'est pas une image statique, mais bien un contenu web dynamique, qui propose à l'internaute des interactions en utilisant sa souris par exemple.
+
+L'utilisation d'un ordinateur dans une pratique a été abordée dans le milieu de l’art algorithmique (ou art génératif) [^4]. En effet, dans ce domaine également appelé « *computer art* » en anglais, se pose rapidement la question: l’ordinateur est-il un medium artistique? [Nick Lambert](https://nicklambert4.wixsite.com/nickresearch/about), chercheur reconnu dans le milieu de l’art algorithmique et auteur de la thèse « A critical examination of ‘computer art’ » (2003), a publié sa conférence donnée à la Computer Art and Technocultures (CAT) 2010 London Conference intitulée « The Computer as a Dynamic Medium ». Il effectue un tour d’horizon de diverses postures, de théoriciens ainsi que d’artistes en art algorithmique, questionnant le potentiel de l’ordinateur comme medium artistique. 
+
+J'en retiens particulièrement la posture de Stphen R. Ellis, qui propose de penser à la notion d' « environnement » comme lieux de l'activité humaine <!--ça fait quand même penser aux lieux de savoir de Christian Jacob--->. Ces environnements consistent en un contenu, une géométrie et des dynamiques. (Lambert, 2010, p. 90)
+
+
+
+
+“Stephen R. Ellis considers an **environment** to be “the theater of human activity” which consists of a content, a geometry and dynamics”  <!-- l’espace numérique comme environnement de travail de certains artistes-->
+
+- “The content consists of both the actors and the objects with which they interact. The geometry is a description of the properties of the stage of action. The dynamics describes the rules of interaction between the actors and the objects. [...] [10]” (Lambert, 2010, p. 90)
+- “content is provided by the artist and their interaction with the computer, including the alterations and developments its usage engenders” (Lambert, 2010, p. 90)
+- “geometry comes from the structure of the interface, the type of software, the artist’s knowledge and their comprehension of the computer as **instrument**” (Lambert, 2010, p. 90) <!--utilisation différentiée selon les connaissances de l’instrument-->
+- “dynamics stems from the properties of the software or programming skills they are using: it provides the parameters within which they work” (Lambert, 2010, p. 90)
+
+
+
+
+
+### quelle est la chose et quel est le medium en data viz?
+
+
+
+
+### Pourquoi visualiser des données? 
+
+
+
+
+
+ qui produisent, à partir de
+Dans ma recherche en visualisation de données, le changement de medium est motivé par plusieurs enjeux
+
+- rencontre parfois les limitations / contraintes d’un écran pour un projet
+- rapport tactile (faith)
+- imbriquer le récit dans le medium (nico)
+
+
+
+### Pourquoi changer le medium de visualisations de données
+
+
+
+quel est l’impact de la physicalisation
+
+“they cannot enter his except through visual displays or being physically rendered into inert objects, at which point they lose their digital basis and are transmuted into chunks of solid matter” (Lambert, 2010, p. 93)
+
+
+
+pourquoi changer le medium? 
+
+pratique féminine et aujourd’hui liée au féminisme pour matérialiser une histoire féministe de l’art public
+
+
+
+
+
+## *The Computer as a Dynamic Medium*
 
 Le milieu de l’art algorithmique (ou art génératif) [^4] apporte une toute autre réflexion sur l’ordinateur et la notion de medium. En effet, dans ce domaine également appelé « *computer art* » en anglais, se pose rapidement la question: l’ordinateur est-il un medium artistique?
 
