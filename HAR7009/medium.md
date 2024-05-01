@@ -8,10 +8,6 @@
 
 Lena MK, avril 2024&nbsp;: essai final pour le cours HAR7009. <a href="./LenaMK_medium.pdf" download>Télécharger le PDF</a>
 
-**Table des matières**
-
-[toc]
-
 # Le numérique est-il un medium&nbsp;?
 
 Le titre de cet essai est le souvenir que je garde d’une question épineuse, posée à ma soutenance de mémoire et à laquelle je n’ai pas vraiment su répondre. Maintenant que j’ai entamé une recherche doctorale sur la visualisation et la physicalisation de données, il me semble approprié de renouveler l’exercice. Pour répondre à cette question, je commencerai par la scinder en deux parties&nbsp;: 
