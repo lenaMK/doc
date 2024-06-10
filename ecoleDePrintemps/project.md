@@ -3,17 +3,14 @@
 # Imagining public art : feminist and algorithmic cartographies
 
 Lena Krause, Université de Montréal, last updated on May 26th 2026 <a href="./project.pdf" download>Download PDF</a>
+
 XXIInd Spring School of Art History, « Social imagining and the role of images, artworks and buildings », Weimar, Germany, 17-21 June 2024
-
-
-
-[toc]
 
 
 
 ## Abstract
 
-In my doctoral research, I experiment with visual and algorithmic creations to give a new form of access to cultural data. GLAM (galleries, librairies, archives and museums) institutions are currently creating data about their collections and my research aims to exemplify the use of counter-curation and of interactive data visualisation as æsthetic, sensitive and non-hierarchical ways to access cultural contents. The production of charts or of new visual forms not only creates representations of these collections, but in the case of interactive visualisations, they also enable the discovery of their contents. In a complementary way to cultural mediation and to curation, it becomes possible to give access to art through serendipity and sensibility.
+In my doctoral research, I experiment with visual and algorithmic creations to give a new form of access to cultural data. GLAM+ (galleries, librairies, archives, museums, etc.) institutions are currently creating data about their collections and my research aims to exemplify the use of counter-curation and of interactive data visualisation as æsthetic, sensitive and non-hierarchical ways to access cultural contents. The production of charts or of new visual forms not only creates representations of these collections, but in the case of interactive visualisations, they also enable the discovery of their contents. In a complementary way to cultural mediation and to curation, it becomes possible to give access to art through serendipity and sensibility.
 
 During the Spring School, I would like to present a case study on public art in Montreal (Qc, Canada). Public art is an art form that is particularly subject to over-representation of normativity: men artists of European or colonial origins, colonial topics favoured by institutional powers, capitalistic vision of society, and thinking about land through extractivism. These narratives form the current imaginary on art in public space and marginalise a diversity of contributions by women and BIPOC artists for example.
 
@@ -26,17 +23,22 @@ My research aims to renew this imaginary of public art by thwarting these norms 
 
 ## Presentation
 
-Introduction
+Introduction `<slide>`
 
 - PhD at UdeM, research-creation (practice-based research) project in art history, and more specifically in data visualisation (BA & MA studies in art history and in computer science)
-- GLAM (galleries, librairies, archives and museums) institutions are currently creating data about their collections and my research aims to exemplify the use of counter-curation and of interactive data visualisation as æsthetic, sensitive and non-hierarchical ways to access cultural contents
+- GLAM+ (galleries, librairies, archives, museums, and other cultural organisations) institutions are currently creating data about their collections
+  - exaple: MAC data with Valentine Desmorat
+
+- my research aims to exemplify the use of counter-curation and of interactive data visualisation as æsthetic, sensitive and non-hierarchical ways to access cultural contents
 - The production of charts or of new visual forms not only creates representations of these collections, but in the case of interactive visualisations, they also enable the discovery of their contents. In a complementary way to cultural mediation and to curation, it becomes possible to give access to art through serendipity and sensibility.
 
 ### Social imaginings of public art
 
+instead of my standard introduction & definition of public art
+
 What are the social imaginings of public art? And how is it curated online?
 
-- search engine results with *Image Atlas*
+- search engine results with *Image Atlas* `<slide>`
 - general blogposts (« best of », « top 10… ») about public art 
 
 #### *Image atlas*: searching for « public art »
@@ -76,8 +78,9 @@ A brief analysis of the artworks and the gender of the artists illustrating said
 
 - [38 of the Most Fascinating Public Sculptures](https://www.architecturaldigest.com/gallery/11-most-fascinating-public-sculptures) (Architectural Digest, 2019)
 
-  - (to be completed)
-
+  - Louise Bourgeois
+  - Yayoi Kusama
+  
   
 
 Examples in Germany  (if there is enough time)
@@ -134,9 +137,6 @@ Examples in Germany  (if there is enough time)
 - algorithmic art ([intro](https://www.rightclicksave.com/article/a-longer-history-of-generative-art), link with conceptual art): 
   - part of software engineering, part of digital art world
   - using algorithms to make art, early examples Vera Molnar 1960s
-  - principles: (should become clearer when l show the example)
-    - generative (need to execute code to get the result)
-    - using loops, « blending randomness and structure » (Hobbs 2018)
   -  for many: also a way to explain computers to the world
 
 #### Counter-curation
@@ -166,9 +166,7 @@ data curation → counter-curation of GLAM+ data
 
 > This surplus of possibilities, data, and impressions must somehow be organized, perhaps even domesticated. In such a context, curating proposes the possibility of subjective reassurance and consolidation, as it always encompasses a selection and sorting of material and a presentation of the results of these processes in a narratively meaning-making manner. (Kathke, Tomann and Uhlig 2022: 75-76)
 
-algorithmic curation of data? coherence/convenience of using algorithms to work with data
-
-
+- algorithmic curation of data? coherence/convenience of using algorithms to work with data
 
 ### Experiments in feminist and algorithmic cartographies
 
@@ -179,13 +177,20 @@ algorithmic curation of data? coherence/convenience of using algorithms to work 
   - *Curation*: deriving from the Latin curationem, meaning “a taking care, attention, management”  (Kathke, Tomann and Uhlig 2022: 72)
   - feminist ethics of care
 
+bridging mapping, data visualisation and curation
+
+- mapping and data visualisation practices
+- visual/digital curation? 
+- meaningful organisation of (information about) a collection in space
+
 #### Interactive map - web interface
 
 [interactive data visualisation notebook(s)](https://observablehq.com/@maison-mona/lignes-chronologiques?collection=@maison-mona/gender-analysis)
 
-- more my sketching base
-- relatively quick visualisations (thanks to experience), almost no personnalisation but quick visual feedback and analytical insight into the contents
+- more my sketching base, or for teaching and collaborations
+- relatively quick visualisations (thanks to experience), almost no personalization but quick visual feedback and analytical insight into the contents
 - example: visualising phenomena, elements that stand out such as the [women artists who defied the historical norm](https://observablehq.com/d/96b467b6f063cb55?collection=@maison-mona/gender-analysis#cell-41) 
+- map: viewing the data spatially
 
 #### Figures historiques
 
@@ -195,8 +200,10 @@ algorithmic curation of data? coherence/convenience of using algorithms to work 
   - data art → first experiment with the MONA data 
     - curation: selecting only the artworks made by women·x : first time ever we could do that (once I matched the artist info with the artwork info)
   - from [experimenting with titles](http://lenamk.site/art-algorithmique/artistes-femmes-MONA/) to a visual form
-  - very abstract, far from classical data visualisation 
-  
+  - very abstract, far from classical data visualisation
+- principles in algo art:
+  - generative (need to execute code to get the result)
+  - using loops, « blending randomness and structure » (Hobbs 2018)
 - explanation of some steps: 
   - list of artworks: sorting the artworks by production date; placing them onto the screen using their gelocation (relative placing)
   - constellation:  selecting one at random and link it to a random (between 5 and 12) number of artworks that follow it chronologically speaking 
