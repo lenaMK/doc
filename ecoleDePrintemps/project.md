@@ -158,6 +158,8 @@ Examples in Germany  (if there is enough time)
   - countering and unsettling the status quo in order to open up new spaces of possibility
 - counterculture acts as a mechanism for describing particular points of convergence through which individuals are able to connect temporarily in the pursuit of specific goals (Andy Bennett, “Reappraising ʻCountercultureʼ,” in Whiteley and Sklower, *Countercultures*,17–26.)
 
+instituted vs instituting culture
+
 I found this literature by thinking about counter-mapping (Orangotango+ 2018) and wondering if it has been applied to curation!)
 
 #### Working with data
