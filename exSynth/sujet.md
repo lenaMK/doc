@@ -23,15 +23,13 @@ art actuel (1960 à aujourd’hui) + recherche-création
 
 art algorithmique comme pratique artisanale : pratiques manuelles, relation à l’objet technique, création et technique
 
+- [Lou Tate & Ada K. Dietz, little Loomhouse](https://hyperallergic.com/985991/the-women-weavers-of-the-little-loomhouse/): *[Algebraic expressions - handwoven textiles](https://www.littleloomhouse.org/product/algebraic-expressions/4)* using algebraic equations to generate weaving patterns. ability to write the weaving draft for any formula as long as there were sufficient combination of harnesses to substitute for the terms of the algebraic expression
 - Vera Molnar
-
+- Anni Albers
 - Anna Lucia (digital quilting)
+- [Vera Van der Seyp](https://veravandeseyp.com/projects/overshot-pattern-tool/) (weaving patter generator)
 
-- Lou Tate & Ada K. Dietz: using algebraic equations to generate weaving patterns. ability to write the weaving draft for any formula as long as there were sufficient combination of harnesses to substitute for the terms of the algebraic expression
-
-  
-
-l’art textile pour réfléchir la technologie 
+l’art textile comme reflet/critique de ou pensé par la technologie 
 
 - Marilou Schultz
 - Faith Holland (soft sculpture)
@@ -50,6 +48,7 @@ textiles et narrativité (textile narratives) JBQ *Fray*
 - arpilleras, AIDS quilt, …
 - palestinian history tapestry
 - narrativité du medium: beading Nico Williams, soft sculpture Faith Holland, crittercism (ex hairwork Angela Su)
+- medium: embodying the narrative → Judy Chicago 
 
 ## définitions
 
