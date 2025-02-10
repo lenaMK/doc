@@ -10,6 +10,10 @@
 
 
 
+<!--textile and technologiy: litt review, start with expo catalog-->
+
+
+
 <!--organiser Zotero public comme litt review-->
 
 <!--créer instagram et follow artists, musées, commissaires, chercheur·se·s, …-->
