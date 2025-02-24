@@ -8,6 +8,8 @@
 
 penser l’artisanat et les pratiques textiles comme une technologie, et penser la technologie comme une pratique artisanale
 
+- pour créer des contre-curations de données (nouvelles formes de visualisation de données)
+
 - pour revisiter et démystifier des termes comme *embedding*, *hypertext* en les ramenant à leur nature/origine textile
 - jeux, glissements et liens de l’un à l’autre, tension productive 
 
