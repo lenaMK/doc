@@ -4,6 +4,8 @@
 
 ## Itch: inspiration, début (1-2 pages)
 
+
+
 Ce sujet de thèse est une bifurcation de mon mémoire de maîtrise, au cours duquel je me suis familiarisée avec la pratique de la visualisation de données par/pour un contexte de recherche. J’ai beaucoup appris, mais aussi rencontré certaines limites dans les pratiques « actuelles » de la visualisation de donnée. Cette recherche doctorale souhaite aller au-delà des standards établis pour expérimenter avec le « medium » de la visualisation de données / jouer avec les limites de la visualisation de données?
 
 Parmi les limites rencontrées, j’ai trouvé que la contrainte de largeur d’un écran d’ordinateur portable rendait difficile la visualisation d’une chronologie sur une durée trop étendue. Parfois la hauteur ne permet pas de montrer la différence entre différentes valeurs avec le degré de précision nécessaire. Quel que soit le jeu de données à visualiser, il y a un nombre de pixels limités pour les afficher à l’écran 
@@ -60,13 +62,18 @@ Marion Lean
 
 #### autographic design
 
+Offenhuber
 
+- trace vs trace-making : épistémo
+- autographic design operations & data viz equivalents
 
 #### physicalisation de données
 
+dataphys 
 
+[Pierre Dragicevic](http://dragice.fr) and [Yvonne Jansen](http://yvonnejansen.me)
 
-
+Trevor Hogan phd + articles avec Eva Hornecker
 
 ### Cartographie: spatialisation de données
 
@@ -160,6 +167,10 @@ Recherche qui se base autant sur l’histoire et les pratiques actuelles en art 
 ### Métho
 
 bug: relationship with technology, playful bidouillage, beyond « utilitarian functionality » to learn, rethink, change perception, … adjust goals, not arrive with necessity for a proof (Meirelles?)
+
+glitch feminism? 
+
+indiscipline ?
 
 
 
