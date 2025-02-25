@@ -59,7 +59,15 @@ Quelles sont les limites?
     - beautiful data, design et ingénierie informatique
     - divers: vivan lin
 
+#### autographic design
 
+#### data feminism → to fem data viz
+
+Catherine d’Ignazio et Laurent F Klein
+
+Catherine d’Ignazio data viz article?
+
+Marion Lean
 
 ### Algo art: approches créatives des données, de l’écran, du code
 
@@ -107,6 +115,7 @@ data comes first (Just noting the approach)
 - **MAC**
   - why not: know the data but only very classical approach to data viz
   - less clean data but familiar
+  - stick to what I have
 - MBAM, 
 - **MNBAQ** has nice data
   - know it less well but clean data
@@ -128,9 +137,20 @@ research creation does not stop at creating
 
 create a space for analysing and documenting creations to channel their research potential?
 
-
-
 ### option 3 do both? 
 
 has to be smaller, but prototyping both as it would encompass research&creation
 
+
+
+### Discussion
+
+- make a simpler version of the website? 
+- necessary to explain the steps, the research, the work. Actually showing, putting the story behind is as important as the work you put in because otherwise it doesn’t show
+- impact is different: you wouldn’t expect « physical » data
+
+going pure tangible + make the process tangible as well (physicalize it) → make like a mini exhibition instead of a website ? 
+
+focus on the representation and the presention
+
+- show the unclear data? play with the uncertai

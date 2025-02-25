@@ -18,6 +18,8 @@
 - 10 mars
 - 17 mars
 - 24 mars
+  - software lab: show a prototype! :) 
+
 
 ### Avril 
 
@@ -36,7 +38,7 @@
 
 ### Juin
 
-- 2 juin: gertaud & the deep ocean açores?
+- 2 juin: Gertaud & the deep ocean açores?
 - 9 juin
 - 16 juin : 
 - enseignement les 16-18-29 juin 

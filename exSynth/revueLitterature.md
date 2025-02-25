@@ -128,6 +128,8 @@ Ramaswamy
 
 Navigation beyond vision
 
+The Senses: Design Beyond Vision (exhibition catalog)
+
 ### thèses
 
 - christelle
