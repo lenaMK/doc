@@ -8,5 +8,3 @@ Mon projet de thèse est une recherche-création en physicalisation de données.
 
 Pour l’examen de synthèse, un protocole de physicalisation de données sera présenté et mis à l’épreuve avec les données de la collection du Musée d’art contemporain de Montréal. L’expérience a pour but d’alimenter la notion en cours de développement de contre-curation de données. Ce protocole met une emphase particulière sur la documentation des choix, des étapes et des itérations afin de rendre le processus de création aussi *tangible* que les données elles-mêmes.
 
-**En**
-
