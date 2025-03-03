@@ -76,6 +76,7 @@ c’est une recherche-création parce qu’il y a un sujet de recherche initial 
 1. décrire le sujet (recherche)
    - annexe: état des lieux
 2. expérience (experiment): annoncer le protocole et expliquer sa constitution
+   - composantes
 3. tester le protocole (création)
 4. analyser le résultat (lien avec la recherche)
 
