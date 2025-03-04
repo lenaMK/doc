@@ -2,58 +2,36 @@
 
 [toc]
 
-## Itch: inspiration, début (1-2 pages)
+## sujet - intention
 
-Mon projet de thèse est une recherche-création en physicalisation de données, un champ de recherche 
+Mon projet de thèse est une recherche-création en physicalisation de données. La physicalisation de donnée, ou *data physicalization*, est un terme employé pour décrire des « objets (artefacts physiques) dont la géométrie ou la matérialité *encode*[^1] des données » (Jansen et al. 2015: 2). Il s’agit d’une représentation matérielle de données, souvent contrastée avec l’apparente immatérialité de la visualisation de données. En effet, dans le cas de visualisation, on n’a pas accès aux données qui ont servi à déterminer la forme graphique. Sur papier dans l’espace physique ou sur l’écran d’une machine pour l’espace numérique, les données d’une visualisation ne sont pas tangibles ou palpables. La physicalisation de données s’intéresse donc au rôle du sens du toucher dans la perception de données.
 
-de la pratique de la visualisation de données, à ses limites et à la découverte du champs « récent » de la physicalisation de données 
+Le milieu de la physicalisation de données semble[^2] avoir pour moteur d’instigation initial les origines multiples et les apports de différentes cultures à l’histoire de l’encodage et de la transmission de l’information. Parmi les exemples populaires, on retrouve les bulle-enveloppes, des petits objets en argile employés il y a 6000 ans pour la comptabilisation de biens en Mésopotamie («Bulle-enveloppe», [Wikipédia](https://fr.wikipedia.org/wiki/Bulle-enveloppe)), ou encore les quipus (ou khipus), un système de consignation de données formé de cordes et de nœuds utilisé par l’administration de l’empire Inca et dont les traces remontes à 4500 ans («Quipu», [Wikipédia](https://fr.wikipedia.org/wiki/Quipu)). Il s’agit ainsi de reconnaître que les données – au sens d’information enregistrée de façon en « permettre le stockage, la transmission ou le traitement » (Donnée, [GDT](https://vitrinelinguistique.oqlf.gouv.qc.ca/fiche-gdt/fiche/8358482/donnee)) – n’ont pas été inventées en même temps que les premiers ordinateurs, ni même par les bureaux de statistiques ou d’autres administrations au fonctionnement centré sur l’écriture. Cette reconnaissance historique vise notamment à décentrer le savoir et le savoir-faire occidental pour faire place à une diversité d’épistémologies face à l’amplification exponentielle de la place des données dans notre société. Cette amplification accorde également un rôle toujours plus important à la visualisation de données, considérée comme un moyen de faciliter l’accès à ces données et leur compréhension. Les recherches en physicalisation de données se poursuivent dans le même sens: de nouvelles pratiques émergent en référence aux autres façons (historiques, culturelles) de penser les données et d’interagir avec (à développer dans l’état des lieux). 
 
-- comment fait-on de la physicalisation de données? « recette » ?
-- pratiques existantes disparates, extrêmement variées
-- création d’un cadre de recherche-création
-  - sources d’inspiration (corpus)
-  - intentions: présenter des données culturelles autrement qu’avec une approche statistique classique (ex MAC)
-  - motivations: 
-    - rendre tangible les données
-    - théorie de la perception, accessibilité
-  - physicalisation du processus de recherche
+Je souhaite inscrire ma recherche-création dans cette approche, en adoptant moi-même une pratique de physicalisation de données avec mon objet d’étude: les données produites par des institutions culturelles. Ces données qui décrivent des collections muséales, des archives ou des entités patrimoniales. Dans le cas où elles sont mises à disposition sur des plateformes de données ouvertes, elles deviennent contribuent à la documentation accessible et librement réutilisable pour la recherche. 
+
+J’ai commencé, dès la maîtrise, à faire de la visualisation avec ces données. Pour mon mémoire, j’ai créé un atlas numérique – alliant une chronologie, une cartographie et d’autres graphiques interactifs – comme alternative au formulaire disponible pour accéder à la base de données CONBAVIL (Krause 2020, 2021). Depuis, j’ai développé une pratique en visualisation de données qui m’a par exemple amenée à participer au hackathon *Navigations anthologiques* (Fauchié et al. 2024). Dans mon rôle de responsable de laboratoire à l’*Ouvroir d’histoire de l’art et de muséologie numériques* (UdeM), j’ai collaboré avec Valentine Desmorat sur la création de visualisations interactives portant sur l’entrée des femmes-artistes dans la collection du Musée d’art contemporain de Montréal (Desmorat 2024, Desmorat et Krause 2025 [à paraître]). En tant que directrice technique de la Maison MONA, je travaille au quotidien avec notre base de données sur l’art public, le patrimoine et les lieux culturels au Québec. Ces données sont issues du projet d’application mobile et de médiation numérique *in-situ* MONA, dont la carte offre en elle-même une visualisation spatiale et thématique de ces données. Je produis régulièrement des visualisations nécessaires aux étapes de préparation, d’enrichissement et d’analyse des données MONA. C’est dans le but de poursuivre et de diversifier ma pratique que j’ai initié le projet d‘une thèse en recherche-création.
 
 
 
+### contexte
 
+Ce travail se base, d’une part, sur la recherche actuelle en visualisation de données, en cartographie et dans le domaine des interfaces personnes-machines. 
 
-Ce sujet de thèse est une bifurcation de mon mémoire de maîtrise, au cours duquel je me suis familiarisée avec la pratique de la visualisation de données par/pour un contexte de recherche. J’ai beaucoup appris, mais aussi rencontré certaines limites dans les pratiques « actuelles » de la visualisation de donnée. Cette recherche doctorale souhaite aller au-delà des standards établis pour expérimenter avec le « medium » de la visualisation de données / jouer avec les limites de la visualisation de données?
-
-Parmi les limites rencontrées, j’ai trouvé que la contrainte de largeur d’un écran d’ordinateur portable rendait difficile la visualisation d’une chronologie sur une durée trop étendue. Parfois la hauteur ne permet pas de montrer la différence entre différentes valeurs avec le degré de précision nécessaire. Quel que soit le jeu de données à visualiser, il y a un nombre de pixels limités pour les afficher à l’écran 
-
-- Écran d’ordinateur → taille d’écran moyenne d’un internaute, excluant l’utilisation des tablettes et des téléphones.
-- Data viz faites pour être consultées sur le web, envie de rendre les données accessibles → les mettre en ligne
-
-Différents types de visualisations: chronologies/cartographies vs datascapes
-
-- datascapes proposent une représentation visuelle d’un jeu de données pour donner un regard d’ensemble (horizon, paysage) sur un ensemble de données
-- pas de « sens » / orientation claire de la lecture, contrairement aux visualisations provenant d’une approche statistique
-- terrain intéressant, donc le niveau d’abstraction m’a tout de suite inspiré l’idée de tricoter les données ou de les passer dans une boîte à musique pour les sonifier
-
-### v1 sujet - intention
-
-Mon projet de thèse est une recherche-création en physicalisation de données. Il s’agit d’explorer le potentiel de la représentation matérielle de données culturelles à partir de mon expérience préalable en visualisation de données. Ce travail se base, d’une part, sur la recherche actuelle en visualisation de données, en cartographie et dans le domaine des interfaces personnes-machines. D’autre part, des pratiques d’art, d’artisanat et de design à la croisée de la textilité et de l’algorithmique agissent comme sources d’inspirations transdisciplinaires. En pensant l’artisanat comme une technologie et la technologie comme une pratique artisanale, j’aimerais proposer des expériences « sensationnelles » comme nouvelle forme d’accès aux données culturelles.
+D’autre part, des pratiques d’art, d’artisanat et de design à la croisée de la textilité et de l’algorithmique agissent comme sources d’inspirations transdisciplinaires. 
 
 
 
- menée dans le but d’identifier de nouvelles formes de visualisation de données qui créent de nouveaux récits et offrent de nouvelles perspectives sur les collections d’art (GLAM+?).
 
 
+En pensant l’artisanat comme une technologie et la technologie comme une pratique artisanale, j’aimerais proposer des expériences « sensationnelles » comme nouvelle forme d’accès aux données culturelles.
 
-propose d’expérimenter avec des créations visuelles numériques pour offrir une nouvelle forme d’accès aux données culturelles. 
+- menée dans le but d’identifier de nouvelles formes de visualisation de données qui créent de nouveaux récits et offrent de nouvelles perspectives sur les collections d’art (GLAM+?).
+- propose d’expérimenter avec des créations visuelles numériques pour offrir une nouvelle forme d’accès aux données culturelles. 
 
 Proposer
 
 > contre-curation de données pour expérimenter avec de nouvelles approches de la visualisation de données
-
-Recherche qui se base autant sur l’histoire et les pratiques actuelles en art et en design dans les sphères algorithmiques, textiles et 
-
-
 
 
 
@@ -69,11 +47,9 @@ Renouveler les présentations et les représentations des collections comporte u
 
 ## Idea: problématique avec approche et métho
 
-Proposer une recherche-création pour identifier de nouvelles formes de visualisation de données qui créent de nouveaux récits et offrent de nouvelles perspectives sur les collections d’art (GLAM+?).
+Comment la physicalisation de données peut-elle offrir une nouvelle forme d’accès et un nouveau cadre d’interprétation pour des données culturelles? 
 
-> contre-curation de données pour expérimenter avec de nouvelles approches de la visualisation de données
 
-Recherche qui se base autant sur l’histoire et les pratiques actuelles en art et en design dans les sphères algorithmiques, textiles et 
 
 ### Cadre de recherche-création (cadre théorique + r-c? )
 
@@ -95,7 +71,7 @@ La recherche-création offre un cadre pour penser, manipuler, analyser et produi
 
 ### Corpus
 
-Mon corpus se compose de données culturelles, c’est-à-dire des données qui décrivent des collections muséales, des archives ou des entités patrimoniales. J’utiliserai trois jeux de données, ouverts et donc librement réutilisables, afin de répéter l’exercice dans des contextes variés, tout en permettant ainsi un travail approfondi sur les visualisations. Le premier jeu de données porte sur l’art public, le patrimoine et les lieux culturels au Québec. Issus du projet d’application mobile et de médiation numérique *in-situ* MONA, dont je suis l’instigatrice, ces riches contenus répartis aux quatre coins du Québec méritent d’être découverts sans la contrainte de la proximité géographique. Je prévois aussi employer un jeu de données d’une institution muséale impliquée dans le Partenariat CIÉCO « Des nouveaux usages des collections dans les musées d’art » (CRSH, dir. Johanne Lamoureux). De par mon rattachement à l’Ouvroir d’histoire de l’art et de muséologie numériques, je dispose d’un intérêt commun avec ses chercheur·se·s et les institutions muséales partenaires pour l’analyse et la valorisation de leurs collections. Je prévois travailler sur un troisième jeu de données, à définir en collaboration avec un·e artiste, afin de co-créer une visualisation de données et une œuvre à partir de recherches conjointes.
+
 
 
 
@@ -122,18 +98,22 @@ indiscipline ?
 
 ## Innovation = do it, partie pratique
 
+un protocole de physicalisation de données sera présenté et mis à l’épreuve avec les données de la collection du Musée d’art contemporain de Montréal. L’expérience a pour but d’alimenter la notion en cours de développement de contre-curation de données. Ce protocole met une emphase particulière sur la documentation des choix, des étapes et des itérations afin de rendre le processus aussi *tangible* que les données elles-mêmes.
+
 **going pure tangible** + make the process tangible as well (physicalize it) → make like a mini exhibition, « physicalize » data and the process!
 
-necessary to explain the steps, the research, the work. Actually showing, putting the story behind is as important as the work you put in because otherwise it doesn’t show
-
-focus on the representation and the presention
-
+- necessary to explain the steps, the research, the work. Actually showing, putting the story behind is as important as the work you put in because otherwise it doesn’t show
+- focus on the representation and the presention
 - show the unclear data? play with the uncertainty
 
 ### Intro à la partie pratique de l’examen
 
 - choix: données du MAC
 - départ: 
+
+
+
+### [protocole](./protocole)
 
 ### Présentation du processus
 
@@ -148,3 +128,6 @@ focus on the representation and the presention
 - récit
 
 ## Plan de la thèse?
+
+[^1]: Traduction admise par l’OQLF: https://vitrinelinguistique.oqlf.gouv.qc.ca/fiche-gdt/fiche/8375546/coder
+[^2]: A confirmer une fois l’état des lieux est complété

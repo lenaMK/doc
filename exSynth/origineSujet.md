@@ -1,5 +1,21 @@
 # Sujet
 
+Mon projet de thèse est une recherche-création en physicalisation de données, un champ de recherche 
+
+de la pratique de la visualisation de données, à ses limites et à la découverte du champs « récent » de la physicalisation de données 
+
+- comment fait-on de la physicalisation de données? « recette » ?
+- pratiques existantes disparates, extrêmement variées
+- création d’un cadre de recherche-création
+  - sources d’inspiration (corpus)
+  - intentions: présenter des données culturelles autrement qu’avec une approche statistique classique (ex MAC)
+  - motivations: 
+    - rendre tangible les données
+    - théorie de la perception, accessibilité
+  - physicalisation du processus de recherche
+
+- 
+
 ### context
 
 Mon sujet de thèse vient 
@@ -18,6 +34,8 @@ Comment en suis-je arrivée là? Comment mon parcours informe-t-il le choix du s
 J’ai commencé mes études universitaires avec un programme en lettres, constitué de deux majeures, une en histoire de l’art et l’autre en informatiques pour les sciences humaines, et d’une mineure en design. Dans cette formation multidisciplinaire, j’ai intuitivement appliqué les thématiques et enjeux en histoire de l’art à mes travaux pratiques en informatique…
 
 ## Itch
+
+Ce sujet de thèse est une bifurcation de mon mémoire de maîtrise, au cours duquel je me suis familiarisée avec la pratique de la visualisation de données par/pour un contexte de recherche. J’ai beaucoup appris, mais aussi rencontré certaines limites dans les pratiques « actuelles » de la visualisation de donnée. Cette recherche doctorale souhaite aller au-delà des standards établis pour expérimenter avec le « medium » de la visualisation de données / jouer avec les limites de la visualisation de données?
 
 Ce sujet de thèse est une bifurcation de mon mémoire de maîtrise, au cours duquel je me suis familiarisée avec la pratique de la visualisation de données par/pour un contexte de recherche. J’ai beaucoup appris, mais aussi rencontré certaines limites dans les pratiques « actuelles » de la visualisation de donnée. Cette recherche doctorale souhaite aller au-delà des standards établis pour expérimenter avec le « medium » de la visualisation de données / jouer avec les limites de la visualisation de données?
 

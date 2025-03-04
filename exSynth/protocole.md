@@ -69,7 +69,7 @@ Recherche-création car
 - application créative: adapter le processus pour ce contexte
 - documenter le processus de création pour nourrir la recherche
 
-c’est une recherche-création parce qu’il y a un sujet de recherche initial (la physicalisation de données culturelles), parce qu’il y a un processus de création (contribuer à la recherche par la création ~~état des lieux: documentation des pratiques, évaluation des pratiques~~), et parce que je documente la création (et le processus de création) pour contribuer à la recherche
+c’est une recherche-création parce qu’il y a un sujet de recherche initial (la physicalisation de données culturelles), parce qu’il y a un processus de création (contribuer à la recherche par la création ~~état des lieux: documentation des pratiques, évaluation des pratiques~~), et parce que j’utilise (et donc je documente) la création (et le processus de création) pour contribuer à la recherche
 
 ### Comment mener la recherche-création? 
 

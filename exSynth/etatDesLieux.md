@@ -29,6 +29,8 @@ Kräutli & Vane
 - beautiful data, design et ingénierie informatique
 - divers: vivan lin
 
+### interactive data viz
+
 ### data feminism → to fem data viz
 
 Catherine d’Ignazio et Laurent F Klein
