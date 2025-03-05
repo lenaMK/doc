@@ -1,16 +1,16 @@
 # Protocole d’expérimentation
 
-## Recette/instructions pour produire une physicalisation de données
+Recette/instructions pour produire une physicalisation de données
 
 ### Faire des choix
 
-Composantes principales
+**Composantes principales**
 
 - données
-- algorithme de représentation
-- matérialité
+- algorithme de représentation 
+- expression matérielle
 
-Itérations: sketchs, tests, prototypes, versions/étapes
+**Itérations**: sketchs, tests, prototypes, versions/étapes
 
 ### Exposer
 
@@ -37,48 +37,21 @@ documenter quoi?
 
 ### À propos des composantes
 
-#### données
+#### Données
 
-- sujet, source, taille, contenu
-- préparation/prétraitement
+- sujet, source 
+- analyse: taille, contenu ←→ préparation/prétraitement
 
-#### algorithme de représentation
+#### Algorithme de représentation
 
 - représentation
 - ontologie, espace symbolique
 - méthodologie algorithmique: recette pour les données
 
-#### matérialité
+#### Matérialité
 
 - expression de variables
 - contraintes: accès, coût, expertise de prise en main
-
----
-
-## recherche-création
-
-### En quoi le protocole ci-dessus est-il une recherche-création? 
-
-Où inscrire la recherche dans les étapes? à tous les niveaux, donc nulle part et partout. Mais encore
-
-Recherche-création car
-
-- produire une recherche-appliquée sur la physicalisation de données culturelles
-- comprendre ce qu’est la physicalisation de données
-- ce qu’elle peut faire dans le contexte culturel/muséal
-- application créative: adapter le processus pour ce contexte
-- documenter le processus de création pour nourrir la recherche
-
-c’est une recherche-création parce qu’il y a un sujet de recherche initial (la physicalisation de données culturelles), parce qu’il y a un processus de création (contribuer à la recherche par la création ~~état des lieux: documentation des pratiques, évaluation des pratiques~~), et parce que j’utilise (et donc je documente) la création (et le processus de création) pour contribuer à la recherche
-
-### Comment mener la recherche-création? 
-
-1. décrire le sujet (recherche)
-   - annexe: état des lieux
-2. expérience (experiment): annoncer le protocole et expliquer sa constitution
-   - composantes
-3. tester le protocole (création)
-4. analyser le résultat (lien avec la recherche)
 
 
 

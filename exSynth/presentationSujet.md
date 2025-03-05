@@ -18,19 +18,19 @@ Si certaines pratiques artistiques incorporent (*embed*) des données dans leur 
 
 Par exemple, Torsten Kathke, Juliane Tomann et Mirko Uhlig proposent de rassembler sous le terme de « contre-curation » ou « contre-commissariat » (*counter-curation*) les pratiques sociales de commissariat qui visent à attirer l’attention sur des inégalités politiques et sociales ou à créer une opposition aux récits hégémoniques (2022, 71). Provenant du domaine de l’histoire, les auteur·rice·s rappellent que ce champs d’étude ne concerne pas uniquement les faits, mais aussi la façon dont ils sont rendus visibles, utilisables et mis en récit. On peut ainsi choisir de créer des countres-récits (*counter-narratives*), des représentations et des imaginaires partagés collectivement qui remettent en question les récits officiels ou établis. Je pense que cette posture commissariale peut également être appliquée à des données, particulièrement lorsqu’on crée de représentations, qu’elles soient visuelles ou multisensorielles, de données.
 
-La contre-curation me permet d‘expliciter le positionnement de mes physicalisations dont l’objectif est de créer des contre-récits. En créant des interfaces qui invitent à interagir avec les données, j‘aurai pour objectif de déjouer les normes de visibilités qui discriminent la découvrabilité des contenus culturels. La découvrabilité représente le « potentiel pour un contenu, disponible en ligne, d'être aisément découvert par des internautes dans le cyberespace, notamment par ceux qui ne cherchaient pas précisément le contenu en question » ([OQLF «Découvrabilité»](https://vitrinelinguistique.oqlf.gouv.qc.ca/fiche-gdt/fiche/26541675/decouvrabilite)). À l’échelle d’une collection, on pourrait considérer <!--je propose de considérer?--> la découvrabilité comme le potentiel pour une œuvre d’être découverte parmi les données de l’institution. Ainsi, plutôt que de sélectionner des chef-d’œuvres pour représenter une collection, pourrait-on faire place à la sérendipité et à l’agentivité des publics pour se familiariser avec son contenu? 
+La contre-curation explicite le positionnement de mes physicalisations qui visent à créer des contre-récits. En créant des interfaces qui invitent à interagir avec les données, j‘aurai pour objectif de déjouer les normes de visibilités qui discriminent la découvrabilité des contenus culturels. La découvrabilité représente le « potentiel pour un contenu, disponible en ligne, d'être aisément découvert par des internautes dans le cyberespace, notamment par ceux qui ne cherchaient pas précisément le contenu en question » ([OQLF «Découvrabilité»](https://vitrinelinguistique.oqlf.gouv.qc.ca/fiche-gdt/fiche/26541675/decouvrabilite)). À l’échelle d’une collection, on pourrait considérer <!--je propose de considérer?--> la découvrabilité comme le potentiel pour une œuvre d’être découverte parmi les données de l’institution. Ainsi, plutôt que de sélectionner des chef-d’œuvres pour représenter une collection, pourrait-on faire place à la sérendipité et à l’agentivité des publics pour se familiariser avec son contenu? 
 
-il s’agirait du potentiel pour une œuvre à contribuer au récit construit par la représentation (visuelle ou matérielle) 
+découvrabilité en data viz : il s’agirait du potentiel pour une œuvre à contribuer au récit construit par la représentation (visuelle ou matérielle) 
 
-Mon hypothèse est que la physicalisation de données 
+Mon **hypothèse** est que la physicalisation de données 
 
 counter-mapping: outils 
 
-
+travail technique de la matière → artisanat
 
 Comment la physicalisation de données peut-elle offrir une nouvelle forme d’accès pour des données culturelles? 
 
-En pensant l’artisanat comme une technologie et la technologie comme une pratique artisanale, j’aimerais proposer des expériences « sensationnelles » comme nouvelle forme d’accès aux données culturelles.
+En pensant l’artisanat comme une technologie et la technologie comme une pratique artisanale, j’aimerais proposer des expériences sensation-nelles comme nouvelle forme d’accès aux données culturelles.
 
 - menée dans le but d’identifier de nouvelles formes de visualisation de données qui créent de nouveaux récits et offrent de nouvelles perspectives sur les collections d’art (GLAM+?).
 - propose d’expérimenter avec des créations visuelles numériques pour offrir une nouvelle forme d’accès aux données culturelles. 
@@ -67,17 +67,31 @@ D’autre part, des pratiques d’art, d’artisanat et de design à la croisée
 
 
 
-Cette recherche doctorale propose de répondre à l’appel de Johanna Drucker de développer une épistémologie visuelle pour les humanités (2014). Dans ses recherches, elle introduit la visualisation comme un vecteur de réflexion, de questionnement et de production de savoir (Drucker 2020). Mon projet participe ainsi aux réflexions menées dans le champ des études des formes graphiques (Drucker 2014, 2020 ; Kräutli 2016 ; Tufte 2001 ; Bertin 2013). L’archéologie des médias (Huhtamo et Parikka 2011; Citton et Doudet 2019) me permet de reconsidérer la visualisation de données au sein d’une histoire des formes visuelles et de leur production. Je serai aussi amenée à employer la cartographie, à la fois comme opérateur théorique, comme outil graphique, comme forme d’analyse et comme manière de penser (Besse 2010). Plus particulièrement, le processus de déconstruction, issu de la cartographie critique, peut révéler de nouvelles approches de la carte et retracer les mécanismes sociaux liés à sa production (Harley 1989, 2). Je prévois appliquer ce même processus de déconstruction à la visualisation de données, tout en considérant que les nouvelles formes produites par ce processus critique mènent à un détournement ou à une profanation du dispositif (Agamben 2007). Parmi les pratiques cartographiques actuelles, le *thick mapping* (Presner, Shepard, et Kawano 2014) et la contre-cartographie (Orangotango+, 2018) me serviront à diversifier mes approches théoriques, visuelles et pratiques. Dans le champ des humanités numériques, je vais notamment me référer à l’exploration de l’herméneutique et des méthodes computationnelles telle que proposée par Stéfan Sinclair et Geffrey Rockwell (2016) pour penser la conception de nouveaux dispositifs numériques.
+Cette recherche doctorale propose de répondre à l’appel de Johanna Drucker de développer une épistémologie visuelle pour les humanités (2014). Dans ses recherches, elle introduit la visualisation comme un vecteur de réflexion, de questionnement et de production de savoir (Drucker 2020). 
+
+Mon projet participe ainsi aux réflexions menées dans le champ des études des formes graphiques (Drucker 2014, 2020 ; Kräutli 2016 ; Tufte 2001 ; Bertin 2013). 
+
+L’archéologie des médias (Huhtamo et Parikka 2011; Citton et Doudet 2019) me permet de reconsidérer la visualisation de données au sein d’une histoire des formes visuelles et de leur production. 
+
+Je serai aussi amenée à employer la cartographie, à la fois comme opérateur théorique, comme outil graphique, comme forme d’analyse et comme manière de penser (Besse 2010). Plus particulièrement, le processus de déconstruction, issu de la cartographie critique, peut révéler de nouvelles approches de la carte et retracer les mécanismes sociaux liés à sa production (Harley 1989, 2). 
+
+Je prévois appliquer ce même processus de déconstruction à la visualisation de données, tout en considérant que les nouvelles formes produites par ce processus critique mènent à un détournement ou à une profanation du dispositif (Agamben 2007). 
+
+Parmi les pratiques cartographiques actuelles, le *thick mapping* (Presner, Shepard, et Kawano 2014) et la contre-cartographie (Orangotango+, 2018) me serviront à diversifier mes approches théoriques, visuelles et pratiques. 
+
+Dans le champ des humanités numériques, je vais notamment me référer à l’exploration de l’herméneutique et des méthodes computationnelles telle que proposée par Stéfan Sinclair et Geffrey Rockwell (2016) pour penser la conception de nouveaux dispositifs numériques.
 
 
 
-La recherche-création offre un cadre pour penser, manipuler, analyser et produire des visualisations dans un processus expérimental. Pour chaque jeu de données, je prévois de multiples itérations : essais, erreurs, améliorations. Par l’approche inductive proposée, la problématique propre à la visualisation émerge de la manipulation des données. Les visualisations seront créées avec la librairie d3.js (Bostock 2020). Cette librairie *open source* convertit des données en cartes ou en diagrammes directement dans le navigateur avec la technologie native du web : HTML/CSS/Javascript. Elle associe également les données aux contenus graphiques, ce qui permet de coder de riches interactions basées sur les données. J’ai appris à coder durant mon bac en histoire de l’art et en informatique pour les sciences humaines, et je me suis spécialisée dans l’utilisation de la librairie d3.js durant ma maîtrise, avec laquelle j’ai créé les graphiques interactifs qui composent mon « Atlas numérique de l’architecture publique » (mémoire de maîtrise dirigé par Prof. Emmanuel Château-Dutier). Grâce à ces connaissances techniques ainsi qu’à l’expérience acquise durant mon parcours professionnel, je peux désormais prévoir une utilisation créative de cette libraire de code pour mon doctorat. J’ai aussi constaté que la diffusion de visualisations de données à l’écran seul était une contrainte en ce qui concerne leur potentiel sensible, esthétique et analytique. Évoquant les cartes perforées des premiers ordinateurs, je prévois d’en matérialiser certaines, de leur donner corps (*data physicalisation*) avec des techniques manuelles traditionnelles comme le tricot ou le tissage. Au sein de ces technologies ancestrales qui requièrent la production de motifs, la pratique d’encodage de données a déjà été étudiée (L’Hirondelle 2014, 156; Loft 2014, 172). J’ai donc pour projet doctoral de créer de nouvelles formes visuelles à travers lesquelles donner accès au contenu de jeux de données culturelles. Par leur manipulation et par la pratique de la visualisation de données, je peux les « mettre en forme autrement, pour les rendre visibles et discutables » (Hennion et Monnin 2020, 5). Ma thèse produira ainsi de nouvelles connaissances sur les caractéristiques et sur les limites de la visualisation de données. Appliquée à des données culturelles, la contre-curation proposera un accès inédit aux collections muséales et patrimoniales.
+Au sein de ces technologies ancestrales qui requièrent la production de motifs, la pratique d’encodage de données a déjà été étudiée (L’Hirondelle 2014, 156; Loft 2014, 172). 
+
+J’ai donc pour projet doctoral de créer de nouvelles formes visuelles à travers lesquelles donner accès au contenu de jeux de données culturelles. Par leur manipulation et par la pratique de la visualisation de données, je peux les « mettre en forme autrement, pour les rendre visibles et discutables » (Hennion et Monnin 2020, 5). 
+
+Ma thèse produira ainsi de nouvelles connaissances sur les caractéristiques et sur les limites de la visualisation de données. Appliquée à des données culturelles, la contre-curation proposera un accès inédit aux collections muséales et patrimoniales.
 
 ### Corpus
 
-
-
-
+Données
 
 Mais aussi: [corpus d’œuvres qui inspirent la recherche](https://www.canva.com/design/DAGeuw-pplg/xXzotJr7T8XvWcPHvk2eSw/view?utm_content=DAGeuw-pplg&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hef9b400c70) 
 
@@ -90,13 +104,68 @@ Mais aussi: [corpus d’œuvres qui inspirent la recherche](https://www.canva.co
 
 bug: relationship with technology, playful bidouillage, beyond « utilitarian functionality » to learn, rethink, change perception, … adjust goals, not arrive with necessity for a proof (Meirelles?)
 
+feminist in a software lab
+
 glitch feminism? 
 
 indiscipline ?
 
-
-
 [ex thèse Marion Lean: Méthodes basée sur l’expérience de réception (incarnée): animer des ateliers de physicalisation de données avec des musées et des artistes+public? ]
+
+## Protocole et recherche-création
+
+<!--incertaine du terme symbolique: cherche une façon de dire que c’est connoté, contient une façon de voir le monde, **produit du sens**-->
+
+Pour mener cette recherche, j’ai créé un protocole d’expérimentation [[document 1]](./protocole) qui fournit un cadre à ma pratique. Ce cadre me permet de placer la réflexion-dans-l’action (*reflection-in-action*), un terme proposé par le philosophe et urbaniste Donald A. Schon pour énoncer une posture dans laquelle « on réfléchit à ce qu’on fait pendant qu’on le fait » (1983: 54). Le protocole est divisé en trois étapes:
+
+1. *Faire des choix* est une étape qui sert à nommer les décision et les partis pris dans l’élaboration d’un objet. Parmi les trois composantes principales, les **données** sont décrites pour relever le sujet représenté ainsi que pour identifier la source ou l’institution qui a produit les données. L’analyse du contenu s’effectue en parallèle du prétraitement des données, une étape préparatoire au cours de laquelle les données sources sont structurées pour former un jeu de données. Ce jeu de données est relié à un **algorithme de représentation**. Cet algorithme lui-même un protocole, qui applique une logique visuelle et spatiale, basée sur une intention symbolique, avec une méthodologie algorithmique. Contrairement à la visualisation de données, cet algorithme est une sorte de partition, un plan de travail qu’il reste ensuite à activer dans une **expression matérielle**. La matérialité, dans les sensations qu’elle évoque et dans le geste même du travail de la matière, exprime également une ou des sens symboliques. L’ensemble de ces choix se fait de façon itérative. Les tâtonnements, les tests et les différentes versions font partie du processus de la recherche-création.
+2. *Exposer* questionne ce qui est présent lors de la mise à vue publique. Celle-ci requiert une forme d’un aboutissement de la première étape, même si le protocole lui-même peut être utilisé de façon itérative. À cette étape, l’enjeu n’est pas simplement de montrer le résultat de la physicalisation de données. Il s’agit plutôt de produire une démonstration de la recherche-création. Pour expliciter son fonctionnement, son « mode d’emploi » et ses propriétés, l’objet doit être accompagné d’une sélection d’éléments qui rapportent les choix effectués et le processus suivi. La présentation publique est également le lieu de réception de la recherche-création. Les expériences vécues par les personnes présentes, leurs actions et leurs rétroactions peuvent-elles / sont-elles exposées elles aussi? La réception peut être participative, au sens où les interactions pensées dans la physicalisation peuvent aller au-delà de l’expérience pour contribuer à l’élaboration de l’objet. Pour toutefois distinguer la présentation d’un projet de l’animation d’un atelier créatif, un cadre de participation est établi au préalable et lui-même présenté dans l’espace.
+3. *Documenter* est intrinsèque aux deux étapes précédentes. Chaque élément doit pouvoir être mobilisé pour contribuer à la recherche. Cela requiert la production délibérée d’une documentation des composantes, des itérations, de l’exposition et de la documentation elle aussi.
+
+Observations: 
+
+- Ce protocole prend le parti qu’il n’y a pas de recherche-création sans exposition (partage public).
+- Ce protocole est intrinsèquement algorithmique
+  - Il fournit des instructions qui peuvent être répétées
+  - Il définit des variables
+  - Il fait recourt aux boucles et à la récursion
+  - Il exploite les joies de l’aléa, dans les itérations comme dans la participation publique
+  - Il doit être exécuté pour avoir un résultat
+
+
+
+
+
+- données : Drucker, VR?
+- algorithme de représentation : Molnar
+- expression matérielle : Barad & nouveau matérialismes 
+
+
+
+
+
+### En quoi le protocole ci-dessus est-il une recherche-création? 
+
+Où inscrire la recherche dans les étapes? à tous les niveaux, donc nulle part et partout. Mais encore
+
+Recherche-création car
+
+- produire une recherche-appliquée sur la physicalisation de données culturelles
+- comprendre ce qu’est la physicalisation de données
+- ce qu’elle peut faire dans le contexte culturel/muséal
+- application créative: adapter le processus pour ce contexte
+- documenter le processus de création pour nourrir la recherche
+
+c’est une recherche-création parce qu’il y a un sujet de recherche initial (la physicalisation de données culturelles), parce qu’il y a un processus de création (contribuer à la recherche par la création ~~état des lieux: documentation des pratiques, évaluation des pratiques~~), et parce que j’utilise (et donc je documente) la création (et le processus de création) pour contribuer à la recherche
+
+### Comment mener la recherche-création? 
+
+1. décrire le sujet (recherche)
+   - annexe: état des lieux
+2. expérience (experiment): annoncer le protocole et expliquer sa constitution
+   - composantes
+3. tester le protocole (création)
+4. analyser le résultat (lien avec la recherche)
 
 
 
