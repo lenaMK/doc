@@ -1,6 +1,9 @@
 # Examen de sythèse
 
-[toc]
+```
+* 
+{:toc}
+```
 
 ## Introduction
 

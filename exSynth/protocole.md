@@ -33,7 +33,7 @@ documenter quoi?
 - l’exposition
 - [meta] la documentation [meta]
 
----
+
 
 ### À propos des composantes
 
@@ -63,3 +63,4 @@ documenter quoi?
 - figé: règle, statut, ordonnance, traité
 - standard: norme, convention
 - documenter une pratique sociale: étiquette, décorum, cérémonial, **rituel**
+

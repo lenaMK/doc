@@ -1,6 +1,6 @@
 <img src="./img/lenavatar.png" alt="logo LenaMK tissu à l’aiguille" style="zoom:25%;" />
 
-Recherche-création doctorale de [Lena MK](lenamk.site), 2023-2027, Université de Montréal. Cette recherche est financée par le [CRSH](https://www.nserc-crsng.gc.ca/Students-Etudiants/PG-CS/CGSD-BESCD_fra.asp).
+Recherche-création doctorale de [Lena MK](http://lenamk.site), 2023-2027, Université de Montréal. Cette recherche est financée par le [CRSH](https://www.nserc-crsng.gc.ca/Students-Etudiants/PG-CS/CGSD-BESCD_fra.asp).
 
 
 
