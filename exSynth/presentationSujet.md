@@ -4,7 +4,47 @@
 
 ## Introduction
 
-Mon projet de thèse est une recherche-création en physicalisation de données: des « objets (artefacts physiques) dont la géométrie ou la matérialité *encode*[^1] des données » (Jansen et al. 2015: 2). Il s’agit d’une représentation matérielle de données, souvent contrastée avec l’apparente immatérialité de la visualisation de données. En effet, dans le cas de visualisation, on n’a pas accès aux données qui ont servi à déterminer la forme graphique. Sur papier dans l’espace physique comme sur l’écran d’une machine pour l’espace numérique, les données d’une visualisation ne sont pas tangibles ou palpables. La physicalisation amène ainsi une réflexion sur le rôle du sens du toucher dans la perception de données.
+La mission des institutions culturelles – musées, bibliothèques, centres d’archives, etc. – comporte notamment la valorisation et l’accès public à leurs contenus. L’arrivée des outils numériques dans ces institutions contribue à la transformation de leurs méthodes de travail, par exemple avec la diffusion numérique des artefacts conservés dans les réserves ou avec les expositions virtuelles. Certaines de ces institutions vont même jusqu’à la création et à la mise en ligne de leur données (Casemajor 2012, 82). Les interactions des publics avec ces données passent principalement par l’intermédiaire d’interfaces web permettant, par exemple, de faire des recherches dans une collection muséale. En tant que jeune chercheuse et professionnelle au parcours multidisciplinaire en informatique et en histoire de l’art, je me suis particulièrement intéressée aux interfaces de valorisation et d’exploration de données culturelles (MK 2020, 2021; Fauchié et al. 2024; Desmorat et MK 2025 [à paraître]; Graff et al. 2024). Lorsque la collection numérisée est en libre accès sur les sites web de musées, on peut habituellement l’explorer par le biais d’une barre de recherche (exemple figure 1) ou par l’usage d’un formulaire .
+
+![image-20250310153733372](/home/lenamk/.config/Typora/typora-user-images/image-20250310153733372.png)
+
+Ces mode d’accès contraignent toutefois le potentiel de découverte de la collection. En effet, ces deux fonctions requièrent une connaissance préalable des objets, ou du moins de leurs caractéristiques, pour pouvoir les saisir : on ne peut pas rechercher ce qu’on ne connaît pas. De plus, on ne voit jamais qu’une partie de la collection. Une première approche possible pour découvrir une collection dans son ensemble émerge d’une méthodologie quantitative. Anne Dymond souligne dans son ouvrage *Diversity Counts : Gender, Race, and Representation in Canadian Art Galleries* (2019) l’utilité d’indicateurs statistiques dans l’étude des pratiques institutionnelles. Dans une démarche qui reprend les objectifs des études féministes quantitatives en histoire de l’art, Valentine Desmorat et moi avons employé les données publiées par le Musée d’art contemporain de Montréal (MAC) pour étudier l’entrée des femmes artistes dans sa collection [^1]. Les portraits statistiques « permettent, en tant que visualisations de données, de donner à voir les tendances minoritaires, majoritaires, ainsi que les caractéristiques majeures des œuvres ou des artistes pris·es en compte [dans les collections] » (Desmorat 2024, 11).  Guidées par les données, nous avons effectué des analyses statistiques et révélé les facteurs qui ont contribué à la représentation des œuvres d’artistes-femmes dans cette collection (Desmorat 2024, Desmorat et MK 2025 [à paraître]). 
+
+![exemple artistes-femmes-MAC]()
+
+
+
+
+
+/!\ rédaction en cours
+
+
+
+Une seconde approche alternative à la recherche textuelle
+
+
+
+La production formes visuelles alternatives, graphiques ou matérielles, présente une alternative intéressante à la recherche textuelle. Elle permet non seulement de produire des représentations de ces collections, mais aussi, dans le cas de visualisations interactives par exemple, de découvrir leurs contenus. De façon complémentaire à la médiation et à la curation, il devient possible de faciliter une forme d’accès aux collections caractérisée par la sérendipité et une approche sensorielle. 
+
+
+
+ma recherche vise à démontrer l’usage de la contre-curation et de la visualisation interactive pour offrir une approche esthétique, sensible et non-hiérarchique des contenus culturels. Je souhaite également mettre à l’épreuve le processus de recherche-création pour coder de nouvelles formes visuelles destinées à la valorisation et la libre exploration de ces collections.
+
+
+
+étude des institutions culturelles par leur données, les données culturelles comme point d’entrée pour étudier les institutions et leurs collections = objet d’études
+
+Celles-ci décrivent des collections muséales, des archives ou des entités patrimoniales. Dans le cas où elles sont mises à disposition sur des plateformes de données ouvertes, elles contribuent à la documentation institutionnelle accessible et librement réutilisable pour la recherche. 
+
+
+
+
+
+utiliser les limites identifiées pour amener la question de la diversification des formes visuelles et celle de la physicalisation.
+
+
+
+Mon projet de thèse est une recherche-création en physicalisation de données: des « objets (artefacts physiques) dont la géométrie ou la matérialité *encode*[^2] des données » (Jansen et al. 2015, 2). Il s’agit d’une représentation matérielle de données, souvent contrastée avec l’apparente immatérialité de la visualisation de données. En effet, dans le cas de visualisation, on n’a pas accès aux données qui ont servi à déterminer la forme graphique. Sur papier dans l’espace physique comme sur l’écran d’une machine pour l’espace numérique, les données d’une visualisation ne sont pas tangibles ou palpables. La physicalisation amène ainsi une réflexion sur le rôle du sens du toucher dans la perception de données.
 
 Un des moteurs d’instigation de ce domaine porte sur les origines multiples et les apports de différentes cultures à l’histoire de l’encodage et de la transmission de l’information. Parmi les exemples populaires, on retrouve les bulle-enveloppes, des petits objets en argile employés il y a 6000 ans pour la comptabilisation de biens en Mésopotamie («Bulle-enveloppe», [Wikipédia](https://fr.wikipedia.org/wiki/Bulle-enveloppe)), ou encore les quipus (ou khipus), un système de consignation de données formé de cordes et de nœuds utilisé par l’administration de l’empire Inca et dont les traces remontent à 4500 ans («Quipu», [Wikipédia](https://fr.wikipedia.org/wiki/Quipu)). Il s’agit ainsi de reconnaître que les données – au sens d’informations enregistrées de façon en « permettre le stockage, la transmission ou le traitement » (Donnée, [GDT](https://vitrinelinguistique.oqlf.gouv.qc.ca/fiche-gdt/fiche/8358482/donnee)) – n’ont pas été inventées avec les premiers ordinateurs, ni même par les bureaux de statistiques ou d’autres administrations au fonctionnement centré sur l’écriture. Face à l’amplification exponentielle de la place des données dans notre société, ce travail de reconnaissance historique vise notamment à décentrer le savoir occidental pour faire place à une diversité d’épistémologies. Dans ce contexte, la visualisation de données bénéficie aussi d’un rôle toujours plus important, parce qu’elle facilite l’accès à ces données et leur compréhension. Les recherches en physicalisation de données se développent donc également en ce même sens: de nouvelles pratiques émergent en référence aux autres façons (historiques, culturelles) de penser les données et d’interagir avec [à développer dans l’état des lieux]. 
 
@@ -12,11 +52,21 @@ Un des moteurs d’instigation de ce domaine porte sur les origines multiples et
 
 *probablement plus tard dans le texte*
 
+
+
+
+
+
+
 ### Projet de recherche
 
-<!--comment présenter mon expérience passée sans avoir l’air de vendre ma salade?-->
 
-Je souhaite inscrire ma recherche-création dans ce domaine, en adoptant moi-même une pratique de physicalisation avec mon objet d’étude: les données produites par des institutions culturelles. Celles-ci décrivent des collections muséales, des archives ou des entités patrimoniales. Dans le cas où elles sont mises à disposition sur des plateformes de données ouvertes, elles contribuent à la documentation institutionnelle accessible et librement réutilisable pour la recherche. J’ai commencé, dès la maîtrise, à faire de la visualisation des données culturelles. Pour mon mémoire, j’ai créé un atlas numérique – alliant une chronologie, une cartographie et d’autres graphiques interactifs – comme alternative au formulaire disponible pour accéder à la base de données CONBAVIL (Krause 2020, 2021). Depuis, j’ai développé une pratique en visualisation de données qui m’a, par exemple, amenée à participer au hackathon *Navigations anthologiques* (Fauchié et al. 2024). Dans mon rôle de responsable de laboratoire à l’*Ouvroir d’histoire de l’art et de muséologie numériques* (UdeM), j’ai collaboré avec Valentine Desmorat sur la création de visualisations interactives portant sur l’entrée des femmes-artistes dans la collection du Musée d’art contemporain de Montréal (Desmorat 2024, Desmorat et Krause 2025 [à paraître]). En tant que directrice technique de la Maison MONA, je travaille au quotidien avec notre base de données sur l’art public, le patrimoine et les lieux culturels au Québec. Ces données sont rassemblées pour l’application mobile et de médiation numérique *in-situ* MONA, dont la carte offre en elle-même une visualisation spatiale et thématique de ces données. Je produis régulièrement des visualisations nécessaires aux étapes de préparation, d’enrichissement et d’analyse des données MONA. C’est dans le but de poursuivre et de diversifier ma pratique que j’ai initié le projet d‘une thèse en recherche-création.
+
+Je souhaite inscrire ma recherche-création dans ce domaine [physicalisation]
+
+en adoptant moi-même une pratique de physicalisation avec des données culturelles. 
+
+
 
 Si certaines pratiques artistiques incorporent (*embed*) des données dans leur medium, l’utilisation de la physicalisation de données comme interface pour une collection muséale reste à explorer. En continuité avec mon approche de la visualisation de données, ma recherche vise à créer de nouvelles formes d’accès à des contenus culturels. J’aimerais créer des environnements esthétiques, sensibles et non-hiérarchiques pour la valorisation et la libre exploration de ces collections. Mon objectif est de renouveler les présentations et les représentations des collections auprès des publics pour déjouer certains effets de pouvoir comme la domination des œuvres et des récits masculins coloniaux normatifs, ou encore l’excès de visibilité médiatique accordée à certains artistes au détriment des autres. Pour ce faire, j’aimerais expérimenter avec l’idée que la création de visualisations (et de physicalisations) de données est une forme de commissariat. Le commissariat, en tant que processus de sélection et de mise en exposition publique d’objets, provient du milieu muséal mais s’est aujourd’hui diversifié en une variété de pratiques sociales. Des comptes Instagram aux listes de lectures Spotify, l’émergence de pratiques curatoriales sur les réseaux sociaux amènent un nouveau réseau d’acteur·rices à se pencher sur cette pratique.
 
@@ -86,6 +136,7 @@ Faire sans discipline? Myriam Suchet *Indiscipline*→ notes de lectures ok
 - *data as capta* Drucker (et al à retrouver)
 - Smitheran : question/rethink relationship with data? data as medium with agency
 - Freeman *Defining Data as an Art Material* 2018 + taxonomy 2018
+- data as archive?
 
 #### Algorithme de représentation
 
@@ -112,7 +163,7 @@ Visualisation de données: figuration / graphique
 Cartographie
 - cartographie, à la fois comme opérateur théorique, comme outil graphique, comme forme d’analyse et comme manière de penser (Besse 2010)
 - processus de déconstruction, issu de la cartographie critique, peut révéler de nouvelles approches de la carte et retracer les mécanismes sociaux liés à sa production (Harley 1989, 2)
-- processus de déconstruction à la visualisation de données→  détournement ou à une profanation du dispositif (Agamben 2007). 
+- processus de déconstruction à la visualisation de données→ détournement ou à une profanation du dispositif (Agamben 2007). 
 - *thick mapping* (Presner, Shepard, et Kawano 2014) et la contre-cartographie (Orangotango+, 2018) 
 
 #### Expression matérielle
@@ -219,5 +270,12 @@ nécessaire / pertinent ?
 
 ---
 
-[^1]: Traduction admise par l’OQLF: https://vitrinelinguistique.oqlf.gouv.qc.ca/fiche-gdt/fiche/8375546/coder
-[^2]: A confirmer une fois l’état des lieux est complété
+[^1]: Ce projet a pour point de départ le mémoire de maîtrise de Valentine Desmorat : *L’entrée des femmes artistes dans la collection du Musée d’art contemporain de Montréal, de 1964 à 2020 : analyses statistiques et facteurs déterminants*. Dirigées par la professeure Johanne Lamoureux (Université de Montréal), ces recherches ont été menées dans le cadre du Partenariat *Des nouveaux usages des collections dans les musées d’arts* (CIÉCO). La collaboration avec Lena Krause, dans son rôle de responsable de laboratoire à l’*Ouvroir d’histoire de l’art et de muséologie numériques* (Université de Montréal), a débuté à l’occasion de la clinique numérique du laboratoire.
+[^2]: Traduction admise par l’OQLF: https://vitrinelinguistique.oqlf.gouv.qc.ca/fiche-gdt/fiche/8375546/coder
+[^]: A confirmer une fois l’état des lieux est complété
+
+
+
+
+
+[^01]: 
