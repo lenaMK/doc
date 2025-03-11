@@ -36,4 +36,4 @@ Recherche-création doctorale de [Lena MK](http://lenamk.site), 2023-2027, Unive
 
 ### Documenter / montrer
 
-- [Faire l’algorithme](../art-algorithmique/img/algo.mp4) (pour trouver l’algorithme)
+- [Faire l’algorithme](../art-algorithmique/img/algo.mp4) (pour trouver l’algorithme
