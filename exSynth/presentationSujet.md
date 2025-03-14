@@ -6,7 +6,7 @@
 
 ## Introduction
 
-<!--rédaction: idée générale d’introduction: à valider et poursuivre la rédaction, ou à changer-->
+<!--rédaction: idée générale d’introduction: à valider et poursuivre la rédaction-->
 
 La mission des institutions culturelles – musées, bibliothèques, centres d’archives, etc. – comporte notamment la valorisation et l’accès public à leurs contenus. L’arrivée des outils numériques dans ces institutions contribue à la transformation de leurs méthodes de travail, par exemple avec la diffusion numérique des artefacts conservés dans les réserves ou avec les expositions virtuelles. Certaines de ces institutions vont même jusqu’à la mise en ligne de leur données (Casemajor 2012, 82). Ces données décrivent de façon structurée les collections muséales, des archives ou des entités patrimoniales. Dans le cas où elles sont mises à disposition sur des plateformes de données ouvertes, elles contribuent à la documentation institutionnelle accessible et librement réutilisable pour la recherche. Les interactions des publics avec ces données passent principalement par l’intermédiaire d’interfaces web permettant, par exemple, de faire des recherches dans une collection muséale. En tant que jeune chercheuse et professionnelle au parcours multidisciplinaire en informatique et en histoire de l’art, je me suis particulièrement intéressée aux interfaces de valorisation et d’exploration de données culturelles (MK 2020, 2021; Fauchié et al. 2024; Desmorat et MK 2025 [à paraître]; Graff et al. 2024). 
 
@@ -32,7 +32,7 @@ La production formes visuelles alternatives, graphiques ou matérielles, présen
 
 <figcaption style=" text-align: right ">Chronologie des œuvres de la collection du MAC, vue de 1990 à 2023, MK, 2024</figcaption>
 
-### Projet de recherche
+## Projet de recherche
 
 Mon projet de recherche-création doctorale s’inscrit dans l’étude des institutions culturelles par leur données. Dans une continuité avec ma recherche sur les interfaces de valorisation et d’exploration de données culturelles, j’aimerais créer des environnements esthétiques, sensibles et non-hiérarchiques pour la valorisation et la libre exploration de ces collections. Mon objectif est de renouveler les présentations et les représentations des collections auprès des publics pour déjouer certains effets de pouvoir comme la domination des œuvres et des récits masculins coloniaux normatifs, ou encore l’excès de visibilité médiatique accordée à certains artistes au détriment des autres. Pour ce faire, j’aimerais expérimenter avec l’idée que la création de visualisations de données est une forme de commissariat. Le commissariat, en tant que processus de sélection et de mise en exposition publique d’objets, provient du milieu muséal mais s’est aujourd’hui diversifié en une variété de pratiques sociales. Des comptes Instagram aux listes de lectures Spotify, l’émergence de pratiques curatoriales sur les réseaux sociaux amènent un nouveau réseau d’acteur·rices à se pencher sur cette pratique.
 
@@ -43,6 +43,12 @@ Par exemple, Torsten Kathke, Juliane Tomann et Mirko Uhlig proposent de rassembl
 En créant des interfaces qui invitent à interagir avec les données, j‘aurai pour objectif de créer des contre-récits pour déjouer les normes de visibilités qui discriminent la découvrabilité des contenus culturels. La découvrabilité représente le « potentiel pour un contenu, disponible en ligne, d'être aisément découvert par des internautes dans le cyberespace, notamment par ceux qui ne cherchaient pas précisément le contenu en question » ([OQLF «Découvrabilité»](https://vitrinelinguistique.oqlf.gouv.qc.ca/fiche-gdt/fiche/26541675/decouvrabilite)). À l’échelle d’une collection, on pourrait considérer <!--je propose de considérer?--> la découvrabilité comme le potentiel pour une œuvre d’être découverte parmi les données de l’institution. Ainsi, plutôt que de sélectionner des chef-d’œuvres pour représenter une collection, pourrait-on faire place à la sérendipité et à l’agentivité des publics pour se familiariser avec son contenu? 
 
 <!--découvrabilité en data viz : il s’agirait du potentiel pour une œuvre à contribuer au récit construit par la représentation (visuelle ou matérielle)-->
+
+
+
+
+
+
 
 ### Espace visuel et interactions
 
@@ -62,39 +68,86 @@ Dans ce cas, le problème le plus important est cependant celui de la hauteur. L
 
 Une autre limitation de l’écran est le manque de relief ou de profondeur. On ne peut pas faire « ressortir » des éléments ni en faire l’expérience tactile. On dispose de deux dimensions pour agir sur la perception et créer des interactions. Plusieurs chercheur·se·s, designer et professionnel·le·s de la visualisation de données œuvrent sur la création de nouvelles formes visuelles pour diversifier les représentations possibles et pour trouver de nouvelles solutions pour visualiser des données. Le champs (encore jeune) de la physicalisation de données propose une autre avenue, par la création « d’objets (artefacts physiques) dont la géométrie ou la matérialité *encode*[^2] des données » (Jansen et al. 2015, 2). La physicalisation amène ainsi une réflexion sur le rôle du sens du toucher dans la perception de données. Cette approche m’intéresse particulièrement, ayant moi-même certains problèmes de lecture à l’écran, mais surtout pour le potentiel d’interactions que j’entrevois dans l’approche matérielle des données. Les données, qui semblent immatérielles et/ou incompréhensibles pour les profanes, prennent une forme tangible. Dans l’actuelle fatigue qui peut être ressentie face à l’omniprésence des écrans, un objet, particulièrement lorsqu’il est issu d’une production manuelle ou artisanale, peut recevoir une attention plus élevée. L’interaction tactile amène aussi une implication physique, ce qui favorise un engagement actif dans la réception. <!--sources qqpart dans la thèse de Lean--> C’est pourquoi je souhaite mener une recherche-création pour explorer la physicalisation de données comme interface de contre-curation pour des données culturelles.
 
+### Questions de recherche
+
+Comment la physicalisation de données peut-elle offrir une nouvelle forme d’accès pour des données culturelles? 
+
+En pensant l’artisanat comme une technologie et la technologie comme une pratique artisanale, j’aimerais proposer des expériences sensation-nelles comme nouvelle forme d’accès aux données culturelles.
+
+- creéer des physicalisation de données qui produisent de nouveaux récits et offrent de nouvelles perspectives sur les collections d’art (GLAM+?)
+- corpus données culturelles à détailler par rapport à l’intro
+
+Questions connexes
+
+- tester un protocole de recherche-création
+- changement de medium → changement de récit (narrative?)
 
 
-### État des lieux : représenter de données
+
+## État des lieux : représenter de données
 
 #### Visualisation de données: figuration / graphique
 
 - études des formes graphiques (Drucker 2014, 2020 ; Kräutli 2016 ; Tufte 2001 ; Bertin 2013)
 - histoire de la data viz (Friendly 2007, Ingold, *Lines. A brief history*)
 - Cette recherche doctorale propose de répondre à l’appel de Johanna Drucker de développer une épistémologie visuelle pour les humanités (2014). Dans ses recherches, elle introduit la visualisation comme un vecteur de réflexion, de questionnement et de production de savoir (Drucker 2020). 
+- carto: une forme de visualisation de données spatiale
 - adjust goals, not arrive with necessity for a proof → Meirelles à consulter
 - *critical visualisation* Peter Hall et Patricio Davila → à consulter
 - *autographic design* Dietmar Offenhuber → notes de lectures partielles, à compléter
 
-#### Cartographie
 
-- cartographie, à la fois comme opérateur théorique, comme outil graphique, comme forme d’analyse et comme manière de penser (Besse 2010)
-- processus de déconstruction, issu de la cartographie critique, peut révéler de nouvelles approches de la carte et retracer les mécanismes sociaux liés à sa production (Harley 1989, 2)
-- processus de déconstruction à la visualisation de données→ détournement ou à une profanation du dispositif (Agamben 2007). 
-- *thick mapping* (Presner, Shepard, et Kawano 2014) et la contre-cartographie (Orangotango+, 2018) 
 
 #### Data phys
 
 En tant que représentation matérielle de données, celle-ci est souvent contrastée avec l’immatérialité ressentie dans la visualisation de données. En effet, dans le cas de visualisation, on n’a pas accès aux données qui ont servi à déterminer la forme graphique. Sur papier dans l’espace physique comme sur l’écran d’une machine pour l’espace numérique, les données d’une visualisation ne sont pas tangibles ou palpables. 
 
-
-
-
-
 Un des moteurs d’instigation de ce domaine porte sur les origines multiples et les apports de différentes cultures à l’histoire de l’encodage et de la transmission de l’information. Parmi les exemples populaires, on retrouve les bulle-enveloppes, des petits objets en argile employés il y a 6000 ans pour la comptabilisation de biens en Mésopotamie («Bulle-enveloppe», [Wikipédia](https://fr.wikipedia.org/wiki/Bulle-enveloppe)), ou encore les quipus (ou khipus), un système de consignation de données formé de cordes et de nœuds utilisé par l’administration de l’empire Inca et dont les traces remontent à 4500 ans («Quipu», [Wikipédia](https://fr.wikipedia.org/wiki/Quipu)). Il s’agit ainsi de reconnaître que les données – au sens d’informations enregistrées de façon en « permettre le stockage, la transmission ou le traitement » (Donnée, [GDT](https://vitrinelinguistique.oqlf.gouv.qc.ca/fiche-gdt/fiche/8358482/donnee)) – n’ont pas été inventées avec les premiers ordinateurs, ni même par les bureaux de statistiques ou d’autres administrations au fonctionnement centré sur l’écriture. Face à l’amplification exponentielle de la place des données dans notre société, ce travail de reconnaissance historique vise notamment à décentrer le savoir occidental pour faire place à une diversité d’épistémologies. Dans ce contexte, la visualisation de données bénéficie aussi d’un rôle toujours plus important, parce qu’elle facilite l’accès à ces données et leur compréhension. Les recherches en physicalisation de données se développent également en ce même sens: de nouvelles pratiques émergent en référence aux autres façons (historiques, culturelles) de penser et d’interagir avec les données. 
 
 
 
-## Protocole d’expérimentation
+### Pratiques d’art, d’artisanat et de design qui incorporent des données
+
+ à la croisée de la textilité et de l’algorithmique agissent comme sources d’inspirations transdisciplinaires: 
+
+- [corpus d’œuvres qui inspirent la recherche](https://www.canva.com/design/DAGeuw-pplg/xXzotJr7T8XvWcPHvk2eSw/view?utm_content=DAGeuw-pplg&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hef9b400c70) 
+- Pansee Atta
+
+## Cadre théorique
+
+**Faire**
+
+Ingold:
+
+- *Making: Anthropology, Archaeology, Art and Architecture* (2013) → à consulter (faire soi-même avec ses mains?)
+- *The Textility of Making* (2010) → notes de lectures ok (textilité est une métaphore)
+
+Faire avec un ordinateur
+
+- Vitali-Rosati: *Éloge du bug* → fin des notes de lectures à numériser
+  - relationship with technology (see it as a craft), playful bidouillage, beyond « utilitarian functionality » to learn, rethink, change perception
+- Coleman *Coding Freedom*: hacking as making
+- Simondon: *Du mode d’existence des objets technique* 
+  - rapport entre humain et machine, rapport à la matière du technicien
+  - rapport entre geste humain et geste machine, outil, inventivité
+
+- Molnar *Eloge de l’ordinateur*
+
+- Albers rapport à l’outil, la machine, le métier à tisser. Documenter, notation, …
+
+Faire en étant située: 
+
+- *Feminist in a Software Lab*, Tara McPherson→ notes de lectures à numériser
+- *Data feminism* Catherine d’Ignazio et Laurent F Klein
+- *Glitch feminism* → à consulter
+
+Faire sans discipline? Myriam Suchet *Indiscipline*→ notes de lectures ok
+
+Faire une interface
+
+- interfaces poétiques
+
+## Protocole d’expérimentation (métho)
 
 <!--incertaine du terme symbolique: cherche une façon de dire que c’est connoté, contient une façon de voir le monde, **produit du sens**, contribue à la construction d’un récit-->
 
@@ -119,144 +172,21 @@ Ce protocole est intrinsèquement algorithmique:
 
 Ce protocole prend appuis sur de nombreux opérateurs théoriques issus de la recherche actuelle en visualisation de données, en cartographie et dans le domaine des interfaces personnes-machines. 
 
-### Faire
+### Utilisation du protocole
 
-Ingold:
+*comment je vais utiliser le protocole pour faire une thèse*
 
-- *Making: Anthropology, Archaeology, Art and Architecture* (2013) → à consulter (faire soi-même avec ses mains?)
-- *The Textility of Making* (2010) → notes de lectures ok (textilité est une métaphore)
 
-Faire avec un ordinateur
 
-- Vitali-Rosati: *Éloge du bug* → fin des notes de lectures à numériser
-  - relationship with technology (see it as a craft), playful bidouillage, beyond « utilitarian functionality » to learn, rethink, change perception
-- Coleman *Coding Freedom*: hacking as making
-- Simondon: *Du mode d’existence des objets technique* 
-  - rapport entre humain et machine, rapport à la matière du technicien
-  - rapport entre geste humain et geste machine, outil, inventivité
 
-- Molnar *Eloge de l’ordinateur*
 
-Faire en étant située: 
+### Format envisagé pour la thèse
 
-- *Feminist in a Software Lab*, Tara McPherson→ notes de lectures à numériser
-- *Data feminism* Catherine d’Ignazio et Laurent F Klein
-- *Glitch feminism* → à consulter
 
-Faire sans discipline? Myriam Suchet *Indiscipline*→ notes de lectures ok
 
-Faire une interface
 
-- interfaces poétiques
 
-#### Données
 
-- *data as capta* Drucker (et al à retrouver)
-- Smitheran : question/rethink relationship with data? data as medium with agency
-- Freeman *Defining Data as an Art Material* 2018 + taxonomy 2018
-- data as archive?
-
-#### Algorithme de représentation
-
-Algorithmique : 
-
-- machine imaginaire de Molnar
-
-Software
-
-- Wendy Hui Kyong Chun *Programmed Vision* → continuer la lecture
-- Chun, Wendy Hui Kyong. 2005. “On Software, or the Persistence of Visual Knowledge.” → reprendre les notes de lecture (ou la lecture)
-- Kittler - There is no software 1993
-- Siegert, Bernhard. 2017. “After the Media: The Textility of Cultural Techniques.” In *Media Theory and Cultural Technologies: In Memoriam Friedrich Kittler*, by Maria Teresa Cruz, 1st ed. Newcastle-upon-Tyne: Cambridge Scholars Publisher.
-
-p5.js et d3.js
-
-#### Expression matérielle
-
-( <!--pas sûre du placement de cette partie, peut-être pas nécessaire en attendant de trouver-->
-
-Contexte matériel: Archéologie des médias (Huhtamo et Parikka 2011; Citton et Doudet 2019) + … 
-
-- histoire (matérielle) de l’informatique ?
-
-)
-
-Expressivité / sens porté dans la matière : Barad & nouveau matérialismes (La matière a un sens)
-
-Travail technique de la matière - artisanat
-
-- Smith, T’ai. 2016. “The Problem with Craft.” *Art Journal* 75 (1): 80–84 (Intro artisanat, Ezra Shales *Craft Reader*) 
-- Tissage
-  - Anni Albers *On weaving*
-  - PENELOPE – Weaving as Technical Mode of Existence
-- Marks, Laura “Thinking Like a Carpet: Embodied Perception and Individuation in Algorithmic Media.”
-
-Rapport manuel à la matière
-
-- petites mains Margot Mellet
-
-Technologies ancestrales d’encodage de données
-
-- wampum: Haas 2007; L’Hirondelle 2014, 156; Loft 2014, 172; 
-- quipu: Paola Torres Núñes del Prado, Alex McLean & Alpaca (algorithmic pattern project)
-
-Textilité
-
-- *Unravel: The Power and Politics of Textiles in Art*, edited by Lotte Johnson, Amanda Pinatih, Wells Fray-Smith, Barbican Art Gallery, and Stedelijk Museum Amsterdam. Munich London New York: Prestel
-  - Bryan-Wilson, Julia. 2024. “Fibers, Creatures, Furry Beasts: Queer Textile Crittercism.”
-  - « A Thread of Life: Retrieving Power through Textiles »
-- “Textile, A Diagonal Abstraction: Glass Bead in Conversation with T’ai Smith.”
-- Lean, Marion. 2020. “**Materialising Data Experience through Textile Thinking**.” Thesis, Royal College of Art. → lecture en cours
-- Lean, Marion. 2021. “Materialising Data Feminism – How Textile Designers Are Using Materials to Explore Data Experience.” *Journal of Textile Design Research and Practice* 9 (2): 184–209. → à lire
-- Igoe, Elaine, ed. 2021. *Textile Design Theory in the Making*. London New York: Bloomsbury Visual Arts. → si nécessaire à lire (à imprimer car pas de copie papier au québec)
-
-<!--mettre l’état des lieux pour la physicalisation ici sinon? -->
-
-### Exposer
-
-*Références, cadre à créer*
-
--  commissariat (en plus de la contre-curation)
--  réception et participation
-
-« mettre en forme autrement, pour les rendre visibles et discutables » (Hennion et Monnin 2020, 5). 
-
-[ex thèse Marion Lean: Méthodes basée sur l’expérience de réception (incarnée): animer des ateliers de physicalisation de données avec des musées et des artistes+public? ]
-
-### Documenter
-
-*Références, cadre à créer*
-
-Exemples / inspiration
-
-- Pour produire quelque chose comme *Dear Data* ou *Data sketches* 
-- Pour documenter ce qui n’est plus: *Feminist in a software lab* (mais avec plus de médias?)
-
-*Reproductibilité? objectif de la documentation*
-
-## Corpus
-
-**Données**: décrites dans chaque instanciation du protocole
-
-Des pratiques d’art, d’artisanat et de design à la croisée de la textilité et de l’algorithmique agissent comme sources d’inspirations transdisciplinaires: 
-
-- [corpus d’œuvres qui inspirent la recherche](https://www.canva.com/design/DAGeuw-pplg/xXzotJr7T8XvWcPHvk2eSw/view?utm_content=DAGeuw-pplg&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hef9b400c70) 
-- lien entre textilité, récit et données mais ne sont justement pas des visualisations de données 
-
-*Faire une sélection dans le corpus à présenter ici*
-
-## Question de recherche
-
-Comment la physicalisation de données peut-elle offrir une nouvelle forme d’accès pour des données culturelles? 
-
-En pensant l’artisanat comme une technologie et la technologie comme une pratique artisanale, j’aimerais proposer des expériences sensation-nelles comme nouvelle forme d’accès aux données culturelles.
-
-- creéer des physicalisation de données qui produisent de nouveaux récits et offrent de nouvelles perspectives sur les collections d’art (GLAM+?)
-
-Questions connexes
-
-- tester un protocole de recherche-création
-- changement de medium → changement de récit (narrative?)
 
 
 
@@ -267,14 +197,7 @@ Questions connexes
 - Données du MAC
 - examen de synthèse comme contexte d’exposition ?!
 
-### Documenter
-
-## Plan de la thèse?
-
-*comment je vais utiliser le protocole pour faire une thèse*
-
-- cadre de la recherche, plusieurs utilisations (2-4?)
-  - reprendre la carte aux poils de chiens avec le protocole?
+### 
 
 
 
