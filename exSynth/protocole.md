@@ -12,7 +12,7 @@ Recette/instructions pour produire une physicalisation de données
 
 **Itérations**: sketchs, tests, prototypes, versions/étapes
 
-### Exposer
+### (Dé-)montrer
 
 exposer quoi? 
 
