@@ -17,7 +17,7 @@ Recherche-création doctorale de [Lena MK](http://lenamk.site), 2023-2027, Unive
 
 ### Conférences
 
-- Avec Cassandre Roy, « La recherche-création en histoire de l’art :  Perspectives actuelles et futures », panel pour les Journées d’étude du  doctorat interuniversitaire en histoire de l’art *Trois décennies d’histoire de l’art à Montréal | Three Decades of Art History in Montreal Doc-Inter (1994-2024)* prévues le 30 avril, 1er et 2 mai 2025, Montréal            
+- Avec Cassandre Roy, « La recherche-création en histoire de l’art :  Perspectives actuelles et futures », panel pour les Journées d’étude du  doctorat interuniversitaire en histoire de l’art *Trois décennies d’histoire de l’art à Montréal · Three Decades of Art History in Montreal Doc-Inter (1994-2024)* prévues le 30 avril, 1er et 2 mai 2025, Montréal            
 - *[The Matter of Maps](./conf/ICC2025_theMatterOfMaps)*, proposition soumise en janvier 2025 pour la conférence international de cartographie ICC2025 ainsi que pour un article dans le N°47 *Contre-cartographier / Counter-mapping* de la revue [Intermédialités](http://intermedialites.com/appel-a-contributions-no-47-contre-cartographier-counter-mapping/)
 - [Imagining public art : feminist and algorithmic cartographies](./conf/ecoleDePrintemps_project), notes de la conférence présentée à la *XXIIème École de printemps d’histoire de l’art*, « Social imagining and the role of images, artworks and buildings », Weimar, Allemagne, 17 au 21 juin 2024
 
@@ -37,4 +37,4 @@ Recherche-création doctorale de [Lena MK](http://lenamk.site), 2023-2027, Unive
 
 ### Documenter / montrer
 
-- [Faire l’algorithme](../art-algorithmique/img/algo.mp4) (pour trouver l’algorithme
+- [Faire l’algorithme](../art-algorithmique/img/algo.mp4) (pour trouver l’algorithme)
