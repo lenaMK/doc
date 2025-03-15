@@ -21,8 +21,8 @@ Recherche-création doctorale de [Lena MK](http://lenamk.site), 2023-2027, Unive
 
 ### Conférences
 
-- *The Matter of Maps* (à venir), proposition soumise en janvier 2025 pour la conférence international de cartographie ICC2025
-- [Imagining public art : feminist and algorithmic cartographies](./ecoleDePrintemps/project), notes de la conférence présentée à la *XXIIème École de printemps d’histoire de l’art*, « Social imagining and the role of images, artworks and buildings », Weimar, Allemagne, 17 au 21 juin 2024
+- *[The Matter of Maps]()*, proposition soumise en janvier 2025 pour la conférence international de cartographie ICC2025 ainsi que pour un article dans le N°47 *Contre-cartographier / Counter-mapping* de la revue [Intermédialités](http://intermedialites.com/appel-a-contributions-no-47-contre-cartographier-counter-mapping/)
+- [Imagining public art : feminist and algorithmic cartographies](./conf/ecoleDePrintemps_project), notes de la conférence présentée à la *XXIIème École de printemps d’histoire de l’art*, « Social imagining and the role of images, artworks and buildings », Weimar, Allemagne, 17 au 21 juin 2024
 
 
 
