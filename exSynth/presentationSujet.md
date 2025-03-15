@@ -82,23 +82,58 @@ Questions connexes
 - tester un protocole de recherche-création
 - changement de medium → changement de récit (narrative?)
 
-
+fdfds
 
 ## État des lieux : représenter de données
 
-#### Visualisation de données: figuration / graphique
+de la visualisation à la physicalisation, vers des objets artistiques
 
-- études des formes graphiques (Drucker 2014, 2020 ; Kräutli 2016 ; Tufte 2001 ; Bertin 2013)
-- histoire de la data viz (Friendly 2007, Ingold, *Lines. A brief history*)
-- Cette recherche doctorale propose de répondre à l’appel de Johanna Drucker de développer une épistémologie visuelle pour les humanités (2014). Dans ses recherches, elle introduit la visualisation comme un vecteur de réflexion, de questionnement et de production de savoir (Drucker 2020). 
-- carto: une forme de visualisation de données spatiale
-- adjust goals, not arrive with necessity for a proof → Meirelles à consulter
+### fondements
+
+disciplines de la visualisation de données, formes graphiques associées à la 
+
+- Tufte: statisticien, 
+
+  - représentation visuelle de données quantitative (*display* = démonstration, affichage, exposition, faire preuve). Théorie et pratique, exemples et analyse « how to display data for precise, effective, quick analysis ». Detection of graphical deception
+
+    > Data graphics visually display measured quantities by means of the combined use of points, lines, a coordinate system, numbers, symbols, words, shading, and color (2001)
+
+  - escaping flatlands in *Envisioning information*. narratives
+
+  - *Visual explanations: images and quatities, evidence and narrative* animations and scientific visualisations, design stratgies
+
+- Bertin: cartographe et « père de la sémiologie graphique »
+
+- Friendly: formé en mathémathiques puis devient prof en psychologie et statisticien. Contribution majeure à l’histoire de la visualisation de données (Friendly et Wainer 2021)
+
+- Drucker *Graphesis*, théoricienne de l’esthétique visuelle, humanités numériques
+
+  - Cette recherche doctorale propose de répondre à l’appel de Johanna Drucker de développer une épistémologie visuelle pour les humanités (2014). Dans ses recherches, elle introduit la visualisation comme un vecteur de réflexion, de questionnement et de production de savoir (Drucker 2020). 
+
+- Meirelles, designer
+
+  - adjust goals, not arrive with necessity for a proof → Meirelles à consulter
+
+### formes actuelles particulières
+
 - *critical visualisation* Peter Hall et Patricio Davila → à consulter
+- feminist data visualisation
 - *autographic design* Dietmar Offenhuber → notes de lectures partielles, à compléter
 
 
 
-#### Data phys
+### visualisation de données culturelles: 
+
+- contextes de création, buts et usages
+
+- Kraütli et Vane = usage dans les institutions
+- Mk mémoire? but = recherche
+- Desmorat = statactivisme
+- exemples dans les musées = médiation des collections <!--en vrai faudrait demander à Emmanuel -->
+
+
+
+### Data phys
 
 En tant que représentation matérielle de données, celle-ci est souvent contrastée avec l’immatérialité ressentie dans la visualisation de données. En effet, dans le cas de visualisation, on n’a pas accès aux données qui ont servi à déterminer la forme graphique. Sur papier dans l’espace physique comme sur l’écran d’une machine pour l’espace numérique, les données d’une visualisation ne sont pas tangibles ou palpables. 
 
@@ -118,10 +153,11 @@ Un des moteurs d’instigation de ce domaine porte sur les origines multiples et
 
 #### Pratiques d’art, d’artisanat et de design qui incorporent des données
 
- à la croisée de la textilité et de l’algorithmique agissent comme sources d’inspirations transdisciplinaires: 
+ à la croisée de la textilité et de l’algorithmique agissent comme sources d’inspirations transdisciplinaires
 
 - [corpus d’œuvres qui inspirent la recherche](https://www.canva.com/design/DAGeuw-pplg/xXzotJr7T8XvWcPHvk2eSw/view?utm_content=DAGeuw-pplg&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hef9b400c70)  circonscrire les objets qui aident à réfléchir
 - Pansee Atta
+- data art? algo art with data? 
 - Rapport entre les données (corpus) et les œuvres (objets) qu’on étudiera pour exemplifier son processus d’expérimentation.
 
 ## Cadre théorique
