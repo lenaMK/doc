@@ -90,13 +90,17 @@ de la visualisation à la physicalisation, vers des objets artistiques
 
 ### fondements
 
-disciplines de la visualisation de données, formes graphiques associées à la 
+disciplines de la visualisation de données, formes graphiques
 
-- Tufte: statisticien, 
+<!-- avant les ordinateurs-->
+
+- Tufte: statisticien
 
   - représentation visuelle de données quantitative (*display* = démonstration, affichage, exposition, faire preuve). Théorie et pratique, exemples et analyse « how to display data for precise, effective, quick analysis ». Detection of graphical deception
 
-    > Data graphics visually display measured quantities by means of the combined use of points, lines, a coordinate system, numbers, symbols, words, shading, and color (2001)
+    > Data graphics visually display measured quantities by means of the combined use of points, lines, a coordinate system, numbers, symbols, words, shading, and color (2018)
+    >
+    > Occasionally artfulness of design makes a graphic worthy of the Museum of Modern Art, but essentially statistical graphics are instruments to help people reason about quantitative information (Tufte, 2018, 91)
 
   - escaping flatlands in *Envisioning information*. narratives
 
@@ -114,7 +118,15 @@ disciplines de la visualisation de données, formes graphiques associées à la
 
   - adjust goals, not arrive with necessity for a proof → Meirelles à consulter
 
-### formes actuelles particulières
+<!-- après les ordinateurs-->
+
+- pratiques interactives
+
+<!--mon projet n’est pas statistique, ni cartographique, quel est-il? non-« routine, workaday designs »(tufte, 2018, 179) , unique, carefully designed data-specific resultsts?  -->
+
+<!--not « designs for display of information » (Tufte, 2018, 191) but designs for display of collections-->
+
+###  formes actuelles particulières
 
 - *critical visualisation* Peter Hall et Patricio Davila → à consulter
 - feminist data visualisation
