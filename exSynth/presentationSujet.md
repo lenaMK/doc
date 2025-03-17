@@ -103,7 +103,11 @@ pratiques numériques, visualisations interactives,
     - Part C: Developing your design solutions 
     - online resources 
   - Typologie détaillée (ambition encyclopédique? +500 exemples)  ex Jonathan Schwabish
+
+- design 
+
   - Meirelles 2013 Design standpoint (étudiants en graphisme), études de cas avec lien entre enjeu technique (théorique) et solution graphique, langage visuel, vocabulaire graphique (veine de Bertin mais actualisé à la visualisation de l’information (De playfair à aujourd’hui)) design solutions (no technical)
+  - [Manuel Lima](https://en.wikipedia.org/wiki/Manuel_Lima), design industriel <!--rendu chez google. Vidéo Visualizing knowledge à Chicago + TED talk--> «  Ces représentations aident à clarifier les données et ont généralement un aspect d'œuvre d'art. Ce livre en présente et explique près de 300. »
 
 - ouvrages techniques
 
@@ -124,7 +128,7 @@ pratiques numériques, visualisations interactives,
   - processing 
   - d3j.js popularisation à partir de 2011 
 
-  > En 2009, l'étudiant en doctorat Mike Bostock, le professeur Jeff Heer et l'étudiant Vadim Ogievetsky, membres du Groupe de Visualisation de l'université Stanford créent Protovis, une bibliothèque Javascript destinée à générer des documents graphiques SVG à partir de données. La bibliothèque fut bien accueillie, à la fois par les praticiens de visualisation de données et par les  universitaires. En 2011, le développement de Protovis fut arrêté au profit d'un nouveau projet, D3.js. Aidé de l'expérience acquise par Protovis, Bostock (ainsi que Heer et Ogievetsky) développa D3 pour fournir un framework plus expressif s'appuyant sur les standards web et fournissant de meilleures performances. [wiki](https://fr.wikipedia.org/wiki/D3.js) 
+  > En 2009, l'étudiant en doctorat Mike Bostock, le professeur Jeff Heer et l'étudiant Vadim Ogievetsky, membres du Groupe de Visualisation de l'université Stanford créent Protovis, une bibliothèque Javascript destinée à générer des documents graphiques SVG à partir de données. La bibliothèque fut bien accueillie, à la fois par les praticiens de visualisation de données et par les  universitaires. En 2011, le développement de Protovis fut arrêté au profit d'un nouveau projet, D3.js. Aidé de l'expérience acquise par Protovis, Bostock (ainsi que Heer et Ogievetsky) développa D3 pour fournir un framework plus expressif s'appuyant sur les standards web et fournissant de meilleures performances. [wiki](https://fr.wikipedia.org/wiki/D3.js) <!--videos bostock dans zotero dont https://vimeo.com/106198518 The toolmaker’s guide-->
 
   - *Interactive data visualization for the Web : an introduction to designing with D3* Scott Murray
 
