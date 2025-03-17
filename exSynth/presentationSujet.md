@@ -6,9 +6,11 @@
 
 ## Introduction
 
-<!--rédaction: idée générale d’introduction: à valider et poursuivre la rédaction-->
+<!--rédaction: idée générale d’introduction: validée, poursuivre la rédaction-->
 
 La mission des institutions culturelles – musées, bibliothèques, centres d’archives, etc. – comporte notamment la valorisation et l’accès public à leurs contenus. L’arrivée des outils numériques dans ces institutions contribue à la transformation de leurs méthodes de travail, par exemple avec la diffusion numérique des artefacts conservés dans les réserves ou avec les expositions virtuelles. Certaines de ces institutions vont même jusqu’à la mise en ligne de leur données (Casemajor 2012, 82). Ces données décrivent de façon structurée les collections muséales, des archives ou des entités patrimoniales. Dans le cas où elles sont mises à disposition sur des plateformes de données ouvertes, elles contribuent à la documentation institutionnelle accessible et librement réutilisable pour la recherche. Les interactions des publics avec ces données passent principalement par l’intermédiaire d’interfaces web permettant, par exemple, de faire des recherches dans une collection muséale. En tant que jeune chercheuse et professionnelle au parcours multidisciplinaire en informatique et en histoire de l’art, je me suis particulièrement intéressée aux interfaces de valorisation et d’exploration de données culturelles (MK 2020, 2021; Fauchié et al. 2024; Desmorat et MK 2025 [à paraître]; Graff et al. 2024). 
+
+<!--data as archive-->
 
 Lorsque la collection numérisée est en libre accès sur les sites web de musées, on peut habituellement l’explorer par le biais d’une barre de recherche (exemple figure 1) ou par l’usage d’un formulaire. Ces mode d’accès contraignent toutefois le potentiel de découverte de la collection. En effet, ces deux fonctions requièrent une connaissance préalable des objets, ou du moins de leurs caractéristiques, pour pouvoir les saisir : on ne peut pas rechercher ce qu’on ne connaît pas. De plus, on ne voit jamais qu’une partie de la collection. 
 
@@ -16,7 +18,7 @@ Lorsque la collection numérisée est en libre accès sur les sites web de musé
 
 Une première approche possible pour découvrir une collection dans son ensemble émerge d’une méthodologie quantitative. Anne Dymond souligne dans son ouvrage *Diversity Counts : Gender, Race, and Representation in Canadian Art Galleries* (2019) l’utilité d’indicateurs statistiques dans l’étude des pratiques institutionnelles. Dans une démarche qui reprend les objectifs des études féministes quantitatives en histoire de l’art, Valentine Desmorat et moi avons employé les données publiées par le Musée d’art contemporain de Montréal (MAC) pour étudier l’entrée des femmes artistes dans sa collection [^1]. Les portraits statistiques « permettent, en tant que visualisations de données, de donner à voir les tendances minoritaires, majoritaires, ainsi que les caractéristiques majeures des œuvres ou des artistes pris·es en compte [dans les collections] » (Desmorat 2024, 11).  Guidées par les données, nous avons effectué des analyses statistiques et révélé des facteurs qui ont contribué à la représentation des œuvres d’artistes-femmes dans cette collection (Desmorat 2024, Desmorat et MK 2025 [à paraître]). 
 
-<iframe width="100%" height="780" frameborder="0"
+<iframe width="100%" height="280" frameborder="0"
   src="https://observablehq.com/embed/@artistes-femmes-mac/nb-dachats-dons-acquisitions?cells=graphiqueBarres"></iframe>
 
 <!--![Chronologie des acquisitions du MAC, chaque barre indique une année et le code couleur la répartition de l’identité de genre des artistes ayant produit les œuvres acquises cette année-là ](../img/artistes-femmes-MAC_GraphiqueBarres.png)-->
@@ -25,8 +27,9 @@ Une première approche possible pour découvrir une collection dans son ensemble
 
 La production formes visuelles alternatives, graphiques ou matérielles, présente une autre alternative intéressante à la recherche textuelle. Elle permet non seulement de produire des représentations de ces collections, mais aussi, dans le cas de visualisations interactives par exemple, de découvrir leurs contenus. Contrairement au graphique en barre présenté plus haut, l’utilisation de points pour représenter les œuvres une les rends découvrables: en survolant un élément, on obtient le titre de l’œuvre et le clic redirige vers une page qui lui est dédiée. On peut ainsi découvrir une œuvre dont on ne connaissait ni l’existence, ni l’artiste, ni l’emplacement. On obtient ainsi une forme d’accès à la collection davantage caractérisée par la sérendipité et une approche sensorielle. 
 
-<iframe width="550" height="794" frameborder="0"
+<iframe width="550" height="294" frameborder="0"
   src="https://observablehq.com/embed/27a690d9c785e7cb?cells=minichrono"></iframe>
+
 
 <!--<img src="../img/donnees-MAC_testChronologieProd_1990.png" alt="Chronologie par points d’œuvres du MAC de 1990 à 2023" style="zoom: 33%;" />-->
 
@@ -43,10 +46,6 @@ Par exemple, Torsten Kathke, Juliane Tomann et Mirko Uhlig proposent de rassembl
 En créant des interfaces qui invitent à interagir avec les données, j‘aurai pour objectif de créer des contre-récits pour déjouer les normes de visibilités qui discriminent la découvrabilité des contenus culturels. La découvrabilité représente le « potentiel pour un contenu, disponible en ligne, d'être aisément découvert par des internautes dans le cyberespace, notamment par ceux qui ne cherchaient pas précisément le contenu en question » ([OQLF «Découvrabilité»](https://vitrinelinguistique.oqlf.gouv.qc.ca/fiche-gdt/fiche/26541675/decouvrabilite)). À l’échelle d’une collection, on pourrait considérer <!--je propose de considérer?--> la découvrabilité comme le potentiel pour une œuvre d’être découverte parmi les données de l’institution. Ainsi, plutôt que de sélectionner des chef-d’œuvres pour représenter une collection, pourrait-on faire place à la sérendipité et à l’agentivité des publics pour se familiariser avec son contenu? 
 
 <!--découvrabilité en data viz : il s’agirait du potentiel pour une œuvre à contribuer au récit construit par la représentation (visuelle ou matérielle)-->
-
-
-
-
 
 
 
@@ -82,35 +81,36 @@ Questions connexes
 - tester un protocole de recherche-création
 - changement de medium → changement de récit (narrative?)
 
-fdfds
+
 
 ## État des lieux : représenter de données
 
-de la visualisation à la physicalisation, vers des objets artistiques
+Situer la proposition de recherche à partir d’un état des lieux sur les différents types d’interface pour la représentation de données, de la visualisation de données jusqu’à leur physicalisation, en incluant également certaines productions artistiques. 
 
 ### fondements
 
-disciplines de la visualisation de données, formes graphiques
+La littérature au sujet de la visualisation de données provient de différents domaines. *The Visual Display of Quantitative Information* du statisticien Edward Tufte est un ouvrage fondamental publié pour la première fois en 1983 qui analyse des exemples historiques et contemporain tout en produisant des recommandations pour la production de graphiques. Ces recommandations sont encore aujourd’hui au centre de ce que les concepteur·rice·s et enseignant·e·s de visualisation de données nomment les « bonnes pratiques ». Tufte y définit un graphique de données comme la présentation (*display*) visuelle de quantités mesurées par l’usage combiné de points, de lignes, d’un système de coordonnées, de symboles, de mots, d’ombrages et de couleurs (Tufte, 2018, 9). En tant que statisticien, Tufte définit l’objectif des graphiques statistiques comme étant des instruments qui aident à raisonner à propos d’information quantitative  (Tufte, 2018, 91). Un autre ouvrage de référence, la *Sémiologie graphique* dont les éditions multiples soulignent l’importance (1967, 1973, 1998, 2005, 2013) est signé du cartographe Jacques Bertin. Dans cette théorie de la représentation graphique, Bertin distingue la graphique, comme image rationnelle, à la fois de l’image figurative et de la mathématique (Bertin, 213, 6). En distinguant l’information de sa représentation, il établit un système graphique pour décrire l’exercice de la transcription graphique selon l’expression de chaque composante et ses variations. Quand à Michael Friendly, un statisticien formé en mathématiques et professeur en psycologie, ce dernier a fait d’importantes contributions à l’histoire de la visualisation de données tout au long de sa carrière, du projet web *Milestones in the History of Thematic Cartography, Statistical Graphics, and Data Visualisation. An illustrated chronology of innovations by Michael Friendly and Daniel J. Denis* publié en 2001 à la publication de l’ouvrage *A History of Data Visualisation & Graphic Communication* avec Howard Wainer (2021). 
+
+Les contributions interdisciplinaires 
+
+- IEEE vis (depuis 1990), <!--Tapestry: The Data Storytelling Conference??-->
+- diversité de livres publiés à partir des années 2010, notamment pour transmettre l’enseignement (how to, bonnes pratiques, exemples actualisés, destinés à des publics divers)
+
+
+
+Les développements 
+
+
 
 <!-- avant les ordinateurs-->
 
-- Tufte: statisticien
+#### Origines
 
-  - représentation visuelle de données quantitative (*display* = démonstration, affichage, exposition, faire preuve). Théorie et pratique, exemples et analyse « how to display data for precise, effective, quick analysis ». Detection of graphical deception
-
-    > Data graphics visually display measured quantities by means of the combined use of points, lines, a coordinate system, numbers, symbols, words, shading, and color (2018)
-    >
-    > Occasionally artfulness of design makes a graphic worthy of the Museum of Modern Art, but essentially statistical graphics are instruments to help people reason about quantitative information (Tufte, 2018, 91)
-
-  - escaping flatlands in *Envisioning information*. narratives
-
-  - *Visual explanations: images and quatities, evidence and narrative* animations and scientific visualisations, design stratgies
-
-- Bertin: cartographe et « père de la sémiologie graphique »
+- 
 
 - Friendly: formé en mathémathiques puis devient prof en psychologie et statisticien. Contribution majeure à l’histoire de la visualisation de données (Friendly et Wainer 2021)
 
-- Drucker *Graphesis*, théoricienne de l’esthétique visuelle, humanités numériques
+- Drucker *Graphesis*, théoricienne de l’esthétique visuelle, humanités numériques & lecture distante (Krautli, 2016, 42-46)
 
   - Cette recherche doctorale propose de répondre à l’appel de Johanna Drucker de développer une épistémologie visuelle pour les humanités (2014). Dans ses recherches, elle introduit la visualisation comme un vecteur de réflexion, de questionnement et de production de savoir (Drucker 2020). 
 
@@ -118,7 +118,15 @@ disciplines de la visualisation de données, formes graphiques
 
   - adjust goals, not arrive with necessity for a proof → Meirelles à consulter
 
-<!-- après les ordinateurs-->
+###  formes actuelles particulières
+
+- *critical visualisation* Peter Hall et Patricio Davila → à consulter
+- feminist data visualisation
+- *autographic design* Dietmar Offenhuber → notes de lectures partielles, à compléter
+
+
+
+### Pratiques numériques
 
 - pratiques interactives
 
@@ -126,11 +134,7 @@ disciplines de la visualisation de données, formes graphiques
 
 <!--not « designs for display of information » (Tufte, 2018, 191) but designs for display of collections-->
 
-###  formes actuelles particulières
-
-- *critical visualisation* Peter Hall et Patricio Davila → à consulter
-- feminist data visualisation
-- *autographic design* Dietmar Offenhuber → notes de lectures partielles, à compléter
+- 
 
 
 
