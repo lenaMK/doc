@@ -87,55 +87,56 @@ Questions connexes
 
 Situer la proposition de recherche à partir d’un état des lieux sur les différents types d’interface pour la représentation de données, de la visualisation de données jusqu’à leur physicalisation, en incluant également certaines productions artistiques. 
 
-double statut de la visualsiation de données: théorie + pratique. Diversité d’ouvrages
+<!--annoncer comment/pourquoi on va aller de la visualisation vers la physicalisation, et finir avec art et design-->
+
+
+
+La représentation des données
+
+- infographie
+- data viz, info viz
+- Kosara pragmatic vs artistic visualisation
+- data art
+
+
+
+data viz terme qui émerge dans les années 80 et dont l’utilisation se met à augmenter de façon exponentielle aux alentours des années 2010
 
 <img src="/home/lenamk/.config/Typora/typora-user-images/image-20250317181824723.png" alt="image-20250317181824723" style="zoom: 25%;" />
 
-### fondements
+### Fondements et interdisciplinarité en visualisation de données
+
+<!-- récit dominant, questionner si ça m’intéresse de contribuer à ressasser ce récit dominant-->
 
 La littérature au sujet de la visualisation de données provient de différents domaines. *The Visual Display of Quantitative Information* du statisticien Edward Tufte est un ouvrage fondamental qui analyse des exemples historiques et contemporain à sa publication en 1983, tout en produisant des recommandations pour la production de graphiques. Au fil des édititions et des nombreux tirages de cet ouvrage, ses recommandations sont encore aujourd’hui au centre de ce que les concepteur·rice·s et enseignant·e·s de visualisation de données nomment les « bonnes pratiques ». Tufte y définit un graphique de données comme la présentation (*display*) visuelle de quantités mesurées par l’usage combiné de points, de lignes, d’un système de coordonnées, de symboles, de mots, d’ombrages et de couleurs (Tufte, 2018, 9). En tant que statisticien, Tufte définit l’objectif des graphiques statistiques comme étant des instruments qui aident à raisonner à propos d’information quantitative  (Tufte, 2018, 91). La *Sémiologie graphique*, dont les éditions également multiples (1967, 1973, 1998, 2005, 2013) attestent de l’usage en tant qu’ouvrage de référence, provient du cartographe Jacques Bertin. Dans cette théorie de la représentation graphique, Bertin différencie la graphique, comme image rationnelle, à la fois de l’image figurative et de la mathématique (Bertin, 213, 6). En distinguant l’information de sa représentation, il établit un système graphique pour décrire l’exercice de la transcription graphique selon l’expression de chaque composante et ses variations. Michael Friendly, statisticien formé en mathématiques et professeur en psychologie, a fait d’importantes contributions à l’histoire de la visualisation de données tout au long de sa carrière, du projet web *Milestones in the History of Thematic Cartography, Statistical Graphics, and Data Visualisation. An illustrated chronology of innovations by Michael Friendly and Daniel J. Denis* publié en 2001 à la publication de l’ouvrage *A History of Data Visualisation & Graphic Communication* avec Howard Wainer (2021). <!-- Palsky *Des chiffres et des cartes*-->
 
 Le design est un milieu qui contribue de façon important aux références en visualisations de données, comme l’ouvrage *Design for Information: An Introduction to the Histories, Theories, and Best Practices behind Effective Information Visualizations* (Meirelles, 2013). Son autrice, Isabelle Meirelles, a également contribué à la littérature en considérant les défis interdisciplinaires en visualisation de données (avec Kjærgaard, Meyer et Wong, 2012). Le *Centre for Innovation in Information Visualization and Data Driven Design* dirigé par Sara Diamond expérimente avec ces enjeux, en rassemblant des artistes, des designers et des acteurs provenant des milieux des médias, des sciences humaines et des sciences sociales dans un partenariat de recherche interdisciplinaire (2011). Issu du milieu du design industriel, Manuel Lima a contribué des ouvrages sur la dimension socio-culturelle des visualisations en réseaux (2011), les arborescences (2014) et les cercles (2017) <!-- à confirmer-->. 
 
-Du côté des sciences et technologies (STEM?), la visualisation de données est adressée de façon double, d’une part comme théorie et de l’autre comme pratique <!-- même chose que carto, Besse-->. *Data Visualisation: A Handbook for Data Driven Design* d’Andy Kirk (2016) cherche à distinguer la pratique de la technique, en évitant l’écueil des outils pour se concentrer sur *the underlying craft of data visualisation through a tool-agnostic approach* (Kirk, 2019, 4). *Better Data Visualisations: A Guide for Scholars, Researchers, and Wonks* (Schwabish 2021) prend quant à lui une approche plus encyclopédique, en effectuant une typologie détaillée avec plus de 500 exemples de visualisations. Il existe également un grand nombre d’ouvrages techniques, comme le *Handbook of Data Visualization* (Chen, Härdle et Unwin, 2007) ou encore *Hands-On Data Visualization* (Dougherty et Ilyankou 2021). Ces ouvrages, publiés des éditeurs spécialisés en science, en technologie et en informatique (Springer pour le premier et O’Reilly pour le second), sont des manuels qui transmettent la théorie par la production de solutions techniques. Certains se dédient spécifiquement à l’usage d’un langage ou d’une librairie de programmation, comme *Visualizing data* (Fry, 2008) dont l’auteur a co-développé *Processing*<!--note de bas de page pour faire le lien vers p5?--> ou *Interactive data visualization for the Web : an introduction to designing with D3* (Murray, 2017) qui présente l’utilisation de la librairie *D3.js*. Ces deux librairies, dédiées à la création de visualisations et de graphiques, feront l’objet d’une présentation plus étendue dans la section méthodologique car j’utilise *D3.js* et *P5.js* (la version en javascript de *Processing*) dans ma recherche.
+Du côté de l’informatique, la visualisation de données est adressée de façon double, d’une part comme théorie et de l’autre comme pratique <!-- même chose que carto, Besse-->. *Data Visualisation: A Handbook for Data Driven Design* d’Andy Kirk (2016) cherche à distinguer la pratique de la technique, en évitant l’écueil des outils pour se concentrer sur *the underlying craft of data visualisation through a tool-agnostic approach* (Kirk, 2019, 4). *Better Data Visualisations: A Guide for Scholars, Researchers, and Wonks* (Schwabish 2021) prend quant à lui une approche plus encyclopédique, en effectuant une typologie détaillée avec plus de 500 exemples de visualisations. Il existe également un grand nombre d’ouvrages techniques, comme le *Handbook of Data Visualization* (Chen, Härdle et Unwin, 2007) ou encore *Hands-On Data Visualization* (Dougherty et Ilyankou 2021). Ces ouvrages, publiés des éditeurs spécialisés en science, en technologie et en informatique (Springer pour le premier et O’Reilly pour le second), sont des manuels qui transmettent la théorie par la production de solutions techniques. Certains se dédient spécifiquement à l’usage d’un langage ou d’une librairie de programmation, comme *Visualizing data* (Fry, 2008) dont l’auteur a co-développé *Processing*<!--note de bas de page pour faire le lien vers p5?--> ou *Interactive data visualization for the Web : an introduction to designing with D3* (Murray, 2017) qui présente l’utilisation de la librairie *D3.js*. Ces deux librairies, dédiées à la création de visualisations et de graphiques, feront l’objet d’une présentation plus étendue dans la section méthodologique car j’utilise *D3.js* et *P5.js* (la version en javascript de *Processing*) dans ma recherche.
+
+*Critical Visualization* de Peter Hall et Patricio Davila (2023) est une publication plus thématique qui énonce les enjeux critiques sous-jacents à la visualisation de données, un aspect lacunaire ou manquant dans les nombreux ouvrages techniques. Les auteurs présentent un cadre conceptuel pour la production de visualisations critiques, en commençant par situer le fait que les décisions par rapport aux données et à leur représentation ne sont jamais neutres. Pour ce faire, ils relèvent l’importance de questionner qui a créé la visualisation, quand et pourquoi, mais surtout dans quel contexte culturel, avec quels système de croyance et en se demandant qui est exclu (ou ce qui est exclu) dans la visualisation (Hall et Davila, 2023, 14-15). Dans le chapitre « Disruptive Histories », Hall et Davila cherchent également à perturber les approches dominantes en visualisation et proposent une histoire alternative de la visualisation critique (2023, 45-75).
+
+### Des données à leur représentation 
+
+<!-- mettre les données au début? mais besoin d’amener hall-davila + offenhuber après -->
+
+Il faut donc appliquer les mêmes questionnements sur les données: qui les a produites et à quelles fins, et quel est notre posture par rapport à ces données? Dans *Graphesis: Visual Forms of Knowledge Production* (2014), Johanna Drucker propose de changer le vocabulaire, en soulignant que les données ne sont pas *données* mais *captées*. Ainsi, l’aspect constructiviste des graphiques se révèle au dépit de l’illusion de leur « simple » valeur quantitative. Le but est alors de créer des visualisations qui exposent le principe interprétatif du savoir au lieu de le dissimuler dans une prétendue objectivité (Drucker, 2014, 128). 
+
+Catherine d’Ignazio et Lauren F. Klein apportent une perspective féministe intersectionnelle sur les données avec *Data Feminism* (2020). En situant l’éthique au cœur des sciences de l’information, les autrices mettent de l’avant des principes autour de l’identification et la remise en question des enjeux de pouvoir, la place de l’émotion, de l’affect et l’expérience incarnée (*embodiment*). Elles cherchent à déconstruire les biais dans les systèmes de classifications comme la binarité et les hiérarchies et proposent de cultiver une pensée plurielle dans la conception de modèles de données comme prévention contre la violence épistémique. La documentation prend également un rôle essentiel pour nommer et créditer les besognes trop souvent sous-estimées et invisibilisées, ainsi que pour révéler le coût réel et planétaire de la production de données.
+
+Une approche plus matérialiste des données est apportée par Julie Freeman dans sa thèse intitulée « Defining Data as an Art Material » (2017). En tant qu’artiste, elle y explore la définition, le rôle et l’emploi de données dans le *data art*  – une appellation proposée pour regrouper les pratiques artistiques utilisant les données comme médium. Étudier l’emploi de données dans des pratiques artistiques requiert un cadre d’analyse plus précis, ce qui a mené l’autrice a co-créer une taxonomie pour décrire les données qui servent de medium artistique (Freeman, Wiggins, Starks et Sandler, 2018). Face à la grande variété de types de données, la classification permet d’expliciter ainsi ce qui est entendu par le terme « données », d’en définir la matérialité, la source, les principes (système de représentation) et les qualités (format, licence). Cette taxonomie émane des questions classiquement posée lorsqu’on étudie un médium artistique plus traditionnel: « where it was made, who made it, where it is from, what does it comprise, who owns it, how does it need to be stored, does it transform or degrade ? » (Freeman, Wiggins, Starks et Sandler, 2018, 76).
+
+Cette veine matérialiste est amenée encore plus loin par Dietmar Offenhuber dans son ouvrage *Autographic design. The Matter of Data in a Self-Inscribing World* (2024). Le professeur du département d’art et de design à la Northeastern University introduit ainsi la notion d’autographie, par opposition avec l’allographie et comme contre-modèle à la visualisation données, comme « a practice that is less concerned with interpreting data than with revealing their material origins and the relationship between data and the world » (Offenhuber, 2024, 3). Il remonte aux sources et aux manifestations matérielles à l’origine des données pour ensuite identifier les façons dont le monde s’inscrit lui-même, où l’environnement physique archive (conserve la trace) et traite de l’information (Offenhuber, 2024, 5), comme les carottes de glace par exemple. Le design autographique est ainsi une pratique de monstration des conditions qui permettent aux traces d’émerger; il sert de guide pour leur interprétation, démontrant la causalité et la preuve qui y est contenue (Offenhuber, 2024, 49). <!-- plus de choses à dire ici, voir combien je développe-->
+
+### La visualisation de données culturelles
+
+Cette première revue de littérature me permet de situer mon travail, d’une part en ex
 
 
 
+<!-- doit mener vers les données culturelles comme type spécifique de données-->
 
 
-
-
-
-
-sujet abordé dans la thèse
-
-- processus de création algorithmique (=/=infographiques, sans avoir été restreint à l’usage de la machine)
-- environnement de création, de D3.js aux notebooks observable
-- data sketches
-
-mon projet n’est pas statistique, ni cartographique, quel est-il? non-« routine, workaday designs »(tufte, 2018, 179) , *unique, carefully designed data-specific results*?  , not « designs for display of information » (Tufte, 2018, 191) but designs for display of collections?
-
-###  formes actuelles particulières
-
-- *critical visualisation* Peter Hall et Patricio Davila → à consulter
-- feminist data visualisation
-- *autographic design* Dietmar Offenhuber → notes de lectures partielles, à compléter
-
-
-
-### Comment on fait, pourquoi on fait des data viz? 
-
-Johanna Drucker graphesis
-
-à l’appel de Johanna Drucker de développer une épistémologie visuelle pour les humanités (2014). Dans ses recherches, elle introduit la visualisation comme un vecteur de réflexion, de questionnement et de production de savoir (Drucker 2020). 
-
-
-
-Lamqaddam, Houda. 2022. “In Search of Meaning: Thinking Information Visualization within Art History Research.”
-
-Mk mémoire? but = recherche
-
-### visualisation de données culturelles
 
 contextes de création, buts et usages
 
@@ -166,7 +167,7 @@ Un des moteurs d’instigation de ce domaine porte sur les origines multiples et
 
 
 
-#### Pratiques d’art, d’artisanat et de design qui incorporent des données
+#### Pratiques d’art, d’artisanat et de design qui incorporent des données [notes]
 
  à la croisée de la textilité et de l’algorithmique agissent comme sources d’inspirations transdisciplinaires
 
@@ -175,9 +176,41 @@ Un des moteurs d’instigation de ce domaine porte sur les origines multiples et
 - data art? algo art with data? 
 - Rapport entre les données (corpus) et les œuvres (objets) qu’on étudiera pour exemplifier son processus d’expérimentation.
 
-## Cadre théorique
+---
+
+## Cadre théorique [notes]
 
 <!--cadre pour penser l’artisanat comme une tech et la tech comme de l’artisanat. Comment est-ce qu’on pense comme ça (cadre théorique), comment est-ce qu’on le met à l’épreuve (protocole)-->
+
+
+
+### Comment on fait, pourquoi on fait des data viz? 
+
+Johanna Drucker graphesis
+
+à l’appel de Johanna Drucker de développer une épistémologie visuelle pour les humanités (2014). Dans ses recherches, elle introduit la visualisation comme un vecteur de réflexion, de questionnement et de production de savoir (Drucker 2020). 
+
+
+
+Lamqaddam, Houda. 2022. “In Search of Meaning: Thinking Information Visualization within Art History Research.”
+
+Mk mémoire? but = recherche
+
+
+
+
+
+sujet abordé dans la thèse
+
+- processus de création algorithmique (=/=infographiques, sans avoir été restreint à l’usage de la machine)
+- environnement de création, de D3.js aux notebooks observable
+- data sketches
+
+mon projet n’est pas statistique, ni cartographique, quel est-il? non-« routine, workaday designs »(tufte, 2018, 179) , *unique, carefully designed data-specific results*?  , not « designs for display of information » (Tufte, 2018, 191) but designs for display of collections?
+
+###  
+
+
 
 <!--Réfléchir à ce qui est le plus utile pour réfléchir dans tout ce que tu as listé là, tout en restant suffisamment général (transversal)pour que d’autres options s’y greffent.-->
 
