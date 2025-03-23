@@ -1,4 +1,4 @@
-# Examen de sythèse
+# Examen de synthèse
 
 [toc]
 
@@ -87,56 +87,21 @@ Questions connexes
 
 Situer la proposition de recherche à partir d’un état des lieux sur les différents types d’interface pour la représentation de données, de la visualisation de données jusqu’à leur physicalisation, en incluant également certaines productions artistiques. 
 
-### fondements
-
-La littérature au sujet de la visualisation de données provient de différents domaines. *The Visual Display of Quantitative Information* du statisticien Edward Tufte est un ouvrage fondamental publié pour la première fois en 1983 qui analyse des exemples historiques et contemporain tout en produisant des recommandations pour la production de graphiques. Ces recommandations sont encore aujourd’hui au centre de ce que les concepteur·rice·s et enseignant·e·s de visualisation de données nomment les « bonnes pratiques ». Tufte y définit un graphique de données comme la présentation (*display*) visuelle de quantités mesurées par l’usage combiné de points, de lignes, d’un système de coordonnées, de symboles, de mots, d’ombrages et de couleurs (Tufte, 2018, 9). En tant que statisticien, Tufte définit l’objectif des graphiques statistiques comme étant des instruments qui aident à raisonner à propos d’information quantitative  (Tufte, 2018, 91). Un autre ouvrage de référence, la *Sémiologie graphique* dont les éditions multiples soulignent l’importance (1967, 1973, 1998, 2005, 2013) est signé du cartographe Jacques Bertin. Dans cette théorie de la représentation graphique, Bertin distingue la graphique, comme image rationnelle, à la fois de l’image figurative et de la mathématique (Bertin, 213, 6). En distinguant l’information de sa représentation, il établit un système graphique pour décrire l’exercice de la transcription graphique selon l’expression de chaque composante et ses variations. Quand à Michael Friendly, un statisticien formé en mathématiques et professeur en psycologie, ce dernier a fait d’importantes contributions à l’histoire de la visualisation de données tout au long de sa carrière, du projet web *Milestones in the History of Thematic Cartography, Statistical Graphics, and Data Visualisation. An illustrated chronology of innovations by Michael Friendly and Daniel J. Denis* publié en 2001 à la publication de l’ouvrage *A History of Data Visualisation & Graphic Communication* avec Howard Wainer (2021). <!-- Palsky *Des chiffres et des cartes*-->
-
-
-
-pratiques numériques, visualisations interactives, 
-
-- ~ diversité de livres publiés à partir des années 2010 (dans ma biblio comme dans les ngrams par exemple), popularité de la visualisation de donnée, livres pour que les gens apprennent à faire des data viz -enseignement (how to, bonnes pratiques, exemples actualisés, destinés à des publics divers), augmentation d’entreprises et de services logiciels. 
-
-  - Data driven design Andy Kirk 2016 (2016, 2017, 2018, 2019): handbook vs manual, but writing through the lense of tools is hard, practical rather than technical, focusing on the *underlying craft of data visualisation through a tool-agnostic approach* (Kirk, 2019, 4). 
-    - Part A: Foundations
-    - Part B: Hidden thinking (chap 3 p71 discusses the influence of technology on the work you produce, the way it shapes your ambitions, part of constraints in the creation of the project)
-    - Part C: Developing your design solutions 
-    - online resources 
-  - Typologie détaillée (ambition encyclopédique? +500 exemples)  ex Jonathan Schwabish
-
-- design 
-
-  - Meirelles 2013 Design standpoint (étudiants en graphisme), études de cas avec lien entre enjeu technique (théorique) et solution graphique, langage visuel, vocabulaire graphique (veine de Bertin mais actualisé à la visualisation de l’information (De playfair à aujourd’hui)) design solutions (no technical)
-  - [Manuel Lima](https://en.wikipedia.org/wiki/Manuel_Lima), design industriel <!--rendu chez google. Vidéo Visualizing knowledge à Chicago + TED talk--> «  Ces représentations aident à clarifier les données et ont généralement un aspect d'œuvre d'art. Ce livre en présente et explique près de 300. »
-
-- ouvrages techniques
-
-  - Chen, Chun-houh, Wolfgang Härdle, Antony Unwin, and SpringerLink. 2007. *Handbook of Data Visualization*. Springer Handbooks of Computational Statistics. Berlin ; London: Springer. http://dx.doi.org/10.1007/978-3-540-33037-0.
-
-  - [Ben Shneiderman](https://en.wikipedia.org/wiki/Ben_Shneiderman#Publications)
-
-  - [ben fry:](https://en.wikipedia.org/wiki/Ben_Fry) visualizing data 2008
-
-    During his time at MIT Media Lab, Fry co-developed **Processing**, an open-source programming language and integrated development environment (IDE) built for the electronic arts and visual design communities with the purpose of teaching the basics of computer programming in a visual context. The Processing design environment developed together with Casey Reas
-
-- interactive data viz - toward DH? educator and engineer
-
-  - Dougherty, Jack, and Ilya Ilyankou. n.d. *Hands-On Data Visualization*. 2021. http://handsondataviz.github.io/.
-
-- langages de programmation : R, python (panda), JS (3.js, p5) as web standard
-
-  - processing 
-  - d3j.js popularisation à partir de 2011 
-
-  > En 2009, l'étudiant en doctorat Mike Bostock, le professeur Jeff Heer et l'étudiant Vadim Ogievetsky, membres du Groupe de Visualisation de l'université Stanford créent Protovis, une bibliothèque Javascript destinée à générer des documents graphiques SVG à partir de données. La bibliothèque fut bien accueillie, à la fois par les praticiens de visualisation de données et par les  universitaires. En 2011, le développement de Protovis fut arrêté au profit d'un nouveau projet, D3.js. Aidé de l'expérience acquise par Protovis, Bostock (ainsi que Heer et Ogievetsky) développa D3 pour fournir un framework plus expressif s'appuyant sur les standards web et fournissant de meilleures performances. [wiki](https://fr.wikipedia.org/wiki/D3.js) <!--videos bostock dans zotero dont https://vimeo.com/106198518 The toolmaker’s guide-->
-
-  - *Interactive data visualization for the Web : an introduction to designing with D3* Scott Murray
-
-IEEE vis (depuis 1990), <!--Tapestry: The Data Storytelling Conference??-->
-
-
+double statut de la visualsiation de données: théorie + pratique. Diversité d’ouvrages
 
 <img src="/home/lenamk/.config/Typora/typora-user-images/image-20250317181824723.png" alt="image-20250317181824723" style="zoom: 25%;" />
+
+### fondements
+
+La littérature au sujet de la visualisation de données provient de différents domaines. *The Visual Display of Quantitative Information* du statisticien Edward Tufte est un ouvrage fondamental qui analyse des exemples historiques et contemporain à sa publication en 1983, tout en produisant des recommandations pour la production de graphiques. Au fil des édititions et des nombreux tirages de cet ouvrage, ses recommandations sont encore aujourd’hui au centre de ce que les concepteur·rice·s et enseignant·e·s de visualisation de données nomment les « bonnes pratiques ». Tufte y définit un graphique de données comme la présentation (*display*) visuelle de quantités mesurées par l’usage combiné de points, de lignes, d’un système de coordonnées, de symboles, de mots, d’ombrages et de couleurs (Tufte, 2018, 9). En tant que statisticien, Tufte définit l’objectif des graphiques statistiques comme étant des instruments qui aident à raisonner à propos d’information quantitative  (Tufte, 2018, 91). La *Sémiologie graphique*, dont les éditions également multiples (1967, 1973, 1998, 2005, 2013) attestent de l’usage en tant qu’ouvrage de référence, provient du cartographe Jacques Bertin. Dans cette théorie de la représentation graphique, Bertin différencie la graphique, comme image rationnelle, à la fois de l’image figurative et de la mathématique (Bertin, 213, 6). En distinguant l’information de sa représentation, il établit un système graphique pour décrire l’exercice de la transcription graphique selon l’expression de chaque composante et ses variations. Michael Friendly, statisticien formé en mathématiques et professeur en psychologie, a fait d’importantes contributions à l’histoire de la visualisation de données tout au long de sa carrière, du projet web *Milestones in the History of Thematic Cartography, Statistical Graphics, and Data Visualisation. An illustrated chronology of innovations by Michael Friendly and Daniel J. Denis* publié en 2001 à la publication de l’ouvrage *A History of Data Visualisation & Graphic Communication* avec Howard Wainer (2021). <!-- Palsky *Des chiffres et des cartes*-->
+
+Le design est un milieu qui contribue de façon important aux références en visualisations de données, comme l’ouvrage *Design for Information: An Introduction to the Histories, Theories, and Best Practices behind Effective Information Visualizations* (Meirelles, 2013). Son autrice, Isabelle Meirelles, a également contribué à la littérature en considérant les défis interdisciplinaires en visualisation de données (avec Kjærgaard, Meyer et Wong, 2012). Le *Centre for Innovation in Information Visualization and Data Driven Design* dirigé par Sara Diamond expérimente avec ces enjeux, en rassemblant des artistes, des designers et des acteurs provenant des milieux des médias, des sciences humaines et des sciences sociales dans un partenariat de recherche interdisciplinaire (2011). Issu du milieu du design industriel, Manuel Lima a contribué des ouvrages sur la dimension socio-culturelle des visualisations en réseaux (2011), les arborescences (2014) et les cercles (2017) <!-- à confirmer-->. 
+
+Du côté des sciences et technologies (STEM?), la visualisation de données est adressée de façon double, d’une part comme théorie et de l’autre comme pratique <!-- même chose que carto, Besse-->. *Data Visualisation: A Handbook for Data Driven Design* d’Andy Kirk (2016) cherche à distinguer la pratique de la technique, en évitant l’écueil des outils pour se concentrer sur *the underlying craft of data visualisation through a tool-agnostic approach* (Kirk, 2019, 4). *Better Data Visualisations: A Guide for Scholars, Researchers, and Wonks* (Schwabish 2021) prend quant à lui une approche plus encyclopédique, en effectuant une typologie détaillée avec plus de 500 exemples de visualisations. Il existe également un grand nombre d’ouvrages techniques, comme le *Handbook of Data Visualization* (Chen, Härdle et Unwin, 2007) ou encore *Hands-On Data Visualization* (Dougherty et Ilyankou 2021). Ces ouvrages, publiés des éditeurs spécialisés en science, en technologie et en informatique (Springer pour le premier et O’Reilly pour le second), sont des manuels qui transmettent la théorie par la production de solutions techniques. Certains se dédient spécifiquement à l’usage d’un langage ou d’une librairie de programmation, comme *Visualizing data* (Fry, 2008) dont l’auteur a co-développé *Processing*<!--note de bas de page pour faire le lien vers p5?--> ou *Interactive data visualization for the Web : an introduction to designing with D3* (Murray, 2017) qui présente l’utilisation de la librairie *D3.js*. Ces deux librairies, dédiées à la création de visualisations et de graphiques, feront l’objet d’une présentation plus étendue dans la section méthodologique car j’utilise *D3.js* et *P5.js* (la version en javascript de *Processing*) dans ma recherche.
+
+
+
+
 
 
 
