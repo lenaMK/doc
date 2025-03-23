@@ -94,8 +94,8 @@ Situer la proposition de recherche à partir d’un état des lieux sur les diff
 La représentation des données
 
 - infographie
-- data viz, info viz
-- Kosara pragmatic vs artistic visualisation
+- data viz, info viz, Kosara pragmatic vs artistic visualisation
+- data phyz
 - data art
 
 
@@ -124,32 +124,33 @@ Il faut donc appliquer les mêmes questionnements sur les données: qui les a pr
 
 Catherine d’Ignazio et Lauren F. Klein apportent une perspective féministe intersectionnelle sur les données avec *Data Feminism* (2020). En situant l’éthique au cœur des sciences de l’information, les autrices mettent de l’avant des principes autour de l’identification et la remise en question des enjeux de pouvoir, la place de l’émotion, de l’affect et l’expérience incarnée (*embodiment*). Elles cherchent à déconstruire les biais dans les systèmes de classifications comme la binarité et les hiérarchies et proposent de cultiver une pensée plurielle dans la conception de modèles de données comme prévention contre la violence épistémique. La documentation prend également un rôle essentiel pour nommer et créditer les besognes trop souvent sous-estimées et invisibilisées, ainsi que pour révéler le coût réel et planétaire de la production de données.
 
-Une approche plus matérialiste des données est apportée par Julie Freeman dans sa thèse intitulée « Defining Data as an Art Material » (2017). En tant qu’artiste, elle y explore la définition, le rôle et l’emploi de données dans le *data art*  – une appellation proposée pour regrouper les pratiques artistiques utilisant les données comme médium. Étudier l’emploi de données dans des pratiques artistiques requiert un cadre d’analyse plus précis, ce qui a mené l’autrice a co-créer une taxonomie pour décrire les données qui servent de medium artistique (Freeman, Wiggins, Starks et Sandler, 2018). Face à la grande variété de types de données, la classification permet d’expliciter ainsi ce qui est entendu par le terme « données », d’en définir la matérialité, la source, les principes (système de représentation) et les qualités (format, licence). Cette taxonomie émane des questions classiquement posée lorsqu’on étudie un médium artistique plus traditionnel: « where it was made, who made it, where it is from, what does it comprise, who owns it, how does it need to be stored, does it transform or degrade ? » (Freeman, Wiggins, Starks et Sandler, 2018, 76).
+Une approche davantage axées sur la matérialité des données est apportée par Julie Freeman dans sa thèse intitulée « Defining Data as an Art Material » (2017). En tant qu’artiste, elle y explore la définition, le rôle et l’emploi de données dans le *data art*  – une appellation proposée pour regrouper les pratiques artistiques utilisant les données comme médium. Étudier l’emploi de données dans des pratiques artistiques requiert un cadre d’analyse plus précis, ce qui a mené l’autrice a co-créer une taxonomie pour décrire les données qui servent de medium artistique (Freeman, Wiggins, Starks et Sandler, 2018). Face à la grande variété de types de données, la classification permet d’expliciter ainsi ce qui est entendu par le terme « données », d’en définir la matérialité, la source, les principes (système de représentation) et les qualités (format, licence). Cette taxonomie émane des questions classiquement posée lorsqu’on étudie un médium artistique plus traditionnel: « where it was made, who made it, where it is from, what does it comprise, who owns it, how does it need to be stored, does it transform or degrade ? » (Freeman, Wiggins, Starks et Sandler, 2018, 76).
 
 Cette veine matérialiste est amenée encore plus loin par Dietmar Offenhuber dans son ouvrage *Autographic design. The Matter of Data in a Self-Inscribing World* (2024). Le professeur du département d’art et de design à la Northeastern University introduit ainsi la notion d’autographie, par opposition avec l’allographie et comme contre-modèle à la visualisation données, comme « a practice that is less concerned with interpreting data than with revealing their material origins and the relationship between data and the world » (Offenhuber, 2024, 3). Il remonte aux sources et aux manifestations matérielles à l’origine des données pour ensuite identifier les façons dont le monde s’inscrit lui-même, où l’environnement physique archive (conserve la trace) et traite de l’information (Offenhuber, 2024, 5), comme les carottes de glace par exemple. Le design autographique est ainsi une pratique de monstration des conditions qui permettent aux traces d’émerger; il sert de guide pour leur interprétation, démontrant la causalité et la preuve qui y est contenue (Offenhuber, 2024, 49). <!-- plus de choses à dire ici, voir combien je développe-->
 
-### La visualisation de données culturelles
+### La visualisation (représentation, interfaces d’accès?) de données culturelles
 
-Cette première revue de littérature me permet de situer mon travail, d’une part en ex
-
-
-
-<!-- doit mener vers les données culturelles comme type spécifique de données-->
-
-
+données culturelles <!-- reprendre intro + cf Freeman, données culturelles comme type spécifique de données, les inscrire dans la taxonomie?-->
 
 contextes de création, buts et usages
 
-rich-prospect interfaces, exemples dans les musées 
+rich-prospect interfaces (Sinclair et al), 
 
-- Kraütli = for curators
-- Vane = is data enough? data viz in context, public plus large
+exemples dans les musées 
+
+Kraütli = for curators
+
+Vane = is data enough? data viz in context, public plus large
 
 Desmorat = statactivisme
 
 
 
 ### Data phys
+
+« d’objets (artefacts physiques) dont la géométrie ou la matérialité *encode*[^2] des données » (Jansen et al. 2015, 2)
+
+<!--Le champs (encore jeune) de la physicalisation de données propose une autre avenue, par la création « d’objets (artefacts physiques) dont la géométrie ou la matérialité *encode*[^2] des données » (Jansen et al. 2015, 2). La physicalisation amène ainsi une réflexion sur le rôle du sens du toucher dans la perception de données. -->
 
 En tant que représentation matérielle de données, celle-ci est souvent contrastée avec l’immatérialité ressentie dans la visualisation de données. En effet, dans le cas de visualisation, on n’a pas accès aux données qui ont servi à déterminer la forme graphique. Sur papier dans l’espace physique comme sur l’écran d’une machine pour l’espace numérique, les données d’une visualisation ne sont pas tangibles ou palpables. 
 
@@ -167,7 +168,7 @@ Un des moteurs d’instigation de ce domaine porte sur les origines multiples et
 
 
 
-#### Pratiques d’art, d’artisanat et de design qui incorporent des données [notes]
+### Pratiques d’art, d’artisanat et de design qui incorporent des données [notes]
 
  à la croisée de la textilité et de l’algorithmique agissent comme sources d’inspirations transdisciplinaires
 
