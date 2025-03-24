@@ -69,23 +69,33 @@ Une autre limitation de l’écran est le manque de relief ou de profondeur. On 
 
 ### Questions de recherche
 
-Comment la physicalisation de données peut-elle offrir une nouvelle forme d’accès pour des données culturelles? 
+La question qui animera ma recherche est la suivante: comment la physicalisation de données peut-elle offrir une nouvelle forme d’accès pour des données culturelles? Je mènerai cette recherche à partir de l’hypothèse selon laquelle la création de ces nouvelles formes d’accès passera par une posture interdisciplinaire, en pensant l’artisanat comme une technologie et la technologie comme une pratique artisanale. À la croisée des physicalisations de données et des œuvres/expériences *sensation*nelles, je vais expérimenter avec la fabrication d’objets qui incorporent des données culturelles. Mon objectif sera de produire des objets qui présentent des récits alternatifs et offrent de nouvelles perspectives sur les collections représentées. La création de ces objets comprend les étapes suivantes: 
 
-<!--hypothèse-->En pensant l’artisanat comme une technologie et la technologie comme une pratique artisanale, j’aimerais proposer des expériences sensation-nelles comme nouvelle forme d’accès aux données culturelles.
+1. Choisir un jeu de données provenant d’une institution culturelle
+2. En faire l’analyse pour identifier un (contre-)récit à valoriser; effectuer un travail préparatoire avec les données au besoin
+3. Écrire un algorithme de visualisation qui générera une représentation visuelle de ces données
+4. Sélectionner une expression matérielle pour traduire la visualisation en une physicalisation
+5. S’équiper du matériel nécessaire et compléter la fabrication de l’objet 
 
-- creéer des physicalisation de données qui produisent de nouveaux récits et offrent de nouvelles perspectives sur les collections d’art (GLAM+?)
-- corpus données culturelles à détailler par rapport à l’intro
+Les étapes de fabrication ne sont toutefois pas aussi linéaires. C’est pourquoi elles seront formalisées dans un protocole, afin de fournir un cadre à l’expérimentation et de structurer sa documentation. Ce protocole instancie également la documentation comme une étape essentielle pour inscrire le processus de création dans une démarche de recherche. 
 
-Questions connexes
+Des questions connexes seront également abordées dans le cadre de cette recherche. D’une part, il s’agira d’évaluer l’utilisation d’un protocole pour mener une recherche-création. Son utilisation répétée au cours de la thèse permettra un travail réflexif sur le protocole lui-même, sur son usage et sa pertinence pour la démarche envisagée. De l’autre, je considère les données produites par des institutions culturelles comme faisant partie des archives institutionnelles. Cela m’amènera à réfléchir aux méthodologies existantes pour étudier et pour utiliser ces données, en recherche ainsi que dans divers cadres de diffusion alternatifs.
 
-- tester un protocole de recherche-création
-- changement de medium → changement de récit (narrative?)
+## Représenter de données culturelles: état des lieux
+
+La production d’un état des lieux pour cette recherche requiert en amont la définition de certains termes pour expliciter le sujet abordé.  La visualisation et la physicalisation de données sont toutes deux des façons de montrer et de donner accès à des données. Le terme anglophone « *display* » offrirait un bon point commun terminologique. Employé par Edward Tufte pour parler de « designs for display of information » (Tufte, 2018, 191), ce terme dispose d’une polyphonie pour laquelle un équivalent francophone est difficile à trouver; il signifie autant la démonstration de quelque chose, que sa mise à vue ou son exposition (au sens muséal), son affichage (notamment à l’écran) ou son étalage (comme une vitrine). En l’attente de trouver une solution terminologique plus riche, je parlerai ici de représentation de données. <!-- (dé-)monstration?-->
+
+La représentation de « données » est favorisées au terme connexe de la visualisation de l’information (*information visualisation*), les données étant au cœur du processus de recherche. La façon de créer des représentations visuelles qui est à l’étude dans cette recherche est algorithmique. L’algorithme structure l’image de façon méthodique, elle donne la possibilité d’itérer des centaines voire des milliers de fois sur le résultat (Molnar, 1986, s.p.). L’algorithme donne un résultat « unique, carefully designed [and] data-specific » (Tufte, 2018, 179 <!--à confirmer-->) tout en étant répétable et réutilisable. L’approche algorithmique, par opposition avec l’infographie, devient ainsi particulièrement intéressante pour une démarche expérimentale en recherche-création.
+
+Cet état des lieux sur la représentation de données culturelles se divise en plusieurs parties. Tout d’abord, il situe le champs de la représentation visuelle de données et ses fondements interdisciplinaires. Il se recentre ensuite sur les données elles-même et poursuit avec l’identification des pratiques actuelles de représentations de données culturelles. 
+
+<!--reprendre ici-->
+
+Le champs plus récent de la physicalisation de données est 
 
 
 
-## État des lieux : représenter de données
-
-Situer la proposition de recherche à partir d’un état des lieux sur les différents types d’interface pour la représentation de données, de la visualisation de données jusqu’à leur physicalisation, en incluant également certaines productions artistiques. 
+jusqu’à leur physicalisation, en incluant également certaines productions artistiques. 
 
 <!--annoncer comment/pourquoi on va aller de la visualisation vers la physicalisation, et finir avec art et design-->
 
@@ -93,8 +103,8 @@ Situer la proposition de recherche à partir d’un état des lieux sur les diff
 
 La représentation des données
 
-- infographie
-- data viz, info viz, Kosara pragmatic vs artistic visualisation
+
+
 - data phyz
 - data art
 
@@ -128,21 +138,29 @@ Une approche davantage axées sur la matérialité des données est apportée pa
 
 Cette veine matérialiste est amenée encore plus loin par Dietmar Offenhuber dans son ouvrage *Autographic design. The Matter of Data in a Self-Inscribing World* (2024). Le professeur du département d’art et de design à la Northeastern University introduit ainsi la notion d’autographie, par opposition avec l’allographie et comme contre-modèle à la visualisation données, comme « a practice that is less concerned with interpreting data than with revealing their material origins and the relationship between data and the world » (Offenhuber, 2024, 3). Il remonte aux sources et aux manifestations matérielles à l’origine des données pour ensuite identifier les façons dont le monde s’inscrit lui-même, où l’environnement physique archive (conserve la trace) et traite de l’information (Offenhuber, 2024, 5), comme les carottes de glace par exemple. Le design autographique est ainsi une pratique de monstration des conditions qui permettent aux traces d’émerger; il sert de guide pour leur interprétation, démontrant la causalité et la preuve qui y est contenue (Offenhuber, 2024, 49). <!-- plus de choses à dire ici, voir combien je développe-->
 
-### La visualisation (représentation, interfaces d’accès?) de données culturelles
+### La représentation de données culturelles
 
 données culturelles <!-- reprendre intro + cf Freeman, données culturelles comme type spécifique de données, les inscrire dans la taxonomie?-->
 
 contextes de création, buts et usages
 
-rich-prospect interfaces (Sinclair et al), 
-
 exemples dans les musées 
+
+
+
+
 
 Kraütli = for curators
 
 Vane = is data enough? data viz in context, public plus large
 
 Desmorat = statactivisme
+
+
+
+
+
+rich-prospect interfaces (Sinclair et al), 
 
 
 
@@ -201,13 +219,7 @@ Mk mémoire? but = recherche
 
 
 
-sujet abordé dans la thèse
 
-- processus de création algorithmique (=/=infographiques, sans avoir été restreint à l’usage de la machine)
-- environnement de création, de D3.js aux notebooks observable
-- data sketches
-
-mon projet n’est pas statistique, ni cartographique, quel est-il? non-« routine, workaday designs »(tufte, 2018, 179) , *unique, carefully designed data-specific results*?  , not « designs for display of information » (Tufte, 2018, 191) but designs for display of collections?
 
 ###  
 
