@@ -115,31 +115,55 @@ Cette veine matérialiste est amenée encore plus loin par Dietmar Offenhuber da
 
 données culturelles <!-- reprendre intro + cf Freeman, données culturelles comme type spécifique de données, les inscrire dans la taxonomie?-->
 
-contextes de création, buts et usages
+contextes de création, buts et usages: publics vs usage interne/pour la recherche, division utile/importante?
 
-exemples dans les musées 
+“Munzner’s multi-level typology of abstract visualization tasks [ ], which distinguishes three main motivations for creating and using visualizations: to discover, to present, and to enjoy.” (Dragicevic et al., 2021, p. 5)
 
+[memoire: Nous émettons l’hypothèse que pour procéder à des études quantitatives,  il s’avère nécessaire non seulement de disposer de données, mais aussi  des méthodologies et des outils pour leur manipulation.  L’instrumentation de la recherche, telle qu’étudiée par Christian Jacob  dans ses *Lieux du savoir*, identifie un défi quant au  développement d’environnements logiciels pour l’expérimentation avec des données (2013: s.p.). L’ouvrage *Graphesis. Visual Forms of Knowledge Production*, publié en 2014 par Johanna Drucker, propose une première étude  d’envergure à propos de ce type d’outils. Cette publication annonce le  potentiel d’une épistémologie visuelle au sein des interfaces de  recherche dans le domaine des sciences humaines et sociales. Dans ce  mémoire, nous proposons l’usage de la cartographie et des visualisations comme outils de compréhension et d’interprétation critique de données  quantitatives.]
 
+- 
 
+**2 thèses sur le sujet**, même labo à Londres (dir. Stephen Boyd Davis), emphase sur les chronologies comme forme de visualisation particulièrement importantes pour les données culturelles
 
+Kraütli 2016 = *GLAM data viz for curators*
 
-Kraütli = for curators
+- exploration des collections numérisées pour faciliter *knowledge discovery*, 
+- outil d’analyse visuelle des contenus, potentiel pour la recherches. 
+- Recherche sur l’influence du commissariat (traces des décisions institutionnelles, biais curatoriaux) sur les collections et comment elles se manifestent dans des visualisations (time-based). 
+- Montrer/étudier les données « cachées » (hidden data, not explicitely recorded but nevertheless present in the data). 
+- Practice-led and collaborative approach. 8 **prototypes**, à partir desquelles émergent des **principes** de design, puis 2 implémentations pour les mettre en pratique et démontrer comment ces outils peuvent contribution à la production de connaissances dans les collections culturelles. 
+- Numérisation des collections requiert de nouvelles méthode pour les explorer/interroger, deviennent des artefacts, étudier l’histoire des institutions. **Définitions** de la collection numérisée notamment
 
-Vane = is data enough? data viz in context, public plus large
+Vane 2019 = *is data enough? data viz in context, public plus large* 
 
-Desmorat = statactivisme
+- numérisation ne suffit pas pour rendre les collections accessibles, découvrables et compréhensibles (Terras 2015)
+- Interfaces standards ne permettent pas forcément les interactions désirées. Visualisations pour rendre les récits historiques (historical narratives) visibles. 
+- Public de cette recherche = institutions culturelles
+- définition/objectif de la visualisation culturelle, enjeux de données qualitatives ou nominales
+- Portfolio de 5 projets dans des musées
 
+**Desmorat 2024**: *L’entrée des femmes artistes dans la collection du Musée d’art contemporain de Montréal, de 1964 à 2020 : analyses statistiques et facteurs déterminants*. Dirigées par la professeure Johanne Lamoureux (Université de Montréal), ces recherches ont été menées dans le cadre du Partenariat *Des nouveaux usages des collections dans les musées d’arts* (CIÉCO). La collaboration avec Lena Krause, dans son rôle de responsable de laboratoire à l’*Ouvroir d’histoire de l’art et de muséologie numériques* (Université de Montréal), a débuté à l’occasion de la clinique numérique du laboratoire.
 
+(extraits de l’article à venir)
 
+- Le Musée d’art contemporain de Montréal (MAC) détient une part élevée d’œuvres d’artistes-femmes, comparativement aux musées d’art québécois, nord-américains et d’Europe de l’Ouest (Desmorat 2024, 1-2) → révéler les facteurs qui ont contribué à cette représentation importante des œuvres d’artistes-femmes dans la collection par le moyen de visualisations de données interactives
+- Cette recherche reprend les objectifs des études féministes quantitatives en histoire de l’art, étudiant la « mécanique » institutionnelle qui infléchit l’évolution du nombre d’acquisitions d’œuvres d’artistes-femmes. Une acquisition revient ici à l’inclusion d’une ou de plusieurs œuvres dans la collection permanente du musée, de sorte que l’entrée d’un·e artiste se concrétise à travers les achats ou les dons de ses œuvres. Dans cette perspective, l’entrée des femmes artistes au MAC s’effectue par le moyen de l’acquisition de leurs œuvres. 
+- co-création de graphiques à partir de deux jeux de données ouvertes publiés par le MAC sur le portail Données Québec . Les graphiques produits sont chronologiques et interactifs. Ce sont des « portraits statistiques » qui donnent à voir les étapes de la constitution de la collection du MAC au travers du prisme des catégories de genre des artistes des œuvres acquises. 
+- La mobilisation de plusieurs graphiques a permis d’adopter des points de vue complémentaires sur la répartition des acquisitions. L’interactivité des graphiques a facilité la sélection des paramètres (types d’acquisition, médiums, catégories de genre représentées) et des bornes chronologiques pour élaborer des hypothèses et pour faire apparaître des facteurs institutionnels expliquant les grandes étapes de l’entrée des artistes-femmes dans la collection.
+- Les visualisations de données apportent donc une vision ou bien d’ensemble des richesses et des lacunes des collections, ou bien davantage circonscrite et spécifique, selon les paramètres sélectionnés par les personnes qui explorent le graphique. Il s’agit d’un enjeu important à l’heure où les musées cherchent à rendre leurs collections plus inclusives et à faire écho à la diversité sociale au sein des contextes où ils évoluent. Les professionnel·les des musées peuvent dorénavant, s’ils ou elles le souhaitent, s’approprier ces outils dans le cadre de l’évolution de leurs propres pratiques d’acquisition et de conservation.
 
+**exemples dans les musées** 
 
-rich-prospect interfaces (Sinclair et al), 
-
-
+- revue de littérature Vane ch2 sur les chronologies
+- [memoire: En histoire de l’art numérique et dans le domaine plus large des  humanités numériques, nous relevons également la palette d’approches  visuelles originales et conçues spécifiquement pour des données  culturelles dans la thèse de doctorat de Florian Kraütli, *Visualising Cultural Data. Exploring Digital Collection Through Timeline Visualisations* (2016). Certains outils, comme *E.A.T Datascape* (Leclercq et Girard 2013) et les autres projets de l’équipe du Médialab (SciencesPo Paris), *Hypercities* (Presner et al. 2014), *Voyant Tool* (Sinclair et Rockwell 2016), *Palladio* (Conroy 2017) et *Rethinking Guernica* (Peiró et Sevillano 2017), se distinguent particulièrement par la  création d’interfaces interactives avec un riche potentiel  épistémologique. Ces interfaces facilitent les analyses quantitatives  tout en conservant une approche critique à propos des connaissances  ainsi produites.]
+- SMK Open & API (+ Explore : Meyer, Louie, Johanne Engel Aaen, Anitamalina Regitse Tranberg, Peter Kun, Matthias Freiberger, Sebastian Risi, and Anders Sundnes Løvlie. 2024. “Algorithmic Ways of Seeing: Using Object Detection to Facilitate Art Exploration.”)
+- faire analyse plus poussée du MAC répertoire? 
 
 ### Data phys
 
 « d’objets (artefacts physiques) dont la géométrie ou la matérialité *encode*[^2] des données » (Jansen et al. 2015, 2)
+
+Data physicalization has been further defined as a research area which “examines how computer-supported, physical representations of data (i.e., physicalizations), can support cognition, communication, learning, problem solving, and decision making” (Jansen et al. 2015, ?)
 
 <!--Le champs (encore jeune) de la physicalisation de données propose une autre avenue, par la création « d’objets (artefacts physiques) dont la géométrie ou la matérialité *encode*[^2] des données » (Jansen et al. 2015, 2). La physicalisation amène ainsi une réflexion sur le rôle du sens du toucher dans la perception de données. -->
 
@@ -147,11 +171,38 @@ En tant que représentation matérielle de données, celle-ci est souvent contra
 
 Un des moteurs d’instigation de ce domaine porte sur les origines multiples et les apports de différentes cultures à l’histoire de l’encodage et de la transmission de l’information. Parmi les exemples populaires, on retrouve les bulle-enveloppes, des petits objets en argile employés il y a 6000 ans pour la comptabilisation de biens en Mésopotamie («Bulle-enveloppe», [Wikipédia](https://fr.wikipedia.org/wiki/Bulle-enveloppe)), ou encore les quipus (ou khipus), un système de consignation de données formé de cordes et de nœuds utilisé par l’administration de l’empire Inca et dont les traces remontent à 4500 ans («Quipu», [Wikipédia](https://fr.wikipedia.org/wiki/Quipu)). Il s’agit ainsi de reconnaître que les données – au sens d’informations enregistrées de façon en « permettre le stockage, la transmission ou le traitement » (Donnée, [GDT](https://vitrinelinguistique.oqlf.gouv.qc.ca/fiche-gdt/fiche/8358482/donnee)) – n’ont pas été inventées avec les premiers ordinateurs, ni même par les bureaux de statistiques ou d’autres administrations au fonctionnement centré sur l’écriture. Face à l’amplification exponentielle de la place des données dans notre société, ce travail de reconnaissance historique vise notamment à décentrer le savoir occidental pour faire place à une diversité d’épistémologies. Dans ce contexte, la visualisation de données bénéficie aussi d’un rôle toujours plus important, parce qu’elle facilite l’accès à ces données et leur compréhension. Les recherches en physicalisation de données se développent également en ce même sens: de nouvelles pratiques émergent en référence aux autres façons (historiques, culturelles) de penser et d’interagir avec les données. 
 
+*Data und dasein* Trevor Hogan 2016
+
+- brief history of data representation (ch3) beyond the visual modality & physical data representations (39-47)
+- Defining multisensory data representations
+  - labvels: sonification, physicalisation, data sculpture, non-visual visualization, cross/multimodal displays. Crossmodal or multi-modal display. Terms focus on the sensory channel: sensulaization, sensification, perceptualization (92)
+
+> Multisensory data representations are a class of data representation that have a clear intent to reveal insight by encoding data in more than one representational modality and require at least two sensory channels to fully interpret and understand the data (92)
+
+- collected and analysed 154 examples, and established a design space to question the value added by expanding the sensory channels required to interpret a data representation. Highlighted underexplored areas and future challenges, + 5 key recommendations that include
+  - Further fundamental research is needed to better understand how multisensory representations impacts on people’s ability to form meaning from the representation (123)
+  - beyond visual variables → taxonomy (202?)
+  - new phenomenon in data representation, where the data is not encoded in the representational modalities but in the behaviour, affordance and experience of the data representation (124) … This is a departure from how HCI researchers presently think of and address the concept of (mal)functionality. Alongside this, I believe that representing data through experience can further harness people’s natural instincts and can offer researchers a platform to generate data insight in a more natural and intuitive way. (125)
+  - The interpretation of data through multiple channels is not exclusive to any one community. My survey shows that it is practiced by a range of professionals and enthusiasts including academics, researchers, designers, artists, engineers and even hobbyists. While acknowledging that intentions may vary greatly, I see great potential and benefit from encouraging and supporting open collaborations between these disciplines and practitioners. By harnessing the **logical and technical skills** of information scientists and engineers with the **visually perceptive skills of designers and sensitivity of artists**, I believe that data can be represented in a manner that is artistic, engaging, aesthetic, informative and insightful (125)
+  - second part focused on evaluation methodologies: gathering accounts of experience with data representation and comparing how representational modality affects people’s experience of data (271) Studies
 
 
-- trevor 
-- kate lean
-- réflexions sur l’accessibilité
+
+Pierre Dragicevic, Yvonne Jansen, Andrew Vande Moere. « Data Physicalization » dans le *Springer Handbook of Human Computer Interaction* 2021
+
+- revue de la littérature académique et des projets menés hors du contexte académique jusqu’en 2018
+- utilisations: analyse, communication et éducation, accessibilité, autoréflexion et autoexpression, fun et sens (enjoyment and meaning)
+- enabling technologies, reviews empiricial studies, and surveys models and theories of data physicalisation
+
+Hornecker, Eva, Trevor Hogan, Uta Hinrichs, and Rosa Van Koningsbruggen. 2024. “A Design Vocabulary for Data Physicalization.” 
+
+- explicit variables + implicit properties +  consequential aspects (2:5)
+
+kate lean
+
+
+
+
 
 
 
@@ -162,6 +213,12 @@ Un des moteurs d’instigation de ce domaine porte sur les origines multiples et
 ### Pratiques d’art, d’artisanat et de design qui incorporent des données [notes]
 
  à la croisée de la textilité et de l’algorithmique agissent comme sources d’inspirations transdisciplinaires
+
+design & réflexions sur l’accessibilité: The Senses
+
+
+
+
 
 - [corpus d’œuvres qui inspirent la recherche](https://www.canva.com/design/DAGeuw-pplg/xXzotJr7T8XvWcPHvk2eSw/view?utm_content=DAGeuw-pplg&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hef9b400c70)  circonscrire les objets qui aident à réfléchir
 - Pansee Atta
@@ -176,21 +233,33 @@ Un des moteurs d’instigation de ce domaine porte sur les origines multiples et
 
 
 
-### Comment on fait, pourquoi on fait des data viz? 
+### Comment on fait, pourquoi on fait des data viz / des interfaces? 
 
-Johanna Drucker graphesis
+Johanna Drucker ***Graphesis***
 
-à l’appel de Johanna Drucker de développer une épistémologie visuelle pour les humanités (2014). Dans ses recherches, elle introduit la visualisation comme un vecteur de réflexion, de questionnement et de production de savoir (Drucker 2020). 
+- développer une épistémologie visuelle pour les humanités (2014)
+- visualisation comme un vecteur de réflexion, de questionnement et de production de savoir (Drucker 2020). 
 
+***Visual Interface Design for Digital Cultural Heritage**: A Guide to Rich-Prospect Browsing* (Ruecker, Radzikowska, et Sinclair 2016)
 
+- théorisé le design d’interfaces visuelles pour le patrimoine culturel numérique. 
+- Il·elle·s analysent d’abord les formes classiques d’interfaces d’extraction ou de récupération (*retrieval interface*). Celles-ci aident l’utilisateur·rice à effectuer des requêtes dans les données. L’interface présente un formulaire pour la sélection de données qui répondent à certains critères. La machine envoie les spécifications au *back-end* , qui renvoie les données correspondantes à montrer dans l’interface. 
+- Ruecker, Redikowska et Sinclair démontrent les restrictions que pose ce type d’interface dans le potentiel de recherche dans les données. Dans de nombreux cas, l’utilisateur ne peut pas voir certaines informations utiles et disponibles concernant, par exemple, les liens entre les items: les regroupements possibles, d’éventuels séquençages ou motifs dessinés par leur mise en relation (Ruecker et al. 2011: 2)
+- Cet article se poursuit toutefois avec la théorisation d’une forme d’interface « d’exploration riche en perspectives » ou *rich-prospect browsing*. Celle-ci serait dotée d’une série de principes conducteurs qui visualisent les possibilités, ou *affordances*, pour la recherche dans l’interface (Ruecker et al. 2011: 3-4). 
+- Ces principes incluent notamment l’affichage de grands formats ou d’une grande quantité de données structurées dans une logique perceptible par l’utilisateur·rice. 
+- L’interface doit également fournir un maximum d’information pour la navigation dans l’interface et situer l’utilisateur·rice dans son exploration des données. Telle une carte routière, l’utilisateur·rice peut se servir de ces informations pour savoir où il se trouve. Il·elle visualise les parcours possibles et s’oriente dans son exploration des données.
+
+Hinrichs, Uta, Stefania Forlini, and Bridget Moynihan. 2019. “In Defense of Sandcastles: Research Thinking through Visualization in Digital Humanities.”
+
+> considering visualizations as sandcastles foregrounds valuable insights into the roles of visualization as a mindset, methodology, and praxis within humanities research and beyond.
 
 Lamqaddam, Houda. 2022. “In Search of Meaning: Thinking Information Visualization within Art History Research.”
 
 Mk mémoire? but = recherche
 
-<!--Réfléchir à ce qui est le plus utile pour réfléchir dans tout ce que tu as listé là, tout en restant suffisamment général (transversal)pour que d’autres options s’y greffent.-->
+<!--Réfléchir à ce qui est le plus utile pour réfléchir dans tout ce que tu as listé là, tout en restant suffisamment général (transversal) pour que d’autres options s’y greffent.-->
 
-**Faire**
+### Faire (au sens artisanal)
 
 Ingold:
 
@@ -208,7 +277,26 @@ Faire avec un ordinateur
 
 - Molnar *Eloge de l’ordinateur*
 
+- school for poetic computation
+
+- digital fabrication: reconsider digital fabrication within data translation activities as situated along an extended ‘trajectory of use’ in which reflective, meaningful ‘data-things’ can be created (Nissen and Bowers 2015)
+
+- “how digital humanities can integrate data physicalization into the research process and how data physicalization is a form of critical making.” (Berger et al., 2024, pp. -)
+
+- **data craft** et Thudt, Alice. 2018. “Visualizations for Personal Reflection and Expression.” Calgary: University of Calgary. http://hdl.handle.net/1880/106519.
+  - as a way to create meaningful physical mementos based on digital records of personal and shared experiences” (Carpendale, 2017, p. 2) 
+
+  - “Both the manual crafting process and the resulting physical artifact create opportunities for reflection and sharing memories.” (Carpendale, 2017, p. 4) 
+
+  - “Focusing on the creation of functional everyday objects, data craft shapes opportunities to integrate personal digital data into everyday life where they can be serendipitously re-encountered and used together” (Carpendale, 2017, p. 4)
+
+
+Artisanat
+
 - Albers rapport à l’outil, la machine, le métier à tisser. Documenter, notation, …
+- “people that partake in such activities tend to invest a certain meaning into the artifacts that they made themselves, which they might not do when confronted with something that was mass-produced” (Dragicevic et al., 2021, p. 19) “the manual creation and subsequent habitual use of self-made physicalizations of personal data can augment their perceived value and authenticity, and can thus spark various forms of individual or shared recollection [ ]” (Dragicevic et al., 2021, p. 20)
+- + accessible “Data physicalization can also be considered as a useful fabrication activity in and by itself, as its transformative qualities can become relatively easily integrated in existing fabrication and craft activities, such as crochet and its allied practices, among many others [ ]. Several projects have demonstrated how physicalization can democratize the practice of information visualization by requiring less skills or expertise than its digital counterparts” (Dragicevic et al., 2021, p. 20)
+  + “The recent focus on making reveals how data physicalization can be understood as a manifestation of data within a “trajectory of use”, which starts from before the first acquaintance with the data, over its actual design and physical fabrication, and ending in the hands of others, in the future [ ]. By considering data as a trajectory, one can recognize how people also make sense of data during the fabrication of visualization itself [ ], as physicalization makers make conscious decisions about how the data should be represented in order to evoke associations with experiences or people, to support activities that allow for episodes of reminiscing, or to encourage potential social interactions. Moreover, during the physicalization construction itself, aspects of data collection, construction and self-reflection can be deeply intertwined [ ] (see Figure -b for some concrete results). These qualities have been exploited during the process of hands-on physicalization making workshops in order to make principles of data representation more graspable [ ], or to push the creativity of students in visualization [ ]. Overall, research in personal physicalization fabrication has revealed a yet largely unexplored potential to represent more qualitative and subjective aspects that cannot yet be readily captured in data [ ]” (Dragicevic et al., 2021, p. 21)
 
 Faire en étant située: 
 
