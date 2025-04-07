@@ -233,29 +233,7 @@ design & réflexions sur l’accessibilité: The Senses
 
 
 
-### Comment on fait, pourquoi on fait des data viz / des interfaces? 
 
-Johanna Drucker ***Graphesis***
-
-- développer une épistémologie visuelle pour les humanités (2014)
-- visualisation comme un vecteur de réflexion, de questionnement et de production de savoir (Drucker 2020). 
-
-***Visual Interface Design for Digital Cultural Heritage**: A Guide to Rich-Prospect Browsing* (Ruecker, Radzikowska, et Sinclair 2016)
-
-- théorisé le design d’interfaces visuelles pour le patrimoine culturel numérique. 
-- Il·elle·s analysent d’abord les formes classiques d’interfaces d’extraction ou de récupération (*retrieval interface*). Celles-ci aident l’utilisateur·rice à effectuer des requêtes dans les données. L’interface présente un formulaire pour la sélection de données qui répondent à certains critères. La machine envoie les spécifications au *back-end* , qui renvoie les données correspondantes à montrer dans l’interface. 
-- Ruecker, Redikowska et Sinclair démontrent les restrictions que pose ce type d’interface dans le potentiel de recherche dans les données. Dans de nombreux cas, l’utilisateur ne peut pas voir certaines informations utiles et disponibles concernant, par exemple, les liens entre les items: les regroupements possibles, d’éventuels séquençages ou motifs dessinés par leur mise en relation (Ruecker et al. 2011: 2)
-- Cet article se poursuit toutefois avec la théorisation d’une forme d’interface « d’exploration riche en perspectives » ou *rich-prospect browsing*. Celle-ci serait dotée d’une série de principes conducteurs qui visualisent les possibilités, ou *affordances*, pour la recherche dans l’interface (Ruecker et al. 2011: 3-4). 
-- Ces principes incluent notamment l’affichage de grands formats ou d’une grande quantité de données structurées dans une logique perceptible par l’utilisateur·rice. 
-- L’interface doit également fournir un maximum d’information pour la navigation dans l’interface et situer l’utilisateur·rice dans son exploration des données. Telle une carte routière, l’utilisateur·rice peut se servir de ces informations pour savoir où il se trouve. Il·elle visualise les parcours possibles et s’oriente dans son exploration des données.
-
-Hinrichs, Uta, Stefania Forlini, and Bridget Moynihan. 2019. “In Defense of Sandcastles: Research Thinking through Visualization in Digital Humanities.”
-
-> considering visualizations as sandcastles foregrounds valuable insights into the roles of visualization as a mindset, methodology, and praxis within humanities research and beyond.
-
-Lamqaddam, Houda. 2022. “In Search of Meaning: Thinking Information Visualization within Art History Research.”
-
-Mk mémoire? but = recherche
 
 <!--Réfléchir à ce qui est le plus utile pour réfléchir dans tout ce que tu as listé là, tout en restant suffisamment général (transversal) pour que d’autres options s’y greffent.-->
 
@@ -309,6 +287,34 @@ Faire sans discipline? Myriam Suchet *Indiscipline*→ notes de lectures ok
 Faire une interface
 
 - interfaces poétiques
+
+
+
+
+
+### Comment on fait, pourquoi on fait des data viz / des interfaces? 
+
+Johanna Drucker ***Graphesis***
+
+- développer une épistémologie visuelle pour les humanités (2014)
+- visualisation comme un vecteur de réflexion, de questionnement et de production de savoir (Drucker 2020). 
+
+***Visual Interface Design for Digital Cultural Heritage**: A Guide to Rich-Prospect Browsing* (Ruecker, Radzikowska, et Sinclair 2016)
+
+- théorisé le design d’interfaces visuelles pour le patrimoine culturel numérique. 
+- Il·elle·s analysent d’abord les formes classiques d’interfaces d’extraction ou de récupération (*retrieval interface*). Celles-ci aident l’utilisateur·rice à effectuer des requêtes dans les données. L’interface présente un formulaire pour la sélection de données qui répondent à certains critères. La machine envoie les spécifications au *back-end* , qui renvoie les données correspondantes à montrer dans l’interface. 
+- Ruecker, Redikowska et Sinclair démontrent les restrictions que pose ce type d’interface dans le potentiel de recherche dans les données. Dans de nombreux cas, l’utilisateur ne peut pas voir certaines informations utiles et disponibles concernant, par exemple, les liens entre les items: les regroupements possibles, d’éventuels séquençages ou motifs dessinés par leur mise en relation (Ruecker et al. 2011: 2)
+- Cet article se poursuit toutefois avec la théorisation d’une forme d’interface « d’exploration riche en perspectives » ou *rich-prospect browsing*. Celle-ci serait dotée d’une série de principes conducteurs qui visualisent les possibilités, ou *affordances*, pour la recherche dans l’interface (Ruecker et al. 2011: 3-4). 
+- Ces principes incluent notamment l’affichage de grands formats ou d’une grande quantité de données structurées dans une logique perceptible par l’utilisateur·rice. 
+- L’interface doit également fournir un maximum d’information pour la navigation dans l’interface et situer l’utilisateur·rice dans son exploration des données. Telle une carte routière, l’utilisateur·rice peut se servir de ces informations pour savoir où il se trouve. Il·elle visualise les parcours possibles et s’oriente dans son exploration des données.
+
+Hinrichs, Uta, Stefania Forlini, and Bridget Moynihan. 2019. “In Defense of Sandcastles: Research Thinking through Visualization in Digital Humanities.”
+
+> considering visualizations as sandcastles foregrounds valuable insights into the roles of visualization as a mindset, methodology, and praxis within humanities research and beyond.
+
+Lamqaddam, Houda. 2022. “In Search of Meaning: Thinking Information Visualization within Art History Research.”
+
+Mk mémoire? but = recherche
 
 ## Protocole d’expérimentation (métho)
 
