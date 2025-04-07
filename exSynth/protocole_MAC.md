@@ -39,11 +39,12 @@ problème d’échelle
   - requiert un espace de dimension muséale pour la monstration
 - réduire l’échelle
   - fonctionnement incrémental? 
+  - retirer les séries? → impact sur les estampes
 
 index double: 
 
 - [catégorie artistique + nationalité](https://observablehq.com/d/656be1badf98370e)
-- catégories plus diversifiées? retirer canadien et québécois dans une série de viz?
+- catégories plus diversifiées? ~~retirer canadien et québécois dans une série de viz?~~
 - viz pour 
 
 

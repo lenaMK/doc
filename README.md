@@ -31,7 +31,8 @@ Recherche-création doctorale de [Lena MK](http://lenamk.site), 2023-2027, Unive
 
 ## Faire
 
-- [« Sketch de données »](./viz/brodin/), préparation pour la chronologie brodée sur le genre des artistes en art public, p5.js, données MONA, hiver 2024
+- [« Sketch de données:  rubans numériques»](../art-algorithmique/exSynth), étape de préparation pour la matérialisation de données du MAC, p5.js, hiver 2025
+- [« Sketch de données: chronologie »](./viz/brodin/), préparation pour la chronologie brodée sur le genre des artistes en art public, p5.js, données MONA, hiver 2024
 - [Carte numérique](./viz/carte) de l’installation *[…] and Counting*, d3.js, données ouvertes de la ville de Montréal et données MONA, hiver 2024
 - [Expérimentations en art algorithmique](../art-algorithmique),  cours IFT6251, hiver 2024
 
