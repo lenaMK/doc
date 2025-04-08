@@ -136,31 +136,9 @@ La terminologie employée pour décrire ces pratiques se décline également pou
 - Alice Thudt préfère, dans sa thèse, parler de « **visualization mementos** » car il s’agit de « Visualizations of personally relevant data kept as reminders of  significant experiences and used for the purposes of reminiscing and sharing of  these experiences » (Thudt 2018, xix). Cette proposition s’inscrit dans l’idée plus large du « ***data craft*** — the manual crafting of functional objects that incorporate personal visualizations — as an opportunity to create meaningful physical objects » (Carpendale et al., 2017, p. 1)
 - Ces propositions se rapprochent également de la fabrication des « ***Data-Things*** » de Bettina Nissen et John Bowers, qui souhaitent aller au-delà de la *data materialization* pour mettre l’accent sur le geste de traduction (2015). La notion de « traduction » (*data translation*) valoriserait davantage sur le rôle actif de la personne qui crée l’artefact et sa signification, alors que la matérialisation encouragerait une perception trop simplificatrice des processus encourus. (Nissen and Bowers, 2015, p. 9)
 
-J’emploierai, pour l’instant, le terme de « matérialisation de données ».
+J’emploierai, pour l’instant, le terme de « matérialisation de données ». Je pense que ma définition et mon interprétation, ainsi que les références les plus influentes lors de l’étape de création, pourront ensuite m’aider à préciser ou à modifier ce terme pour décrire ma recherche-création.
 
-
-
-accessibilité: 
-
-- Ebermann, Julian, et Mandy Keck. 2024. « From Sight to Touch: Designing Tactile Data Physicalizations for Non-sighted Users ». Dans *2024 1st Workshop on Accessible Data Visualization (AccessViz)*, 9‑13. https://doi.org/10.1109/AccessViz64636.2024.00007.
-- Pittarello, Fabio, et Manuel Semenzato. 2024. « Towards a Data Physicalization Toolkit for Non-Sighted Users ». Dans *2024 IEEE 21st Consumer Communications & Networking Conference (CCNC)*, 1‑6. https://doi.org/10.1109/CCNC51664.2024.10454861.
-
-data narratives
-
-- Devendorf, Laura, et Mikhaila Friske. 2020. « Entangling the Roles of Maker and Interpreter in Interpersonal Data Narratives: Explorations in in Sound and Yarn ». Dans . https://www.youtube.com/watch?v=zKJPvzYK-tg.
-- Karyda, Maria, Danielle Wilde, et Mette Gislev Kjærsgaard. 2021a. « **Narrative Physicalization**: Supporting Interactive Engagement With Personal Data ». *IEEE Computer Graphics and Applications* 41 (1): 74‑86. https://doi.org/10.1109/MCG.2020.3025078.
-
-data experience
-
-- Lean, Marion. 2020. « Materialising Data Experience through Textile Thinking ». Thesis, Royal College of Art. https://researchonline.rca.ac.uk/4443/.
-- ———. 2021. « Materialising Data Feminism – How Textile Designers Are Using Materials to Explore Data Experience ». *Journal of Textile Design Research and Practice* 9 (2): 184‑209. https://doi.org/10.1080/20511787.2021.1928987.
-
-
-
-pédagogie
-
-- (enfants) Ambrosini, Lorenzo, et Miriah Meyer. 2022. « Data Bricks Space Mission: Teaching Kids about Data with Physicalization ». Dans *2022 IEEE Workshop on Visualization for Social Good (VIS4Good)*, 10‑14. https://doi.org/10.1109/VIS4Good57762.2022.00007.
-- (littératie numérique) Carmini, Priscilla, et Alexandra Wong. 2024. « Weaving “Gentle” Textile Craft with “Hard” Data: Introducing Data Fundamentals through Creative Workshops », juillet. http://hdl.handle.net/1807/139352.
+Les recherches en matérialisation de données ciblent également des thématiques particulières, comme l’accessibilité, la mise en récit de données et la pédagogie. L’emphase sur les approches tactiles est notamment utilisé pour concevoir des dispositifs de consultation et d’analyse de données pour des personnes aveugles ou malvoyantes (⁨Ebermann⁩ and ⁨Keck⁩, 2024; ⁨Pittarello⁩ and ⁨Semenzato⁩, 2024). Laura Devendorf, Jordan Wirfs-Brock et Mikhaila Friske abordent la production de représentations matérielles de données (*physical data representations*) sous l’angle de la collaboration entre les matériaux, les données et les humains . Inspiré·e·s par la démarche présentée dans *Dear Data* (Lupi et Posavec 2016), leur expérience d’échanges d’artefacts les place à tour de rôle dans une posture de créateur·rice et d’interprète, soulignant la multiplicités des récits qu’un objet peut ainsi contenir (Devendorf et al., 2020). L’importance de l’interactivité et du récit est également au cœur de la proposition « *Narrative Physicalization: Supporting Interactive Engagement With Personal Data* » (Karyda et al., 2021). L’approche centrée sur l’expérience qui y est proposée permet aux participant·e·s d’interagir de façon physique et ludique avec leurs données, impliquant ainsi leurs corps dans la réflexion. Dans sa thèse, Marion Lean emploie également la matérialisation de données appliqués aux données personnelles, comme celles produites par des capteurs d’activités physiques et donc sur des données personnelles et (presque?) intimes (2020). Elle vise par ce moyen de connexion « physique », de contact avec les données à accroître la littératie numérique et particulièrement à rendre ces données qui nous concernent et nous décrivent plus tangibles. Le potentiel pédagogique de la matérialisation de données est relevé par plusieurs équipes, lors d’ateliers créatifs pour destinés à des adultes (⁨Carmini⁩ et ⁨Wong⁩, 2024) comme dans la conception d’activités pour les enfants (⁨Ambrosini⁩ et ⁨Meyer⁩, 2022).
 
 
 

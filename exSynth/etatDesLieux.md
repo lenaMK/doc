@@ -78,7 +78,9 @@ Dragicevic, Pierre, et Yvonne Jansen. 2023. « Gallery of Physical Visualization
 
   - ? (lien? ) direct interactivity: interaction designed to directly stiumlation the user’s senses
 
-    multisensory data representations
+    
+
+    asmultisensory data representations
 
     ex: surface properties of 3D printed objects as a form of information encoding (Djavaherpour et al)
 
