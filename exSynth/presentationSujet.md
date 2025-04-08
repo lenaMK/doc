@@ -151,45 +151,6 @@ faire / critical making
 
 
 
-
-
-<!--Le champs (encore jeune) de la matérialisation de données propose une autre avenue, par la création « d’objets (artefacts physiques) dont la géométrie ou la matérialité *encode*[^2] des données » (Jansen et al. 2015, 2). La matérialisation amène ainsi une réflexion sur le rôle du sens du toucher dans la perception de données. -->
-
-En tant que représentation matérielle de données, celle-ci est souvent contrastée avec l’immatérialité ressentie dans la visualisation de données. En effet, dans le cas de visualisation, on n’a pas accès aux données qui ont servi à déterminer la forme graphique. Sur papier dans l’espace physique comme sur l’écran d’une machine pour l’espace numérique, les données d’une visualisation ne sont pas tangibles ou palpables. 
-
-
-
-*Data und dasein* Trevor Hogan 2016
-
-- brief history of data representation (ch3) beyond the visual modality & physical data representations (39-47)
-- Defining multisensory data representations
-  - labvels: sonification, matérialisation, data sculpture, non-visual visualization, cross/multimodal displays. Crossmodal or multi-modal display. Terms focus on the sensory channel: sensulaization, sensification, perceptualization (92)
-
-> Multisensory data representations are a class of data representation that have a clear intent to reveal insight by encoding data in more than one representational modality and require at least two sensory channels to fully interpret and understand the data (92)
-
-- collected and analysed 154 examples, and established a design space to question the value added by expanding the sensory channels required to interpret a data representation. Highlighted underexplored areas and future challenges, + 5 key recommendations that include
-  - Further fundamental research is needed to better understand how multisensory representations impacts on people’s ability to form meaning from the representation (123)
-  - beyond visual variables → taxonomy (202?)
-  - new phenomenon in data representation, where the data is not encoded in the representational modalities but in the behaviour, affordance and experience of the data representation (124) … This is a departure from how HCI researchers presently think of and address the concept of (mal)functionality. Alongside this, I believe that representing data through experience can further harness people’s natural instincts and can offer researchers a platform to generate data insight in a more natural and intuitive way. (125)
-  - The interpretation of data through multiple channels is not exclusive to any one community. My survey shows that it is practiced by a range of professionals and enthusiasts including academics, researchers, designers, artists, engineers and even hobbyists. While acknowledging that intentions may vary greatly, I see great potential and benefit from encouraging and supporting open collaborations between these disciplines and practitioners. By harnessing the **logical and technical skills** of information scientists and engineers with the **visually perceptive skills of designers and sensitivity of artists**, I believe that data can be represented in a manner that is artistic, engaging, aesthetic, informative and insightful (125)
-  - second part focused on evaluation methodologies: gathering accounts of experience with data representation and comparing how representational modality affects people’s experience of data (271) Studies
-
-
-
-Pierre Dragicevic, Yvonne Jansen, Andrew Vande Moere. « Data Physicalization » dans le *Springer Handbook of Human Computer Interaction* 2021
-
-- revue de la littérature académique et des projets menés hors du contexte académique jusqu’en 2018
-- utilisations: analyse, communication et éducation, accessibilité, autoréflexion et autoexpression, fun et sens (enjoyment and meaning)
-- enabling technologies, reviews empiricial studies, and surveys models and theories of data matérialisation
-
-Hornecker, Eva, Trevor Hogan, Uta Hinrichs, and Rosa Van Koningsbruggen. 2024. “A Design Vocabulary for Data Physicalization.” 
-
-- explicit variables + implicit properties +  consequential aspects (2:5)
-
-kate lean
-
-
-
 ### La représentation de données culturelles
 
 données culturelles <!-- reprendre intro + cf Freeman, données culturelles comme type spécifique de données, les inscrire dans la taxonomie?-->
