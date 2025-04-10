@@ -19,9 +19,65 @@ Quelles sont les limites?
 - construction algorithmique de l’image: formes visuelles très basiques (ligne, formes géométriques de base)
   - réutilisation de code disponible
 
-### GLAM data viz
+### GLAM data viz: La représentation de données culturelles
 
-Kräutli & Vane
+données culturelles <!-- reprendre intro + cf Freeman, données culturelles comme type spécifique de données, les inscrire dans la taxonomie?-->
+
+Lamqaddam, Houda, Koenraad Brosens, Frederik Truyen, Jos Beerens, Inez de Prekel, Jan Aerts, and Katrien Verbert. 2018. “When the Tech Kids Are Running Too Fast: Data Visualisation Through the Lens of Art History Research.” In *IEEE Transactions on Visualization and Computer Graphics*. Institute of Electrical and Electronics Engineers.
+
+Lamqaddam, Houda. 2022. “In Search of Meaning: Thinking Information Visualization within Art History Research.” PhD
+
+contextes de création, buts et usages: publics vs usage interne/pour la recherche, division utile/importante?
+
+“Munzner’s multi-level typology of abstract visualization tasks [ ], which distinguishes three main motivations for creating and using visualizations: to discover, to present, and to enjoy.” (Dragicevic et al., 2021, p. 5)
+
+[memoire: Nous émettons l’hypothèse que pour procéder à des études quantitatives,  il s’avère nécessaire non seulement de disposer de données, mais aussi  des méthodologies et des outils pour leur manipulation.  L’instrumentation de la recherche, telle qu’étudiée par Christian Jacob  dans ses *Lieux du savoir*, identifie un défi quant au  développement d’environnements logiciels pour l’expérimentation avec des données (2013: s.p.). L’ouvrage *Graphesis. Visual Forms of Knowledge Production*, publié en 2014 par Johanna Drucker, propose une première étude  d’envergure à propos de ce type d’outils. Cette publication annonce le  potentiel d’une épistémologie visuelle au sein des interfaces de  recherche dans le domaine des sciences humaines et sociales. Dans ce  mémoire, nous proposons l’usage de la cartographie et des visualisations comme outils de compréhension et d’interprétation critique de données  quantitatives.]
+
+- 
+
+**2 thèses sur le sujet**, même labo à Londres (dir. Stephen Boyd Davis), emphase sur les chronologies comme forme de visualisation particulièrement importantes pour les données culturelles
+
+Kraütli 2016 = *GLAM data viz for curators*
+
+- exploration des collections numérisées pour faciliter *knowledge discovery*, 
+- outil d’analyse visuelle des contenus, potentiel pour la recherches. 
+- Recherche sur l’influence du commissariat (traces des décisions institutionnelles, biais curatoriaux) sur les collections et comment elles se manifestent dans des visualisations (time-based). 
+- Montrer/étudier les données « cachées » (hidden data, not explicitely recorded but nevertheless present in the data). 
+- Practice-led and collaborative approach. 8 **prototypes**, à partir desquelles émergent des **principes** de design, puis 2 implémentations pour les mettre en pratique et démontrer comment ces outils peuvent contribution à la production de connaissances dans les collections culturelles. 
+- Numérisation des collections requiert de nouvelles méthode pour les explorer/interroger, deviennent des artefacts, étudier l’histoire des institutions. **Définitions** de la collection numérisée notamment
+
+Vane 2019 = *is data enough? data viz in context, public plus large* 
+
+- numérisation ne suffit pas pour rendre les collections accessibles, découvrables et compréhensibles (Terras 2015)
+- Interfaces standards ne permettent pas forcément les interactions désirées. Visualisations pour rendre les récits historiques (historical narratives) visibles. 
+- Public de cette recherche = institutions culturelles
+- définition/objectif de la visualisation culturelle, enjeux de données qualitatives ou nominales
+- Portfolio de 5 projets dans des musées
+
+Thèse Talitha
+
+**Desmorat 2024**: *L’entrée des femmes artistes dans la collection du Musée d’art contemporain de Montréal, de 1964 à 2020 : analyses statistiques et facteurs déterminants*. Dirigées par la professeure Johanne Lamoureux (Université de Montréal), ces recherches ont été menées dans le cadre du Partenariat *Des nouveaux usages des collections dans les musées d’arts* (CIÉCO). La collaboration avec Lena Krause, dans son rôle de responsable de laboratoire à l’*Ouvroir d’histoire de l’art et de muséologie numériques* (Université de Montréal), a débuté à l’occasion de la clinique numérique du laboratoire.
+
+(extraits de l’article à venir)
+
+- Le Musée d’art contemporain de Montréal (MAC) détient une part élevée d’œuvres d’artistes-femmes, comparativement aux musées d’art québécois, nord-américains et d’Europe de l’Ouest (Desmorat 2024, 1-2) → révéler les facteurs qui ont contribué à cette représentation importante des œuvres d’artistes-femmes dans la collection par le moyen de visualisations de données interactives
+- Cette recherche reprend les objectifs des études féministes quantitatives en histoire de l’art, étudiant la « mécanique » institutionnelle qui infléchit l’évolution du nombre d’acquisitions d’œuvres d’artistes-femmes. Une acquisition revient ici à l’inclusion d’une ou de plusieurs œuvres dans la collection permanente du musée, de sorte que l’entrée d’un·e artiste se concrétise à travers les achats ou les dons de ses œuvres. Dans cette perspective, l’entrée des femmes artistes au MAC s’effectue par le moyen de l’acquisition de leurs œuvres. 
+- co-création de graphiques à partir de deux jeux de données ouvertes publiés par le MAC sur le portail Données Québec . Les graphiques produits sont chronologiques et interactifs. Ce sont des « portraits statistiques » qui donnent à voir les étapes de la constitution de la collection du MAC au travers du prisme des catégories de genre des artistes des œuvres acquises. 
+- La mobilisation de plusieurs graphiques a permis d’adopter des points de vue complémentaires sur la répartition des acquisitions. L’interactivité des graphiques a facilité la sélection des paramètres (types d’acquisition, médiums, catégories de genre représentées) et des bornes chronologiques pour élaborer des hypothèses et pour faire apparaître des facteurs institutionnels expliquant les grandes étapes de l’entrée des artistes-femmes dans la collection.
+- Les visualisations de données apportent donc une vision ou bien d’ensemble des richesses et des lacunes des collections, ou bien davantage circonscrite et spécifique, selon les paramètres sélectionnés par les personnes qui explorent le graphique. Il s’agit d’un enjeu important à l’heure où les musées cherchent à rendre leurs collections plus inclusives et à faire écho à la diversité sociale au sein des contextes où ils évoluent. Les professionnel·les des musées peuvent dorénavant, s’ils ou elles le souhaitent, s’approprier ces outils dans le cadre de l’évolution de leurs propres pratiques d’acquisition et de conservation.
+
+**exemples dans les musées** 
+
+- revue de littérature Vane ch2 sur les chronologies
+- [memoire: En histoire de l’art numérique et dans le domaine plus large des  humanités numériques, nous relevons également la palette d’approches  visuelles originales et conçues spécifiquement pour des données  culturelles dans la thèse de doctorat de Florian Kraütli, *Visualising Cultural Data. Exploring Digital Collection Through Timeline Visualisations* (2016). Certains outils, comme *E.A.T Datascape* (Leclercq et Girard 2013) et les autres projets de l’équipe du Médialab (SciencesPo Paris), *Hypercities* (Presner et al. 2014), *Voyant Tool* (Sinclair et Rockwell 2016), *Palladio* (Conroy 2017) et *Rethinking Guernica* (Peiró et Sevillano 2017), se distinguent particulièrement par la  création d’interfaces interactives avec un riche potentiel  épistémologique. Ces interfaces facilitent les analyses quantitatives  tout en conservant une approche critique à propos des connaissances  ainsi produites.]
+- SMK Open & API (+ Explore : Meyer, Louie, Johanne Engel Aaen, Anitamalina Regitse Tranberg, Peter Kun, Matthias Freiberger, Sebastian Risi, and Anders Sundnes Løvlie. 2024. “Algorithmic Ways of Seeing: Using Object Detection to Facilitate Art Exploration.”)
+- faire analyse plus poussée du MAC répertoire? 
+
+
+
+
+
+
 
 ### approches « artistiques et design » de la data viz
 
