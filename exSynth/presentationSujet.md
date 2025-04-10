@@ -101,16 +101,9 @@ Du côté de l’informatique, la visualisation de données est adressée de fa�
 
 *Critical Visualization* de Peter Hall et Patricio Davila (2023) est une publication plus thématique qui énonce les enjeux critiques sous-jacents à la visualisation de données, un aspect lacunaire ou manquant dans les nombreux ouvrages techniques. Les auteurs présentent un cadre conceptuel pour la production de visualisations critiques, en commençant par situer le fait que les décisions par rapport aux données et à leur représentation ne sont jamais neutres. Pour ce faire, ils relèvent l’importance de questionner qui a créé la visualisation, quand et pourquoi, mais surtout dans quel contexte culturel, avec quels système de croyance et en se demandant qui est exclu (ou ce qui est exclu) dans la visualisation (Hall et Davila 2023, 14-15). Dans le chapitre « Disruptive Histories », Hall et Davila cherchent également à perturber les approches dominantes en visualisation et proposent une histoire alternative de la visualisation critique (2023, 45-75).
 
-#### cas particuliers data viz?
+<!-- cas particuliers data viz? Elli, Tommaso, Adam Bradley, Christopher Collins, Uta Hinrichs, Zachary Hills, et Karen Kelsky. 2020. « Tied in Knots: A Case Study on Anthropographic Data Visualization About Sexual Harassment in the Academy ». Dans *2020 IEEE VIS Arts Program (VISAP)*, 29‑44. https://doi.org/10.1109/VISAP51628.2020.00010. -->
 
-
-
-- Elli, Tommaso, Adam Bradley, Christopher Collins, Uta Hinrichs, Zachary Hills, et Karen Kelsky. 2020. « Tied in Knots: A Case Study on Anthropographic Data Visualization About Sexual Harassment in the Academy ». Dans *2020 IEEE VIS Arts Program (VISAP)*, 29‑44. https://doi.org/10.1109/VISAP51628.2020.00010.
-- 
-
-
-
-### La matérialisation de données
+### Survol des recherches et des pratiques en matérialisation de données
 
 <!-- grand nombre d’auteur·rice·s: la liste rendrait le texte illisible.. est-ce qu’on garde comme ça?-->
 
@@ -131,17 +124,15 @@ J’emploierai, pour l’instant, le terme de « matérialisation de données »
 
 Les recherches en matérialisation de données ciblent également des thématiques particulières, comme l’accessibilité, la mise en récit de données et la pédagogie. L’emphase sur les approches tactiles est notamment utilisé pour concevoir des dispositifs de consultation et d’analyse de données pour des personnes aveugles ou malvoyantes (⁨Ebermann⁩ and ⁨Keck⁩, 2024; ⁨Pittarello⁩ and ⁨Semenzato⁩, 2024). Laura Devendorf, Jordan Wirfs-Brock et Mikhaila Friske abordent la production de représentations matérielles de données (*physical data representations*) sous l’angle de la collaboration entre les matériaux, les données et les humains . Inspiré·e·s par la démarche présentée dans *Dear Data* (Lupi et Posavec 2016), leur expérience d’échanges d’artefacts les place à tour de rôle dans une posture de créateur·rice et d’interprète, soulignant la multiplicités des récits qu’un objet peut ainsi contenir (Devendorf et al., 2020). L’importance de l’interactivité et du récit est également au cœur de la proposition « *Narrative Physicalization: Supporting Interactive Engagement With Personal Data* » (Karyda et al., 2021). L’approche centrée sur l’expérience qui y est proposée permet aux participant·e·s d’interagir de façon physique et ludique avec leurs données, impliquant ainsi leurs corps dans la réflexion. Dans sa thèse, Marion Lean emploie également la matérialisation de données appliqués aux données personnelles, comme celles produites par des capteurs d’activités physiques et donc sur des données personnelles et (presque?) intimes (2020). Elle vise par ce moyen de connexion « physique », de contact avec les données à accroître la littératie numérique et particulièrement à rendre ces données qui nous concernent et nous décrivent plus tangibles. Le potentiel pédagogique de la matérialisation de données est relevé par plusieurs équipes, lors d’ateliers créatifs pour destinés à des adultes (⁨Carmini⁩ et ⁨Wong⁩, 2024) comme dans la conception d’activités pour les enfants (⁨Ambrosini⁩ et ⁨Meyer⁩, 2022). Tout un pan de la littérature aborde également les manières de *faire* (⁨Nissen⁩ et ⁨Bowers⁩ 2015; Forlini et al. 2018; Hinrichs et al. 2019; Berger et al. 2024a; Berger et al. 2024b), celui-ci sera abordé dans la section qui présente le cadre théorique de ma recherche.
 
-*The Life of a Building* (2021-2022) est une physicalisation de données qui a été commanditée par à la Galerie d’art d’Ottawa OAG (*Ottawa Art Gallery*). Cette collaboration entre l’artiste textile Greta Grip et la chercheuse Lee Jones, spécialisée en textiles électroniques, en fabrication et en pratiques artisanales hybrides (*hybrid crafts*), s’est déroulée en deux parties. Tout d’abord, entre juillet 2021 et juillet 2022, une machine a tricoter matérialisait en temps réel l’achalandage physique et numérique de la Galerie. Par le biais d’un capteur à l’entrée du bâtiment ainsi qu’à travers l’utilisation d’un bouton virtuel présenté sur un microsite dédié, chaque visite déclenchait la production d’une rangée du tricot circulaire, tandis que le passage du temps était marqué mensuellement par le changement de couleur de la laine employée. En mai 2023, l’œuvre a été redéployée pour présenter cette fois le résultat de cette fabrication performative et participative, afin de mettre l’emphase sur l’observation et l’analyse des données ainsi recueillies. « The data was hung from the ceiling in a way that individuals could see the data spread out » (Jones et al. 2024, 9). Ce projet a également été le lieu d’une recherche-à-travers-le-design (*research through design*) sur la réception des matérialisations de données, présenté à la conférence internationale sur les Interactions Tangibles, Incarnées et Incorporées TEI (*International Conference on Tangible Embedded and Embodied Interaction*) et documenté dans les actes de la conférence (Jones et al. 2024). Les retours des participant·e·s ainsi que les remarques réflexives des artistes partagés dans cet article me seront particulièrement utiles pour mener la recherche-création ici présentée. 
+*The Life of a Building* (2021-2022) est une physicalisation de données qui a été commanditée par à la Galerie d’art d’Ottawa OAG (*Ottawa Art Gallery*). Cette collaboration entre l’artiste textile Greta Grip et la chercheuse Lee Jones, spécialisée en textiles électroniques, en fabrication et en pratiques artisanales hybrides (*hybrid crafts*), s’est déroulée en deux parties. Tout d’abord, entre juillet 2021 et juillet 2022, une machine a tricoter matérialisait en temps réel l’achalandage physique et numérique de la Galerie. Par le biais d’un capteur à l’entrée du bâtiment ainsi qu’à travers l’utilisation d’un bouton virtuel présenté sur un microsite dédié, chaque visite déclenchait la production d’une rangée du tricot circulaire, tandis que le passage du temps était marqué mensuellement par le changement de couleur de la laine employée. En mai 2023, l’œuvre a été redéployée pour présenter cette fois le résultat de cette fabrication performative et participative, afin de mettre l’emphase sur l’observation et l’analyse des données ainsi recueillies. « The data was hung from the ceiling in a way that individuals could see the data spread out » (Jones et al. 2024, 9). Ce projet a également été le lieu d’une recherche-à-travers-le-design (*research through design*) sur la réception des matérialisations de données, présenté à la conférence internationale sur les Interactions Tangibles, Incarnées et Incorporées TEI (*International Conference on Tangible Embedded and Embodied Interaction*) et documenté dans les actes de la conférence (Jones et al. 2024). Les retours des participant·e·s ainsi que les remarques réflexives des artistes partagés dans cet article me seront particulièrement utiles pour mener la recherche-création ici présentée. La publication systématique des actes de colloques spécialisés comme celui-ci font état d’un domaine de recherche foisonnant et très diversifié. J’enrichirai donc progressivement la revue de littérature entamée ici, en relevant plus particulièrement les articles en lien avec le milieu de l’art, au sujet de pratiques artisanales et textiles, ou encore liées aux autres thématiques abordées dans ma recherche comme l’accessibilité et la littératie numérique.
 
 ### Des données à leur représentation 
-
-Dans la veine de la *Critical Visualization* de Hall et Davil (2023), il me semble essentiel d’avoir une approche critique des données: qui les a produites et à quelles fins, et quel est notre posture par rapport à ces données? 
 
 *à ajouter ?*
 
 > Datum is a Latin term meaning “something given.” In The Data Revolution [9] we read a quote by Jensen from 1950 that explains that really we should be referring to data as “capta,” from the Latin capere, meaning “to take” [10]. It could be argued that we have lost the idea that data are a collection of things to be given, as opposed to taken [11] (Freeman et al., 2018, p. 75)
 
-Dans *Graphesis: Visual Forms of Knowledge Production* (2014), Johanna Drucker propose de changer le vocabulaire, en soulignant que les données ne sont pas *données* mais *captées*. Ainsi, l’aspect constructiviste des graphiques se révèle au dépit de l’illusion de leur « simple » valeur quantitative. Le but est alors de créer des visualisations qui exposent le principe interprétatif du savoir au lieu de le dissimuler dans une prétendue objectivité (Drucker, 2014, 128). 
+Dans la veine de la *Critical Visualization* de Hall et Davil (2023), il me semble essentiel d’avoir une approche critique des données: qui les a produites et à quelles fins, et quel est notre posture par rapport à ces données? Dans *Graphesis: Visual Forms of Knowledge Production* (2014), Johanna Drucker propose de changer le vocabulaire, en soulignant que les données ne sont pas *données* mais *captées*. Ainsi, l’aspect constructiviste des graphiques se révèle au dépit de l’illusion de leur « simple » valeur quantitative. Le but est alors de créer des visualisations qui exposent le principe interprétatif du savoir au lieu de le dissimuler dans une prétendue objectivité (Drucker, 2014, 128). 
 
 Catherine d’Ignazio et Lauren F. Klein apportent une perspective féministe intersectionnelle sur les données avec *Data Feminism* (2020). En situant l’éthique au cœur des sciences de l’information, les autrices mettent de l’avant des principes autour de l’identification et la remise en question des enjeux de pouvoir, la place de l’émotion, de l’affect et l’expérience incarnée (*embodiment*). Elles cherchent à déconstruire les biais dans les systèmes de classifications comme la binarité et les hiérarchies et proposent de cultiver une pensée plurielle dans la conception de modèles de données comme prévention contre la violence épistémique. La documentation prend également un rôle essentiel pour nommer et créditer les besognes trop souvent sous-estimées et invisibilisées, ainsi que pour révéler le coût réel et planétaire de la production de données.
 
@@ -149,107 +140,7 @@ Une approche davantage axée sur la matérialité des données est apportée par
 
 Cette veine matérialiste est amenée encore plus loin par Dietmar Offenhuber dans son ouvrage *Autographic design. The Matter of Data in a Self-Inscribing World* (2024). Le professeur du département d’art et de design à la Northeastern University introduit ainsi la notion d’autographie, par opposition avec l’allographie et comme contre-modèle à la visualisation données, comme « a practice that is less concerned with interpreting data than with revealing their material origins and the relationship between data and the world » (Offenhuber, 2024, 3). Il remonte aux sources et aux manifestations matérielles à l’origine des données pour ensuite identifier les façons dont le monde s’inscrit lui-même, où l’environnement physique archive (conserve la trace) et traite de l’information (Offenhuber, 2024, 5), comme les carottes de glace par exemple. Le design autographique est ainsi une pratique de monstration des conditions qui permettent aux traces d’émerger; il sert de guide pour leur interprétation, démontrant la causalité et la preuve qui y est contenue (Offenhuber, 2024, 49). <!-- plus de choses à dire ici, voir combien je développe-->
 
-
-
-### La représentation de données culturelles
-
-données culturelles <!-- reprendre intro + cf Freeman, données culturelles comme type spécifique de données, les inscrire dans la taxonomie?-->
-
-#### Taxonomie des données culturelles ?
-
-- Of non-living: Object
-  - Data whose origin is a physical object or device
-  - Generated by GLAM workers as they catalog their collection
-- Of social context: 
-  - data about « corporate entity » / state: GLAM institutions
-- Of license: Closed; **Open**; Shared
-  - scope: open data 
-- Of time/space: *Geospatial*; Static; **Temporal**
-  - at least two temporalities: production date, acquisition date
-    - geospatial: symbolic: in the collection, open data does not share the exact location (closed internal data would)
-  - in specific cases, object biographies provide many more temporal and geospatial information
-    - public art: geospatial lat/long
-  - rarely live, though example of OGA almost
-  - *static*: Data in which the items do not change once created, but the dataset can grow over time. Includes historical datasets and archive indexes. Examples: (a) historical global population size; (b) a recording in the sound archive at the British Library.
-- Of type: Anecdata; Causal; Generated; **Metadata**; Processed; Retrieved; Streamed
-  - *Metadata—Data about data. Data that describes information about other data. Examples: (a) the number of rows in a database; (b) the time and date a phone call was made.*
-  - Of Type: **Processed**—Data that has been calculated, altered or processed in some way. Examples: (a) a sonification of stock market figures; (b) aggregated statistics; (c) a colorful digital photograph reduced to black and white.
-  - Of Type: Retrieved—Data made available on request by machine or user. Examples: (a) compilation of weather data from the past 24 hours as a single CSV file; (b) loan status of a library book.
-- Of disclosure: Anonymized; Identifiable; Unknown
-  - Of Disclosure: Identifiable—Data in which the direct source within it (person, animal or thing) can be identified. Examples: (a) a Facebook data export including friend names; (b) a set of mobile phone numbers with owner address details.
-  - The disclosure section of the taxonomy requires additional consideration on whether animals and certain objects have rights to privacy and whether re-identification possibilities through merging multiple datasets renders absolute anonymity possible.
-
-> “The material (data) is examined from a number of perspectives—delivery method, how it emerged, format of existence, which system it represents, the source or origin, the license.” (Freeman et al., 2018, p. 76)
->
-> “In comparison, when considering a traditional art material, we may ask: where it was made, who made it, where it is from, what does it comprise, who owns it, how does it need to be stored, does it transform or degrade?” (Freeman et al., 2018, p. 76)
-
-- Accuracy: How exact are the individual data points (e.g. if it is real-time data is there latency to acknowledge).  
-- Utility: Does the data have potential to provide utility by providing new content or insight, is this important to the work?  
-- Provenance: Scientific datasets should be reproducible and should be collated from, or by, reliable sources. Any bias should be declared or detected.  
-- Context: Does this dataset provide meaning through its relationships to other datasets (for comparative interest, for ratification)?  
-- Relevancy: Are the data points relevant to each other, to someone or something (e.g. a machine)?  
-- Accessibility: How and by whom can the dataset be accessed and used (licensing rights, availability, database rights) and is this reliable and future-proof?  
-- Format: What is the structure and format (technical data structure and/or data definition, distribution)?  
-- Dimensionality: How many dimensions are represented (e.g. a point against time, a number of parameters)?  
-- Size: The order of magnitude of the number of data points, the sample size (e.g. 1 or 1 million). Often imprecisely referred to as large (big) data or small data.
-
-
-
-
-
-Lamqaddam, Houda, Koenraad Brosens, Frederik Truyen, Jos Beerens, Inez de Prekel, Jan Aerts, and Katrien Verbert. 2018. “When the Tech Kids Are Running Too Fast: Data Visualisation Through the Lens of Art History Research.” In *IEEE Transactions on Visualization and Computer Graphics*. Institute of Electrical and Electronics Engineers.
-
-Lamqaddam, Houda. 2022. “In Search of Meaning: Thinking Information Visualization within Art History Research.” PhD
-
-contextes de création, buts et usages: publics vs usage interne/pour la recherche, division utile/importante?
-
-“Munzner’s multi-level typology of abstract visualization tasks [ ], which distinguishes three main motivations for creating and using visualizations: to discover, to present, and to enjoy.” (Dragicevic et al., 2021, p. 5)
-
-[memoire: Nous émettons l’hypothèse que pour procéder à des études quantitatives,  il s’avère nécessaire non seulement de disposer de données, mais aussi  des méthodologies et des outils pour leur manipulation.  L’instrumentation de la recherche, telle qu’étudiée par Christian Jacob  dans ses *Lieux du savoir*, identifie un défi quant au  développement d’environnements logiciels pour l’expérimentation avec des données (2013: s.p.). L’ouvrage *Graphesis. Visual Forms of Knowledge Production*, publié en 2014 par Johanna Drucker, propose une première étude  d’envergure à propos de ce type d’outils. Cette publication annonce le  potentiel d’une épistémologie visuelle au sein des interfaces de  recherche dans le domaine des sciences humaines et sociales. Dans ce  mémoire, nous proposons l’usage de la cartographie et des visualisations comme outils de compréhension et d’interprétation critique de données  quantitatives.]
-
-- 
-
-**2 thèses sur le sujet**, même labo à Londres (dir. Stephen Boyd Davis), emphase sur les chronologies comme forme de visualisation particulièrement importantes pour les données culturelles
-
-Kraütli 2016 = *GLAM data viz for curators*
-
-- exploration des collections numérisées pour faciliter *knowledge discovery*, 
-- outil d’analyse visuelle des contenus, potentiel pour la recherches. 
-- Recherche sur l’influence du commissariat (traces des décisions institutionnelles, biais curatoriaux) sur les collections et comment elles se manifestent dans des visualisations (time-based). 
-- Montrer/étudier les données « cachées » (hidden data, not explicitely recorded but nevertheless present in the data). 
-- Practice-led and collaborative approach. 8 **prototypes**, à partir desquelles émergent des **principes** de design, puis 2 implémentations pour les mettre en pratique et démontrer comment ces outils peuvent contribution à la production de connaissances dans les collections culturelles. 
-- Numérisation des collections requiert de nouvelles méthode pour les explorer/interroger, deviennent des artefacts, étudier l’histoire des institutions. **Définitions** de la collection numérisée notamment
-
-Vane 2019 = *is data enough? data viz in context, public plus large* 
-
-- numérisation ne suffit pas pour rendre les collections accessibles, découvrables et compréhensibles (Terras 2015)
-- Interfaces standards ne permettent pas forcément les interactions désirées. Visualisations pour rendre les récits historiques (historical narratives) visibles. 
-- Public de cette recherche = institutions culturelles
-- définition/objectif de la visualisation culturelle, enjeux de données qualitatives ou nominales
-- Portfolio de 5 projets dans des musées
-
-Thèse Talitha
-
-**Desmorat 2024**: *L’entrée des femmes artistes dans la collection du Musée d’art contemporain de Montréal, de 1964 à 2020 : analyses statistiques et facteurs déterminants*. Dirigées par la professeure Johanne Lamoureux (Université de Montréal), ces recherches ont été menées dans le cadre du Partenariat *Des nouveaux usages des collections dans les musées d’arts* (CIÉCO). La collaboration avec Lena Krause, dans son rôle de responsable de laboratoire à l’*Ouvroir d’histoire de l’art et de muséologie numériques* (Université de Montréal), a débuté à l’occasion de la clinique numérique du laboratoire.
-
-(extraits de l’article à venir)
-
-- Le Musée d’art contemporain de Montréal (MAC) détient une part élevée d’œuvres d’artistes-femmes, comparativement aux musées d’art québécois, nord-américains et d’Europe de l’Ouest (Desmorat 2024, 1-2) → révéler les facteurs qui ont contribué à cette représentation importante des œuvres d’artistes-femmes dans la collection par le moyen de visualisations de données interactives
-- Cette recherche reprend les objectifs des études féministes quantitatives en histoire de l’art, étudiant la « mécanique » institutionnelle qui infléchit l’évolution du nombre d’acquisitions d’œuvres d’artistes-femmes. Une acquisition revient ici à l’inclusion d’une ou de plusieurs œuvres dans la collection permanente du musée, de sorte que l’entrée d’un·e artiste se concrétise à travers les achats ou les dons de ses œuvres. Dans cette perspective, l’entrée des femmes artistes au MAC s’effectue par le moyen de l’acquisition de leurs œuvres. 
-- co-création de graphiques à partir de deux jeux de données ouvertes publiés par le MAC sur le portail Données Québec . Les graphiques produits sont chronologiques et interactifs. Ce sont des « portraits statistiques » qui donnent à voir les étapes de la constitution de la collection du MAC au travers du prisme des catégories de genre des artistes des œuvres acquises. 
-- La mobilisation de plusieurs graphiques a permis d’adopter des points de vue complémentaires sur la répartition des acquisitions. L’interactivité des graphiques a facilité la sélection des paramètres (types d’acquisition, médiums, catégories de genre représentées) et des bornes chronologiques pour élaborer des hypothèses et pour faire apparaître des facteurs institutionnels expliquant les grandes étapes de l’entrée des artistes-femmes dans la collection.
-- Les visualisations de données apportent donc une vision ou bien d’ensemble des richesses et des lacunes des collections, ou bien davantage circonscrite et spécifique, selon les paramètres sélectionnés par les personnes qui explorent le graphique. Il s’agit d’un enjeu important à l’heure où les musées cherchent à rendre leurs collections plus inclusives et à faire écho à la diversité sociale au sein des contextes où ils évoluent. Les professionnel·les des musées peuvent dorénavant, s’ils ou elles le souhaitent, s’approprier ces outils dans le cadre de l’évolution de leurs propres pratiques d’acquisition et de conservation.
-
-**exemples dans les musées** 
-
-- revue de littérature Vane ch2 sur les chronologies
-- [memoire: En histoire de l’art numérique et dans le domaine plus large des  humanités numériques, nous relevons également la palette d’approches  visuelles originales et conçues spécifiquement pour des données  culturelles dans la thèse de doctorat de Florian Kraütli, *Visualising Cultural Data. Exploring Digital Collection Through Timeline Visualisations* (2016). Certains outils, comme *E.A.T Datascape* (Leclercq et Girard 2013) et les autres projets de l’équipe du Médialab (SciencesPo Paris), *Hypercities* (Presner et al. 2014), *Voyant Tool* (Sinclair et Rockwell 2016), *Palladio* (Conroy 2017) et *Rethinking Guernica* (Peiró et Sevillano 2017), se distinguent particulièrement par la  création d’interfaces interactives avec un riche potentiel  épistémologique. Ces interfaces facilitent les analyses quantitatives  tout en conservant une approche critique à propos des connaissances  ainsi produites.]
-- SMK Open & API (+ Explore : Meyer, Louie, Johanne Engel Aaen, Anitamalina Regitse Tranberg, Peter Kun, Matthias Freiberger, Sebastian Risi, and Anders Sundnes Løvlie. 2024. “Algorithmic Ways of Seeing: Using Object Detection to Facilitate Art Exploration.”)
-- faire analyse plus poussée du MAC répertoire? 
-
-
-
-
+<!-- section sur la représentation des données culturelles? déplacées dans etat des lieux pour le moment-->
 
 
 
@@ -257,42 +148,32 @@ Thèse Talitha
 
  à la croisée de la textilité et de l’algorithmique agissent comme sources d’inspirations transdisciplinaires
 
-design & réflexions sur l’accessibilité: The Senses
-
-Pansee Atta
-
-- artiste en résidence de recherche-création au Tropen Museum dans le projet « *Pressing Matter: Ownership, Value and the Question of Colonial Heritage in Museums* » 
-- Présentation « The Bodies That Haunt the Colonial Institute: Human Remains in art through Dutch Museal Space »
-- *To Make One Particle* 
-  - performance et workshop en 2024
-  - installation muséale dans l’exposition « [Unfinished past: return, keep, or, …](https://amsterdam.wereldmuseum.nl/en/whats-on/exhibitions/unfinished-past-return-keep-or) » dès le 9 mai 2025
-
-> The Wereldmuseum's collection consists of more than 450,000 objects (site [web](https://amsterdam.wereldmuseum.nl/en/collection-stories), présentatino des collections)
->
-> → rough de savoir que cette phrase inclut les restes humains de près de 4000 individus
-
-> mass of 3,968 laser-cut tabs with individual ‘tombstone’ information, one for each ‘entity’ of human remains in the Wereldmuseum collection
->
-> one for each ‘entity’ of human remains in the Wereldmuseum collection –” (Abou Elatta, 2025, p. 4)
->
-> “tactile ‘augmented reality’ screen that visualizes the links between the exhibition space and the relevant nearby collection sites
->
-> Audiences are invited to physically taxonomize or re-organize the ‘tombstone’ tabs into combinations of meaningful categories, a format that this presentation aims to utilize as part of the workshop format.” (Abou Elatta, 2025, p. 4)
->
-> this artistic research project makes visible the intertwined means through which human remains – local and global, White and racialized, living and deceased, contemporary and historical – are objectified and taxonomized by cultural institutions, yet leave troubling, intractable traces of their resistance which continues to haunt their sites
-
-- 
-
-
-
-
-
 
 
 - [corpus d’œuvres qui inspirent la recherche](https://www.canva.com/design/DAGeuw-pplg/xXzotJr7T8XvWcPHvk2eSw/view?utm_content=DAGeuw-pplg&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hef9b400c70)  circonscrire les objets qui aident à réfléchir
 - Pansee Atta
 - data art? algo art with data? 
 - Rapport entre les données (corpus) et les œuvres (objets) qu’on étudiera pour exemplifier son processus d’expérimentation.
+
+#### design & réflexions sur l’accessibilité: The Senses
+
+
+
+
+
+#### Pansee Atta
+
+Pansee Atta est une artiste, commissaire et chercheuse actuellement en en résidence de recherche-création au Tropen Museum dans le cadre du projet « *[Pressing Matter](https://pressingmatter.nl/): Ownership, Value and the Question of Colonial Heritage in Museums* ». Elle s’est ainsi penchée sur les enjeux de retour, de réparation et de réconciliation des collections coloniales, et plus précisément sur les restes humains conservés dans cette institution. Son intervention, intitulée *To Make One Particle*, a d’abord pris la forme d’une performance et d’un atelier organisé en 2024 pendant lesquelles, Pansee, puis les participant·e·s, ont interrogé les principes de taxonomie dans la gestion des collections en essayant d’organiser et de réorganiser les 3968 onglets usinés par laser inscrits avec les informations dites « tombales »  à propos de chaque « entité » de restes humains conservée dans la collection. Une seconde intervention est prévue pour mai 2025, cette fois une installation muséale pour l’exposition « [Unfinished past: return, keep, or, …](https://amsterdam.wereldmuseum.nl/en/whats-on/exhibitions/unfinished-past-return-keep-or) », présentera à nouveau ces onglets matérialisant les données de la collection. Les onglets seront accompagnés d’un dispositif tactile semi-transparent placé devant la fenêtre pour créer une forme de réalité augmentée visualisant les liens entre l’espace d’exposition et le parc visible à travers la fenêtre, notamment l’emplacement d’où certains corps ont été exhumés pour intégrer la collection. En effet, le musée possède une aussi importante collection de restes humains notamment car il a été construit sur l’emplacement d’un ancien cimetière. L’expansion de la ville d’Amsterdam au début du XXe siècle a motivé le réaménagement du Cimetière *Oosterbegraafplaats* pour faire place à un parc, à un laboratoire d’anatomie et à l’Institut royal des Tropique, anciennement « Institution Colonial » (présentation Pansee + [wiki](https://fr.wikipedia.org/wiki/Institut_royal_des_Tropiques) + [site du musée](https://www.kit.nl/about-us/our-history/)). 
+
+> This artistic research project makes visible the intertwined means through which human remains – local and global, White and racialized, living and deceased, contemporary and historical – are objectified and taxonomized by cultural institutions, yet leave troubling, intractable traces of their resistance which continues to haunt their sites ([abstract Pansee](https://sites.google.com/view/postcolonialhauntologies/day-2))
+
+Cette résidence de recherche-création a donc non seulement été l’occasion pour Pansee de faire des recherches avec les données, les archives et les restes humains de la collection, mais également d’en proposer une réinterprétation artistique qui invite à les ré-imaginer afin d’entamer le travail restaurateur (*reparative work*) d’une décolonisation globale ([artist statement Pansee](https://panseeatta.com/index.php/about/)). La matérialisation permet de rendre compte de l’échelle du phénomène de collectionnement de restes humains par l’institution. Le processus de découpage et d’inscription au laser du papier compressé crée quant à lui des résidus matériels évoquant des cendres. Il en émane une odeur qui rappelle, selon l’artiste, les feux de camps. Face à la masse d’onglet et l’exercice de taxonomie présenté comme impossible ou, du moins, nécessairement en désordre, l’activité proposée incarne elle-même un sensation de chaos. Alors que les participant·e·s étaient invité·e·s à « laisser leurs marques », la manipulation des onglets imprégnait les participant·e·s à leur tour d’une fine particule cendrée, mutualisant le geste de la trace et traduisant l’affect en une forme sensible et visible.
+
+
+
+
+
+
 
 ---
 
