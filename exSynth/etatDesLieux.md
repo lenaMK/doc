@@ -290,6 +290,20 @@ tactile data viz
 
 Designing for the senses
 
+- accessibilité
+  -  *when we use our creative insights into the senses to expand access to information, productions, and environments, we also expand the discourse on accessible design* (Baumann dans Lupton et al. 2018, 6)
+  - *sensory design supports everyone’s opportunity to receive information, explore the world, and experience joy, wonder, and social connections, regardless of our sensory abilities* (Lupton et Lipps dans Lupton et al. 2018, 9)
+  - **Sensory design ** (Lupton et Lipps dans Lupton et al. 2018, 14)
+    - slows space down, making it feel thick rather than thin
+    - enhances health and well-being
+    - tactile graphics are used to communicate ideas through the sense of touch
+    - inclusive: each person’s sensory abilities change over the course of a lifetime. By addressing multiple senses, designers support the diversity of the human condition
+- vision: 
+  - *The senses have long been dominated by vision. In the western tradition, the eye symbolizes knowledge and enlightenment*(Lupton et Lipps dans Lupton et al. 2018, 13) *Sensory design rebels against the tyranny of the eye* (Lupton et Lipps dans Lupton et al. 2018, 14)
+  - We have allowed two of our sensory domains -- sight and sound -- to dominate our design imagination. In fact, when it comes to the culture of architecture and design, we create and produce almost exclusively for one sense - the visual. (Mau dans Lupton et al. 2018, 20)
+- sensory knowing (Lupton et Lipps dans Lupton et al. 2018, 18) *objects gain meaning and value in our embodied experience of them*
+- Mau: principles for all senses design (Mau dans Lupton et al. 2018, 21-23)
+
 ## Récits et narrativité ?
 
 ### récits et contre-récits
