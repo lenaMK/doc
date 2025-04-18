@@ -20,7 +20,6 @@ Une première approche possible pour découvrir une collection dans son ensemble
 
 <iframe width="100%" height="280" frameborder="0"
   src="https://observablehq.com/embed/@artistes-femmes-mac/nb-dachats-dons-acquisitions?cells=graphiqueBarres"></iframe>
-
 <!--![Chronologie des acquisitions du MAC, chaque barre indique une année et le code couleur la répartition de l’identité de genre des artistes ayant produit les œuvres acquises cette année-là ](../img/artistes-femmes-MAC_GraphiqueBarres.png)-->
 
 <figcaption style=" text-align: right ">Figure 2. Nombres d'acquisitions d'œuvres d'artistes-femmes et d'œuvres d'artistes-hommes par année (1964-2020), version simplifiée (sans les sélecteurs), Desmorat et MK, 2024</figcaption>
@@ -182,23 +181,17 @@ Cette résidence de recherche-création a donc non seulement été l’occasion 
 
 ## Cadre théorique
 
-Le cadre théorique que j’emploierai pour penser l’artisanat comme une technologie et la technologie comme une forme d’artisanat est centré sur les approches de deux artistes: Annie Albers et Vera Molnar. Chacune à sa façon, les deux artistes théorisent le « faire » dans leur processus création, particulièrement dans les liens entre technique/technicité et création
+Le cadre théorique que j’emploierai pour penser l’artisanat comme une technologie et la technologie comme une forme d’artisanat est centré sur les approches de deux artistes: Anni Albers et Vera Molnar. Chacune à sa façon, ces deux artistes théorisent le « faire » et, plus particulièrement, exposent les liens entre contraintes et libertés posées par la technicité dans leur processus de création.
 
- en liant la 
+### Anni Albers
 
-dimension créative 
-
-contraintes mais aussi aux avantages que leur
-
-Annie Albers, née à Berlin en 1899 et décédée à Orange (Connecticut) en 1994, 
+Anni Albers, née Annelise Else Frieda Fleishmann à Berlin en 1899 et décédée à Orange (Connecticut) en 1994, est une artiste, théoricienne et enseignante en arts textiles. Figure importante du Bauhaus, elle fuit les répressions antisémites et déménage en Caroline du Nord, où elle enseignera au Black Mountain College dès 1933. Première artiste textile à présenter une exposition solo au *Museum of Modern Art* (MoMA)  (<!-- article encyclo-->Yalzadeh et Kuiper 2025), elle publie également des ouvrages théorique sur le design (1959) et le tissage (2021 [1965]).
 
 
 
+### Vera Molnar
 
-
-
-
-Vera Molnar, née à Budapest en 1924 et décédée à Paris en 2023, 
+Vera Molnar, née à Budapest en 1924 et décédée à Paris en 2023, fait partie des premier·ère·s artistes en art génératif [^8]. Formée en Beaux-Arts et créatrice de peintures abstraites, elle transforme sa pratique dans les années 60, à la rencontre de la pensée algorithmique et des premiers ordinateurs.
 
 
 
@@ -322,3 +315,4 @@ s
 [^2]: Traduction admise par l’OQLF: https://vitrinelinguistique.oqlf.gouv.qc.ca/fiche-gdt/fiche/8375546/coder
 [^3]: Caractères gras ajoutés par l’autrice pour mettre une emphase sur les termes employés
 [^4]: À noter que la traduction que j’emploie pour « *data physicalisation* » comme « matérialisation de données » en français provient de la traduction proposée par l’[Office québécois de la langue française](https://vitrinelinguistique.oqlf.gouv.qc.ca/fiche-gdt/fiche/26577168/materialisation-des-donnees). 
+[^8 ]: Le terme « art génératif » a longtemps servi à décrire l’art généré avec un ordinateur. Avec l’arrivée des IA génératives, le terme « art algorithmique » pour désambiguïser les deux formes de création.
