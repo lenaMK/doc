@@ -75,6 +75,11 @@ Le reste est à suivre, premier essai en cours (avec la collection du MAC) pour 
 - remarqué: beaucoup plus de lecture sur les **pratiques** des artistes
   - anni
   - vera
+- réfléchir à comment on fait les choses
+- dans quel ordre? 
+  - sujet - pratique - problématique
+  - écrire ou faire
+
 
 
 
