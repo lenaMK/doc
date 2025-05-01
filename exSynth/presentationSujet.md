@@ -181,7 +181,41 @@ Cette résidence de recherche-création a donc non seulement été l’occasion 
 
 ## Cadre théorique
 
-Le cadre théorique que j’emploierai pour penser l’artisanat comme une technologie et la technologie comme une forme d’artisanat est centré sur les approches de deux artistes: Anni Albers et Vera Molnar. Chacune à sa façon, ces deux artistes théorisent le « faire » et, plus particulièrement, exposent les liens entre contraintes et libertés posées par la technicité dans leur processus de création.
+Le cadre théorique que j’emploierai pour penser l’artisanat comme une technologie et la technologie comme une forme d’artisanat est centré sur la pensée textile d’Anni Albers
+
+> La première spécificité des images textiles est d’être des images programmées (Soulard 2021, 260)
+>
+> Ce que montrent les textes d’Anni Albers est que les œuvres tissées 
+>
+> - sont des espaces de règles, de codes, et d’information
+> - procèdent en réalité d’opérations logiques répétées, de processus structurels
+> - relèvent tout autant d’une pratique d’ingénierie mécanique que du domaine artistique
+
+<!--OG algo art? en construisant des images de façon programmée, on fait face à un problème textile!-->
+
+
+
+
+
+> la concision et la précision du langage, l’idée qu’il faut revenir aux **fondamentaux d’une pratique**, définir une nouvelle « grammaire » artistique et visuelle, et que l’apprentissage doit se faire par l’expérience et un engagement direct avec les matériaux. 
+>
+> - **anthropologie** comme méthode moderne <!--échos avec Ingold-->
+> - ouvre à des **questions transdisciplinaires**
+> - considère le tissage dans sa double dimension, à la fois comme une catégorie d’objets et de techniques, et comme une méthode de pensée
+>
+> (Soulard 2021, 259)
+
+#### deux artistes: Anni Albers et Vera Molnar. 
+
+Chacune à sa façon, ces deux artistes théorisent le « faire » et, plus particulièrement, exposent les liens entre contraintes et libertés posées par la technicité dans leur processus de création.
+
+> L’artiste-ingénieure est une figure qui permet de composer habilement avec les dialectiques technologique-artistique, individuel-universel, processus-produit et de rompre également avec la spécialisation des tâches tout en acceptant de participer au régime moderne de production (Soulard 2021, 261)
+
+
+
+
+
+
 
 ### Anni Albers
 
