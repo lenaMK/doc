@@ -18,16 +18,18 @@ En tant que jeune chercheuse et professionnelle au parcours multidisciplinaire e
 
 Une première approche possible pour découvrir une collection dans son ensemble émerge d’une méthodologie quantitative. Anne Dymond souligne, dans son ouvrage *Diversity Counts : Gender, Race, and Representation in Canadian Art Galleries* (2019), l’utilité d’indicateurs statistiques dans l’étude des pratiques institutionnelles. Dans une démarche qui reprend les objectifs des études féministes quantitatives en histoire de l’art, Valentine Desmorat et moi avons employé les données publiées par le Musée d’art contemporain de Montréal (MAC) pour étudier l’entrée des femmes artistes dans sa collection [^1]. Les portraits statistiques «&nbsp;permettent, en tant que visualisations de données, de donner à voir les tendances minoritaires, majoritaires, ainsi que les caractéristiques majeures des œuvres ou des artistes pris·es en compte [dans les collections]&nbsp;» (Desmorat 2024, 11). Guidées par les données, nous avons effectué des analyses statistiques et révélé des facteurs qui ont contribué à la représentation des œuvres d’artistes-femmes dans cette collection (Desmorat 2024, Desmorat et MK 2025 [à paraître]). Cette visualisation (figure 2) présente un regard d’ensemble sur la collection du musée, une alternative intéressante à la vue partielle issue de la recherche textuelle. 
 
-<iframe width="100%" height="280" frameborder="0"
+<iframe width="100%" height="680" frameborder="0"
   src="https://observablehq.com/embed/@artistes-femmes-mac/nb-dachats-dons-acquisitions?cells=graphiqueBarres"></iframe>
+
 <!--![Chronologie des acquisitions du MAC, chaque barre indique une année et le code couleur la répartition de l’identité de genre des artistes ayant produit les œuvres acquises cette année-là ](../img/artistes-femmes-MAC_GraphiqueBarres.png)-->
 
 <figcaption style=" text-align: right ">Figure 2. Nombres d'acquisitions d'œuvres d'artistes-femmes et d'œuvres d'artistes-hommes par année (1964-2020), version simplifiée (sans les sélecteurs), Desmorat et MK, 2024</figcaption>
 
 Certaines visualisations interactives amplifient le potentiel de découverte des contenus des collections. Contrairement au graphique en barre présenté plus haut, l’utilisation de points (figure 3) pour représenter les œuvres une à une les rend découvrables&nbsp;: en survolant un élément, on obtient le titre de l’œuvre et le clic redirige vers une page qui lui est dédiée. On peut ainsi découvrir une œuvre dont on ne connaissait ni l’existence, ni l’artiste, ni l’emplacement. Cette forme d’accès à la collection est davantage caractérisée par la sérendipité et une approche sensorielle. 
 
-<iframe width="550" height="294" frameborder="0"
+<iframe width="550" height="794" frameborder="0"
   src="https://observablehq.com/embed/27a690d9c785e7cb?cells=minichrono"></iframe>
+
 
 
 <!--<img src="../img/donnees-MAC_testChronologieProd_1990.png" alt="Chronologie par points d’œuvres du MAC de 1990 à 2023" style="zoom: 33%;" />-->
@@ -191,17 +193,16 @@ Le cadre théorique que j’emploierai pour penser l’artisanat comme une techn
 
 Anni Albers emploie d’ailleurs la machine à écrire comme outil pour expérimenter avec ce qu’elle appelle des « illusions tactiles-textiles » (Albers 2021 [1965],  70). Ces expériences visent à enrichir le vocabulaire du langage tactile. Il s’agit d’augmenter notre sensibilité à l’expression tactile pour être capable de découvrir du sens dans le langage de la matière (Albers 2021 [1965], 68).
 
+<img src="../img/albers_1.jpeg" style="zoom: 33%;" />
 
+<figcaption style=" text-align: right ">Étude réalisée à la machine à écrire, Anni Albers, 1965?</figcaption>
 
-[insérer ici celles d’Anni à la machine à écrire puis celles génératives]
+<iframe width="800" height="480" frameborder="0"
+  src="http://lenamk.site/art-algorithmique/anni-typing_1/"></iframe>
 
+<figcaption style=" text-align: right ">*&lowbar;( Anni Albers )&lowbar;*, série *Playing with Anni Albers* inspirée des études à la machine à écrire d’Anni Albers, Lena MK, 2025</figcaption> 
 
-
-
-
- 
-
-### Les images programmées
+### Les images programméesgit a
 
 > La première spécificité des images textiles est d’être des images programmées
 >
