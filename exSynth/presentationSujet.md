@@ -177,33 +177,49 @@ Cette résidence de recherche-création a donc non seulement été l’occasion 
 
  <!--contre-récit: récit non-dit en tout cas-->
 
+---
+
 
 
 ## Cadre théorique
 
-Le cadre théorique que j’emploierai pour penser l’artisanat comme une technologie et la technologie comme une forme d’artisanat est centré sur la pensée textile d’Anni Albers
+> Ce que montrent les textes d’Anni Albers est que les œuvres tissées sont des espaces de règles, de codes, et d’information. Elles procèdent en réalité d’opérations logiques répétées, de processus structurels, et relèvent tout autant d’une pratique d’ingénierie mécanique que du domaine artistique. 
+>
+> (Soulard dans Soulard et Al. 2021, 260)
 
-> La première spécificité des images textiles est d’être des images programmées (Soulard 2021, 260)
+Le cadre théorique que j’emploierai pour penser l’artisanat comme une technologie et la technologie comme une forme d’artisanat est centré sur la pensée textile d’Anni Albers ([Annexe 1: à propos d’Anni Albers]()). Publié pour la première fois en 1965, son éloquent essai intitulé *Du tissage* [se situe à la / forme une ? ] charnière entre l’artisanat manuel et la fabrication [mécanisée / mécanique ?] (*between handcraft and the machine-made*, [Princeteon university press 2017, s.p.](https://press.princeton.edu/books/hardcover/9780691177854/on-weaving)). Anni Albers elle-même était consciente du potentiel de sa pensée textile pour d’autres disciplines. Elle annonce dans sa *Note d’introduction* : « en abordant les fondamentaux et les méthodes du textile, mon souhait était de compter parmi mes lecteurs non seulement des tisserands mais toute personne dont le travail dans une autre discipline rejoint les enjeux du textile » (Albers 2021 [1965], 11). Et Ida Soulard le souligne en conclusion de la traduction française parue en 2021, « cette pensée textile qui se définit en creux dans *Du tissage* à travers les images programmées est […] précieuse dans le cadre d’une préhistoire des pratiques algorithmiques » (Soulard dans Soulard et Al. 2021, 268).
+
+Anni Albers emploie d’ailleurs la machine à écrire comme outil pour expérimenter avec ce qu’elle appelle des « illusions tactiles-textiles » (Albers 2021 [1965],  70). Ces expériences visent à enrichir le vocabulaire du langage tactile. Il s’agit d’augmenter notre sensibilité à l’expression tactile pour être capable de découvrir du sens dans le langage de la matière (Albers 2021 [1965], 68).
+
+
+
+[insérer ici celles d’Anni à la machine à écrire puis celles génératives]
+
+
+
+
+
+ 
+
+### Les images programmées
+
+> La première spécificité des images textiles est d’être des images programmées
 >
-> Ce que montrent les textes d’Anni Albers est que les œuvres tissées 
->
-> - sont des espaces de règles, de codes, et d’information
-> - procèdent en réalité d’opérations logiques répétées, de processus structurels
-> - relèvent tout autant d’une pratique d’ingénierie mécanique que du domaine artistique
+> (Soulard dans Soulard et Al. 2021, 260)
+
+
+
+
+
+
+
+« cette pensée textile qui se définit en creux dans *Du tissage* à travers les images programmées est également précieuse dans le cadre d’une préhistoire des pratiques algorithmiques. L’histoire de l’informatique et l’histoire textile, du fait de leur généalogie commune (à travers les cartes perforées de la machine Jacquard) a aujourd’hui totalement convergé ouvrant des champs nouveaux entre expérimentations textiles et technologies digitales. » (Soulard dans Soulard et Al. 2021, 268)
 
 <!--OG algo art? en construisant des images de façon programmée, on fait face à un problème textile!-->
 
 
 
-
-
-> la concision et la précision du langage, l’idée qu’il faut revenir aux **fondamentaux d’une pratique**, définir une nouvelle « grammaire » artistique et visuelle, et que l’apprentissage doit se faire par l’expérience et un engagement direct avec les matériaux. 
->
-> - **anthropologie** comme méthode moderne <!--échos avec Ingold-->
-> - ouvre à des **questions transdisciplinaires**
-> - considère le tissage dans sa double dimension, à la fois comme une catégorie d’objets et de techniques, et comme une méthode de pensée
->
-> (Soulard 2021, 259)
+> 
 
 #### deux artistes: Anni Albers et Vera Molnar. 
 
@@ -217,33 +233,7 @@ Chacune à sa façon, ces deux artistes théorisent le « faire » et, plus part
 
 
 
-### Anni Albers
 
-Anni Albers, née Annelise Else Frieda Fleishmann à Berlin en 1899 et décédée à Orange (Connecticut) en 1994, est une artiste, théoricienne et enseignante en arts textiles. Figure importante du Bauhaus, elle fuit les répressions antisémites et déménage en Caroline du Nord, où elle enseignera au Black Mountain College dès 1933. Première femme et première artiste textile à présenter une exposition solo au *Museum of Modern Art* (MoMA)  (<!-- article encyclo-->Yalzadeh et Kuiper 2025), elle publie également des ouvrages théorique sur le design (1959) et le tissage (2021 [1965]).
-
-– 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-### Vera Molnar
-
-Vera Molnar, née à Budapest en 1924 et décédée à Paris en 2023, fait partie des premier·ère·s artistes en art génératif [^8]. Formée en Beaux-Arts et créatrice de peintures abstraites, elle transforme sa pratique dans les années 60, à la rencontre de la pensée algorithmique et des premiers ordinateurs.
 
 
 
@@ -252,6 +242,22 @@ Vera Molnar, née à Budapest en 1924 et décédée à Paris en 2023, fait parti
 <!--Ce qui fait que tu suis la ligne que tu t’est tracée pour faire émerger des éléments de réponse à ta question et vérifier ton hypothèse: comment la matérialisation de données peut-elle offrir une nouvelle forme d’accès pour des données culturelles? Je mènerai cette recherche à partir de l’hypothèse selon laquelle la création de ces nouvelles formes d’accès passe par une posture interdisciplinaire, en pensant l’artisanat comme une technologie et la technologie comme une pratique artisanale. À la croisée des matérialisations de données et des œuvres ou expériences *sensation*nelles, je vais expérimenter avec la fabrication d’objets qui incorporent des données culturelles. Mon objectif sera de produire des objets qui présentent des récits alternatifs et offrent de nouvelles perspectives sur les collections représentées. -->
 
 
+
+
+
+### Penser le faire
+
+
+
+
+
+> la concision et la précision du langage, l’idée qu’il faut revenir aux **fondamentaux d’une pratique**, définir une nouvelle « grammaire » artistique et visuelle, et que l’apprentissage doit se faire par l’expérience et un engagement direct avec les matériaux. 
+>
+> - **anthropologie** comme méthode moderne <!--échos avec Ingold-->
+> - ouvre à des **questions transdisciplinaires**
+> - considère le tissage dans sa double dimension, à la fois comme une catégorie d’objets et de techniques, et comme une méthode de pensée
+>
+> (Soulard 2021, 259)
 
 ### Faire (au sens artisanal)
 
@@ -357,7 +363,17 @@ permet de garantir l’arrimage texte-image
 
 
 
+ ## Annexes
 
+### Anni Albers
+
+Anni Albers, née Annelise Else Frieda Fleishmann à Berlin en 1899 et décédée à Orange (Connecticut) en 1994, est une artiste, théoricienne et enseignante en arts textiles. Figure importante du Bauhaus, elle fuit les répressions antisémites et déménage en Caroline du Nord, où elle enseignera au Black Mountain College dès 1933. Première femme et première artiste textile à présenter une exposition solo au *Museum of Modern Art* (MoMA)  (<!-- article encyclo-->Yalzadeh et Kuiper 2025), elle publie également des ouvrages théorique sur le design (1959) et le tissage (2021 [1965]).
+
+
+
+### Vera Molnar
+
+Vera Molnar, née à Budapest en 1924 et décédée à Paris en 2023, fait partie des premier·ère·s artistes en art génératif [^8]. Formée en Beaux-Arts et créatrice de peintures abstraites, elle transforme sa pratique dans les années 60, à la rencontre de la pensée algorithmique et des premiers ordinateurs.
 
 ---
 
