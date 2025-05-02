@@ -9,7 +9,7 @@ Recherche-création doctorale de [Lena MK](http://lenamk.site), 2023-2027, Unive
 ### Examen de sythèse
 
 - [résumé](./exSynth/resume) ([version en anglais](./exSynth/abstract))
-- écrit (travail en cours)
+- [écrit](./exSynth/presentationSujet) (travail en cours)
 - [protocole](./exSynth/protocole) (travail en cours)
 - bibliographie (à venir)
 
@@ -17,8 +17,8 @@ Recherche-création doctorale de [Lena MK](http://lenamk.site), 2023-2027, Unive
 
 ### Conférences
 
-- Avec Cassandre Roy, « La recherche-création en histoire de l’art :  Perspectives actuelles et futures », panel pour les Journées d’étude du  doctorat interuniversitaire en histoire de l’art *Trois décennies d’histoire de l’art à Montréal · Three Decades of Art History in Montreal Doc-Inter (1994-2024)* prévues le 30 avril, 1er et 2 mai 2025, Montréal            
-- *[The Matter of Maps](./conf/ICC2025_theMatterOfMaps)*, proposition soumise en janvier 2025 pour la conférence international de cartographie ICC2025 ainsi que pour un article dans le N°47 *Contre-cartographier / Counter-mapping* de la revue [Intermédialités](http://intermedialites.com/appel-a-contributions-no-47-contre-cartographier-counter-mapping/)
+- « The Matter of Maps. A Public Art Experiment », présentation orale à [ICC2025](https://icc2025.com/) *Mapping the Future: Innovation, Inclusion, and Sustainability* du 16 au 22 août à Vancouver, et article à suivre dans le N°47 *Contre-cartographier / Counter-mapping* de la revue [Intermédialités](http://intermedialites.com/appel-a-contributions-no-47-contre-cartographier-counter-mapping/)
+- Avec Cassandre Roy, « La recherche-création en histoire de l’art :  Perspectives actuelles et futures », panel pour les Journées d’étude du  doctorat interuniversitaire en histoire de l’art *Trois décennies d’histoire de l’art à Montréal · Three Decades of Art History in Montreal Doc-Inter (1994-2024)*, 1er mai 2025, Montréal 
 - [Imagining public art : feminist and algorithmic cartographies](./conf/ecoleDePrintemps_project), notes de la conférence présentée à la *XXIIème École de printemps d’histoire de l’art*, « Social imagining and the role of images, artworks and buildings », Weimar, Allemagne, 17 au 21 juin 2024
 
 ### Séminaires
@@ -30,6 +30,11 @@ Recherche-création doctorale de [Lena MK](http://lenamk.site), 2023-2027, Unive
 
 
 ## Faire
+
+- *Playing with Anni Albers*, série inspirée des études à la machine à écrire d’Anni Albers, printemps 2025
+  - [&lowbar;( Anni Albers )&lowbar;](http://lenamk.site/art-algorithmique/anni-typing_1/)
+  - [//: Anni Albers ://](http://lenamk.site/art-algorithmique/anni-typing_2/)
+  - [sSs_Anni Albers_SsS](http://lenamk.site/art-algorithmique/anni-typing_3/)
 
 - [« Sketch de données:  rubans numériques»](../art-algorithmique/exSynth), étape de préparation pour la matérialisation de données du MAC, p5.js, hiver 2025
 - [« Sketch de données: chronologie »](./viz/brodin/), préparation pour la chronologie brodée sur le genre des artistes en art public, p5.js, données MONA, hiver 2024
