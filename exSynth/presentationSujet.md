@@ -6,17 +6,15 @@
 
 ## Introduction
 
-<!--rédaction: idée générale d’introduction: validée, poursuivre la rédaction-->
+La mission des institutions culturelles – musées, bibliothèques, centres d’archives, etc. – comporte notamment la valorisation et l’accès public à leurs contenus. L’arrivée des outils numériques dans ces institutions contribue à la transformation de leurs méthodes de travail  avec, par exemple, la diffusion numérique des artefacts conservés dans les réserves ou avec les expositions virtuelles. Certaines de ces institutions vont même jusqu’à la mise en ligne de leur données (Casemajor 2012, 82). Ces données décrivent de façon structurée les collections muséales, des archives ou des entités patrimoniales. Dans le cas où elles sont mises à disposition sur des plateformes de données ouvertes, elles contribuent à la documentation institutionnelle accessible et librement réutilisable. On peut désormais considérer ces données comme une forme d’archive institutionnelle, ce qui ouvre de nouvelles avenues pour la recherche. 
 
-La mission des institutions culturelles – musées, bibliothèques, centres d’archives, etc. – comporte notamment la valorisation et l’accès public à leurs contenus. L’arrivée des outils numériques dans ces institutions contribue à la transformation de leurs méthodes de travail, par exemple avec la diffusion numérique des artefacts conservés dans les réserves ou avec les expositions virtuelles. Certaines de ces institutions vont même jusqu’à la mise en ligne de leur données (Casemajor 2012, 82). Ces données décrivent de façon structurée les collections muséales, des archives ou des entités patrimoniales. Dans le cas où elles sont mises à disposition sur des plateformes de données ouvertes, elles contribuent à la documentation institutionnelle accessible et librement réutilisable. De ce fait, on peut considérer ces données comme une forme d’archive institutionnelle, ce qui ouvre de nouvelles avenues pour la recherche. 
-
-En tant que jeune chercheuse et professionnelle au parcours multidisciplinaire en informatique et en histoire de l’art, je me suis particulièrement intéressée aux interfaces de valorisation et d’exploration de données culturelles (MK 2020, 2021; Fauchié et al. 2024; Desmorat et MK 2025 [à paraître]; Graff et al. 2024). Les interactions des publics avec ces données passent principalement par l’intermédiaire d’interfaces web permettant, par exemple, de faire des recherches dans une collection muséale. Lorsque la collection numérisée est en libre accès sur les sites web de musées, on peut habituellement l’explorer par le biais d’une barre de recherche (exemple figure 1) ou par l’usage d’un formulaire. Ces modes d’accès contraignent toutefois le potentiel de découverte de la collection. En effet, ces deux fonctions requièrent une connaissance préalable des objets, ou du moins de leurs caractéristiques, pour pouvoir les saisir&nbsp;: on ne peut pas rechercher ce qu’on ne connaît pas. De plus, on ne voit jamais qu’une partie de la collection. 
+En tant que jeune chercheuse et professionnelle au parcours multidisciplinaire en informatique, en histoire de l’art et en design, je me suis particulièrement intéressée aux interfaces de valorisation et d’exploration de données culturelles (MK 2020, 2021; Fauchié et al. 2024; Desmorat et MK 2025 [à paraître]; Graff et al. 2024). Les interactions des publics avec ces données passent principalement par l’intermédiaire d’interfaces web permettant, par exemple, de faire des recherches dans une collection muséale. Lorsque la collection numérisée est en libre accès sur les sites web de musées, on peut habituellement l’explorer par le biais d’une barre de recherche (exemple figure 1) ou par l’usage d’un formulaire. Ces modes d’accès contraignent toutefois le potentiel de découverte de la collection. En effet, ces deux fonctions requièrent une connaissance préalable des objets, ou du moins de leurs caractéristiques, pour pouvoir les saisir&nbsp;: on ne peut pas rechercher ce qu’on ne connaît pas. De plus, on ne voit jamais qu’une partie de la collection. 
 
 ![MACrépertoire avec « animal » comme terme de recherche parmi les œuvres de la collection. Les résultats sont triés par ordre alphabétique pour le nom de l’artiste](../img/MACrepertoire_animal_2025-03.png)
 
 <figcaption style=" text-align: right ">Figure 1. Capture d’écran d’une recherche dans le MACrépertoire, le portail d’accès web à la collection du Musée d’art contemporain de Montréal, 2025.</figcaption>
 
-Une première approche possible pour découvrir une collection dans son ensemble émerge d’une méthodologie quantitative. Anne Dymond souligne, dans son ouvrage *Diversity Counts : Gender, Race, and Representation in Canadian Art Galleries* (2019), l’utilité d’indicateurs statistiques dans l’étude des pratiques institutionnelles. Dans une démarche qui reprend les objectifs des études féministes quantitatives en histoire de l’art, Valentine Desmorat et moi avons employé les données publiées par le Musée d’art contemporain de Montréal (MAC) pour étudier l’entrée des femmes artistes dans sa collection [^1]. Les portraits statistiques «&nbsp;permettent, en tant que visualisations de données, de donner à voir les tendances minoritaires, majoritaires, ainsi que les caractéristiques majeures des œuvres ou des artistes pris·es en compte [dans les collections]&nbsp;» (Desmorat 2024, 11). Guidées par les données, nous avons effectué des analyses statistiques et révélé des facteurs qui ont contribué à la représentation des œuvres d’artistes-femmes dans cette collection (Desmorat 2024, Desmorat et MK 2025 [à paraître]). Cette visualisation (figure 2) présente un regard d’ensemble sur la collection du musée, une alternative intéressante à la vue partielle issue de la recherche textuelle. 
+Une première approche possible pour découvrir une collection dans son ensemble émerge d’une méthodologie quantitative. Anne Dymond souligne, dans son ouvrage *Diversity Counts : Gender, Race, and Representation in Canadian Art Galleries* (2019), l’utilité d’indicateurs statistiques dans l’étude des pratiques institutionnelles. Dans une démarche qui reprend les objectifs des études féministes quantitatives en histoire de l’art, Valentine Desmorat et moi avons employé les données publiées par le Musée d’art contemporain de Montréal (MAC) pour étudier l’entrée des femmes artistes dans sa collection [^1]. Les portraits statistiques «&nbsp;permettent, en tant que visualisations de données, de donner à voir les tendances minoritaires, majoritaires, ainsi que les caractéristiques majeures des œuvres ou des artistes pris·es en compte [dans les collections]&nbsp;» (Desmorat 2024, 11). Guidées par les données (*data-driven approach* [voir si je trouve une autre formulation]), nous avons effectué des analyses statistiques et révélé des facteurs qui ont contribué à la représentation des œuvres d’artistes-femmes dans cette collection (Desmorat 2024, Desmorat et MK 2025 [à paraître]). Cette visualisation (figure 2) présente un regard d’ensemble sur la collection du musée, une alternative intéressante à la vue partielle issue de la recherche textuelle. 
 
 <iframe width="100%" height="680" frameborder="0"
   src="https://observablehq.com/embed/@artistes-femmes-mac/nb-dachats-dons-acquisitions?cells=graphiqueBarres"></iframe>
@@ -38,7 +36,7 @@ Certaines visualisations interactives amplifient le potentiel de découverte des
 
 ## Projet de recherche
 
-Mon projet de recherche-création doctorale s’inscrit dans l’étude des institutions culturelles par leur données. Dans une continuité avec ma recherche sur les interfaces de valorisation et d’exploration de données culturelles, j’aimerais créer des environnements esthétiques, sensibles et non-hiérarchiques pour la valorisation et la libre exploration de ces collections. Mon objectif est de renouveler les présentations et les représentations des collections auprès des publics pour déjouer certains effets de pouvoir comme la domination des œuvres et des récits masculins coloniaux normatifs, ou encore l’excès de visibilité médiatique accordée à certains artistes au détriment des autres. Pour ce faire, j’aimerais expérimenter avec l’idée que la création de visualisations de données est une forme de commissariat. Le commissariat, en tant que processus de sélection et de mise en exposition publique d’objets, provient du milieu muséal mais s’est aujourd’hui diversifié en une variété de pratiques sociales. Des comptes Instagram aux listes de lectures Spotify, l’émergence de pratiques curatoriales sur les réseaux sociaux amènent un nouveau réseau d’acteur·rices à se pencher sur cette pratique.
+Mon projet de recherche-création doctorale s’inscrit dans l’étude des institutions culturelles par leur données. Dans une continuité avec ma recherche sur les interfaces de valorisation et d’exploration de données culturelles, je souhaite créer des environnements esthétiques, sensibles et non-hiérarchiques pour la valorisation et la libre exploration de ces collections. Mon objectif est de renouveler les présentations et les représentations des collections auprès des publics pour déjouer certains effets de pouvoir comme la domination des œuvres et des récits masculins coloniaux normatifs, ou encore l’excès de visibilité médiatique accordée à certains artistes au détriment des autres. Pour ce faire, j’aimerais expérimenter avec l’idée que la création de visualisations de données est une forme de commissariat. Le commissariat, en tant que processus de sélection et de mise en exposition publique d’objets, provient du milieu muséal mais s’est aujourd’hui diversifié en une variété de pratiques sociales. Des comptes Instagram aux listes de lectures Spotify, l’émergence de pratiques curatoriales sur les réseaux sociaux amènent un nouveau réseau d’acteur·rice·s à se pencher sur cette pratique.
 
 > *“Have you already curated today?” read the headline of an article on such varied acts of curation in the Neue Zürcher Zeitung in 2014.* (Kathke et al. 2022, p. 71)
 
@@ -64,7 +62,7 @@ Dans ce cas, le problème le plus important est cependant celui de la hauteur. L
 
 Une autre limitation de l’écran est le manque de relief ou de profondeur. On ne peut pas faire « ressortir » des éléments ni en faire l’expérience tactile. On dispose de deux dimensions pour agir sur la perception et créer des interactions. Plusieurs chercheur·se·s, designer et professionnel·le·s de la visualisation de données œuvrent sur la création de nouvelles formes visuelles pour diversifier les représentations possibles et pour trouver de nouvelles solutions pour visualiser des données. Le champs (encore jeune) de la matérialisation de données (*data physicalization*) propose une autre avenue, par la création « d’objets (artefacts physiques) dont la géométrie ou la matérialité *encode*[^2] des données » (Jansen et al. 2015, 2). La matérialisation amène ainsi une réflexion sur le rôle du sens du toucher dans la perception de données. Cette approche m’intéresse particulièrement pour le potentiel d’interactions que j’entrevois dans l’approche matérielle des données. Les données, qui semblent parfois immatérielles et/ou incompréhensibles pour les profanes, prennent une forme tangible. Dans l’actuelle fatigue qui peut être ressentie face à l’omniprésence des écrans, un objet, particulièrement lorsqu’il est issu d’une production manuelle ou artisanale, peut recevoir une attention plus élevée. L’interaction tactile amène aussi une implication physique, ce qui favorise un engagement actif dans la réception. <!--sources qqpart dans la thèse de Lean-->
 
-De plus, un des catalyseurs de ce domaine porte sur les origines multiples et les apports de différentes cultures à l’histoire de l’encodage et de la transmission de l’information. Parmi les exemples populaires, on retrouve les bulle-enveloppes, des petits objets en argile employés il y a 6000 ans pour la comptabilisation de biens en Mésopotamie («&nbsp;Bulle-enveloppe&nbsp;», [Wikipédia](https://fr.wikipedia.org/wiki/Bulle-enveloppe)), ou encore les quipus (ou khipus), un système de consignation de données formé de cordes et de nœuds utilisé par l’administration de l’empire Inca et dont les traces remontent à 4500 ans («&nbsp;Quipu&nbsp;», [Wikipédia](https://fr.wikipedia.org/wiki/Quipu)). Il s’agit ainsi de reconnaître que les données – au sens d’informations enregistrées de façon à en «&nbsp;permettre le stockage, la transmission ou le traitement&nbsp;» («&nbsp;Donnée&nbsp;», [GDT](https://vitrinelinguistique.oqlf.gouv.qc.ca/fiche-gdt/fiche/8358482/donnee)) – n’ont pas été inventées avec les premiers ordinateurs, ni même par les bureaux de statistiques ou d’autres administrations au fonctionnement centré sur l’écriture. Face à l’amplification exponentielle de la place des données dans notre société, ce travail de reconnaissance historique vise notamment à décentrer le savoir occidental pour faire place à une diversité d’épistémologies. Les recherches en matérialisation de données se développent en ce sens&nbsp;: de nouvelles pratiques émergent en référence aux autres façons (historiques, culturelles) de penser et d’interagir avec les données. C’est pourquoi je souhaite mener une recherche-création pour explorer la matérialisation de données comme interface de contre-curation pour des données culturelles.
+De plus, un des catalyseurs de ce domaine porte sur les origines multiples et les apports de différentes cultures à l’histoire de l’encodage et de la transmission de l’information. Parmi les exemples populaires, on retrouve les bulle-enveloppes, des petits objets en argile employés il y a 6000 ans pour la comptabilisation de biens en Mésopotamie («&nbsp;Bulle-enveloppe&nbsp;», [Wikipédia](https://fr.wikipedia.org/wiki/Bulle-enveloppe)), ou encore les quipus (ou khipus), un système de consignation de données formé de cordes et de nœuds utilisé par l’administration de l’empire Inca et dont les traces remontent à 4500 ans («&nbsp;Quipu&nbsp;», [Wikipédia](https://fr.wikipedia.org/wiki/Quipu)). Il s’agit ainsi de reconnaître que les données – au sens d’informations enregistrées de façon à en «&nbsp;permettre le stockage, la transmission ou le traitement&nbsp;» («&nbsp;Donnée&nbsp;», [GDT](https://vitrinelinguistique.oqlf.gouv.qc.ca/fiche-gdt/fiche/8358482/donnee)) – n’ont pas été inventées avec les premiers ordinateurs, ni même par les bureaux de statistiques ou d’autres administrations au fonctionnement centré sur l’écriture. Face à l’amplification exponentielle de la place des données dans notre société, ce travail de reconnaissance historique vise notamment à décentrer le savoir occidental pour faire place à une diversité d’épistémologies. Les recherches en matérialisation de données [détaillées dans l’état des lieux] se développent en ce sens&nbsp;: de nouvelles pratiques émergent en référence aux autres façons (historiques, culturelles) de penser et d’interagir avec les données. C’est pourquoi je souhaite mener une recherche-création pour explorer la matérialisation de données comme interface de contre-curation pour des données culturelles.
 
 ### Questions de recherche
 
@@ -79,8 +77,6 @@ Pour mener cette recherche, j’ai créé un protocole d’expérimentation [[do
 <!--expliciter en quoi le protocole aide à faire et réfléchir en même temps: attacher les fils entre les données et les expérimentations physiques; entre la théorie et le processus; entre l’écrit et le pratique,-->
 
 <!--incertaine du terme symbolique: cherche une façon de dire que c’est connoté, contient une façon de voir le monde, **produit du sens**, contribue à la construction d’un récit-->
-
-<!--Ces deux librairies, dédiées à la création de visualisations et de graphiques, feront l’objet d’une présentation plus étendue dans la section méthodologique car j’utilise *D3.js* et *P5.js* (la version en javascript de *Processing*) dans ma recherche.-->
 
 1. *Faire des choix* est une étape qui sert à nommer les décisions et les partis pris dans l’élaboration d’un objet. Parmi les trois composantes principales, les **données** sont décrites pour déterminer le sujet à représenter ainsi que pour identifier la source ou l’institution qui les a produites. L’analyse du contenu s’effectue en parallèle du prétraitement des données, une étape préparatoire au cours de laquelle les données sources sont structurées pour former un jeu de données. Ce jeu de données passe ensuite par un **algorithme de représentation**. Cet algorithme lui-même un protocole, qui applique une logique visuelle et spatiale, basée sur une intention symbolique, avec une méthodologie algorithmique. Contrairement à la visualisation de données, cet algorithme est une sorte de partition, un plan de travail qu’il reste ensuite à activer dans une **expression matérielle**. La matérialité, dans les sensations qu’elle évoque et dans le geste même du travail de la matière, exprime également une ou des sens symboliques. L’ensemble de ces choix se fait de façon itérative. Les tâtonnements, les tests et les différentes versions font partie du processus de la recherche-création.
 2. *(Dé-)montrer* questionne ce qui est présent lors de la mise à vue publique. Celle-ci requiert une forme d’aboutissement de la première étape, même si le protocole lui-même peut être utilisé de façon itérative. À cette étape, l’enjeu n’est pas simplement de montrer le résultat de la matérialisation de données. Il s’agit plutôt de produire une démonstration de la recherche-création. Pour expliciter son fonctionnement, son « mode d’emploi » et ses propriétés, l’objet doit être accompagné d’une sélection d’éléments qui rapportent les choix effectués et le processus suivi. La présentation publique est également le lieu de réception de la recherche-création. La réception peut être participative, au sens où les interactions pensées dans la matérialisation peuvent aller au-delà de l’expérience pour contribuer à l’élaboration de l’objet. Pour toutefois distinguer la présentation d’un projet de l’animation d’un atelier créatif, un cadre de participation est établi au préalable et lui-même présenté dans l’espace. Une question récursive se pose: les expériences vécues par les personnes présentes, leurs actions et leurs rétroactions peuvent-elles / sont-elles exposées elles aussi? <!--Mise en commun? Partager?-->
@@ -98,9 +94,11 @@ Observations à propos du protocole:
   - Il doit être exécuté pour avoir un résultat
   - Il génère des traces et exige une documentation
 
+Ce protocole sera mis à l’épreuve pour une première fois avec les données de la collection du Musée d’art contemporain de Montréal, pour la partie pratique de l’examen de synthèse (démonstration du 20 au 22 mai). L’expérience a pour but d’alimenter la notion en cours de développement de contre-curation de données. En mettant une emphase particulière sur la documentation des choix, des étapes et des itérations, il s’agit de rendre le processus aussi *tangible* que les données elles-mêmes.
+
 Des questions connexes seront également abordées dans le cadre de cette recherche. D’une part, il s’agira d’évaluer l’utilisation d’un protocole pour mener une recherche-création. Son usage répété au cours de la thèse permettra un travail réflexif sur le protocole lui-même, sur son usage et sa pertinence pour la démarche envisagée. De l’autre, je considère les données produites par des institutions culturelles comme faisant partie des archives institutionnelles. Cela m’amènera à réfléchir aux méthodologies existantes pour étudier et pour utiliser ces données, en recherche ainsi que dans divers cadres de diffusion alternatifs.
 
-<!-- refaire le pont vers la contre-curation de données et annoncer la suite (plan)? forme de la thèse: un processus qui fait retour sur lui-même en un mouvement de réflexion-dans-l’action.-->
+
 
 ## Représenter des données culturelles&nbsp;: état des lieux
 
@@ -108,9 +106,7 @@ La production d’un état des lieux pour cette recherche requiert en amont la d
 
 ### Fondements et interdisciplinarité en visualisation de données
 
-<img src="/home/lenamk/.config/Typora/typora-user-images/image-20250317181824723.png" alt="image-20250317181824723" style="zoom: 25%;" />
-
-<!-- récit dominant, questionner si ça m’intéresse de contribuer à ressasser ce récit dominant-->
+<!-- récit dominant, questionner si ça m’intéresse de contribuer à ressasser ce récit dominant, ou comment sert-il à situer mon travail? -->
 
 La littérature au sujet de la visualisation de données provient de différents domaines. *The Visual Display of Quantitative Information* du statisticien Edward Tufte est un ouvrage fondamental qui analyse des exemples historiques et contemporain à sa publication en 1983, tout en produisant des recommandations pour la production de graphiques. Au fil des éditions et des nombreux tirages de cet ouvrage, ses recommandations sont encore aujourd’hui au centre de ce que les concepteur·rice·s et enseignant·e·s de visualisation de données nomment les «&nbsp;bonnes pratiques&nbsp;». Tufte y définit un graphique de données comme la présentation (*display*) visuelle de quantités mesurées par l’usage combiné de points, de lignes, d’un système de coordonnées, de symboles, de mots, d’ombrages et de couleurs (Tufte 2018, 9). En tant que statisticien, Tufte définit les graphiques statistiques comme étant des instruments qui aident à raisonner à propos d’information quantitative  (Tufte 2018, 91). La *Sémiologie graphique*, dont les éditions également multiples (1967, 1973, 1998, 2005, 2013) attestent de l’usage en tant qu’ouvrage de référence, provient du cartographe Jacques Bertin. Dans cette théorie de la représentation graphique, Bertin différencie «&nbsp;la&nbsp;» graphique, comme image rationnelle, à la fois de l’image figurative et de la mathématique (Bertin 2013, 6). En distinguant l’information de sa représentation, il établit un système graphique pour décrire l’exercice de la transcription graphique selon l’expression de chaque composante et ses variations. Michael Friendly, statisticien formé en mathématiques et professeur en psychologie, a fait d’importantes contributions à l’histoire de la visualisation de données tout au long de sa carrière, du projet web *Milestones in the History of Thematic Cartography, Statistical Graphics, and Data Visualisation. An illustrated chronology of innovations by Michael Friendly and Daniel J. Denis* publié en 2001 à la publication de l’ouvrage *A History of Data Visualisation & Graphic Communication* avec Howard Wainer (2021).
 
@@ -132,7 +128,7 @@ Cette veine matérialiste est amenée encore plus loin par Dietmar Offenhuber da
 
 ### Survol des recherches et des pratiques en matérialisation de données
 
-Le champ de la matérialisation de données étudie la façon dont les représentation physiques de données, créées avec l’assistance d’un ordinateur, peuvent soutenir la cognition, la communication, l’apprentissage, la résolution de problème et la prise de décision (*examines how computer-supported, physical representations of data (i.e., physicalizations), can support cognition, communication, learning, problem solving, and decision making*) (Jansen et al. 2015, 8). Parmi les chercheur·se·s les plus cité·e·s sur le sujet, Yvonne Jansen et Pierre Dragicevic sont particulièrement reconnus, avec l’article «&nbsp;*Opportunities and Challenges for Data Physicalization*&nbsp;» (Jansen et al. 2015), la thèse de Jansen (2014) et leur chapitre sur la matérialisation de données dans le *Springer Handbook of Human Computer Interaction* (Dragicevic et al. 2021). Iels maintiennent également la «&nbsp;[*Gallery of Physical Visualizations and Related Artifacts*](http://dataphys.org/list/gallery/.)&nbsp;» (Dragicevic et Jansen 2023). Également très actif sur le sujet depuis la même période, Trevor Hogan publie sa thèse «&nbsp;*Data and dasein*&nbsp;» en 2015 et il collabore avec Uta Hinrichs, Samuel Huron, Jason Alexander et Yvonne Janssen au numéro spécial de la revue *IEEE Computer Graphics and Applications* dédié à la matérialisation de données (Hogan et al. 2021). Ces publications sont des références fondamentales, citées presque systématiquement dans les autres articles sur le sujet. Parmi ces auteur·rice·s, Eva Hornecker, Trevor Hogan, Uta Hinrichs et Rosa Van Koningsbruggen viennent également de publier un vocabulaire de design de matérialisations de données, dans le but de produire un équivalent aux variables visuelles de Bertin (2013), applicable à la matérialisation de données (2024). Les références aux fondements de la visualisation de données, et particulièrement aux recherches de Jaques Bertin, sont récurrentes dans le domaine, allant même jusqu’à réexaminer et réactualiser ses propositions comme dans l’article «&nbsp;*Revisiting Bertin Matrices: New Interactions for Crafting Tabular Visualizations*&nbsp;» (Perin et al. 2014). 
+Le champ de la matérialisation de données étudie la façon dont les représentations physiques de données, créées avec l’assistance d’un ordinateur, peuvent soutenir la cognition, la communication, l’apprentissage, la résolution de problème et la prise de décision (*examines how computer-supported, physical representations of data (i.e., physicalizations), can support cognition, communication, learning, problem solving, and decision making*) (Jansen et al. 2015, 8). Parmi les chercheur·se·s les plus cité·e·s sur le sujet, Yvonne Jansen et Pierre Dragicevic sont particulièrement reconnus, avec l’article «&nbsp;*Opportunities and Challenges for Data Physicalization*&nbsp;» (Jansen et al. 2015), la thèse de Jansen (2014) et leur chapitre sur la matérialisation de données dans le *Springer Handbook of Human Computer Interaction* (Dragicevic et al. 2021). Iels maintiennent également la «&nbsp;[*Gallery of Physical Visualizations and Related Artifacts*](http://dataphys.org/list/gallery/.)&nbsp;» (Dragicevic et Jansen 2023). Également très actif sur le sujet depuis la même période, Trevor Hogan publie sa thèse «&nbsp;*Data and dasein*&nbsp;» en 2015 et il collabore avec Uta Hinrichs, Samuel Huron, Jason Alexander et Yvonne Janssen au numéro spécial de la revue *IEEE Computer Graphics and Applications* dédié à la matérialisation de données (Hogan et al. 2021). Ces publications sont des références fondamentales, citées presque systématiquement dans les autres articles sur le sujet. Parmi ces auteur·rice·s, Eva Hornecker, Trevor Hogan, Uta Hinrichs et Rosa Van Koningsbruggen viennent également de publier un vocabulaire de design de matérialisations de données, dans le but de produire un équivalent aux variables visuelles de Bertin (2013), applicable à la matérialisation de données (2024). Les références aux fondements de la visualisation de données, et particulièrement aux recherches de Jaques Bertin, sont récurrentes dans le domaine, allant même jusqu’à réexaminer et réactualiser ses propositions comme dans l’article «&nbsp;*Revisiting Bertin Matrices: New Interactions for Crafting Tabular Visualizations*&nbsp;» (Perin et al. 2014). 
 
 Il existe également une littérature qui se concentre davantage sur certaines spécificités de la matérialisation de données. Certaines publications explorent par exemple les variables haptiques de la résistance et de la friction (Dullaert et al. 2024), ou encore vont au-delà de la surface matérielle pour expérimenter avec la *squishicalization* ou l’élasticité des volumes (Pahr et al. 2024). La fabrique des matérialisations de données revient également dans les publications&nbsp;: des étapes de production (*pipline*) pour créer différents types de matérialisations (De Freitas et al. 2022),  à ses défis actuels, notamment du passage de la théorie à la pratique (Sauvé et al. 2024) et aux moyens disponibles, comme en créant une boîte à outil pour construire et manipuler un diagramme de réseau (Pahr et al. 2025) . 
 
@@ -145,17 +141,21 @@ La terminologie employée pour décrire ces pratiques se décline également pou
 - Alice Thudt préfère, dans sa thèse, parler de «&nbsp;***visualization mementos***&nbsp;» car il s’agit de «&nbsp;*Visualizations of personally relevant data kept as reminders of  significant experiences and used for the purposes of reminiscing and sharing of  these experiences*&nbsp;» (Thudt 2018, xix). Cette proposition s’inscrit dans l’idée plus large du «&nbsp;***data craft** — the manual crafting of functional objects that incorporate personal visualizations — as an opportunity to create meaningful physical objects*&nbsp;» (Carpendale et al. 2017, p. 1)
 - Ces propositions se rapprochent également de la fabrication des «&nbsp;***Data-Things***&nbsp;» de Bettina Nissen et John Bowers, qui souhaitent aller au-delà de la *data materialization* pour mettre l’accent sur le geste de traduction (2015). La notion de «&nbsp;traduction&nbsp;» (*data translation*) valoriserait davantage sur le rôle actif de la personne qui crée l’artefact et sa signification, alors que la matérialisation encouragerait une perception trop simplificatrice des processus encourus. (Nissen and Bowers 2015, p. 9)
 
-J’emploierai, pour l’instant, le terme de «&nbsp;matérialisation de données&nbsp;». Je pense que ma définition et mon interprétation, ainsi que les références les plus influentes lors de l’étape de création, pourront ensuite m’aider à préciser ou à modifier ce terme pour décrire ma recherche-création.
+J’emploie, pour l’instant, le terme de «&nbsp;matérialisation de données&nbsp;», car c’est celui suggéré comme traduction de *data physicalisation* par l’OQLF. Je pense que ma définition et mon interprétation, ainsi que les références les plus influentes lors de l’étape de création, pourront ensuite m’aider à préciser ou à modifier ce terme pour décrire ma recherche-création.
 
 Les recherches en matérialisation de données ciblent également des thématiques particulières, comme l’accessibilité, la mise en récit de données et la pédagogie. Tout un pan de la littérature aborde également les manières de *faire* (⁨Nissen⁩ et ⁨Bowers⁩ 2015; Forlini et al. 2018; Hinrichs et al. 2019; Berger et al. 2024a; Berger et al. 2024b)&nbsp;; celui-ci sera abordé dans la section qui présente le cadre théorique de ma recherche. Le potentiel pédagogique de la matérialisation de données est relevé par plusieurs équipes, lors d’ateliers créatifs destinés à des adultes (⁨Carmini⁩ et ⁨Wong, 2024) comme dans la conception d’activités pour les enfants (⁨Ambrosini⁩ et ⁨Meyer⁩, 2022). Laura Devendorf, Jordan Wirfs-Brock et Mikhaila Friske abordent la production de représentations matérielles de données (*physical data representations*) sous l’angle de la collaboration entre les matériaux, les données et les humains. Inspirée par la démarche présentée dans *Dear Data* (Lupi et Posavec 2016), leur expérience d’échanges d’artefacts les place à tour de rôle dans une posture de créateur·rice et d’interprète, soulignant la multiplicités des récits qu’un objet peut ainsi contenir (Devendorf et al. 2020). L’importance de l’interactivité et du récit est également au cœur de la proposition « *Narrative Physicalization: Supporting Interactive Engagement With Personal Data* » (Karyda et al. 2021). L’approche centrée sur l’expérience qui y est proposée permet aux participant·e·s d’interagir de façon physique et ludique avec leurs données, impliquant ainsi leurs corps dans la réflexion. 
 
-Dans sa thèse, Marion Lean emploie également la matérialisation de données appliquées aux données personnelles, comme celles produites par des capteurs d’activités physiques et donc sur des données personnelles et (presque?) intimes (2020). Elle vise par ce moyen de connexion « physique », de contact avec les données à accroître la littératie numérique et particulièrement à rendre ces données qui nous concernent et nous décrivent plus tangibles. Les approches tactiles sont également utilisées pour concevoir des dispositifs de consultation et d’analyse de données pour des personnes aveugles ou malvoyantes (⁨Ebermann⁩ and ⁨Keck⁩ 2024; ⁨Pittarello⁩ and ⁨Semenzato⁩ 2024). Ce lien entre tactilité, multisensorialité et accessibilité provient notamment du design sensoriel (*sensory design*), la thématique centrale de l’exposition *The Senses: Design Beyond Vision* au Cooper Hewitt Smithsonian Design Museum (Lupton et al. 2018). La démultiplication des sens visés dans lors du design d’un objet permet de «&nbsp;recevoir de l’information, explorer le monde, ressentir de la joie, de la fascination et des connexion sociales, quelles que soient nos capacités sensorielles&nbsp;» (Lupton et Lipps dans Lupton et al. 2018, 9). Ellen Lupton et Andreas Lipps dénoncent ainsi la domination du sens visuel dans la production de connaissances occidentale, tout en valorisant le savoir sensoriel (*sensory knowing*) qui fait qu’un objet gagne en signification et en valeur par son expérience incarnée (Lupton et Lipps dans Lupton et al. 2018, 18). Cette approche du design augmente l’accessibilité, tant physique qu’intellectuelle, des objets produits. Les principes énoncés par Bruce Mau pour un «&nbsp;*all senses design*&nbsp;» (Mau dans Lupton et al. 2018, 21-23) feront donc partie de ma démarche. 
+Dans sa thèse, Marion Lean emploie également la matérialisation de données appliquées aux données personnelles, comme celles produites par des capteurs d’activités physiques et donc sur des données personnelles et (presque?) intimes (2020). Elle vise par ce moyen de connexion « physique », de contact avec les données à accroître la littératie numérique et particulièrement à rendre ces données qui nous concernent et nous décrivent plus tangibles. Les approches tactiles sont également utilisées pour concevoir des dispositifs de consultation et d’analyse de données pour des personnes aveugles ou malvoyantes (⁨Ebermann⁩ and ⁨Keck⁩ 2024; ⁨Pittarello⁩ and ⁨Semenzato⁩ 2024). Ce lien entre tactilité, multisensorialité et accessibilité provient notamment du design sensoriel (*sensory design*), la thématique centrale de l’exposition *The Senses: Design Beyond Vision* au Cooper Hewitt Smithsonian Design Museum (Lupton et al. 2018). La démultiplication des sens visés lors du design d’un objet permet de «&nbsp;recevoir de l’information, explorer le monde, ressentir de la joie, de la fascination et des connexion sociales, quelles que soient nos capacités sensorielles&nbsp;» (Lupton et Lipps dans Lupton et al. 2018, 9). Ellen Lupton et Andreas Lipps dénoncent ainsi la domination du sens visuel dans la production de connaissances occidentale, tout en valorisant le savoir sensoriel (*sensory knowing*) qui fait qu’un objet gagne en signification et en valeur par son expérience incarnée (Lupton et Lipps dans Lupton et al. 2018, 18). Cette approche du design augmente l’accessibilité, tant physique qu’intellectuelle, des objets produits. Les principes énoncés par Bruce Mau pour un «&nbsp;*all senses design*&nbsp;» (Mau dans Lupton et al. 2018, 21-23) feront donc partie de ma démarche. 
 
 L’exemple en matérialisation de données le plus proche de mon sujet s’intitule *The Life of a Building* (2021-2022). Commanditée par la Galerie d’art d’Ottawa OAG (*Ottawa Art Gallery*), cette collaboration entre l’artiste textile Greta Grip et la chercheuse spécialisée en textiles électroniques, en fabrication et en pratiques artisanales hybrides (*hybrid crafts*), Lee Jones, s’est déroulée en deux parties. Tout d’abord, entre juillet 2021 et juillet 2022, une machine à tricoter matérialisait en temps réel l’achalandage physique et numérique de la Galerie. Par le biais d’un capteur à l’entrée du bâtiment ainsi qu’à travers l’utilisation d’un bouton virtuel présenté sur un microsite dédié, chaque visite déclenchait la production d’une rangée du tricot circulaire, tandis que le passage du temps était marqué mensuellement par le changement de couleur de la laine employée. En mai 2023, l’œuvre a été redéployée pour présenter cette fois le résultat de cette fabrication performative et participative, afin de mettre l’emphase sur l’observation et l’analyse des données ainsi recueillies. «&nbsp;*The data was hung from the ceiling in a way that individuals could see the data spread out*&nbsp;» (Jones et al. 2024, 9). Ce projet a également été le lieu d’une recherche-à-travers-le-design (*research through design*) sur la réception des matérialisations de données, présenté à la conférence internationale sur les Interactions Tangibles, Incarnées et Incorporées TEI (*International Conference on Tangible Embedded and Embodied Interaction*) et documenté dans les actes de la conférence (Jones et al. 2024). Les retours des participant·e·s ainsi que les remarques réflexives des artistes partagés dans cet article me seront particulièrement utiles pour mener la recherche-création ici présentée. La publication systématique des actes de colloques spécialisés comme celui-ci font état d’un domaine de recherche foisonnant et très diversifié. J’enrichirai donc progressivement l’état de la question entamé ici, en relevant plus particulièrement les articles en lien avec le milieu de l’art, au sujet de pratiques artisanales et textiles, ou encore liées aux autres thématiques abordées dans ma recherche comme l’accessibilité et la littératie numérique.
 
-### Pratiques d’art, d’artisanat et de design qui incorporent des données [notes]
+![](../img/lifeOfABuilding.png)
 
-Depuis le début de mon doctorat, je documente les pratiques à la croisée de la textilité et de l’algorithmique sous la forme d’un [corpus d’œuvres et de projets](https://www.canva.com/design/DAGeuw-pplg/xXzotJr7T8XvWcPHvk2eSw/view?utm_content=DAGeuw-pplg&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hef9b400c70). Ce corpus agit comme source d’inspiration et comme ensemble de références transdisciplinaires. Les trois exemples sélectionnés illustrent notamment le potentiel politique du contre-récit de données (ou de la contre-curation de données?) dans des pratiques dites «&nbsp;hybrides&nbsp;».
+<figcaption style=" text-align: right ">Figure xxx. *Life of a Building*, Greta Grip et Lee Jones, 2021-2021. <br>Montage d’image réalisée par l’autrice.</figcaption>
+
+### Pratiques d’art, d’artisanat et de design qui incorporent des données
+
+Depuis le début de mon doctorat, je documente les pratiques à la croisée de la textilité et de l’algorithmique sous la forme d’un [corpus d’œuvres et de projets](https://www.canva.com/design/DAGeuw-pplg/xXzotJr7T8XvWcPHvk2eSw/view?utm_content=DAGeuw-pplg&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hef9b400c70). Ce corpus agit comme ensemble de références transdisciplinaires qui m’aident à penser, tant pour la recherche que pour la création. Les trois exemples sélectionnés ci-dessous illustrent particulièrement le potentiel politique du contre-récit de données (ou de la contre-curation de données?) dans des pratiques dites «&nbsp;hybrides&nbsp;».
 
 #### *Strata* (2018) d’Olivia Whetung
 
@@ -163,19 +163,35 @@ Olivia Whetung est une artiste anishinaabekwe et membre de la première nation d
 
 Les perles sont activées, tout d’abord comme des «&nbsp;données&nbsp;» générées par le public et à propos du public. Traces de sa présence dont l’assemblage témoigne de sa participation, elles passent ensuite du mode de l’écriture vers celui de la lecture. En devenant les partitions d’une trame sonore diffusée par la tour horloge, leg d’une famille de «&nbsp;pionniers&nbsp;», elles activent un contre-récit qui résonne à travers l’espace public en affirmant que le passage du temps est commun à tou·te·s («&nbsp;*Soundings:  Olivia Whetung and the Ladner Clock Tower Carillon*&nbsp;» Belkins Art Galley, 2020). Avec une approche «&nbsp;discrète&nbsp;», l’œuvre incarne et amalgame des données dans la participation comme dans sa diffusion publique, en la transformant et en les traduisant à travers différents médiums significatifs.
 
+![](../img/strata.png)
+
+<figcaption style=" text-align: right ">Figure xxx. <i>Strata</i>, Olivia Whetung, 2018-2024</figcaption>
+
 #### *Gaza thob collar* (2023) de Maya Amer
 
 [TW: représentation visuelle du génocide palestinien, octobre 2023]
 
 Le *tatreez* numérique réalisé par Maya Amer comporte une approche plus classiquement guidée par les données (*data-driven*). Les *tatreez* sont une forme de broderie traditionnelle palestinienne en points de croix. La créatrice palestinienne revisite cette forme d’artisanat et l’actualise à sa pratique d’animatrice graphique pour visualiser le nombre de victimes tuées à Gaza en octobre 2023 (Pontone 2023). Intitulé *Gaza thob collar*, chaque point de croix est une personne. Le code couleur distingue les hommes, les femmes, les garçons, les filles, et les personnes non identifiées. L’ensemble forme un motif inspiré par la tradition du *tatreez*, reprise comme medium artistique pour trouver une façon de communiquer le nombre de décès tout en rappelant l’humanité, la culture et l’histoire de chacun des 8005 individus. L’artiste exprime sur son compte Instagram que sa création est une façon de canaliser la rage et la frustration face à la violence (Amer 2023). En plus de l’animation graphique, elle partage le [motif](https://drive.google.com/file/d/1SfJ3zXKDx8DQeE1qIDHgM_ch3DpFcjfj/view) pour permettre à d’autres personnes de transformer leur frustration en art, tout en souhaitant que son projet mène à davantage d’éducation et à des mouvements sociaux solidaires pour un cessez-le-feu. Avec cette création, Maya Amer mêle sa pratique numérique à un savoir-faire artisanal pour créer une forme visuelle hybride qui lui permet d’exprimer un contre-récit sur la violence du génocide palestinien.
 
+<iframe width="320" height ="440" src=" https://www.instagram.com/reel/CzEtvjKMBg8/embed "></iframe>
+
+<figcaption style=" text-align: right ">Figure xxx. <i>Gaza Thob Collar</i>, Maya Amer, 2023</figcaption>
+
 #### *To Make One Particle* (2025) de Pansee Atta
 
 Pansee Atta mène actuellement un projet de recherche-création qui allie l’exploration de données culturelles à leur matérialisation pour leur médiation publique. En résidence au Tropen Museum dans le cadre du projet «&nbsp;*[Pressing Matter](https://pressingmatter.nl/): Ownership, Value and the Question of Colonial Heritage in Museums*&nbsp;», elle travaille et elle crée à partir des enjeux de retour, de réparation et de réconciliation des collections constituées durant la période coloniale, et plus précisément sur les restes humains conservés dans cette institution. Son intervention, intitulée *To Make One Particle*, a d’abord pris la forme d’une performance et d’un atelier organisé en 2024 pendant lesquelles, Atta, puis les participant·e·s, ont interrogé les principes de taxonomie dans la gestion des collections en essayant d’organiser et de réorganiser les 3968 onglets usinés par laser inscrits avec les informations dites «&nbsp;tombales&nbsp;»  à propos de chaque «&nbsp;entité&nbsp;» de restes humains conservée dans la collection. Une seconde intervention est prévue pour mai 2025 sous la forme d’une installation muséale pour l’exposition «&nbsp;[Unfinished past: return, keep, or, …](https://amsterdam.wereldmuseum.nl/en/whats-on/exhibitions/unfinished-past-return-keep-or)&nbsp;». Elle y présentera à nouveau ces onglets matérialisant les données de la collection. Ils seront accompagnés d’un dispositif tactile semi-transparent placé devant la fenêtre pour créer une forme de réalité augmentée visualisant les liens entre l’espace d’exposition et le parc visible à travers la fenêtre, en signalant l’emplacement d’où certains corps ont été exhumés pour intégrer la collection. En effet, le musée possède une aussi importante collection de restes humains notamment parce qu’il a été construit sur l’emplacement d’un ancien cimetière. L’expansion de la ville d’Amsterdam au début du XXe siècle a motivé le réaménagement du Cimetière *Oosterbegraafplaats* pour faire place à un parc, à un laboratoire d’anatomie et à l’Institut royal des Tropiques, anciennement «&nbsp;*Institution Colonial*&nbsp;» (présentation Pansee + [wiki](https://fr.wikipedia.org/wiki/Institut_royal_des_Tropiques) + [site du musée](https://www.kit.nl/about-us/our-history/)). 
 
+<img class="x5yr21d xu96u03 x10l6tqk x13vifvy x87ps6o xh8yej3" crossorigin="anonymous" style="object-fit: cover; zoom: 25%;" src="../img/4particles.webp">
+
+<figcaption style=" text-align: right ">Figure xxx. <i>To Make One Particle</i> (détail), Pansee Atta, 2025. Publiée par l’artiste sur Instagram</figcaption>
+
 > *This artistic research project makes visible the intertwined means through which human remains – local and global, White and racialized, living and deceased, contemporary and historical – are objectified and taxonomized by cultural institutions, yet leave troubling, intractable traces of their resistance which continues to haunt their sites* ([Atta 2025](https://sites.google.com/view/postcolonialhauntologies/day-2))
 
 Cette résidence de recherche-création a donc non seulement été l’occasion pour Atta de faire des recherches avec les données, les archives et les restes humains de la collection, mais également d’en proposer une réinterprétation artistique qui invite à les ré-imaginer afin d’entamer le travail restaurateur (*reparative work*) d’une décolonisation globale ([Atta s.d.](https://panseeatta.com/index.php/about/)). La matérialisation permet de rendre compte de l’échelle du phénomène de collectionnement de restes humains par l’institution. Le processus de découpage et d’inscription au laser du papier compressé crée quant à lui des résidus matériels évoquant des cendres. Il en émane une odeur qui rappelle, selon l’artiste, les feux de camps. Face à la masse d’onglet et l’exercice de taxonomie présenté comme impossible ou, du moins, nécessairement en désordre, l’activité proposée incarne elle-même une sensation de chaos. Alors que les participant·e·s étaient invité·e·s à «&nbsp;laisser leurs marques&nbsp;», la manipulation des onglets imprégnait les participant·e·s à leur tour d’une fine particule cendrée, mutualisant le geste de la trace et traduisant l’affect en une forme sensible et visible. 
+
+<img src="../img/toMakeOneParticle_installation.webp" style="zoom:50%;" />
+
+<figcaption style=" text-align: right ">Figure xxx. <i>To Make One Particle</i> (vue de l’installation), Pansee Atta, 2025. Publiée par l’artiste sur Instagram</figcaption>
 
  <!--contre-récit: récit non-dit en tout cas-->
 
@@ -189,20 +205,22 @@ Cette résidence de recherche-création a donc non seulement été l’occasion 
 >
 > (Soulard dans Soulard et Al. 2021, 260)
 
-Le cadre théorique que j’emploierai pour penser l’artisanat comme une technologie et la technologie comme une forme d’artisanat est centré sur la pensée textile d’Anni Albers ([Annexe 1: à propos d’Anni Albers]()). Publié pour la première fois en 1965, son éloquent essai intitulé *Du tissage* [se situe à la / forme une ? ] charnière entre l’artisanat manuel et la fabrication [mécanisée / mécanique ?] (*between handcraft and the machine-made*, [Princeteon university press 2017, s.p.](https://press.princeton.edu/books/hardcover/9780691177854/on-weaving)). Anni Albers elle-même était consciente du potentiel de sa pensée textile pour d’autres disciplines. Elle annonce dans sa *Note d’introduction* : « en abordant les fondamentaux et les méthodes du textile, mon souhait était de compter parmi mes lecteurs non seulement des tisserands mais toute personne dont le travail dans une autre discipline rejoint les enjeux du textile » (Albers 2021 [1965], 11). Et Ida Soulard le souligne en conclusion de la traduction française parue en 2021, « cette pensée textile qui se définit en creux dans *Du tissage* à travers les images programmées est […] précieuse dans le cadre d’une préhistoire des pratiques algorithmiques » (Soulard dans Soulard et Al. 2021, 268).
+Le cadre théorique que j’emploierai pour penser l’artisanat comme une technologie et la technologie comme une forme d’artisanat est centré sur la pensée textile d’Anni Albers ([Annexe 1: à propos d’Anni Albers](#anni-albers)). Publié pour la première fois en 1965, son éloquent essai intitulé *Du tissage* [se situe à la / forme une ? ] charnière entre l’artisanat manuel et la fabrication [mécanisée / mécanique ?] (*between handcraft and the machine-made*, [Princeteon university press 2017, s.p.](https://press.princeton.edu/books/hardcover/9780691177854/on-weaving)). Anni Albers elle-même était consciente du potentiel de sa pensée textile pour d’autres disciplines. Elle annonce dans sa *Note d’introduction* : « en abordant les fondamentaux et les méthodes du textile, mon souhait était de compter parmi mes lecteurs non seulement des tisserands mais toute personne dont le travail dans une autre discipline rejoint les enjeux du textile » (Albers 2021 [1965], 11). Et Ida Soulard le souligne en conclusion de la traduction française parue en 2021, « cette pensée textile qui se définit en creux dans *Du tissage* à travers les images programmées est […] précieuse dans le cadre d’une préhistoire des pratiques algorithmiques » (Soulard dans Soulard et Al. 2021, 268).
 
-Anni Albers emploie d’ailleurs la machine à écrire comme outil pour expérimenter avec ce qu’elle appelle des « illusions tactiles-textiles » (Albers 2021 [1965],  70). Ces expériences visent à enrichir le vocabulaire du langage tactile. Il s’agit d’augmenter notre sensibilité à l’expression tactile pour être capable de découvrir du sens dans le langage de la matière (Albers 2021 [1965], 68).
+Anni Albers emploie d’ailleurs la machine à écrire comme outil pour expérimenter avec ce qu’elle appelle des « illusions tactiles-textiles » (Albers 2021 [1965],  70). Ces expériences visent à enrichir le vocabulaire du langage tactile. Il s’agit d’augmenter notre sensibilité à l’expression tactile pour être capable de découvrir du sens dans le langage de la matière (Albers 2021 [1965], 68). 
+
+<!-- lien vers le sensory knowing dans The senses -->
 
 <img src="../img/albers_1.jpeg" style="zoom: 33%;" />
 
-<figcaption style=" text-align: right ">Étude réalisée à la machine à écrire, Anni Albers, 1965?</figcaption>
+<figcaption style=" text-align: right "><i>Étude réalisée à la machine à écrire</i>, Anni Albers, 1965?</figcaption>
 
 <iframe width="800" height="480" frameborder="0"
   src="http://lenamk.site/art-algorithmique/anni-typing_1/"></iframe>
 
-<figcaption style=" text-align: right ">*&lowbar;( Anni Albers )&lowbar;*, série *Playing with Anni Albers* inspirée des études à la machine à écrire d’Anni Albers, Lena MK, 2025</figcaption> 
+<figcaption style=" text-align: right "><i>&lowbar;( Anni Albers )&lowbar;</i>, série «&nbsp;Playing with Anni Albers&nbsp;» inspirée des études à la machine à écrire d’Anni Albers, Lena MK, 2025</figcaption> 
 
-### Les images programméesgit a
+### Les images programmées d’Anni Albers
 
 > La première spécificité des images textiles est d’être des images programmées
 >
@@ -210,45 +228,35 @@ Anni Albers emploie d’ailleurs la machine à écrire comme outil pour expérim
 
 
 
-
-
-
-
-« cette pensée textile qui se définit en creux dans *Du tissage* à travers les images programmées est également précieuse dans le cadre d’une préhistoire des pratiques algorithmiques. L’histoire de l’informatique et l’histoire textile, du fait de leur généalogie commune (à travers les cartes perforées de la machine Jacquard) a aujourd’hui totalement convergé ouvrant des champs nouveaux entre expérimentations textiles et technologies digitales. » (Soulard dans Soulard et Al. 2021, 268)
-
 <!--OG algo art? en construisant des images de façon programmée, on fait face à un problème textile!-->
 
 
 
-> 
 
-#### deux artistes: Anni Albers et Vera Molnar. 
 
-Chacune à sa façon, ces deux artistes théorisent le « faire » et, plus particulièrement, exposent les liens entre contraintes et libertés posées par la technicité dans leur processus de création.
+Chacune à sa façon, ces deux artistes théorisent le « faire » et, plus particulièrement, exposent les liens entre contraintes et libertés posées par la technicité dans leur processus de création. Les deux se rapprochent du modèke de « l’artiste-ingénieure […,] une figure qui permet de composer habilement avec les dialectiques technologique-artistique, individuel-universel, processus-produit et de rompre également avec la spécialisation des tâches tout en acceptant de participer au régime moderne de production » (Soulard 2021, 261).
 
-> L’artiste-ingénieure est une figure qui permet de composer habilement avec les dialectiques technologique-artistique, individuel-universel, processus-produit et de rompre également avec la spécialisation des tâches tout en acceptant de participer au régime moderne de production (Soulard 2021, 261)
+### La machine imaginaire de Vera Molnar
 
 
 
+#### 
+
+Vera Molnar ([Annexe 2](#vera-molnar) )
 
 
 
+Machine imaginaire
 
+« Vera Molnar excelle […] à ce jeu de va-et-vient permanent entre une pratique manuelle, presque artisanale, et une utilisation opportuniste de l’outil technologique » (Grasser-Fulchéri et Bouiller dans Baby et Franco 2021, 8)
 
-
-
-
-<!--Comment est-ce qu’on pense comme ça (cadre théorique), comment est-ce qu’on le met à l’épreuve (protocole)-->
-
-<!--Ce qui fait que tu suis la ligne que tu t’est tracée pour faire émerger des éléments de réponse à ta question et vérifier ton hypothèse: comment la matérialisation de données peut-elle offrir une nouvelle forme d’accès pour des données culturelles? Je mènerai cette recherche à partir de l’hypothèse selon laquelle la création de ces nouvelles formes d’accès passe par une posture interdisciplinaire, en pensant l’artisanat comme une technologie et la technologie comme une pratique artisanale. À la croisée des matérialisations de données et des œuvres ou expériences *sensation*nelles, je vais expérimenter avec la fabrication d’objets qui incorporent des données culturelles. Mon objectif sera de produire des objets qui présentent des récits alternatifs et offrent de nouvelles perspectives sur les collections représentées. -->
-
-
+*Eloge de l’ordinateur*
 
 
 
 ### Penser le faire
 
-
+#### 
 
 
 
@@ -260,7 +268,7 @@ Chacune à sa façon, ces deux artistes théorisent le « faire » et, plus part
 >
 > (Soulard 2021, 259)
 
-### Faire (au sens artisanal)
+
 
 Ingold:
 
@@ -275,29 +283,11 @@ Faire avec un ordinateur
 - Simondon: *Du mode d’existence des objets technique* 
   - rapport entre humain et machine, rapport à la matière du technicien
   - rapport entre geste humain et geste machine, outil, inventivité
-
-- Molnar *Eloge de l’ordinateur*
-
 - school for poetic computation
-
 - digital fabrication: reconsider digital fabrication within data translation activities as situated along an extended ‘trajectory of use’ in which reflective, meaningful ‘data-things’ can be created (Nissen and Bowers 2015)
-
 - “how digital humanities can integrate data physicalization into the research process and how data physicalization is a form of critical making.” (Berger et al., 2024, pp. -)
 
-- **data craft** et Thudt, Alice. 2018. “Visualizations for Personal Reflection and Expression.” Calgary: University of Calgary. http://hdl.handle.net/1880/106519.
-  - as a way to create meaningful physical mementos based on digital records of personal and shared experiences” (Carpendale, 2017, p. 2) 
 
-  - “Both the manual crafting process and the resulting physical artifact create opportunities for reflection and sharing memories.” (Carpendale, 2017, p. 4) 
-
-  - “Focusing on the creation of functional everyday objects, data craft shapes opportunities to integrate personal digital data into everyday life where they can be serendipitously re-encountered and used together” (Carpendale, 2017, p. 4)
-
-
-Artisanat
-
-- Albers rapport à l’outil, la machine, le métier à tisser. Documenter, notation, …
-- “people that partake in such activities tend to invest a certain meaning into the artifacts that they made themselves, which they might not do when confronted with something that was mass-produced” (Dragicevic et al., 2021, p. 19) “the manual creation and subsequent habitual use of self-made physicalizations of personal data can augment their perceived value and authenticity, and can thus spark various forms of individual or shared recollection [ ]” (Dragicevic et al., 2021, p. 20)
-- + accessible “Data physicalization can also be considered as a useful fabrication activity in and by itself, as its transformative qualities can become relatively easily integrated in existing fabrication and craft activities, such as crochet and its allied practices, among many others [ ]. Several projects have demonstrated how physicalization can democratize the practice of information visualization by requiring less skills or expertise than its digital counterparts” (Dragicevic et al., 2021, p. 20)
-  + “The recent focus on making reveals how data physicalization can be understood as a manifestation of data within a “trajectory of use”, which starts from before the first acquaintance with the data, over its actual design and physical fabrication, and ending in the hands of others, in the future [ ]. By considering data as a trajectory, one can recognize how people also make sense of data during the fabrication of visualization itself [ ], as physicalization makers make conscious decisions about how the data should be represented in order to evoke associations with experiences or people, to support activities that allow for episodes of reminiscing, or to encourage potential social interactions. Moreover, during the physicalization construction itself, aspects of data collection, construction and self-reflection can be deeply intertwined [ ] (see Figure -b for some concrete results). These qualities have been exploited during the process of hands-on physicalization making workshops in order to make principles of data representation more graspable [ ], or to push the creativity of students in visualization [ ]. Overall, research in personal physicalization fabrication has revealed a yet largely unexplored potential to represent more qualitative and subjective aspects that cannot yet be readily captured in data [ ]” (Dragicevic et al., 2021, p. 21)
 
 Faire en étant située: 
 
@@ -307,17 +297,7 @@ Faire en étant située:
 
 Faire sans discipline? Myriam Suchet *Indiscipline*→ notes de lectures ok
 
-Faire une interface
-
-- interfaces poétiques
-
-
-
-
-
-
-
-faire / critical making
+Faire / critical making
 
 - Berger, Claudia, Quinn Dombrowski, Nickoal Eichmann-Kalwara, Natalia Estrada, Kim Brillante Knight, Pamella R. Lach, Hideo Mabuchi, et al. 2024. « Making Research Tactile: Critical Making and Data Physicalization in Digital Humanities ». Dans *Dh+lib*. unknown. https://doi.org/10.17613/54pz-n026.
 - Berger, Claudia, Nickoal Eichmann-Kalwara, Pamella R. Lach, et John E. Russell. 2024. « Play With Your Data ». https://doi.org/10.17613/9mza-6g95.
@@ -327,30 +307,41 @@ faire / critical making
 
 
 
+re-faire le lien vers la matérialisation de données
+
+- “people that partake in such activities tend to invest a certain meaning into the artifacts that they made themselves, which they might not do when confronted with something that was mass-produced” (Dragicevic et al., 2021, p. 19) “the manual creation and subsequent habitual use of self-made physicalizations of personal data can augment their perceived value and authenticity, and can thus spark various forms of individual or shared recollection [ ]” (Dragicevic et al., 2021, p. 20)
+- + accessible “Data physicalization can also be considered as a useful fabrication activity in and by itself, as its transformative qualities can become relatively easily integrated in existing fabrication and craft activities, such as crochet and its allied practices, among many others [ ]. Several projects have demonstrated how physicalization can democratize the practice of information visualization by requiring less skills or expertise than its digital counterparts” (Dragicevic et al., 2021, p. 20)
+  + “The recent focus on making reveals how data physicalization can be understood as a manifestation of data within a “trajectory of use”, which starts from before the first acquaintance with the data, over its actual design and physical fabrication, and ending in the hands of others, in the future [ ]. By considering data as a trajectory, one can recognize how people also make sense of data during the fabrication of visualization itself [ ], as physicalization makers make conscious decisions about how the data should be represented in order to evoke associations with experiences or people, to support activities that allow for episodes of reminiscing, or to encourage potential social interactions. Moreover, during the physicalization construction itself, aspects of data collection, construction and self-reflection can be deeply intertwined [ ] (see Figure -b for some concrete results). These qualities have been exploited during the process of hands-on physicalization making workshops in order to make principles of data representation more graspable [ ], or to push the creativity of students in visualization [ ]. Overall, research in personal physicalization fabrication has revealed a yet largely unexplored potential to represent more qualitative and subjective aspects that cannot yet be readily captured in data [ ]” (Dragicevic et al., 2021, p. 21)
+
+
 
 
 
 ## Suite 
 
-### Utilisation du protocole
+### Annonce de la partie pratique 
 
-*comment je vais utiliser le protocole pour faire une thèse*
+et utilisation du protocole pour faire une thèse
 
-[Mise à l’épreuve du protocole](./protocole_MAC) avec les données de la collection du Musée d’art contemporain de Montréal. L’expérience a pour but d’alimenter la notion en cours de développement de contre-curation de données. Ce protocole met une emphase particulière sur la documentation des choix, des étapes et des itérations afin de rendre le processus aussi *tangible* que les données elles-mêmes.
 
-- Données du MAC
-- examen de synthèse comme contexte d’exposition ?!
 
 ### Format envisagé pour la thèse
 
-
+<!-- forme de la thèse: un processus qui fait retour sur lui-même en un mouvement de réflexion-dans-l’action.-->
 
 exemples
 
-- Data sketches
-  - physicalisation du code? intérêt particulier comme forme de documentation 
-- Dear Data
-  - documentation d’une année, d’un processus d’échange
+Data sketches
+- physicalisation du code? intérêt particulier comme forme de documentation 
+
+
+
+
+
+
+
+Dear Data
+- documentation d’une année, d’un processus d’échange
 
 ajuster les attentes en termes d’autoédition, avec laquelle j’explore quand même un peu déjà
 
