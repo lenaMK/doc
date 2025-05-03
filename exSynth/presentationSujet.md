@@ -78,7 +78,10 @@ Pour mener cette recherche, j’ai créé un protocole d’expérimentation [[do
 
 <!--incertaine du terme symbolique: cherche une façon de dire que c’est connoté, contient une façon de voir le monde, **produit du sens**, contribue à la construction d’un récit-->
 
-1. *Faire des choix* est une étape qui sert à nommer les décisions et les partis pris dans l’élaboration d’un objet. Parmi les trois composantes principales, les **données** sont décrites pour déterminer le sujet à représenter ainsi que pour identifier la source ou l’institution qui les a produites. L’analyse du contenu s’effectue en parallèle du prétraitement des données, une étape préparatoire au cours de laquelle les données sources sont structurées pour former un jeu de données. Ce jeu de données passe ensuite par un **algorithme de représentation**. Cet algorithme lui-même un protocole, qui applique une logique visuelle et spatiale, basée sur une intention symbolique, avec une méthodologie algorithmique. Contrairement à la visualisation de données, cet algorithme est une sorte de partition, un plan de travail qu’il reste ensuite à activer dans une **expression matérielle**. La matérialité, dans les sensations qu’elle évoque et dans le geste même du travail de la matière, exprime également une ou des sens symboliques. L’ensemble de ces choix se fait de façon itérative. Les tâtonnements, les tests et les différentes versions font partie du processus de la recherche-création.
+1. *Faire des choix* est une étape qui sert à nommer les décisions et les partis pris dans l’élaboration d’un objet. Parmi les trois composantes principales,
+   - les **données** sont décrites pour déterminer le sujet à représenter ainsi que pour identifier la source ou l’institution qui les a produites. L’analyse du contenu s’effectue en parallèle du prétraitement des données, une étape préparatoire au cours de laquelle les données sources sont structurées pour former un jeu de données. <!--cas d’étude, archive insituttionnelle: expliquer le fondement de données, information structurée-->
+   - Ce jeu de données passe ensuite par un **algorithme de représentation**. Cet algorithme lui-même un protocole, qui applique une logique visuelle et spatiale, basée sur une intention symbolique, avec une méthodologie algorithmique. Contrairement à la visualisation de données, cet algorithme est une sorte de partition, un plan de travail qu’il reste ensuite à activer dans une **expression matérielle**. <!-- lien avec état des lieux en data viz, technique, algorithmique: organise les données dans l’espace selon certaines règles prédéterminées-->
+   - La matérialité, dans les sensations qu’elle évoque et dans le geste même du travail de la matière, exprime également une ou des sens symboliques. L’ensemble de ces choix se fait de façon itérative. Les tâtonnements, les tests et les différentes versions font partie du processus de la recherche-création. <!-- matérialisation, artisanat, manuel-->
 2. *(Dé-)montrer* questionne ce qui est présent lors de la mise à vue publique. Celle-ci requiert une forme d’aboutissement de la première étape, même si le protocole lui-même peut être utilisé de façon itérative. À cette étape, l’enjeu n’est pas simplement de montrer le résultat de la matérialisation de données. Il s’agit plutôt de produire une démonstration de la recherche-création. Pour expliciter son fonctionnement, son « mode d’emploi » et ses propriétés, l’objet doit être accompagné d’une sélection d’éléments qui rapportent les choix effectués et le processus suivi. La présentation publique est également le lieu de réception de la recherche-création. La réception peut être participative, au sens où les interactions pensées dans la matérialisation peuvent aller au-delà de l’expérience pour contribuer à l’élaboration de l’objet. Pour toutefois distinguer la présentation d’un projet de l’animation d’un atelier créatif, un cadre de participation est établi au préalable et lui-même présenté dans l’espace. Une question récursive se pose: les expériences vécues par les personnes présentes, leurs actions et leurs rétroactions peuvent-elles / sont-elles exposées elles aussi? <!--Mise en commun? Partager?-->
 3. *Documenter* est intrinsèque aux deux étapes précédentes. Chaque élément doit pouvoir être mobilisé pour contribuer à la recherche. Cela requiert la production délibérée d’une documentation des composantes, des itérations, de l’exposition et de la documentation elle-même, c’est-à-dire l’emploi de ce protocole.
    <!--(ré)conciliation entre la physicalité et le numérique (l’écran)? Puisqu’il s’agit de rendre les données d’un musée accessible à des publics?-->
@@ -94,7 +97,7 @@ Observations à propos du protocole:
   - Il doit être exécuté pour avoir un résultat
   - Il génère des traces et exige une documentation
 
-Ce protocole sera mis à l’épreuve pour une première fois avec les données de la collection du Musée d’art contemporain de Montréal, pour la partie pratique de l’examen de synthèse (démonstration du 20 au 22 mai). L’expérience a pour but d’alimenter la notion en cours de développement de contre-curation de données. En mettant une emphase particulière sur la documentation des choix, des étapes et des itérations, il s’agit de rendre le processus aussi *tangible* que les données elles-mêmes.
+
 
 Des questions connexes seront également abordées dans le cadre de cette recherche. D’une part, il s’agira d’évaluer l’utilisation d’un protocole pour mener une recherche-création. Son usage répété au cours de la thèse permettra un travail réflexif sur le protocole lui-même, sur son usage et sa pertinence pour la démarche envisagée. De l’autre, je considère les données produites par des institutions culturelles comme faisant partie des archives institutionnelles. Cela m’amènera à réfléchir aux méthodologies existantes pour étudier et pour utiliser ces données, en recherche ainsi que dans divers cadres de diffusion alternatifs.
 
@@ -173,7 +176,7 @@ Les perles sont activées, tout d’abord comme des «&nbsp;données&nbsp;» gé
 
 Le *tatreez* numérique réalisé par Maya Amer comporte une approche plus classiquement guidée par les données (*data-driven*). Les *tatreez* sont une forme de broderie traditionnelle palestinienne en points de croix. La créatrice palestinienne revisite cette forme d’artisanat et l’actualise à sa pratique d’animatrice graphique pour visualiser le nombre de victimes tuées à Gaza en octobre 2023 (Pontone 2023). Intitulé *Gaza thob collar*, chaque point de croix est une personne. Le code couleur distingue les hommes, les femmes, les garçons, les filles, et les personnes non identifiées. L’ensemble forme un motif inspiré par la tradition du *tatreez*, reprise comme medium artistique pour trouver une façon de communiquer le nombre de décès tout en rappelant l’humanité, la culture et l’histoire de chacun des 8005 individus. L’artiste exprime sur son compte Instagram que sa création est une façon de canaliser la rage et la frustration face à la violence (Amer 2023). En plus de l’animation graphique, elle partage le [motif](https://drive.google.com/file/d/1SfJ3zXKDx8DQeE1qIDHgM_ch3DpFcjfj/view) pour permettre à d’autres personnes de transformer leur frustration en art, tout en souhaitant que son projet mène à davantage d’éducation et à des mouvements sociaux solidaires pour un cessez-le-feu. Avec cette création, Maya Amer mêle sa pratique numérique à un savoir-faire artisanal pour créer une forme visuelle hybride qui lui permet d’exprimer un contre-récit sur la violence du génocide palestinien.
 
-<iframe width="320" height ="440" src=" https://www.instagram.com/reel/CzEtvjKMBg8/embed "></iframe>
+<iframe width="320" height ="440" src="https://www.instagram.com/reel/CzEtvjKMBg8/embed"></iframe>
 
 <figcaption style=" text-align: right ">Figure xxx. <i>Gaza Thob Collar</i>, Maya Amer, 2023</figcaption>
 
@@ -203,11 +206,49 @@ Cette résidence de recherche-création a donc non seulement été l’occasion 
 
 > Ce que montrent les textes d’Anni Albers est que les œuvres tissées sont des espaces de règles, de codes, et d’information. Elles procèdent en réalité d’opérations logiques répétées, de processus structurels, et relèvent tout autant d’une pratique d’ingénierie mécanique que du domaine artistique. 
 >
-> (Soulard dans Soulard et Al. 2021, 260)
+> (Soulard 2021, 260)
 
-Le cadre théorique que j’emploierai pour penser l’artisanat comme une technologie et la technologie comme une forme d’artisanat est centré sur la pensée textile d’Anni Albers ([Annexe 1: à propos d’Anni Albers](#anni-albers)). Publié pour la première fois en 1965, son éloquent essai intitulé *Du tissage* [se situe à la / forme une ? ] charnière entre l’artisanat manuel et la fabrication [mécanisée / mécanique ?] (*between handcraft and the machine-made*, [Princeteon university press 2017, s.p.](https://press.princeton.edu/books/hardcover/9780691177854/on-weaving)). Anni Albers elle-même était consciente du potentiel de sa pensée textile pour d’autres disciplines. Elle annonce dans sa *Note d’introduction* : « en abordant les fondamentaux et les méthodes du textile, mon souhait était de compter parmi mes lecteurs non seulement des tisserands mais toute personne dont le travail dans une autre discipline rejoint les enjeux du textile » (Albers 2021 [1965], 11). Et Ida Soulard le souligne en conclusion de la traduction française parue en 2021, « cette pensée textile qui se définit en creux dans *Du tissage* à travers les images programmées est […] précieuse dans le cadre d’une préhistoire des pratiques algorithmiques » (Soulard dans Soulard et Al. 2021, 268).
+Le cadre théorique que j’emploierai pour penser l’artisanat comme une technologie et la technologie comme une forme d’artisanat est centré sur la pensée textile d’Anni Albers ([Annexe 1: à propos d’Anni Albers](#anni-albers)). Publié pour la première fois en 1965, son éloquent essai intitulé *Du tissage* [se situe à la / forme une ? ] charnière entre l’artisanat manuel et la fabrication [mécanisée / mécanique ?] (*between handcraft and the machine-made*, [Princeteon university press 2017, s.p.](https://press.princeton.edu/books/hardcover/9780691177854/on-weaving)). Anni Albers elle-même était consciente du potentiel de sa pensée textile pour d’autres disciplines. Elle annonce dans sa *Note d’introduction* : « en abordant les fondamentaux et les méthodes du textile, mon souhait était de compter parmi mes lecteurs non seulement des tisserands mais toute personne dont le travail dans une autre discipline rejoint les enjeux du textile » (Albers 2021 [1965], 11). Et Ida Soulard le souligne en conclusion de la traduction française parue en 2021, « cette pensée textile qui se définit en creux dans *Du tissage* à travers les images programmées est […] précieuse dans le cadre d’une préhistoire des pratiques algorithmiques » (Soulard 2021, 268). Les principes de la construction textile dégagés par Anni Albers seront les points de départ d’une réflexion sur les manières de faire, des techniques aux matériaux jusqu’au design et à la production de récits tactiles.
+
+La transition des « images programmées » d’Albers (Soulard 2021, 260) vers la création algorithmique est facilitée par la contribution d’un autre artiste: Vera Molnar ([Annexe 2: à propos de Vera Molnar](#vera-molnar)). Une génération après Anni Albers, Vera Molnar participe elle aussi « à ce jeu de va-et-vient permanent entre une pratique manuelle, presque artisanale, et une utilisation opportuniste de l’outil technologique » (Grasser-Fulchéri et Bouiller 2021, 8). Face au coût d’accès à un véritable ordinateur dans les années 1960, Vera Molnar emploie une méthode expérimentale qu’elle nomme « machine imaginaire » pour simuler la création avec une machine. 
+
+> [Sa] démarche esthétique […], à l’instar de la démarche scientifique, se fonde sur cette notion de « prévision », dont son usage du protocole programmatique à l’aide de la « machine imaginaire » est l’expression la plus convaincante puisque programmer, c’est « prévoir » les éventualités d’apparition des formes avant même de pouvoir les « voir ».
+>
+> (Baby 2021, 45)
+
+Vera Molnar est également l’autrice d’un court essai intitulé *Éloge de l’ordinateur (dans les arts visuels)* daté de 1984. Ce dernier se rapproche d’une philosophie de l’art qui distingue les peintres de « coloration spiirtualiste » des « matérialistes » selon leur attitude envers l’outillage et la partie technique de leur travail. Elle en vient ainsi à décrire sa démarche de création, se rangeant du côté des matérialistes, « [des] créateurs […] à considérer comme des chercheurs qui appréhendent leur art en tant qu’une des sciences humaines » (Molnar 1984, 2). Ainsi, chacune à sa façon, ces deux artistes théorisent le « faire » et, plus particulièrement, exposent les liens entre contraintes et libertés posées par la technicité dans leur processus de création. Elles se rapprochent toutes deux du modèle de « l’artiste-ingénieure […,] une figure qui permet de composer habilement avec les dialectiques technologique-artistique, individuel-universel, processus-produit et de rompre également avec la spécialisation des tâches tout en acceptant de participer au régime moderne de production » (Soulard 2021, 261). 
+
+*Les deux artistes partagent également un intérêt marqué pour le travail de Paul Klee, une piste à suivre, peut-être à l’occasion de l’[exposition monographique dédiée à Anni Albers](https://www.zpk.org/fr/ausstellung/anni-albers) qui aura lieu entre novembre 2025 et février 2026 au Centre Paul Klee à Berne (Suisse).* 
+
+Ce cadre théorique, sur le *faire* entre textilité et algorithmique, sera également « épaissi » <!-- ref thick mapping?--> par l’apport de plusieurs chercheur·se·s, en premier lieu avec le travail de l’anthropologue Tim Ingold. Son ouvrage intitulé « Faire : anthropologie, archéologie, art et architecture » (2017 [2013]) s’arrime élégamment avec les réflexions sur l’enseignement par la pratique et l’apprentissage par le travail manuel prônées par Anni Albers (relevées notamment dans Soulard 2021, 259). Tim Ingold a également publié *Une brève histoire des lignes* (2013 [2007]), dont l’approche transdisciplinaire fondée sur une anthropologie moderne enrichit l’analyse des traces, des lignes et des surfaces, ainsi que de la notation. Dans un essai intitulé *The textility of making* (2013), il contribue aux discussions actuelles sur l’art et la technologie en mettant l’accent sur l’agentivité de la matière dans la forme et la formation des choses. Si, dans ce texte, sa référence à la textilité et à la pratique du tissage est davantage figurative que littérale, Tim Ingold y aborde bien la distinction entre l’artisanat et la technologie en comparant le dessin (architectural) et la charpenterie.
+
+Pour compléter cette réflexion sur le *faire*, j’emprunterai également aux réflexions philosophiques et techniques de Gilbert Simondon et son ouvrage de référence *Du mode d’existence des objets techniques* (2012 [1958]) ainsi que Marcello Vitali-Rosati pour son analyse contemporaine de nos relations actuelles avec la technologie dans son *Éloge du bug* (2024).  *Coding freedom: the ethics and aesthetics of hacking* de Gabriella Coleman (2013) me permettra également de situer historiquement et anthropologiquement la production de logiciel libre et le « faire » chez les bidouilleur·se·s (*hackers*). Le *faire* étant également situé, au sens des savoirs situés de Donna Harraway (1988), je m’inspirerai des approches développées dans *Feminist in a software lab* -(McPherson 2018), *Data Feminism* (D’Ignazio et Klein, 2020) et *Glitch Femnism* (Russell, 2020) pour trouver des manières de situer ma pratique de recherche-création.
+
+
+
+“how digital humanities can integrate data physicalization into the research process and how data physicalization is a form of critical making.” (Berger et al., 2024, pp. -)
+
+Faire sans discipline? Myriam Suchet *Indiscipline*
+
+
+
+la concision et la précision du langage, l’idée qu’il faut revenir aux **fondamentaux d’une pratique**, définir une nouvelle « grammaire » artistique et visuelle, et que l’apprentissage doit se faire par l’expérience et un engagement direct avec les matériaux. 
+
+> - **anthropologie** comme méthode moderne <!--échos avec Ingold-->
+> - ouvre à des **questions transdisciplinaires**
+> - considère le tissage dans sa double dimension, à la fois comme une catégorie d’objets et de techniques, et comme une méthode de pensée (Soulard 2021, 259)
+>
+> 
+
+
+
+
+
+
 
 Anni Albers emploie d’ailleurs la machine à écrire comme outil pour expérimenter avec ce qu’elle appelle des « illusions tactiles-textiles » (Albers 2021 [1965],  70). Ces expériences visent à enrichir le vocabulaire du langage tactile. Il s’agit d’augmenter notre sensibilité à l’expression tactile pour être capable de découvrir du sens dans le langage de la matière (Albers 2021 [1965], 68). 
+
+
 
 <!-- lien vers le sensory knowing dans The senses -->
 
@@ -217,111 +258,24 @@ Anni Albers emploie d’ailleurs la machine à écrire comme outil pour expérim
 
 <iframe width="800" height="480" frameborder="0"
   src="http://lenamk.site/art-algorithmique/anni-typing_1/"></iframe>
-
 <figcaption style=" text-align: right "><i>&lowbar;( Anni Albers )&lowbar;</i>, série «&nbsp;Playing with Anni Albers&nbsp;» inspirée des études à la machine à écrire d’Anni Albers, Lena MK, 2025</figcaption> 
 
-### Les images programmées d’Anni Albers
 
-> La première spécificité des images textiles est d’être des images programmées
+
+
+
+
+
+> 
 >
-> (Soulard dans Soulard et Al. 2021, 260)
 
+## Démarche de recherche-création 
 
+### Emploi du protocole
 
-<!--OG algo art? en construisant des images de façon programmée, on fait face à un problème textile!-->
+Le protocole présenté ci-haut sera mis à l’épreuve pour une première fois avec les données de la collection du Musée d’art contemporain de Montréal, pour la partie pratique de l’examen de synthèse (démonstration du 20 au 22 mai). L’expérience a pour but d’alimenter la notion en cours de développement de contre-curation de données. En mettant une emphase particulière sur la documentation des choix, des étapes et des itérations, il s’agit de rendre le processus aussi *tangible* que les données elles-mêmes.
 
-
-
-
-
-Chacune à sa façon, ces deux artistes théorisent le « faire » et, plus particulièrement, exposent les liens entre contraintes et libertés posées par la technicité dans leur processus de création. Les deux se rapprochent du modèke de « l’artiste-ingénieure […,] une figure qui permet de composer habilement avec les dialectiques technologique-artistique, individuel-universel, processus-produit et de rompre également avec la spécialisation des tâches tout en acceptant de participer au régime moderne de production » (Soulard 2021, 261).
-
-### La machine imaginaire de Vera Molnar
-
-
-
-#### 
-
-Vera Molnar ([Annexe 2](#vera-molnar) )
-
-
-
-Machine imaginaire
-
-« Vera Molnar excelle […] à ce jeu de va-et-vient permanent entre une pratique manuelle, presque artisanale, et une utilisation opportuniste de l’outil technologique » (Grasser-Fulchéri et Bouiller dans Baby et Franco 2021, 8)
-
-*Eloge de l’ordinateur*
-
-
-
-### Penser le faire
-
-#### 
-
-
-
-> la concision et la précision du langage, l’idée qu’il faut revenir aux **fondamentaux d’une pratique**, définir une nouvelle « grammaire » artistique et visuelle, et que l’apprentissage doit se faire par l’expérience et un engagement direct avec les matériaux. 
->
-> - **anthropologie** comme méthode moderne <!--échos avec Ingold-->
-> - ouvre à des **questions transdisciplinaires**
-> - considère le tissage dans sa double dimension, à la fois comme une catégorie d’objets et de techniques, et comme une méthode de pensée
->
-> (Soulard 2021, 259)
-
-
-
-Ingold:
-
-- *Making: Anthropology, Archaeology, Art and Architecture* (2013) → à consulter (faire soi-même avec ses mains?)
-- *The Textility of Making* (2010) → notes de lectures ok (textilité est une métaphore)
-
-Faire avec un ordinateur
-
-- Vitali-Rosati: *Éloge du bug* → fin des notes de lectures à numériser
-  - relationship with technology (see it as a craft), playful bidouillage, beyond « utilitarian functionality » to learn, rethink, change perception
-- Coleman *Coding Freedom*: hacking as making
-- Simondon: *Du mode d’existence des objets technique* 
-  - rapport entre humain et machine, rapport à la matière du technicien
-  - rapport entre geste humain et geste machine, outil, inventivité
-- school for poetic computation
-- digital fabrication: reconsider digital fabrication within data translation activities as situated along an extended ‘trajectory of use’ in which reflective, meaningful ‘data-things’ can be created (Nissen and Bowers 2015)
-- “how digital humanities can integrate data physicalization into the research process and how data physicalization is a form of critical making.” (Berger et al., 2024, pp. -)
-
-
-
-Faire en étant située: 
-
-- *Feminist in a Software Lab*, Tara McPherson→ notes de lectures à numériser
-- *Data feminism* Catherine d’Ignazio et Laurent F Klein
-- *Glitch feminism* → à consulter
-
-Faire sans discipline? Myriam Suchet *Indiscipline*→ notes de lectures ok
-
-Faire / critical making
-
-- Berger, Claudia, Quinn Dombrowski, Nickoal Eichmann-Kalwara, Natalia Estrada, Kim Brillante Knight, Pamella R. Lach, Hideo Mabuchi, et al. 2024. « Making Research Tactile: Critical Making and Data Physicalization in Digital Humanities ». Dans *Dh+lib*. unknown. https://doi.org/10.17613/54pz-n026.
-- Berger, Claudia, Nickoal Eichmann-Kalwara, Pamella R. Lach, et John E. Russell. 2024. « Play With Your Data ». https://doi.org/10.17613/9mza-6g95.
-- Data physicality GLAM data, collection littéraires: rapport au texte matérialité&interprétation (sense-making) enjeux théoriques. Forlini, Stefania, Uta Hinrichs, et John Brosz. 2018. « Mining the Material Archive: Balancing Sensate Experience and Sense-Making in Digitized Print Collections ». *Open Library of Humanities* 4 (2). https://doi.org/10.16995/olh.282.$
-- digital fabrication within data : Nissen, Bettina, and John Bowers. 2015. “Data-Things: Digital Fabrication Situated within Participatory Data Translation Activities.” In *Proceedings of the 33rd Annual ACM Conference on Human Factors in Computing Systems*, 2467–76. Seoul Republic of Korea: ACM. https://doi.org/10.1145/2702123.2702245.
-
-
-
-
-re-faire le lien vers la matérialisation de données
-
-- “people that partake in such activities tend to invest a certain meaning into the artifacts that they made themselves, which they might not do when confronted with something that was mass-produced” (Dragicevic et al., 2021, p. 19) “the manual creation and subsequent habitual use of self-made physicalizations of personal data can augment their perceived value and authenticity, and can thus spark various forms of individual or shared recollection [ ]” (Dragicevic et al., 2021, p. 20)
-- + accessible “Data physicalization can also be considered as a useful fabrication activity in and by itself, as its transformative qualities can become relatively easily integrated in existing fabrication and craft activities, such as crochet and its allied practices, among many others [ ]. Several projects have demonstrated how physicalization can democratize the practice of information visualization by requiring less skills or expertise than its digital counterparts” (Dragicevic et al., 2021, p. 20)
-  + “The recent focus on making reveals how data physicalization can be understood as a manifestation of data within a “trajectory of use”, which starts from before the first acquaintance with the data, over its actual design and physical fabrication, and ending in the hands of others, in the future [ ]. By considering data as a trajectory, one can recognize how people also make sense of data during the fabrication of visualization itself [ ], as physicalization makers make conscious decisions about how the data should be represented in order to evoke associations with experiences or people, to support activities that allow for episodes of reminiscing, or to encourage potential social interactions. Moreover, during the physicalization construction itself, aspects of data collection, construction and self-reflection can be deeply intertwined [ ] (see Figure -b for some concrete results). These qualities have been exploited during the process of hands-on physicalization making workshops in order to make principles of data representation more graspable [ ], or to push the creativity of students in visualization [ ]. Overall, research in personal physicalization fabrication has revealed a yet largely unexplored potential to represent more qualitative and subjective aspects that cannot yet be readily captured in data [ ]” (Dragicevic et al., 2021, p. 21)
-
-
-
-
-
-## Suite 
-
-### Annonce de la partie pratique 
-
-et utilisation du protocole pour faire une thèse
+Ce protocole est pensé pour être utilisé plusieurs reprises, avec différents cas d’études. En servant d’instructions tout en produisant la documentation, le protocole permettra d’explorer les points de tensions entre liberté et contraintes, créatives ou techniques, oscillant entre technologie et artisanat.
 
 
 
@@ -361,7 +315,9 @@ permet de garantir l’arrimage texte-image
 
 Anni Albers, née Annelise Else Frieda Fleishmann à Berlin en 1899 et décédée à Orange (Connecticut) en 1994, est une artiste, théoricienne et enseignante en arts textiles. Figure importante du Bauhaus, elle fuit les répressions antisémites et déménage en Caroline du Nord, où elle enseignera au Black Mountain College dès 1933. Première femme et première artiste textile à présenter une exposition solo au *Museum of Modern Art* (MoMA)  (<!-- article encyclo-->Yalzadeh et Kuiper 2025), elle publie également des ouvrages théorique sur le design (1959) et le tissage (2021 [1965]).
 
+<img src="https://media.albersfoundation.org/images/1994-11-21_x1400web.format-webp.width-1440_Cu2Mxs8TYImv0QGX.webp" style="zoom:33%;" />
 
+<figcaption style=" text-align: right ">Figure xxx. <i>TR III</i> (vue de l’installation), Anni Albers, 1970. Photographie sur le site de la [Fondation Josef & Anni Albers](https://www.albersfoundation.org/)</figcaption>
 
 ### Vera Molnar
 
