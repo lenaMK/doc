@@ -198,10 +198,6 @@ Cette résidence de recherche-création a donc non seulement été l’occasion 
 
  <!--contre-récit: récit non-dit en tout cas-->
 
----
-
-
-
 ## Cadre théorique
 
 > Ce que montrent les textes d’Anni Albers est que les œuvres tissées sont des espaces de règles, de codes, et d’information. Elles procèdent en réalité d’opérations logiques répétées, de processus structurels, et relèvent tout autant d’une pratique d’ingénierie mécanique que du domaine artistique. 
@@ -210,76 +206,46 @@ Cette résidence de recherche-création a donc non seulement été l’occasion 
 
 Le cadre théorique que j’emploierai pour penser l’artisanat comme une technologie et la technologie comme une forme d’artisanat est centré sur la pensée textile d’Anni Albers ([Annexe 1: à propos d’Anni Albers](#anni-albers)). Publié pour la première fois en 1965, son éloquent essai intitulé *Du tissage* [se situe à la / forme une ? ] charnière entre l’artisanat manuel et la fabrication [mécanisée / mécanique ?] (*between handcraft and the machine-made*, [Princeteon university press 2017, s.p.](https://press.princeton.edu/books/hardcover/9780691177854/on-weaving)). Anni Albers elle-même était consciente du potentiel de sa pensée textile pour d’autres disciplines. Elle annonce dans sa *Note d’introduction* : « en abordant les fondamentaux et les méthodes du textile, mon souhait était de compter parmi mes lecteurs non seulement des tisserands mais toute personne dont le travail dans une autre discipline rejoint les enjeux du textile » (Albers 2021 [1965], 11). Et Ida Soulard le souligne en conclusion de la traduction française parue en 2021, « cette pensée textile qui se définit en creux dans *Du tissage* à travers les images programmées est […] précieuse dans le cadre d’une préhistoire des pratiques algorithmiques » (Soulard 2021, 268). Les principes de la construction textile dégagés par Anni Albers seront les points de départ d’une réflexion sur les manières de faire, des techniques aux matériaux jusqu’au design et à la production de récits tactiles.
 
-La transition des « images programmées » d’Albers (Soulard 2021, 260) vers la création algorithmique est facilitée par la contribution d’un autre artiste: Vera Molnar ([Annexe 2: à propos de Vera Molnar](#vera-molnar)). Une génération après Anni Albers, Vera Molnar participe elle aussi « à ce jeu de va-et-vient permanent entre une pratique manuelle, presque artisanale, et une utilisation opportuniste de l’outil technologique » (Grasser-Fulchéri et Bouiller 2021, 8). Face au coût d’accès à un véritable ordinateur dans les années 1960, Vera Molnar emploie une méthode expérimentale qu’elle nomme « machine imaginaire » pour simuler la création avec une machine. 
+On peut identifier un lien direct avec la création algorithmique dans la pensée d’Anni Albers dans ses expérimentations avec la machine à écrire. En effet, elle l’emploie comme outil pour créer ce qu’elle appelle des « illusions tactiles-textiles » (Albers 2021 [1965],  70). Ces créations visent à enrichir le vocabulaire du langage tactile, d’augmenter notre sensibilité à l’expression tactile pour être capable de découvrir du sens dans le langage de la matière (Albers 2021 [1965], 68). Ces « illusions tactiles-textiles », comme l’exemple ci-dessous (Figure XXX), sont des motifs créés par la répétitions de certaines lettres ou de certains caractères typographiques. On peut les associer à certaines pratiques du ASCII-art, comme les motifs documentés dans la [ASCII Art Archive](https://www.asciiart.eu/art-and-design/patterns). Elles se prêtent donc particulièrement bien à la création algorithmique, où l’algorithme effectue le travail répétitif et génératif qui crée le motif (figure XXX) . 
+
+<img src="../img/anni-ascii.png"/>
+
+<figcaption style=" text-align: right ">À gauche: <i>Étude réalisée à la machine à écrire</i>, Anni Albers, 1965? <br>À droite: Deux motifs de la galerie d’art ASCII</figcaption>
+
+<iframe width="800" height="480" frameborder="0"
+  src="http://lenamk.site/art-algorithmique/anni-typing_1/"></iframe>
+
+<figcaption style=" text-align: right ">Figure xxxx <i>&lowbar;( Anni Albers )&lowbar;</i>, série «&nbsp;Playing with Anni Albers&nbsp;» inspirée des études à la machine à écrire d’Anni Albers, Lena MK, 2025</figcaption> 
+
+La transition des « images programmées » d’Albers (Soulard 2021, 260) vers la création algorithmique est facilitée, en termes de démarche artistique, en prenant en considération le travail de Vera Molnar ([Annexe 2: à propos de Vera Molnar](#vera-molnar)). Une génération après Anni Albers, Vera Molnar participe elle aussi « à ce jeu de va-et-vient permanent entre une pratique manuelle, presque artisanale, et une utilisation opportuniste de l’outil technologique » (Grasser-Fulchéri et Bouiller 2021, 8). Face au coût d’accès à un véritable ordinateur dans les années 1960, Vera Molnar emploie une méthode expérimentale qu’elle nomme « machine imaginaire » pour simuler la création avec une machine. 
 
 > [Sa] démarche esthétique […], à l’instar de la démarche scientifique, se fonde sur cette notion de « prévision », dont son usage du protocole programmatique à l’aide de la « machine imaginaire » est l’expression la plus convaincante puisque programmer, c’est « prévoir » les éventualités d’apparition des formes avant même de pouvoir les « voir ».
 >
 > (Baby 2021, 45)
 
-Vera Molnar est également l’autrice d’un court essai intitulé *Éloge de l’ordinateur (dans les arts visuels)* daté de 1984. Ce dernier se rapproche d’une philosophie de l’art qui distingue les peintres de « coloration spiirtualiste » des « matérialistes » selon leur attitude envers l’outillage et la partie technique de leur travail. Elle en vient ainsi à décrire sa démarche de création, se rangeant du côté des matérialistes, « [des] créateurs […] à considérer comme des chercheurs qui appréhendent leur art en tant qu’une des sciences humaines » (Molnar 1984, 2). Ainsi, chacune à sa façon, ces deux artistes théorisent le « faire » et, plus particulièrement, exposent les liens entre contraintes et libertés posées par la technicité dans leur processus de création. Elles se rapprochent toutes deux du modèle de « l’artiste-ingénieure […,] une figure qui permet de composer habilement avec les dialectiques technologique-artistique, individuel-universel, processus-produit et de rompre également avec la spécialisation des tâches tout en acceptant de participer au régime moderne de production » (Soulard 2021, 261). 
+Vera Molnar est également l’autrice d’un court essai intitulé *Éloge de l’ordinateur (dans les arts visuels)* daté de 1984. Ce dernier se rapproche d’une philosophie de l’art qui distingue les peintres de « coloration spiirtualiste » des « matérialistes » selon leur attitude envers l’outillage et la partie technique de leur travail. Elle en vient ainsi à décrire sa démarche de création, se rangeant du côté des matérialistes, « [des] créateurs […] à considérer comme des chercheurs qui appréhendent leur art en tant qu’une des sciences humaines » (Molnar 1984, 2). 
+
+Ainsi, ces deux artistes théorisent, chacune à leur façon,  le « faire » et, plus particulièrement, exposent les liens entre contraintes et libertés posées par la technicité dans leur processus de création. Elles se rapprochent toutes deux du modèle de « l’artiste-ingénieure […,] une figure qui permet de composer habilement avec les dialectiques technologique-artistique, individuel-universel, processus-produit et de rompre également avec la spécialisation des tâches tout en acceptant de participer au régime moderne de production » (Soulard 2021, 261). Leurs pratiques semblent donc particulièrement aptes à fournir un cadre théorique à ma recherche-création.
 
 *Les deux artistes partagent également un intérêt marqué pour le travail de Paul Klee, une piste à suivre, peut-être à l’occasion de l’[exposition monographique dédiée à Anni Albers](https://www.zpk.org/fr/ausstellung/anni-albers) qui aura lieu entre novembre 2025 et février 2026 au Centre Paul Klee à Berne (Suisse).* 
 
 Ce cadre théorique, sur le *faire* entre textilité et algorithmique, sera également « épaissi » <!-- ref thick mapping?--> par l’apport de plusieurs chercheur·se·s, en premier lieu avec le travail de l’anthropologue Tim Ingold. Son ouvrage intitulé « Faire : anthropologie, archéologie, art et architecture » (2017 [2013]) s’arrime élégamment avec les réflexions sur l’enseignement par la pratique et l’apprentissage par le travail manuel prônées par Anni Albers (relevées notamment dans Soulard 2021, 259). Tim Ingold a également publié *Une brève histoire des lignes* (2013 [2007]), dont l’approche transdisciplinaire fondée sur une anthropologie moderne enrichit l’analyse des traces, des lignes et des surfaces, ainsi que de la notation. Dans un essai intitulé *The textility of making* (2013), il contribue aux discussions actuelles sur l’art et la technologie en mettant l’accent sur l’agentivité de la matière dans la forme et la formation des choses. Si, dans ce texte, sa référence à la textilité et à la pratique du tissage est davantage figurative que littérale, Tim Ingold y aborde bien la distinction entre l’artisanat et la technologie en comparant le dessin (architectural) et la charpenterie.
 
-Pour compléter cette réflexion sur le *faire*, j’emprunterai également aux réflexions philosophiques et techniques de Gilbert Simondon et son ouvrage de référence *Du mode d’existence des objets techniques* (2012 [1958]) ainsi que Marcello Vitali-Rosati pour son analyse contemporaine de nos relations actuelles avec la technologie dans son *Éloge du bug* (2024).  *Coding freedom: the ethics and aesthetics of hacking* de Gabriella Coleman (2013) me permettra également de situer historiquement et anthropologiquement la production de logiciel libre et le « faire » chez les bidouilleur·se·s (*hackers*). Le *faire* étant également situé, au sens des savoirs situés de Donna Harraway (1988), je m’inspirerai des approches développées dans *Feminist in a software lab* -(McPherson 2018), *Data Feminism* (D’Ignazio et Klein, 2020) et *Glitch Femnism* (Russell, 2020) pour trouver des manières de situer ma pratique de recherche-création.
+Pour compléter cette réflexion sur le *faire*, j’emprunterai également aux réflexions philosophiques et techniques de Gilbert Simondon et son ouvrage de référence *Du mode d’existence des objets techniques* (2012 [1958]) ainsi que Marcello Vitali-Rosati pour son analyse contemporaine de nos relations actuelles avec la technologie dans son *Éloge du bug* (2024).  *Coding freedom: the ethics and aesthetics of hacking* de Gabriella Coleman (2013) me permettra également de situer historiquement et anthropologiquement la production de logiciel libre et le « faire » chez les bidouilleur·se·s (*hackers*). Le *faire* étant également situé, au sens des savoirs situés de Donna Harraway (1988), je m’inspirerai des approches développées dans *Feminist in a software lab* -(McPherson 2018), *Data Feminism* (D’Ignazio et Klein, 2020) et *Glitch Femnism* (Russell, 2020) pour trouver des manières de situer ma pratique de recherche-création. Je pense ainsi pouvoir contribuer aux enjeux soulevés par Berger et a. lorsqu’iels demandent « *how digital humanities* [ou la recherche-création] *can integrate data physicalization into the research process and how data physicalization is a form of critical making* » (Berger et al., 2024, pp. -)
 
-
-
-“how digital humanities can integrate data physicalization into the research process and how data physicalization is a form of critical making.” (Berger et al., 2024, pp. -)
-
-Faire sans discipline? Myriam Suchet *Indiscipline*
-
-
-
-la concision et la précision du langage, l’idée qu’il faut revenir aux **fondamentaux d’une pratique**, définir une nouvelle « grammaire » artistique et visuelle, et que l’apprentissage doit se faire par l’expérience et un engagement direct avec les matériaux. 
-
-> - **anthropologie** comme méthode moderne <!--échos avec Ingold-->
-> - ouvre à des **questions transdisciplinaires**
-> - considère le tissage dans sa double dimension, à la fois comme une catégorie d’objets et de techniques, et comme une méthode de pensée (Soulard 2021, 259)
->
-> 
-
-
-
-
-
-
-
-Anni Albers emploie d’ailleurs la machine à écrire comme outil pour expérimenter avec ce qu’elle appelle des « illusions tactiles-textiles » (Albers 2021 [1965],  70). Ces expériences visent à enrichir le vocabulaire du langage tactile. Il s’agit d’augmenter notre sensibilité à l’expression tactile pour être capable de découvrir du sens dans le langage de la matière (Albers 2021 [1965], 68). 
-
-
-
-<!-- lien vers le sensory knowing dans The senses -->
-
-<img src="../img/albers_1.jpeg" style="zoom: 33%;" />
-
-<figcaption style=" text-align: right "><i>Étude réalisée à la machine à écrire</i>, Anni Albers, 1965?</figcaption>
-
-<iframe width="800" height="480" frameborder="0"
-  src="http://lenamk.site/art-algorithmique/anni-typing_1/"></iframe>
-<figcaption style=" text-align: right "><i>&lowbar;( Anni Albers )&lowbar;</i>, série «&nbsp;Playing with Anni Albers&nbsp;» inspirée des études à la machine à écrire d’Anni Albers, Lena MK, 2025</figcaption> 
-
-
-
-
-
-
-
-> 
->
+<!--Faire sans discipline? Myriam Suchet *Indiscipline*-->
 
 ## Démarche de recherche-création 
 
-### Emploi du protocole
+Emploi du protocole
 
-Le protocole présenté ci-haut sera mis à l’épreuve pour une première fois avec les données de la collection du Musée d’art contemporain de Montréal, pour la partie pratique de l’examen de synthèse (démonstration du 20 au 22 mai). L’expérience a pour but d’alimenter la notion en cours de développement de contre-curation de données. En mettant une emphase particulière sur la documentation des choix, des étapes et des itérations, il s’agit de rendre le processus aussi *tangible* que les données elles-mêmes.
+Le protocole présenté ci-haut sera mis à l’épreuve pour une première fois avec les données de la collection du Musée d’art contemporain de Montréal, pour la partie pratique de l’examen de synthèse (démonstration du 20 au 22 mai). L’expérience a pour but d’alimenter la notion en cours de développement de « contre-curation de données ». En mettant une emphase particulière sur la documentation des choix, des étapes et des itérations, il s’agit de rendre le processus aussi *tangible* que les données elles-mêmes.
 
 Ce protocole est pensé pour être utilisé plusieurs reprises, avec différents cas d’études. En servant d’instructions tout en produisant la documentation, le protocole permettra d’explorer les points de tensions entre liberté et contraintes, créatives ou techniques, oscillant entre technologie et artisanat.
 
 
 
-### Format envisagé pour la thèse
+Format envisagé pour la thèse
 
 <!-- forme de la thèse: un processus qui fait retour sur lui-même en un mouvement de réflexion-dans-l’action.-->
 
@@ -287,12 +253,6 @@ exemples
 
 Data sketches
 - physicalisation du code? intérêt particulier comme forme de documentation 
-
-
-
-
-
-
 
 Dear Data
 - documentation d’une année, d’un processus d’échange
