@@ -1,6 +1,6 @@
-textile is a rule-based art, To create a pattern means to elaborate a set of rules, and a new pattern appears with a change within the rule. (GB p.6) ????
+textile is a rule-based art, To create a pattern means to elaborate a set of rules, and a new pattern appears with a change within the rule. (GB p.6)
 
-
+« Textile, A Diagonal Abstraction: Glass Bead in Conversation with T’ai Smith ». s. d. Glass Bead. Consulté le 17 février 2025. https://www.glass-bead.org/article/textile-diagonal-abstraction/.
 
 
 
