@@ -2,7 +2,7 @@
 
 [toc]
 
-*/!\ rédaction en cours*
+
 
 ## Introduction
 
@@ -68,36 +68,30 @@ De plus, un des catalyseurs de ce domaine porte sur les origines multiples et le
 
 La question qui animera ma recherche est la suivante&nbsp;: comment la matérialisation de données peut-elle offrir une nouvelle forme d’accès pour des données culturelles&nbsp;? Je mènerai cette recherche à partir de l’hypothèse selon laquelle la création de ces nouvelles formes d’accès passe par une posture interdisciplinaire, en pensant l’artisanat comme une technologie et la technologie comme une pratique artisanale. À la croisée des matérialisations de données et des œuvres ou expériences *sensation*nelles, je vais expérimenter avec la fabrication d’objets qui incorporent des données culturelles. Mon objectif sera de produire des objets qui présentent des récits alternatifs et offrent de nouvelles perspectives sur les collections représentées. 
 
-Pour mener cette recherche, j’ai créé un protocole d’expérimentation [[document 1]](./protocole) qui fournit un cadre à ma pratique. Ce cadre me permet de placer la réflexion-dans-l’action (*reflection-in-action*), un terme proposé par le philosophe et urbaniste Donald A. Schon pour énoncer une posture dans laquelle « on réfléchit à ce qu’on fait pendant qu’on le fait » (1983: 54). Le protocole est divisé en trois étapes: 
+Pour mener cette recherche, j’ai créé un protocole d’expérimentation [[Annexe XX: protocole]](./protocole) qui fournit un cadre à ma pratique. Ce cadre me permet de placer la réflexion-dans-l’action (*reflection-in-action*), un terme proposé par le philosophe et urbaniste Donald A. Schon pour énoncer une posture dans laquelle « on réfléchit à ce qu’on fait pendant qu’on le fait » (1983: 54). Le protocole est divisé en trois étapes: 
 
-<!--détailler chaque étape, prendre le temps d’expliquer les idées-->
+1. ***Faire des choix*** est une étape qui sert à nommer les décisions et les partis pris dans l’élaboration d’une matérialisation de données. Ses trois composantes principales sont les données, l’algorithme de représentation et l’expression matérielle. Chacune requiert des choix et des décisions qui s’influencent de façon itérative. Les tâtonnements, les tests et les différentes versions font partie du processus de la recherche-création. 
 
-<!--cadre pour penser l’artisanat comme une tech et la tech comme de l’artisanat. Comment est-ce qu’on pense comme ça (cadre théorique), comment est-ce qu’on le met à l’épreuve (protocole)-->
+   - Les **données** sont décrites pour déterminer le sujet à représenter ainsi que pour identifier la source ou l’institution qui les a produites. Elles décrivent, par exemple, le contenu d’une collection muséale de façon structurée. L’analyse de ces données, et donc de la façon qu’elles décrivent les objets d’une collection, s’effectue en parallèle du prétraitement des données, une étape préparatoire au cours de laquelle les données sources sont transformées selon les besoins du projet. 
+   - Un **algorithme de représentation** traduit ensuite ces données d’un format textuel vers une forme visuelle. Par exemple, chaque œuvre d’art dans la collection devient un symbole placé dans l’espace visuel en suivant un ordre chronologique. Cet algorithme lui-même un protocole, qui applique une logique visuelle et spatiale avec une méthodologie algorithmique. Le choix de symbole et de l’organisation spatiale et visuelle oriente la lecture et contribue à construire un récit à partir des données. Le travail préparatoire et l’esquisse sont algorithmiques. Contrairement à la visualisation de données, le résultat est une étape, une sorte de partition ou de plan de travail. 
+   - Cette représentation est ensuite incarnée dans une **expression matérielle.** La matérialité, dans les sensations qu’elle évoque et dans le geste même du travail de la matière, exprime également une ou des sens symboliques. La quantité de données exige un geste répétitif, une sorte de travail à la chaîne qu’il faut négocier avec les moyens à dispositions, autant techniques que manuels. L’expression matérielle requiert également l’achat ou la collecte de la matière première, imposant des réalités économiques et écologiques au projet.
 
-<!--expliciter en quoi le protocole aide à faire et réfléchir en même temps: attacher les fils entre les données et les expérimentations physiques; entre la théorie et le processus; entre l’écrit et le pratique,-->
+2. ***(Dé-)montrer*** questionne ce qui est présent lors de la mise à vue publique. Celle-ci requiert une forme d’aboutissement de la première étape, même si le protocole lui-même peut être utilisé de façon itérative. À cette étape, l’enjeu n’est pas uniquement de montrer le résultat de la matérialisation de données. Il s’agit plutôt de produire une démonstration de la recherche-création. Pour expliciter son fonctionnement, son « mode d’emploi » et ses propriétés, l’objet doit être accompagné d’une sélection d’éléments qui rapportent les choix effectués et le processus suivi. 
 
-<!--incertaine du terme symbolique: cherche une façon de dire que c’est connoté, contient une façon de voir le monde, **produit du sens**, contribue à la construction d’un récit-->
+   La présentation publique est également le lieu de mise en commun et de partage de la recherche-création. La réception peut être participative, au sens où les interactions pensées dans la matérialisation peuvent aller au-delà de l’expérience pour contribuer à l’élaboration de l’objet. Pour toutefois distinguer la présentation d’un projet de l’animation d’un atelier créatif, un cadre de participation est établi au préalable et lui-même présenté dans l’espace. Une question récursive se pose: les expériences vécues par les personnes présentes, leurs actions et leurs rétroactions peuvent-elles / sont-elles exposées elles aussi? 
 
-1. *Faire des choix* est une étape qui sert à nommer les décisions et les partis pris dans l’élaboration d’un objet. Parmi les trois composantes principales,
-   - les **données** sont décrites pour déterminer le sujet à représenter ainsi que pour identifier la source ou l’institution qui les a produites. L’analyse du contenu s’effectue en parallèle du prétraitement des données, une étape préparatoire au cours de laquelle les données sources sont structurées pour former un jeu de données. <!--cas d’étude, archive insituttionnelle: expliquer le fondement de données, information structurée-->
-   - Ce jeu de données passe ensuite par un **algorithme de représentation**. Cet algorithme lui-même un protocole, qui applique une logique visuelle et spatiale, basée sur une intention symbolique, avec une méthodologie algorithmique. Contrairement à la visualisation de données, cet algorithme est une sorte de partition, un plan de travail qu’il reste ensuite à activer dans une **expression matérielle**. <!-- lien avec état des lieux en data viz, technique, algorithmique: organise les données dans l’espace selon certaines règles prédéterminées-->
-   - La matérialité, dans les sensations qu’elle évoque et dans le geste même du travail de la matière, exprime également une ou des sens symboliques. L’ensemble de ces choix se fait de façon itérative. Les tâtonnements, les tests et les différentes versions font partie du processus de la recherche-création. <!-- matérialisation, artisanat, manuel-->
-2. *(Dé-)montrer* questionne ce qui est présent lors de la mise à vue publique. Celle-ci requiert une forme d’aboutissement de la première étape, même si le protocole lui-même peut être utilisé de façon itérative. À cette étape, l’enjeu n’est pas simplement de montrer le résultat de la matérialisation de données. Il s’agit plutôt de produire une démonstration de la recherche-création. Pour expliciter son fonctionnement, son « mode d’emploi » et ses propriétés, l’objet doit être accompagné d’une sélection d’éléments qui rapportent les choix effectués et le processus suivi. La présentation publique est également le lieu de réception de la recherche-création. La réception peut être participative, au sens où les interactions pensées dans la matérialisation peuvent aller au-delà de l’expérience pour contribuer à l’élaboration de l’objet. Pour toutefois distinguer la présentation d’un projet de l’animation d’un atelier créatif, un cadre de participation est établi au préalable et lui-même présenté dans l’espace. Une question récursive se pose: les expériences vécues par les personnes présentes, leurs actions et leurs rétroactions peuvent-elles / sont-elles exposées elles aussi? <!--Mise en commun? Partager?-->
-3. *Documenter* est intrinsèque aux deux étapes précédentes. Chaque élément doit pouvoir être mobilisé pour contribuer à la recherche. Cela requiert la production délibérée d’une documentation des composantes, des itérations, de l’exposition et de la documentation elle-même, c’est-à-dire l’emploi de ce protocole.
-   <!--(ré)conciliation entre la physicalité et le numérique (l’écran)? Puisqu’il s’agit de rendre les données d’un musée accessible à des publics?-->
+3. ***Documenter*** est intrinsèque aux deux étapes précédentes. Chaque élément doit pouvoir être mobilisé pour contribuer à la recherche. Cela requiert la production délibérée d’une documentation des composantes, des itérations, de l’exposition et de la documentation elle-même, c’est-à-dire l’emploi de ce protocole. Celui-ci sera publié sur le web et mis à jour au fur et à mesure de son évolution, afin de partager ouvertement les résultats de l’expérimentation.
 
 Observations à propos du protocole: 
 
-- Ce protocole prend le parti qu’il n’y a pas de recherche-création sans monstration. Pour que la matérialisation puisse faire l’objet d’interactions, le protocole requiert une présentation ou une forme de partage direct avec un public. Elle peut toutefois se dérouler dans des contextes variés, d’une exposition dans une institution culturelle à un événement de vulgarisation ou de partage de connaissance. L’examen de synthèse peut ainsi être le «&nbsp;lieu&nbsp;» de la démonstration, et son jury le public. 
+- Ce protocole prend le parti qu’il n’y a pas de recherche-création sans (dé-)monstration. Pour que la matérialisation puisse faire l’objet d’interactions, le protocole requiert une présentation ou une forme de partage direct avec un public. Elle peut toutefois se dérouler dans des contextes variés, d’une exposition dans une institution culturelle à un événement de vulgarisation ou de partage de connaissance. L’examen de synthèse peut ainsi être le «&nbsp;lieu&nbsp;» de la démonstration, et son jury le public. 
 - Ce protocole est intrinsèquement algorithmique&nbsp;:
-  - Il fournit des instructions qui peuvent être répétées <!--est-ce que le protocole vise aussi à être reproductible? (quelqu'un qui suit ta recette avec les mêmes ingrédients obtiendra-t-elle le même dessert que toi?)-->
+  - Il fournit des instructions qui peuvent être répétées 
   - Il définit des variables
   - Il a recours aux boucles et à la récursion
   - Il exploite les joies de l’aléa, dans les itérations comme dans la participation publique
   - Il doit être exécuté pour avoir un résultat
   - Il génère des traces et exige une documentation
-
-
 
 Des questions connexes seront également abordées dans le cadre de cette recherche. D’une part, il s’agira d’évaluer l’utilisation d’un protocole pour mener une recherche-création. Son usage répété au cours de la thèse permettra un travail réflexif sur le protocole lui-même, sur son usage et sa pertinence pour la démarche envisagée. De l’autre, je considère les données produites par des institutions culturelles comme faisant partie des archives institutionnelles. Cela m’amènera à réfléchir aux méthodologies existantes pour étudier et pour utiliser ces données, en recherche ainsi que dans divers cadres de diffusion alternatifs.
 
@@ -108,8 +102,6 @@ Des questions connexes seront également abordées dans le cadre de cette recher
 La production d’un état des lieux pour cette recherche requiert en amont la définition de certains termes pour expliciter le sujet abordé.  La visualisation et la matérialisation de données sont toutes deux des façons de montrer et de donner accès à des données. Le terme anglophone «&nbsp;*display*&nbsp;» offrirait un bon point commun terminologique. Employé par Edward Tufte pour parler de «&nbsp;*designs for display of information*&nbsp;» (Tufte 2018, 191), ce terme dispose d’une polyphonie pour laquelle un équivalent francophone est difficile à trouver; il signifie autant la démonstration de quelque chose, que sa mise à vue ou son exposition (au sens muséal), son affichage (notamment à l’écran) ou son étalage (comme dans une vitrine). En l’attente de trouver une solution terminologique plus riche, je parlerai ici de représentation de données. Je préfère la représentation de *données*, par opposition au terme «&nbsp;visualisation de l’*information*&nbsp;» (*information visualisation*), car les données sont au cœur du processus de recherche. En effet, la façon de créer des représentations visuelles qui est à l’étude dans cette recherche est algorithmique. L’algorithme structure l’image de façon méthodique, elle donne la possibilité d’itérer des centaines voire des milliers de fois sur le résultat (Molnar 1986, s.p.). Il produit un résultat «&nbsp;*unique, carefully designed [and] data-specific*&nbsp;» (Tufte 2018, 179 <!--à retrouver selon notes zotero-->) tout en étant répétable et réutilisable. L’approche algorithmique, par opposition avec l’infographie, devient ainsi particulièrement intéressante pour une démarche expérimentale en recherche-création.
 
 ### Fondements et interdisciplinarité en visualisation de données
-
-<!-- récit dominant, questionner si ça m’intéresse de contribuer à ressasser ce récit dominant, ou comment sert-il à situer mon travail? -->
 
 La littérature au sujet de la visualisation de données provient de différents domaines. *The Visual Display of Quantitative Information* du statisticien Edward Tufte est un ouvrage fondamental qui analyse des exemples historiques et contemporain à sa publication en 1983, tout en produisant des recommandations pour la production de graphiques. Au fil des éditions et des nombreux tirages de cet ouvrage, ses recommandations sont encore aujourd’hui au centre de ce que les concepteur·rice·s et enseignant·e·s de visualisation de données nomment les «&nbsp;bonnes pratiques&nbsp;». Tufte y définit un graphique de données comme la présentation (*display*) visuelle de quantités mesurées par l’usage combiné de points, de lignes, d’un système de coordonnées, de symboles, de mots, d’ombrages et de couleurs (Tufte 2018 [1983] , 9). En tant que statisticien, Tufte définit les graphiques statistiques comme étant des instruments qui aident à raisonner à propos d’information quantitative  (Tufte 2018 [1983], 91). La *Sémiologie graphique*, dont les éditions également multiples (1967, 1973, 1998, 2005, 2013) attestent de l’usage en tant qu’ouvrage de référence, provient du cartographe Jacques Bertin. Dans cette théorie de la représentation graphique, Bertin différencie «&nbsp;la&nbsp;» graphique, comme image rationnelle, à la fois de l’image figurative et de la mathématique (Bertin 2013, 6). En distinguant l’information de sa représentation, il établit un système graphique pour décrire l’exercice de la transcription graphique selon l’expression de chaque composante et ses variations. Michael Friendly, statisticien formé en mathématiques et professeur en psychologie, a fait d’importantes contributions à l’histoire de la visualisation de données tout au long de sa carrière, du projet web *Milestones in the History of Thematic Cartography, Statistical Graphics, and Data Visualisation. An illustrated chronology of innovations by Michael Friendly and Daniel J. Denis* publié en 2001 à la publication de l’ouvrage *A History of Data Visualisation & Graphic Communication* avec Howard Wainer (2021).
 
@@ -158,7 +150,7 @@ L’exemple en matérialisation de données le plus proche de mon sujet s’inti
 
 ### Pratiques d’art, d’artisanat et de design qui incorporent des données
 
-Depuis le début de mon doctorat, je documente les pratiques à la croisée de la textilité et de l’algorithmique sous la forme d’un [corpus d’œuvres et de projets](https://www.canva.com/design/DAGeuw-pplg/xXzotJr7T8XvWcPHvk2eSw/view?utm_content=DAGeuw-pplg&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hef9b400c70). Ce corpus agit comme ensemble de références transdisciplinaires qui m’aident à penser, tant pour la recherche que pour la création. Les trois exemples sélectionnés ci-dessous illustrent particulièrement le potentiel politique du contre-récit de données (ou de la contre-curation de données?) dans des pratiques dites «&nbsp;hybrides&nbsp;».
+Depuis le début de mon doctorat, je documente les pratiques à la croisée de la textilité et de l’algorithmique sous la forme d’un [corpus d’œuvres et de projets](https://www.canva.com/design/DAGeuw-pplg/xXzotJr7T8XvWcPHvk2eSw/view?utm_content=DAGeuw-pplg&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hef9b400c70). Ce corpus agit comme ensemble de références transdisciplinaires qui m’aident à penser, tant pour la recherche que pour la création. Les trois exemples sélectionnés ci-dessous illustrent en particulier le potentiel politique du contre-récit de données (ou de la contre-curation de données?) dans des pratiques dites «&nbsp;hybrides&nbsp;».
 
 #### *Strata* (2018) d’Olivia Whetung
 
@@ -166,7 +158,7 @@ Olivia Whetung est une artiste anishinaabekwe et membre de la première nation d
 
 Les perles sont activées, tout d’abord comme des «&nbsp;données&nbsp;» générées par le public et à propos du public. Traces de sa présence dont l’assemblage témoigne de sa participation, elles passent ensuite du mode de l’écriture vers celui de la lecture. En devenant les partitions d’une trame sonore diffusée par la tour horloge, leg d’une famille de «&nbsp;pionniers&nbsp;», elles activent un contre-récit qui résonne à travers l’espace public en affirmant que le passage du temps est commun à tou·te·s («&nbsp;*Soundings:  Olivia Whetung and the Ladner Clock Tower Carillon*&nbsp;» Belkins Art Galley, 2020). Avec une approche «&nbsp;discrète&nbsp;», l’œuvre incarne et amalgame des données dans la participation comme dans sa diffusion publique, en la transformant et en les traduisant à travers différents médiums significatifs.
 
-![](../img/strata.png)
+![](/home/lenamk/Documents/recherche/doc/img/strata.png)
 
 <figcaption style=" text-align: right ">Figure xxx. <i>Strata</i>, Olivia Whetung, 2018-2024</figcaption>
 
@@ -184,7 +176,7 @@ Le *tatreez* numérique réalisé par Maya Amer comporte une approche plus class
 
 Pansee Atta mène actuellement un projet de recherche-création qui allie l’exploration de données culturelles à leur matérialisation pour leur médiation publique. En résidence au Tropen Museum dans le cadre du projet «&nbsp;*[Pressing Matter](https://pressingmatter.nl/): Ownership, Value and the Question of Colonial Heritage in Museums*&nbsp;», elle travaille et elle crée à partir des enjeux de retour, de réparation et de réconciliation des collections constituées durant la période coloniale, et plus précisément sur les restes humains conservés dans cette institution. Son intervention, intitulée *To Make One Particle*, a d’abord pris la forme d’une performance et d’un atelier organisé en 2024 pendant lesquelles, Atta, puis les participant·e·s, ont interrogé les principes de taxonomie dans la gestion des collections en essayant d’organiser et de réorganiser les 3968 onglets usinés par laser inscrits avec les informations dites «&nbsp;tombales&nbsp;»  à propos de chaque «&nbsp;entité&nbsp;» de restes humains conservée dans la collection. Une seconde intervention est prévue pour mai 2025 sous la forme d’une installation muséale pour l’exposition «&nbsp;[Unfinished past: return, keep, or, …](https://amsterdam.wereldmuseum.nl/en/whats-on/exhibitions/unfinished-past-return-keep-or)&nbsp;». Elle y présentera à nouveau ces onglets matérialisant les données de la collection. Ils seront accompagnés d’un dispositif tactile semi-transparent placé devant la fenêtre pour créer une forme de réalité augmentée visualisant les liens entre l’espace d’exposition et le parc visible à travers la fenêtre, en signalant l’emplacement d’où certains corps ont été exhumés pour intégrer la collection. En effet, le musée possède une aussi importante collection de restes humains notamment parce qu’il a été construit sur l’emplacement d’un ancien cimetière. L’expansion de la ville d’Amsterdam au début du XXe siècle a motivé le réaménagement du Cimetière *Oosterbegraafplaats* pour faire place à un parc, à un laboratoire d’anatomie et à l’Institut royal des Tropiques, anciennement «&nbsp;*Institution Colonial*&nbsp;» (présentation Pansee + [wiki](https://fr.wikipedia.org/wiki/Institut_royal_des_Tropiques) + [site du musée](https://www.kit.nl/about-us/our-history/)). 
 
-<img class="x5yr21d xu96u03 x10l6tqk x13vifvy x87ps6o xh8yej3" crossorigin="anonymous" style="object-fit: cover; zoom: 25%;" src="../img/4particles.webp">
+<img class="x5yr21d xu96u03 x10l6tqk x13vifvy x87ps6o xh8yej3" crossorigin="anonymous" style="object-fit: cover; zoom: 25%;" src="/home/lenamk/Documents/recherche/doc/img/4particles.webp">
 
 <figcaption style=" text-align: right ">Figure xxx. <i>To Make One Particle</i> (détail), Pansee Atta, 2025. Publiée par l’artiste sur Instagram</figcaption>
 
@@ -192,11 +184,9 @@ Pansee Atta mène actuellement un projet de recherche-création qui allie l’ex
 
 Cette résidence de recherche-création a donc non seulement été l’occasion pour Atta de faire des recherches avec les données, les archives et les restes humains de la collection, mais également d’en proposer une réinterprétation artistique qui invite à les ré-imaginer afin d’entamer le travail restaurateur (*reparative work*) d’une décolonisation globale ([Atta s.d.](https://panseeatta.com/index.php/about/)). La matérialisation permet de rendre compte de l’échelle du phénomène de collectionnement de restes humains par l’institution. Le processus de découpage et d’inscription au laser du papier compressé crée quant à lui des résidus matériels évoquant des cendres. Il en émane une odeur qui rappelle, selon l’artiste, les feux de camps. Face à la masse d’onglet et l’exercice de taxonomie présenté comme impossible ou, du moins, nécessairement en désordre, l’activité proposée incarne elle-même une sensation de chaos. Alors que les participant·e·s étaient invité·e·s à «&nbsp;laisser leurs marques&nbsp;», la manipulation des onglets imprégnait les participant·e·s à leur tour d’une fine particule cendrée, mutualisant le geste de la trace et traduisant l’affect en une forme sensible et visible. 
 
-<img src="../img/toMakeOneParticle_installation.webp" style="zoom:50%;" />
+<img src="/home/lenamk/Documents/recherche/doc/img/toMakeOneParticle_installation.webp" style="zoom:50%;" />
 
 <figcaption style=" text-align: right ">Figure xxx. <i>To Make One Particle</i> (vue de l’installation), Pansee Atta, 2025. Publiée par l’artiste sur Instagram</figcaption>
-
- <!--contre-récit: récit non-dit en tout cas-->
 
 ## Cadre théorique
 
@@ -256,20 +246,6 @@ Cette proposition vise à contribuer à la recherche sur plusieurs plans. Tout d
 
 
 
-
- ## Annexes
-
-### Anni Albers
-
-Anni Albers, née Annelise Else Frieda Fleishmann à Berlin en 1899 et décédée à Orange (Connecticut) en 1994, est une artiste, théoricienne et enseignante en arts textiles. Figure importante du Bauhaus, elle fuit les répressions antisémites et déménage en Caroline du Nord, où elle enseignera au Black Mountain College dès 1933. Première femme et première artiste textile à présenter une exposition solo au *Museum of Modern Art* (MoMA)  (<!-- article encyclo-->Yalzadeh et Kuiper 2025), elle publie également des ouvrages théorique sur le design (1959) et le tissage (2021 [1965]).
-
-<img src="https://media.albersfoundation.org/images/1994-11-21_x1400web.format-webp.width-1440_Cu2Mxs8TYImv0QGX.webp" style="zoom:33%;" />
-
-<figcaption style=" text-align: right ">Figure xxx. <i>TR III</i> (vue de l’installation), Anni Albers, 1970. Photographie sur le site de la [Fondation Josef & Anni Albers](https://www.albersfoundation.org/)</figcaption>
-
-### Vera Molnar
-
-Vera Molnar, née à Budapest en 1924 et décédée à Paris en 2023, fait partie des premier·ère·s artistes en art génératif [^8]. Formée en Beaux-Arts et créatrice de peintures abstraites, elle transforme sa pratique dans les années 60, à la rencontre de la pensée algorithmique et des premiers ordinateurs.
 
 ---
 
