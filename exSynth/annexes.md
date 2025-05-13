@@ -1,53 +1,91 @@
 
 
- ## Annexes
+<figcaption style=" text-align: right ">Lena MK, mai 2025</figcaption>
 
-#### *Strata* (2018) d’Olivia Whetung
+ ## Annexe 1: protocole d’expérimentation
 
-Olivia Whetung est une artiste anishinaabekwe et membre de la première nation de Curve Lake. Dans le cadre de l’exposition *Soundings*, Whetung joue avec les médiums et les données pour répondre à la question «&nbsp;comment une partition peut-être être un appel et un outil pour la décolonisation&nbsp;?&nbsp;» posée par les commissaires Candice Hopkins and Dylan Robinson («&nbsp;*Soundings: An Exhibition in Five Parts&nbsp;*» Belkins Art Galley, 2020). L’artiste invite tout d’abord le public de la galerie à verser des perles de différentes couleurs – mises à leur disposition dans des petits bocaux individuels – dans un pot mason. Une fois qu’il est rempli, Whetung s’en sert pour créer un perlage rectangulaire. Le motif est dicté par les actions aléatoires du public, puis est revisité comme notation musicale, une partition prête à être lue, jouée et interprétée des interprètes qui activeront les cloches de la tour horloge de l’Université de Colombie Britannique (UBC) («&nbsp;*Soundings:  Olivia Whetung and the Ladner Clock Tower Carillon*&nbsp;» Belkins Art Galley, 2020). Alors que les perles incarnent la tradition passée et présente de l’art et de l’artisanat autochtone, les cloches ont une symbolique double selon le musicologue Patrick Nickelson: symbole d’une communauté harmonieuse pour les colons, elles ont également été un outil de colonisation insidieux dans les pensionnats par exemple, en tant que signal sonore de la séparation des enfants avec leurs familles et leurs cultures (Patrick Nickleson dans «&nbsp;*Soundings: Olivia Whetung and the Ladner Clock Tower Carillon*&nbsp;» Belkins Art Galley, 2020). Les médiums choisis véhiculent une réflexion sur la matérialité et sur les outils de la colonisation et du processus de décolonisation. 
+<br>
 
-Les perles sont activées, tout d’abord comme des «&nbsp;données&nbsp;» générées par le public et à propos du public. Traces de sa présence dont l’assemblage témoigne de sa participation, elles passent ensuite du mode de l’écriture vers celui de la lecture. En devenant les partitions d’une trame sonore diffusée par la tour horloge, leg d’une famille de «&nbsp;pionniers&nbsp;», elles activent un contre-récit qui résonne à travers l’espace public en affirmant que le passage du temps est commun à tou·te·s («&nbsp;*Soundings:  Olivia Whetung and the Ladner Clock Tower Carillon*&nbsp;» Belkins Art Galley, 2020). Avec une approche «&nbsp;discrète&nbsp;», l’œuvre incarne et amalgame des données dans la participation comme dans sa diffusion publique, en la transformant et en les traduisant à travers différents médiums significatifs.
+<br>
 
-![](/home/lenamk/Documents/recherche/doc/img/strata.png)
+<br>
 
-<figcaption style=" text-align: right ">Figure xxx. <i>Strata</i>, Olivia Whetung, 2018-2024</figcaption>
+Recette/instructions pour produire une physicalisation de données
 
-#### *Gaza thob collar* (2023) de Maya Amer
+<br>
 
-[TW: représentation visuelle du génocide palestinien, octobre 2023]
+#### 1. Faire des choix
 
-Le *tatreez* numérique réalisé par Maya Amer comporte une approche plus classiquement guidée par les données (*data-driven*). Les *tatreez* sont une forme de broderie traditionnelle palestinienne en points de croix. La créatrice palestinienne revisite cette forme d’artisanat et l’actualise à sa pratique d’animatrice graphique pour visualiser le nombre de victimes tuées à Gaza en octobre 2023 (Pontone 2023). Intitulé *Gaza thob collar*, chaque point de croix est une personne. Le code couleur distingue les hommes, les femmes, les garçons, les filles, et les personnes non identifiées. L’ensemble forme un motif inspiré par la tradition du *tatreez*, reprise comme medium artistique pour trouver une façon de communiquer le nombre de décès tout en rappelant l’humanité, la culture et l’histoire de chacun des 8005 individus. L’artiste exprime sur son compte Instagram que sa création est une façon de canaliser la rage et la frustration face à la violence (Amer 2023). En plus de l’animation graphique, elle partage le [motif](https://drive.google.com/file/d/1SfJ3zXKDx8DQeE1qIDHgM_ch3DpFcjfj/view) pour permettre à d’autres personnes de transformer leur frustration en art, tout en souhaitant que son projet mène à davantage d’éducation et à des mouvements sociaux solidaires pour un cessez-le-feu. Avec cette création, Maya Amer mêle sa pratique numérique à un savoir-faire artisanal pour créer une forme visuelle hybride qui lui permet d’exprimer un contre-récit sur la violence du génocide palestinien.
+Composantes principales
 
-<iframe width="320" height ="440" src="https://www.instagram.com/reel/CzEtvjKMBg8/embed"></iframe>
+- Données
+- Algorithme de représentation 
+- Expression matérielle
 
-<figcaption style=" text-align: right ">Figure xxx. <i>Gaza Thob Collar</i>, Maya Amer, 2023</figcaption>
+Itérations: sketchs, tests, prototypes, versions/étapes
 
-#### *To Make One Particle* (2025) de Pansee Atta
+<br>
 
-Pansee Atta mène actuellement un projet de recherche-création qui allie l’exploration de données culturelles à leur matérialisation pour leur médiation publique. En résidence au Tropen Museum dans le cadre du projet «&nbsp;*[Pressing Matter](https://pressingmatter.nl/): Ownership, Value and the Question of Colonial Heritage in Museums*&nbsp;», elle travaille et elle crée à partir des enjeux de retour, de réparation et de réconciliation des collections constituées durant la période coloniale, et plus précisément sur les restes humains conservés dans cette institution. Son intervention, intitulée *To Make One Particle*, a d’abord pris la forme d’une performance et d’un atelier organisé en 2024 pendant lesquelles, Atta, puis les participant·e·s, ont interrogé les principes de taxonomie dans la gestion des collections en essayant d’organiser et de réorganiser les 3968 onglets usinés par laser inscrits avec les informations dites «&nbsp;tombales&nbsp;»  à propos de chaque «&nbsp;entité&nbsp;» de restes humains conservée dans la collection. Une seconde intervention est prévue pour mai 2025 sous la forme d’une installation muséale pour l’exposition «&nbsp;[Unfinished past: return, keep, or, …](https://amsterdam.wereldmuseum.nl/en/whats-on/exhibitions/unfinished-past-return-keep-or)&nbsp;». Elle y présentera à nouveau ces onglets matérialisant les données de la collection. Ils seront accompagnés d’un dispositif tactile semi-transparent placé devant la fenêtre pour créer une forme de réalité augmentée visualisant les liens entre l’espace d’exposition et le parc visible à travers la fenêtre, en signalant l’emplacement d’où certains corps ont été exhumés pour intégrer la collection. En effet, le musée possède une aussi importante collection de restes humains notamment parce qu’il a été construit sur l’emplacement d’un ancien cimetière. L’expansion de la ville d’Amsterdam au début du XXe siècle a motivé le réaménagement du Cimetière *Oosterbegraafplaats* pour faire place à un parc, à un laboratoire d’anatomie et à l’Institut royal des Tropiques, anciennement «&nbsp;*Institution Colonial*&nbsp;» (présentation Pansee + [wiki](https://fr.wikipedia.org/wiki/Institut_royal_des_Tropiques) + [site du musée](https://www.kit.nl/about-us/our-history/)). 
+#### 2. (Dé-)montrer
 
-<img class="x5yr21d xu96u03 x10l6tqk x13vifvy x87ps6o xh8yej3" crossorigin="anonymous" style="object-fit: cover; zoom: 25%;" src="/home/lenamk/Documents/recherche/doc/img/4particles.webp">
+- Résultat matériel
+- Processus => documentation
+- Démonstration =>  documenter et exposer le processus de monstration 
 
-<figcaption style=" text-align: right ">Figure xxx. <i>To Make One Particle</i> (détail), Pansee Atta, 2025. Publiée par l’artiste sur Instagram</figcaption>
+<br>
 
-> *This artistic research project makes visible the intertwined means through which human remains – local and global, White and racialized, living and deceased, contemporary and historical – are objectified and taxonomized by cultural institutions, yet leave troubling, intractable traces of their resistance which continues to haunt their sites* ([Atta 2025](https://sites.google.com/view/postcolonialhauntologies/day-2))
+#### 3. Documenter
 
-Cette résidence de recherche-création a donc non seulement été l’occasion pour Atta de faire des recherches avec les données, les archives et les restes humains de la collection, mais également d’en proposer une réinterprétation artistique qui invite à les ré-imaginer afin d’entamer le travail restaurateur (*reparative work*) d’une décolonisation globale ([Atta s.d.](https://panseeatta.com/index.php/about/)). La matérialisation permet de rendre compte de l’échelle du phénomène de collectionnement de restes humains par l’institution. Le processus de découpage et d’inscription au laser du papier compressé crée quant à lui des résidus matériels évoquant des cendres. Il en émane une odeur qui rappelle, selon l’artiste, les feux de camps. Face à la masse d’onglet et l’exercice de taxonomie présenté comme impossible ou, du moins, nécessairement en désordre, l’activité proposée incarne elle-même une sensation de chaos. Alors que les participant·e·s étaient invité·e·s à «&nbsp;laisser leurs marques&nbsp;», la manipulation des onglets imprégnait les participant·e·s à leur tour d’une fine particule cendrée, mutualisant le geste de la trace et traduisant l’affect en une forme sensible et visible. 
+- Les choix de composantes
+- Les itérations
+- La démonstation
+- La documentation 
 
-<img src="/home/lenamk/Documents/recherche/doc/img/toMakeOneParticle_installation.webp" style="zoom:50%;" />
+<div style="page-break-after: always; break-after: page;"></div>
 
-<figcaption style=" text-align: right ">Figure xxx. <i>To Make One Particle</i> (vue de l’installation), Pansee Atta, 2025. Publiée par l’artiste sur Instagram</figcaption>
+<figcaption style=" text-align: right ">Lena MK, mai 2025</figcaption>
 
- <!--contre-récit: récit non-dit en tout cas-->
+## Annexe 2: à propos d’Anni Albers
 
-### Anni Albers
+<br>
 
-Anni Albers, née Annelise Else Frieda Fleishmann à Berlin en 1899 et décédée à Orange (Connecticut) en 1994, est une artiste, théoricienne et enseignante en arts textiles. Figure importante du Bauhaus, elle fuit les répressions antisémites et déménage en Caroline du Nord, où elle enseignera au Black Mountain College dès 1933. Première femme et première artiste textile à présenter une exposition solo au *Museum of Modern Art* (MoMA)  (<!-- article encyclo-->Yalzadeh et Kuiper 2025), elle publie également des ouvrages théorique sur le design (1959) et le tissage (2021 [1965]).
+<br>
+
+Anni Albers, née Annelise Else Frieda Fleishmann à Berlin en 1899 et décédée à Orange (Connecticut) en 1994, est une artiste, théoricienne et enseignante en arts textiles. Figure importante du Bauhaus, elle fuit les répressions antisémites et déménage en Caroline du Nord, où elle enseignera au Black Mountain College dès 1933. Première femme et première artiste textile à présenter une exposition solo au *Museum of Modern Art* (MoMA), elle publie également des ouvrages théorique sur le design (1959) et le tissage (2021 [1965]).
 
 <img src="https://media.albersfoundation.org/images/1994-11-21_x1400web.format-webp.width-1440_Cu2Mxs8TYImv0QGX.webp" style="zoom:33%;" />
 
-<figcaption style=" text-align: right ">Figure xxx. <i>TR III</i> (vue de l’installation), Anni Albers, 1970. Photographie sur le site de la [Fondation Josef & Anni Albers](https://www.albersfoundation.org/)</figcaption>
+<figcaption style=" text-align: right "><i>TR III</i>, Anni Albers, 1970</figcaption>
 
-### Vera Molnar
+<br>
 
-Vera Molnar, née à Budapest en 1924 et décédée à Paris en 2023, fait partie des premier·ère·s artistes en art génératif [^8]. Formée en Beaux-Arts et créatrice de peintures abstraites, elle transforme sa pratique dans les années 60, à la rencontre de la pensée algorithmique et des premiers ordinateurs.
+### Liste de liens
+
+- [page d’artiste au MoMA](https://www.moma.org/artists/96-anni-albers) (Museum of Modern Art)
+- [page d’artiste sur AWARE](https://awarewomenartists.com/artiste/anni-albers/) (Archives of Women Artists, Research & Exhibitions)
+- [Fondation Josef & Anni Albers](https://www.albersfoundation.org/)
+
+<div style="page-break-after: always; break-after: page;"></div>
+
+<figcaption style=" text-align: right ">Lena MK, mai 2025</figcaption>
+
+## Annexe 3: à propos de Vera Molnar
+
+<br>
+
+<br>
+
+Vera Molnar, née à Budapest en 1924 et décédée à Paris en 2023, fait partie des premier·ère·s artistes en art génératif [^1]. Formée en Beaux-Arts et créatrice de peintures abstraites, elle transforme sa pratique dans les années 60, à la rencontre de la pensée algorithmique et des premiers ordinateurs.
+
+<img src="https://www.centrepompidou.fr/_elastic_filemount/media/picture/6b/92/6b9200f12edf6d618a23514a7e9139dd/thumb_large.jpg" style="zoom:60%;" />
+
+<figcaption style=" text-align: right "><i>Quatre éléments distribués au hasard</i>, Vera Molnar, 1959</figcaption>
+
+### Liste de liens
+
+- [article du centre Pompidou](https://www.centrepompidou.fr/fr/magazine/article/vera-molnar-aux-sources-du-code)
+- [page d’artiste sur AWARE](https://awarewomenartists.com/artiste/vera-molnar/) (Archives of Women Artists, Research & Exhibitions)
+- [site web](http://www.veramolnar.com/) (ne fonctionne plus complètement)
+
+[^1]:Le terme « art génératif » a longtemps servi à décrire l’art généré avec un ordinateur. Avec l’arrivée des IA génératives, le terme « art algorithmique » pour désambiguïser les deux formes de création.
+
