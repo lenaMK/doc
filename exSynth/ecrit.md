@@ -62,8 +62,9 @@ Certaines visualisations interactives amplifient le potentiel de découverte des
 
 
 
-<iframe width="550" height="794" frameborder="0"
+<iframe width="550" height="794" frameborder="0" style="background:#F5F5F5"
   src="https://observablehq.com/embed/27a690d9c785e7cb?cells=minichrono"></iframe>
+
 
 <figcaption style=" text-align: right " id="fig3">Figure 3.  Chronologie des œuvres de la collection du MAC, vue de 1990 à 2023, MK, 2025</figcaption>
 
