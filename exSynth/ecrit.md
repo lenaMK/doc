@@ -255,7 +255,7 @@ La création avec un métier à tisser s’apparente à la création algorithmiq
 
 Les diagrammes de notations ([Figure 10](#fig10)) attestent de la logique binaire du métier à tisser. « Le diagramme permet au tisserand d’encoder et de décoder (ou de consigner et de lire) le processus de fabrication » (T. L. Smith 2021, 251). On comprend ainsi que le·a tisserand·e produit des « images programmées » (Soulard 2021, 260). L’« analyse empirique du médium » (Smith 2021, 247) du tissage effectuée par Anni Albers s’étend ainsi aux fondamentaux de l’informatique et elle s’avère précieuse pour penser les pratiques algorithmiques (Soulard 2021, 268).
 
-![](/home/lenamk/Documents/recherche/doc/img/anni_notation.jpeg)
+![](../img/anni_notation.jpeg)
 
 <figcaption style=" text-align: right " id="fig10">Figure 10: *Schéma avec méthode de croquis. Armure toile*. Anni Albers. s.d. Planche 10 du livre *Du tissage* (Albers 2021)</figcaption>
 
@@ -267,7 +267,7 @@ Vera Molnar est également l’autrice d’un court essai intitulé *Éloge de l
 
 Finalement, lorsqu’Anni Albers annonce dans sa *Note d’introduction* qu’« en abordant les fondamentaux et les méthodes du textile, \[son\] souhait était de compter parmi \[ses\] lecteurs non seulement des tisserands mais toute personne dont le travail dans une autre discipline rejoint les enjeux du textile » (Albers 2021 \[1965\], 11), elle met l’accent sur le potentiel de la pensée textile pour d’autres disciplines. Particulièrement dans le chapitre intitulé *La sensibilité tactile*, elle aborde les enjeux de la perception par le toucher et ses facultés formatrices (Albers 2021 \[1965\], 66-70). Anni Albers adopte elle-même une posture multidisciplinaire et expérimente, au-delà du métier à tisser, avec d’autres structures et textures dans le but d’enrichir le vocabulaire du langage tactile et d’augmenter notre sensibilité à l’expression tactile. Elle crée notamment des « illusions tactiles-textiles » (Albers 2021 \[1965\], 70) par la répétition de certaines lettres ou de certains caractères typographiques avec une machine à écrire (Figure 11).
 
-![](/home/lenamk/Documents/recherche/doc/img/anni-ascii.png)
+![](../img/anni-ascii.png)
 
 <figcaption style=" text-align: right " id="fig11">Figure 11: À gauche: *Étude réalisée à la machine à écrire*, Anni Albers, s.d. Planche 41 du livre *Du tissage* (Albers 2021) <br>À droite: Deux motifs de la galerie d’art ASCII, sans auteur·rice documenté·e, s.d.</figcaption>
 
