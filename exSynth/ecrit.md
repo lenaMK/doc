@@ -10,7 +10,7 @@
 
 <br>
 
-<figcaption style=" text-align: right "><a href="./LenaMK_examenSynthese_ecrit.pdf" download>Version remise au jury le 13 mai (PDF)</a></figcap
+<figcaption style=" text-align: right "><a href="./LenaMK_examenSynthese_ecrit.pdf" download>Version remise au jury le 13 mai (PDF)</a></figcaption>
 
 
 
