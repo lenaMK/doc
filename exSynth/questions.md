@@ -4,7 +4,7 @@ Examen de synthèse
 
 # Questions du jury
 
-Suite à la lecture de l’examen écrit et la visite de la démonstration
+Suite à la lecture de l’[examen écrit](./ecrit) et la visite de la démonstration
 
 
 
