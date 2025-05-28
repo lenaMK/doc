@@ -1,4 +1,6 @@
-*ekphrasis* avec une emphase particulière pour la description sensorielle
+
+
+*ekphrasis* avec une emphase particulière pour la description sensorielle et la dimension recherche-création 
 
 pensée dans une volonté d’accessiblité (impossibilité de se déplacer, de venir en personne)
 

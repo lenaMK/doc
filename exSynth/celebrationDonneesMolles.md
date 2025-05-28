@@ -56,9 +56,11 @@ J’ai donc fait une première série d’achats, en quête du matériel qui pou
 
 ### Enjeux d’échelle
 
-L’idée de fabriquer des guirlandes de pompons pour représenter des données me semblait si littérale qu’elle en avait l’air trop simple. L’idée l’est peut-être, mais la réalisation a compté beaucoup plus d’étapes et de défis qu’anticipé. Le premier obstacle que j’ai rencontré, et pas des moindres, est celui de l’échelle. Enfiler quelques pompons le long d’un fil ne semblait pas si long, mais en prévision de l’achat du matériel, j’ai compté, concrètement, combien il m’en faudrait. Résultat: avec les 7’840 œuvres dans les données ouvertes de la collection, il aurait fallut un total de 12’453 pompons et plus de 200 mètres de fils. Malgré l’utilisation de pompons plutôt petits, la guirlande la plus longue – la fameuse année 1992 – aurait ainsi mesuré plus de 36 mètres. En comparaison, une baleine bleue ne mesure « que » 24 mètres et un autobus de la STM, 12 mètres.
+L’idée de fabriquer des guirlandes de pompons pour représenter des données me semblait si littérale qu’elle en avait l’air trop simple. L’idée l’est peut-être, mais la réalisation a compté beaucoup plus d’étapes et de défis qu’anticipé. Le premier obstacle que j’ai rencontré, et pas des moindres, est celui de l’échelle. Enfiler quelques pompons le long d’un fil ne semblait pas si long, mais en prévision de l’achat du matériel, j’ai compté, concrètement, combien il m’en faudrait. Résultat: avec les 7’840 œuvres dans les données ouvertes de la collection, il aurait fallut un total de 12’453 pompons et plus de 200 mètres de fils. Malgré l’utilisation de pompons plutôt petits, la guirlande la plus longue – la fameuse année 1992 – aurait ainsi mesuré plus de 36 mètres. En comparaison, une baleine bleue ne mesure « que » 24 mètres et un autobus de la STM, 12 mètres. L’échelle est donc monumentale, pour la fabrication comme pour la mise à vue de l’objet. Un second problème qui va de pair avec le problème de taille est celui du coût financier pour l’achat du matériel. Sans subvention ou financement attribué à la réalisation de ce projet, c’était impératif de limiter les dépenses. 
 
 
+
+techniques mixtes
 
 
 
