@@ -8,20 +8,9 @@
 
 
 
-*ekphrasis* avec une emphase particulière pour la description sensorielle et la dimension recherche-création 
+Pour répondre à la question 3, j’ai choisi de créer une audiodescription du projet *Célébration de données molles*. C’est une sorte d’*ekphrasis* avec une emphase sur les sens, particulièrement la tactilité, et sur le processus de recherche-création. Comme je le justifie également à la fin de l’audiodescription, ce texte est pensé dans une volonté d’accessibilité de la démonstration. Cette approche sensorielle est inspirée par le catalogue d’exposition *The Senses* qui définit le design sensoriel comme une « opportunité pour chacun·e de recevoir de l’information, explorer le monde, et connaître la joie, l’émerveillement, et les connexions sociales, quelles que soient nos capacités sensorielles » (Lupton et Lipps, 2018, 9). Pour aller jusqu’au bout de ma démarche, ce ne sont pas juste les données ou la salle accessibles que je devais rendre accessibles, mais aussi le projet dans son ensemble.
 
-pensée dans une volonté d’accessibilité (impossibilité de se déplacer, de venir en personne)
+Au vu du rôle de la visualisation dans mon travail, l’exercice de l’audiodescription a été un réel défi. Je travaille habituellement en employant, dans mon argumentaire, autant le texte que les visuels. J’aime également truffer mes écrits d’hyperliens et de références. Pour citer le premier principe manifeste de Bruce Mau «*To design for all the senses: start with a blindfold* » (Mau 2018, 21). Pour donner accès à l’ensemble de la recherche-création de façon inclusive envers les personnes aveugles ou malvoyantes, j’ai donc épuré la rédaction de mon usage habituel de paratexte et, à la place, étoffé le contenu de descriptions riches.
 
-pensée audio: exercice de tout décrire, sans utiliser de visuels ni compter sur des hyperliens =/= livre audio
+Le texte est pensé comme un récit de ce voyage en recherche-création, pour inclure la description du travail conceptuel, visuel, sensoriel, manuel et invisible. Par travail invisible, je fais référence, par exemple, aux tâches ingrates de recherches (vaines) de fournisseurs éthiques ou au labeur méticuleux de réaligner de chaque petit anneau en métal. Si cette version longue contient par moment des références plus spécialisées, les étapes suivantes en termes d’accessibilité seraient de créer d’autres versions. J’envisage une version à durée et complexité moyenne qui dure entre 10 et 15 minutes, et une dernière très courte et simple de trois à cinq minutes. 
 
-describe the work - récit de voyage (journey) de recherche-création, dans la présentation et donc dans ce texte/audio
-
-- the conceptual work
-- the visual work
-- the sensory work
-- the  invisible work - the process
-- the manual work - the labour
-
-
-
-imaginé aussi en 3 version: avancée (fournie ci-joint), moyenne (10-15min), courte et simple (3-4 min)

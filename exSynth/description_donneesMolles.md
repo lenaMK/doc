@@ -1,11 +1,26 @@
 # *Célébration de données molles*
 
- par Lena MK
+Texte écrit et lu par Lena MK
 
- <audio controls autoplay>   
-     <source src="../files/intro.mp3" type="audio/mpeg">  
- Erreur dans le chargement du fichier audio.  
-</audio>  
+​	
+
+## Écouter
+
+| Introduction |                                                              |
+| ------------ | ------------------------------------------------------------ |
+| Partie 1     | <audio controls autoplay>   <br/>     <source src="../files/intro.mp3" type="audio/mpeg">  <br/> Erreur dans le chargement du fichier audio.  <br/></audio> |
+| Partie 2     | <audio controls autoplay>   <br/>     <source src="../files/intro.mp3" type="audio/mpeg">  <br/> Erreur dans le chargement du fichier audio.  <br/></audio> |
+| Partie 3     | <audio controls autoplay>   <br/>     <source src="../files/intro.mp3" type="audio/mpeg">  <br/> Erreur dans le chargement du fichier audio.  <br/></audio> |
+| Partie 4     | <audio controls autoplay>   <br/>     <source src="../files/intro.mp3" type="audio/mpeg">  <br/> Erreur dans le chargement du fichier audio.  <br/></audio> |
+
+---
+
+
+
+## Lire   
+
+### Contexte
+
 
 Salut, moi c’est Lena MK, je suis au doctorat en histoire de l'art et en informatique à l'Université de Montréal. Pour mon examen de synthèse, j’ai créé le projet qui s’appelle *Célébration de données molles*. Ce projet, c’est une recherche-création: c’est donc à la fois un objet, un grand mobile composé de pompons colorés sur lequel j’ai travaillé pendant plusieurs mois, et tout un processus de recherche qui a accompagné la création. J’ai partagé tout ça avec les membres de mon jury, des ami·e·s et des collègues, au cours d’une démonstration, un événement qui a eu lieu du 20 au 22 mai 2025. La description sensorielle, dont je fais ici la lecture, présente cette installation puis retrace quatre grandes étapes de travail&nbsp;: de l’espace numérique à la transposition vers l’espace physique, puis la fabrication, et finalement les rencontres qui s’en sont suivies.
 
