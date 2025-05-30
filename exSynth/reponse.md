@@ -2,7 +2,7 @@
 
 # Réponse à la question du jury
 
-Choix parmi [3 questions](./questions) posées par le jury&nbsp;: question 3
+Choix parmi [3 questions](http://lenamk.site/doc/exSynth/questions) posées par le jury&nbsp;: question 3
 
 > This project has many strengths, one of them being a contribution to the  emerging field of data physicalization. The field of critical craft studies in relation to scholarship on the senses, on critical heritage, and on materiality may usefully shape the next steps of this doctoral  project as well. At this point in your work, please elaborate on how crafting data as you  propose may offer broader access to it, may incite different questions about it, may even co-construct its material presentation. Put another way, how might your concept of (dé)montrer challenge notions of artistic presentation, and in what ways can participatory feedback shape the final form of a research-creation project like yours? Finally, how do the histories of particular craft practices, the lived experience of this skilled making, its materiality matter to your overall aims in this project? If not, please explain. 
 
