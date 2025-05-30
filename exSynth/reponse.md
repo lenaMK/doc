@@ -1,127 +1,20 @@
-# Réponse
+<figcaption style=" text-align: right ">Lena MK, mai 2025</figcaption>
 
-[Choix parmi 3 questions](./questions) posées par le jury&nbsp;: question 3
+# Réponse à la question du jury
 
-> At this point in your work, please elaborate on how crafting data as you  propose may offer broader access to it, may incite different questions about it, may even co-construct its material presentation. Put another way, how might your concept of (dé)montrer challenge notions of artistic presentation, and in what ways can participatory feedback shape the final form of a research-creation project like yours? Finally, how do the histories of particular craft practices, the lived experience of this skilled making, its materiality matter to your overall aims in this project? If not, please explain. 
+Choix parmi [3 questions](./questions) posées par le jury&nbsp;: question 3
+
+> This project has many strengths, one of them being a contribution to the  emerging field of data physicalization. The field of critical craft studies in relation to scholarship on the senses, on critical heritage, and on materiality may usefully shape the next steps of this doctoral  project as well. At this point in your work, please elaborate on how crafting data as you  propose may offer broader access to it, may incite different questions about it, may even co-construct its material presentation. Put another way, how might your concept of (dé)montrer challenge notions of artistic presentation, and in what ways can participatory feedback shape the final form of a research-creation project like yours? Finally, how do the histories of particular craft practices, the lived experience of this skilled making, its materiality matter to your overall aims in this project? If not, please explain. 
 
 ---
 
+Pour répondre, j’ai choisi de créer une [audiodescription](http://lenamk.site/doc/exSynth/audiodescription_donneesMolles.html) du projet *Célébration de données molles*. C’est une sorte d’*ekphrasis* avec une emphase sur les sens, particulièrement la tactilité, et sur le processus de recherche-création. Comme je le justifie également à la fin de l’audiodescription, ce texte est pensé dans une volonté d’accessibilité de la (dé-)monstration. Cette approche sensorielle est inspirée par le catalogue d’exposition *The Senses* qui définit le design sensoriel comme une « opportunité pour chacun·e de recevoir de l’information, explorer le monde, et connaître la joie, l’émerveillement, et les connexions sociales, quelles que soient nos capacités sensorielles » (Lupton et Lipps, 2018, 9). Pour aller jusqu’au bout de ma démarche, ce ne sont pas juste les données ou la salle que je devais rendre accessibles, mais aussi le projet dans son ensemble. Si cette version longue contient par moment des références plus spécialisées, les étapes suivantes en termes d’accessibilité seraient de créer d’autres versions. J’envisage une version à durée et complexité moyenne qui dure entre 10 et 15 minutes, et une dernière très courte et simple de trois à cinq minutes. 
 
+Au vu du rôle de la visualisation dans mon travail, l’exercice de l’audiodescription a été un réel défi. Je travaille habituellement en employant, dans mon argumentaire, autant le texte que les visuels. J’aime également truffer mes écrits d’hyperliens et de références. Pour citer le premier principe du manifeste de Bruce Mau «&nbsp;*To design for all the senses: start with a blindfold*&nbsp;» (Mau 2018, 21). Pour donner accès à l’ensemble de la recherche-création de façon inclusive envers les personnes aveugles ou malvoyantes, j’ai donc épuré la rédaction de mon usage habituel de paratexte et, à la place, étoffé le contenu de descriptions riches.
 
-## 
+Le texte est pensé comme un récit de voyage en recherche-création, pour inclure la description du travail conceptuel, visuel, sensoriel, manuel, collaboratif et invisible. Par travail invisible, je fais référence, par exemple, aux tâches ingrates de recherches (vaines) de fournisseurs éthiques ou au labeur méticuleux de réaligner de chaque petit anneau en métal. C’est d’ailleurs grâce aux nombreuses conversations qui ont eu lieu durant la (dé-)monstration que j’ai réussi à cerner plusieurs enjeux au cœur de la *Célébration de données molles* qu’il était nécessaire de préciser. L’audiodescription répond ainsi à plusieurs questions et réflexions soulevées par le jury, tout en étant dans la continuité du projet de recherche-création et de sa documentation. 
 
-crafting data: artisanat, confection manuelle / fabrication artisanale des données
+## Références bibliographiques
 
-réponse à partir de l’expérience de la partie pratique : démo de la *Célébration de données molles* du 20 au 22 mai 2025.
-
-description sensorielle de la *Celeb* 
-
-
-
-
-
-## élargir les formes d’accès
-
-
-
-### broaden access
-
-- accessibilité multisensorielle
-- accessibilité culturelle? s’intéresser aux données « hors de la matrice »
-- accès-interactions: manipuler, tourner autour, entrer dans
-
-access - sensory design
-
-> Sensory design supports everyone’s opportunity to receive information, explore the world, and experience joy, wonder, and social connections, regardless of our sensory abilities (Lupton et Lipps 2018, 9)
->
-> - slows space down, making it feel thick rather than thin
-> - enhances health and well-being
-> - tactile graphics are used to communicate ideas through the sense of touch
-> - inclusive: each person’s sensory abilities change over the course of a lifetime. By addressing multiple senses, designers support the diversity of the human condition
->
-> (Lupton et Lipps 2018, 14)
-
-[Sensory design] embraces human diversity: According to the New York City Mayor’s Office for People with Disabilities, inclusive design creates a “multi sensory enhanced environment that accommodates a wide range of physical and mental abilities for people of all ages” (Lupton et Lipps 2018, 15)¨
-
-- enables a range of different approach depending on physical and mental abilities
-
-challenges: 
-
-- enabling touch + tapis → hygene post-pandémie etc? pompns qui prennent la poussière
-
-data craft : artisanat de données 
-
-- « data craft as a way to create meaningful physical mementos based on digital records of personal and shared experiences » (Carpendale et al., 2017, p. 2)
-
-crafting your data : fabrication artisanale des données (manipulation, travail manuel)
-
-
-
-
-
-
-
-### incite different questions
-
-étrangeté: objet non identifié, « qu’est-ce qu’il se passe là »
-
-curiosity (Giorgia Lupi)
-
-
-
-### co-construct material presentation
-
-idea that threading pompons was « too simple »
-
-- yet so many choices
-- required an interface; système de rangement
-
-size required a circle rather than a linear presentation; circle seemed easier to suspend; weight (gravity) makes the structure change in shape → data driven
-
-
-
-## démo
-
-diff : démontrer vs artistic presentation (cf all the above)
-
-- artistic presentation vs research presentation (poster, publication)
-- institutions, lieux qui contribuent à la construction du sens
-- initiative indépendante (sans approbation, contrôle, mais participation du personnel du MAC)
-
-
-
-role of participatory feeback 
-
-- seeing through different eyes, at different times (+ participatory documentation) → evolution of the structure (I didn’t even notice/pay attention but it was getting more and more attention)
-- unlike personal mementos, made with the desire to share, thus a two way street
-
-
-
-« final form » of rc? 
-
-- intersection of the object, event, and documentation?
-
-
-
-
-
-## Liens 
-
-histoires, pratiques, matiérialité
-
-How do histories of craft practices, lived experience of (skilled) making, materiality matter to the overall aims in the project
-
-- history 
-  - of soft plushies
-  - the hand made in current age? tactile knowing
-
-- minimal craft? minimal computing. sloppy craft? 
-  - thread and needle: low starting learning curve, little material/technical apparatus (compare to weaving)
-  - algorithmic craft? my skill lies in the data manipulation, maybe? 
-
-- materiality and lived / embodied experience: importance of carpet
-
-<img src="/home/lenamk/.config/Typora/typora-user-images/image-20250526161805967.png" alt="image-20250526161805967" style="zoom: 50%;" />
-
-knowing through making: familiarity, memory of those that are different (positive association)
-
+- Lupton, Ellen, Andrea Lipps, et Smithsonian Design Museum Cooper Hewitt. 2018. *The Senses: Design beyond Vision*. New York&nbsp;: Copper Hewitt, Smithsonian Design Museum&nbsp;; Princeton Architectural Press. Catalogue d’une exposition au Copper Hewitt, Smithsonian Design Museum, New York, du 13 avril 2018 au 28 octobre 2018.
+- Mau, Bruce. 2018. «&nbsp;Designing LIVE: A New Medium for the Senses&nbsp;». Dans *The Senses: Design beyond Vision*, par Ellen Lupton et Andrea Lipps. New York&nbsp;: Princeton Architectural Press. Catalogue d’une exposition au Copper Hewitt, Smithsonian Design Museum, New York, du 13 avril 2018 au 28 octobre 2018.

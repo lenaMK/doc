@@ -10,7 +10,14 @@ Recherche-création doctorale de [Lena MK](http://lenamk.site), 2023-2027, Unive
 
 - [Résumé de la proposition](./exSynth/resume) ([version en anglais](./exSynth/abstract))
 - [Travail écrit](./exSynth/examen-ecrit.html)
-- Partie pratique: [protocole: « Célébration de données molles »](./exSynth/protocole_MAC) (en cours) matérialisation de données de la collection du Musée d’art contemporain de Montréal
+- Partie pratique:  matérialisation de données de la collection du Musée d’art contemporain de Montréal
+  - [protocole: « Célébration de données molles »](./exSynth/protocole_MAC) 
+  - [audiodescription](./exSynth/audiodescription_donneesMolles.html)
+  - (photographies et des vidéos à venir)
+
+- [Questions du jury](./exSynth/questions)
+  - [réponse](./exSynth/reponse)
+
 
 <img src="./img/invitationDemo_2025-05.png" style="zoom: 33%;" />
 
