@@ -6,18 +6,22 @@ Recherche-création doctorale de [Lena MK](http://lenamk.site), 2023-2027, Unive
 
 ## Écrire
 
-### Examen de sythèse
+### Examen de synthèse, mai 2025
 
 - [Résumé de la proposition](./exSynth/resume) ([version en anglais](./exSynth/abstract))
-- [Travail écrit](./exSynth/examen-ecrit.html)
-- Partie pratique: *Célébration de données molles*, matérialisation de données de la collection du Musée d’art contemporain de Montréal
-  - (dé-)monstration du 20 au 22 mai, visites sur demande pendant le mois de juin
+- Travail écrit&nbsp;: [Collections tactiles. Recherche-création en matérialisation de données culturelles](./exSynth/examen-ecrit.html)
+- Partie pratique&nbsp;: *Célébration de données molles*, matérialisation de données de la collection du Musée d’art contemporain de Montréal
+  - (dé-)monstration du 20 au 22 mai
+  - Disponibilités durant le mois de juin&nbsp;: 
     - jeudi 5 juin: 16h à 18h
     - lundi 9 juin: 13h à 18h
-    - autres disponibilités à venir après l’examen oral
+    - autres disponibilités sur demande
   - [protocole: « Célébration de données molles »](./exSynth/protocole_MAC) 
   - [audiodescription](./exSynth/audiodescription_donneesMolles.html)
   - (photographies et des vidéos à venir)
+  - documentation wiki
+    - [description sur wikidata](https://www.wikidata.org/wiki/Q134700898)
+    - [photographie sur wikimédia commons](https://commons.wikimedia.org/wiki/File:Soft_Data_Celebration_data_physicalization_by_Lena_MK_2.jpg)
   
 - [Questions du jury](./exSynth/questions)
   - [réponse](./exSynth/reponse)
