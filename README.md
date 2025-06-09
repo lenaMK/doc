@@ -15,7 +15,8 @@ Recherche-création doctorale de [Lena MK](http://lenamk.site), 2023-2027, Unive
   - Disponibilités durant le mois de juin&nbsp;: 
     - jeudi 5 juin: 16h à 18h
     - lundi 9 juin: 13h à 18h
-    - autres disponibilités sur demande
+    - jeudi 12 juin: 16h à 17h30
+    - jeudi 19 juin: 13h à 18h
   - [protocole: « Célébration de données molles »](./exSynth/protocole_MAC) 
   - [audiodescription](./exSynth/audiodescription_donneesMolles.html)
   - (photographies et des vidéos à venir)
