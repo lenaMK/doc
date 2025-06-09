@@ -27,6 +27,7 @@ Recherche-création doctorale de [Lena MK](http://lenamk.site), 2023-2027, Unive
 - [Questions du jury](./exSynth/questions)
   - [réponse](./exSynth/reponse)
 - Examen oral: 12 juin 2025
+- Proposition déposée pour la conférence *[Algorithmic Pattern 2025](https://2025.algorithmicpattern.org/call/)*: [*Soft Data Celebration: dancing between algorithms and craft*](./conf/algorithmicPatterns_SoftDataCelebration)
 
 
 <img src="./img/invitationDemo_2025-05.png" style="zoom: 33%;" />
