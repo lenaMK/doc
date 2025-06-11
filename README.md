@@ -12,14 +12,14 @@ Recherche-création doctorale de [Lena MK](http://lenamk.site), 2023-2027, Unive
 - Travail écrit&nbsp;: [Collections tactiles. Recherche-création en matérialisation de données culturelles](./exSynth/examen-ecrit.html)
 - Partie pratique&nbsp;: *Célébration de données molles*, matérialisation de données de la collection du Musée d’art contemporain de Montréal
   - (dé-)monstration du 20 au 22 mai
-  - Disponibilités durant le mois de juin&nbsp;: 
+  - disponibilités durant le mois de juin&nbsp;: 
     - jeudi 5 juin: 16h à 18h
     - lundi 9 juin: 13h à 18h
     - jeudi 12 juin: 16h à 17h30
     - jeudi 19 juin: 13h à 18h
   - [protocole: « Célébration de données molles »](./exSynth/protocole_MAC) 
   - [audiodescription](./exSynth/audiodescription_donneesMolles.html)
-  - (photographies et des vidéos à venir)
+  - documentation participative: mise en ligne des photographies et des vidéos à venir
   - documentation wiki
     - [description sur wikidata](https://www.wikidata.org/wiki/Q134700898)
     - [photographie sur wikimédia commons](https://commons.wikimedia.org/wiki/File:Soft_Data_Celebration_data_physicalization_by_Lena_MK_2.jpg)
@@ -27,6 +27,9 @@ Recherche-création doctorale de [Lena MK](http://lenamk.site), 2023-2027, Unive
 - [Questions du jury](./exSynth/questions)
   - [réponse](./exSynth/reponse)
 - Examen oral: 12 juin 2025
+  - [notes](./exSynth/oral) pour la présentation
+  - [support visuel](https://www.canva.com/design/DAGp9x2jpho/9eTW2jBE6cLzcha9Ga_07w/view)
+
 - Proposition déposée pour la conférence *[Algorithmic Pattern 2025](https://2025.algorithmicpattern.org/call/)*: [*Soft Data Celebration: dancing between algorithms and craft*](./conf/algorithmicPatterns_SoftDataCelebration)
 
 
