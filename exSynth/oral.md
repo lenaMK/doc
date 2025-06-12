@@ -2,7 +2,13 @@
 
 présentation 20min, [support visuel](https://www.canva.com/design/DAGp9x2jpho/9eTW2jBE6cLzcha9Ga_07w/view)
 
+Remerciements Jury
 
+- pensées pour Suzanne
+- Benoit
+- Kristine
+- Marcello 
+- Elaine
 
 ## Intro
 
@@ -55,14 +61,12 @@ Démarches artistiques
 - Vera Molnar, *Éloge de l’ordinateur*
 - images programmées (Soulard) : moment eureka! Enfin trouvé le lien que je cherchais depuis bientôt 2 ans
 
-Pensée textile qui m’amène aussi vers le savoir tactile? 
-
 penser l’artisanat comme une technologie et la technologie comme une forme d’artisanat
 
 - processus de fabrication d’objets numériques
 - technicité de certaines formes d’artisanat
 
-
+Pensée textile qui m’amène aussi vers le savoir tactile? « connaître » le monde par le toucher
 
 ### Méthodo - démarche
 
@@ -75,7 +79,7 @@ penser / faire l’accessibilité : multisensorialité
 
 - résumé de propostion: données sensation-*nelles* ; puis collections tactiles (rendre les collections tangibles, palpables)
 
-- The Senses: Design Beyond Vision
+- *The Senses: Design Beyond Vision*
 
   - descriptions sensorielles
 
@@ -90,20 +94,15 @@ penser / faire l’accessibilité : multisensorialité
 ### Format thèse
 
 - inspiration: livre d’artiste sur les visualisations interactives
+  - plusieurs projets
+  - différents types de contenu: sketches, notes, explications, code, éléments théoriques
+
 - documentation dédiée à chaque projet sur le site web
 - penser comme un espace de recherche ouverte, « tout » publier
   - disparate et imparfait mais quand même très pratique et satisfaisant
   - réflexion continue sur les outils, ex: comment présenter les photos et vidéos de la documentation participative
 
 ## Retour sur les autres étapes de l’examen
-
-Remerciements Jury
-
-- pensées pour Suzanne
-- Benoit
-- Kristine
-- Marcello 
-- Elaine
 
 ### Faire
 
@@ -120,6 +119,7 @@ Remerciements Jury
   - adéquation entre ce qu’on voit et ce qu’on sent sous ses pieds
   - traitement sensible d’un sujet sensible
   - safe space pour parler de sujet épineux
+- rocky start: temps d’installation
 - beaucoup de visites: 46 sur l’espace des trois premiers jours, 9 +15 depuis (groupe cours de muséologie)
   - conversations très variées selon les expertises et les intérêts des gens
   - point commun: beaucoup de questions, curiosité sur ce qui est montré
@@ -134,11 +134,14 @@ Remerciements Jury
 
 
 
-
-
 ### Questions en suspend / à discuter
 
-
+- comment lier recherche et création, seuelemnt le livre? intérêt du temps qui passe et de revenir sur les projets pour ajouter des couches de réfléxion
+  - « frustration » de la division entre le travail écrit et la partie pratique, qui nobilise elle aussi beaucoup d’élément théoriques (pas les mêmes que l’écrit)
+  - écart à combler
+- dimension « incarnée », rapport physique/corporel à la recherche (tactilité oui) mais plus? 
+- comment organiser les prochaines étapes? Par quoi commencer? Choisir ou laisser venir ?
+- évolution du projet de recherche doctorale dans les 6 derniers mois, beaucoup de nouveauté. Idée du livre mais est-ce que c’est « la bonne » ? 
 
 
 
