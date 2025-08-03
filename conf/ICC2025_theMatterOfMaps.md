@@ -6,31 +6,26 @@ Lena MK. Article (writing in progress) for *Intermédialité* and oral presentat
 
 ### intro
 
-<!--comment situer mon approche de la contre-cartographie parmi les autres contribution dans le dossier? -->
+<!--comment situer mon approche de la contre-cartographie parmi les autres contribution dans le dossier? --><!--*In art history, map-making  originates from geography of art + spatial art history blabla?* *My path to map-making: spatial / visual approaches to arthistorical data, fuelled by data litteracy and programming skills*-->
 
-From critical cartography to counter-mapping, the matter of maps has been increasingly analysed, questioned, and experimented with. Their definition, context and means of production, as well as their materiality have radically evolved in the last century, from hand-drawn “official” (institutional) maps to encompassing a wide variety of practices such as self-published digital visualisations or collective textile cartographic abstractions. Critical inquiries brought changes in cartographic practices by questioning and challenging *what* and *who* are, or aren’t, part in a map, *why* and *how* they are represented, in addition to *who* participates *when* and *how* in the process of map-making. Certain issues in mapping were therefore addressed by rethinking the epistemological, (iconography?) material and human agents of cartography. *This is not an Atlas: a global collection of counter-cartographies* (Kollektif Orangotango+ 2018) offers a wide range of examples demonstrating how each project pushes back to its local context while demonstrating the collective change operating at a larger scale. 
+From critical cartography to counter-mapping, the matter of maps has been increasingly analysed, questioned, and experimented with. Their definition, context and means of production, as well as their materiality have radically evolved in the last century, from hand-drawn “official” (institutional) maps to encompassing a wide variety of practices such as self-published digital visualisations or collective textile cartographic abstractions. Critical inquiries brought changes in cartographic practices by questioning and challenging *what* and *who* are or aren’t part in a map, *why* and *how* they are represented, in addition to *who* participates *when* and *how* in the process of map-making.  *This is not an Atlas: a global collection of counter-cartographies* (Kollektif Orangotango+ 2018) offers a wide range of examples demonstrating how each project pushes back to its local context while documenting the collective change operating at a larger scale. As an art historian with a practice of cartography and data visualisation, my encounter with this field raised the question of how I could learn from and contribute to it? 
 
-- How can I *do that* ?
-- How can I, as an art historian with a practice of cartography and data visualisation, learn from and contribute to this field, tackling ways of thinking and ways of making (all the while considering the maker’s positionnality)? 
+As counter-cartography tackles ways of thinking and ways of making, all the while considering the maker’s positionnality, it presented a good fit with the topic of restitution and reparations[^1]. Though restitution is always deeply interlinked with the land on Turtle Island, as an art historian, restitution also emerges in the question of narratives, in the stories and the histories that are told on a topic such as public art. As public art was generally commissioned by those in power, it has tended to the over-representation of normativity (refs Espace, Laurent …). It encompasses the domination of *men* artists, favouring settlers or those of European origins, a colonial and capitalistic vision of society, considering the land and people through the lens of power and control. However, especially in recent years, public art also began including artworks and artists who challenge these narratives (refs Espace Analays… ou nommer des œuvres en nbp?). My engagement with public art comes from the work we do at Maison MONA, a cultural non-profit (I founded) based in Tiohtià:ke · Montréal. Through research-action, artistic residencies and cultural outreach, we work at the crossroads between art and technology to the democratise and broaden access to art, heritage and culture in public spaces in the province of Québec. In a project tackling public art and its visibility in the digital space [^2], my colleagues and I worked a data set of artists who have at least one public artwork in the MONA database. The frame of our project led us to analyze the dataset with a focus including gender identity. After years of experiencing the gender gap while doing research or preparing cultural outreach programs, it was the first time we could take a quantitative insight to analyse the presence of womxn artists in public art. This became an opportunity to tell a new story, about the entry of womxn artists in the public art sphere.
 
-*In art history, map-making  originates from geography of art + spatial art history blabla?*
-*My path to map-making: spatial / visual approaches to arthistorical data, fuelled by data litteracy and programming skills*
+- Who were the first womxn to contribute public artworks? 
+- When and where did they do so? 
 
-
-
-
-
-This paper aims to contribute to this diverse contemporary mapping landscape from an art historical perspective with *\[…\] and counting*, a research-creation project on public art by womxn in Tiohtià:ke · Montréal [^1]. This experiment in counter-cartography aims to challenge how we think about and through maps, how we might “use” them and how they work through us.
+Counter-mapping, as methodology and as posture, became a strategy to renew the imaginaries of public art, thwarting the dominant narratives in order to share a more diverse history of public art. This paper therefore aims to contribute to the contemporary mapping landscape from an art historical perspective with *\[…\] and counting*, a research-creation project on public art by womxn in Tiohtià:ke · Montréal. It also strives to challenge how we think about and through maps, how we might “use” them and how they work through us.
 
 <!--annonce plan à ajouter-->
 
-### context - situation - positionnality
+### Making
 
-As a researcher of mixed transnational origins who settled in Tiohtià:ke · Montréal (10 years ago? | for my studies ?), working with cartography on unceeded territory has heavy historical and contemporary implications. While the western, colonial and imperial uses of maps is strongly critiqued in critical, radical, and decolonial cartography as documented in Martel and Krause (2023), I wanted to experiment with counter-cartography to reverse the power dynamics and produce new epistemologies, especially as Halder and Michel (2018) from *Not an Atlas* shed light on “Indigenous cartography \[serving\] as inspiration for non-hegemonic and emancipatory practices.” <!--extend this paragraph, take more time and care for each element-->
+As a researcher of mixed transnational origins who settled in Tiohtià:ke · Montréal, working with cartography on unceeded territory has heavy historical and contemporary implications. While the western scientific, colonial and imperial uses of maps is strongly critiqued in critical, radical, and decolonial cartography as documented in Martel and MK (2023), I wanted to experiment with counter-cartography to reverse the power dynamics and produce new epistemologies, especially as Halder and Michel (2018) from *Not an Atlas* shed light on “Indigenous cartography \[serving\] as inspiration for non-hegemonic and emancipatory practices.” 
 
 
 
-Though restitution is always about the land, as an art historian, restitution also emerges in the question of narratives, in the stories and the histories that are told on a topic such as public art. Public art is an art form that is particularly subject to over-representation of normativity, such as domination of *men* artists of European or colonial origins, of colonial topics favored by institutional powers, of capitalistic vision of society, and of thinking about land through extractivism. <!--introduce references about public art in mtl-->These narratives form the current imaginary on art in public space and marginalize a diversity of contributions, for example those by womxn, queer and BIPOC artists. I thus envisioned restitution in this project as thwarting these norms of visibility to renew the imaginaries of public art. Upon analyzing my dataset[^2], I chose a feminist angle for the theme of the map and decided to focus on the entry of womxn artists in the public art sphere.
+<!--extend this paragraph, take more time and care for each element-->
 
 
 
@@ -50,13 +45,25 @@ Recycling and waste reduction also motivated the use of an insulation panel as a
 
 As an attempt to forgo the capitalist, extractivist and alienating urban network set by the automotive industry, I used [open data on cycling paths](https://www.donneesquebec.ca/recherche/dataset/vmtl-pistes-cyclables) to provide a relevant grid to locate each artwork <!--extend about the base map, what we use as reference to orient ourselves, how we read maps-->.
 
+
+
+
+
+
+
 Going back to the power of rituals <!--from artistic inspirations-->, and yet still thinking about tactility, I found that acupucture needles could well embody both these stakes. Acupuncture is an alternative medicine practice that defies western scientific knowledges. In its practice, needles are used to stimulate selected locations of the body. (Acupuncture) needles can provoke physical reactions: sometimes even just on sight, they are associated with a feeling of them piercing skin and even causing bloodshed. For each public artwork by a womxn, I thus placed a needle on its location. Using the chronological order materialised a narrative of how womxn artists progressively entered public space, emphasising their relation to each other. I only realized the extent of the ritualistic dimension during its practice: carefully placing a needle for each artwork onto the map, I felt an agency both upon the history and the geography of public art made by womxn. It seemed almost necessary to share this feeling with others, and also solved the questions of “how many needles should I place? When is this piece complete or when do I stop?”. 
+
+
+
+### data, code, map
+
+?
 
 <!-- bit more detail on preparation process-->While exploring the dataset[^4], I visualised the data chronologically and noticed a subgroup: the first 18. These artworks by womxn defied the odds in a public art sphere blatantly dominated by men. They seemed so lonely and marginalised, I longed to care for them. I therefore chose to begin the map with these 18 needles. The following are still to be activated, just as this history is yet to be made.
 
-![](../img/andCounting_detail.JPG)
 
-<figcaption style="text-align:right ">Photograph of *\[...\] and Counting* (detail), 2024  <br>CC-BY-SA Lena MK</figcaption>
+
+
 
 ### description of installation + participatory approach
 
@@ -72,7 +79,9 @@ To find the location, they can use the other needles/artworks as references whil
 
 
 
+![](../img/andCounting_detail.JPG)
 
+<figcaption style="text-align:right ">Photograph of *\[...\] and Counting* (detail), 2024  <br>CC-BY-SA Lena MK</figcaption>
 
 ---
 
@@ -98,10 +107,9 @@ This proposal is an extension of the research project *Towards a digital commons
 
 
 
-[^1]: This project originated during a doctoral seminar on restitution in museum studies (Prof. Abigail E. Celis, Fall 2023, Université de Montréal)
+[^1]: This project originated during a doctoral seminar on restitution, repatriation and return in museum studies (Prof. Abigail E. Celis, Fall 2023, Université de Montréal)
 
-[^2]: The data from the MONA research project, further described in the acknowledgments, was too incomplete to use criteria such as artworks created by BIPOC or queer artists. As a team, we felt it would not be appropriate to attempt to highlight such personal data without getting consent from each individual artist.
-
+[^2]: The data from the MONA research project is further described in the acknowledgments,
 [^3]: Saphira is an Alaskan Husky breed we adopted a few years ago. I used her shedding of Fall 2023, and ran out while covering West Island.
 
 [^4]: Notebook documenting the data visualisation experiments: https://observablehq.com/@maison-mona/chronologie-et-genre?collection=@maison-mona/gender-analysis.
