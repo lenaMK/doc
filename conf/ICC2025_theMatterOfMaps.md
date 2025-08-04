@@ -1,6 +1,8 @@
 # The Matter of Maps
 
-Lena MK. Article (writing in progress) for *Intermédialité* and oral presentation at ICC2025.
+Lena MK
+
+> Article (writing in progress) for *Intermédialité* and oral presentation at ICC2025.
 
 ![](../img/installationView.JPG)
 
@@ -17,25 +19,64 @@ As counter-cartography tackles ways of thinking and ways of making, all the whil
 
 Counter-mapping, as methodology and as posture, became a strategy to renew the imaginaries of public art, thwarting the dominant narratives in order to share a more diverse history of public art. This paper therefore aims to contribute to the contemporary mapping landscape from an art historical perspective with *\[…\] and counting*, a research-creation project on public art by womxn in Tiohtià:ke · Montréal. It also strives to challenge how we think about and through maps, how we might “use” them and how they work through us.
 
-<!--annonce plan à ajouter-->
+As a researcher of mixed transnational origins who settled in Tiohtià:ke · Montréal, working with cartography on unceeded territory has heavy historical and contemporary implications. While the western scientific, colonial and imperial uses of maps is strongly critiqued in critical, radical, and decolonial cartography as documented in Martel and MK (2023), 
 
-### Making
-
-As a researcher of mixed transnational origins who settled in Tiohtià:ke · Montréal, working with cartography on unceeded territory has heavy historical and contemporary implications. While the western scientific, colonial and imperial uses of maps is strongly critiqued in critical, radical, and decolonial cartography as documented in Martel and MK (2023), I wanted to experiment with counter-cartography to reverse the power dynamics and produce new epistemologies, especially as Halder and Michel (2018) from *Not an Atlas* shed light on “Indigenous cartography \[serving\] as inspiration for non-hegemonic and emancipatory practices.” 
-
-
-
-<!--extend this paragraph, take more time and care for each element-->
-
+- counter-cartography to *reverse the power dynamics and produce new epistemologies*
+- Halder and Michel (2018) from *Not an Atlas* shed light on “Indigenous cartography \[serving\] as inspiration for non-hegemonic and emancipatory practices.” <!--extend this paragraph, add Marcoux for relevant examples in indigenous cartography--> 
+- Counter-cartography to make a « less colonial » or « least-colonial possible  » map? 
+- → questionning/challenging each « map-making » decision 
+  - material
+  - frame 
 
 
 
+
+
+To present this research-creation process, this article will follow a slow backwards movement, starting nested deep in the fur patches and progressively zooming out, distinguishing shapes and objects on the map. 
+
+zoom-out du processus de recherche-création: des creux feutrés de la matière à l’installation participative
+
+- 
+
+
+
+
+
+### 
+
+
+
+> - 
 
 ### sources - restitution of narrative through materiality
+
+
+
+>  matter matters! 
+>
+> - Barad explique que matter matters : la matière compte car elle porte du sens” (Vitali Rosati, 2024, p. 62) p93
+> - la pensée, le sens, les idées, les concepts sont matériels” (Vitali Rosati, 2024, p. 64)
+> - “Nous pouvons ajouter avec Barad : le message est un arrangement physique spécifique ; et c’est exactement ce qu’est aussi un média.” (Vitali Rosati, 2024, p. 64)
+>
+> hypothèse de départ: alors, pour quelqu’un qui faisait des cartes numériques, qu’arrive-t-il à la carte si je change sa matérialité? 
+>
+> - expérimentation qui requiert la pratique: faire pour réfléchir
 
 Two artworks tackling decolonial narratives and monuments, as documented and analyzed by Bisschop (2022) and Yakoub (2021) , particularly inspired me. *PeoPL* (2018) by Laura Nsengiyumva is a reproduction of the Léopold II’s equestrian statue made of ice. The pedestal, placed upside-down above the sculpture, is fitted with incandescent lamps that slowly melt the sculpture during its exhibition at the Nuit Blanche 2018 in Brussels. *On Monumental Silences* (2018) by Ibrahim Mahama presents reinterpretations of a monument to the missionary-father De Deken, including a collective and participatory performance in which the public was invited to interact – mutilate, destroy, remodel – a clay reproduction of the monument. Both artists used careful consideration to reflect the stakes of their narrative in the materials chosen to enact them. These artistic strategies and decolonial methods guided me toward the conceptual and material choices I made for this public art counter-cartography experiment. 
 
 
+
+### tactile (textile)
+
+> tactile interface: sensory knowing
+>
+> relation to the land: physical involvment, being « prat of it » and not « above / outside  » (God’s eyes view, domination, control)
+>
+> map as interface? 
+>
+> ingold: wayfinding
+>
+> fuzziness vs certainty: less certainty of how we know the land (straight lines, spectrum from the simplified-schematic to a fuzzinness that expresses the fact it never aimed to seem complete)
 
 To offset the god’s eye view, its imperial paradigm and visual technologies denounced by Ramaswamy (2014), I was inspired by O’Connor et al. (2023)’s proposal for indigenous epistemologies of “tactile data visualisation”. Tactility makes space for different interaction with cartography: the “viewer” is invited to physically interact with the map, going beyond the visual sphere to experience a sensory implication with the mapped territory. 
 
@@ -49,7 +90,15 @@ As an attempt to forgo the capitalist, extractivist and alienating urban network
 
 
 
+### agency
 
+> agency of maps over the land → acupuncture metaphore
+>
+> participatory process 
+>
+> - feeling/agency
+> - active participation
+> - constantly being made
 
 Going back to the power of rituals <!--from artistic inspirations-->, and yet still thinking about tactility, I found that acupucture needles could well embody both these stakes. Acupuncture is an alternative medicine practice that defies western scientific knowledges. In its practice, needles are used to stimulate selected locations of the body. (Acupuncture) needles can provoke physical reactions: sometimes even just on sight, they are associated with a feeling of them piercing skin and even causing bloodshed. For each public artwork by a womxn, I thus placed a needle on its location. Using the chronological order materialised a narrative of how womxn artists progressively entered public space, emphasising their relation to each other. I only realized the extent of the ritualistic dimension during its practice: carefully placing a needle for each artwork onto the map, I felt an agency both upon the history and the geography of public art made by womxn. It seemed almost necessary to share this feeling with others, and also solved the questions of “how many needles should I place? When is this piece complete or when do I stop?”. 
 
@@ -63,7 +112,14 @@ Going back to the power of rituals <!--from artistic inspirations-->, and yet st
 
 
 
+### Story-making / story telling
 
+> how we « use » maps
+>
+> requires participation / exchange: 
+>
+> - low visibility: effort to « read »
+> - data on interface: working between the mediums
 
 ### description of installation + participatory approach
 
@@ -76,6 +132,12 @@ Going back to the power of rituals <!--from artistic inspirations-->, and yet st
 - and place a new needle on the equivalent location of the physical map.
 
 To find the location, they can use the other needles/artworks as references while also following the both tactile and visual topographical references of the cycling paths and the fur patches. The title updates the count as each participatory action enriches the map, progressively activating a new narrative on public art and its history [^5]. The participatory process also became a way to reveal my methods: I use data and write code to create digital visualisations and maps. Exhibiting the code and the digital map reinstates this algorithmic approach even when the “end result” is a physical map[^6]. <!-- map vs installation-->
+
+
+
+### experience
+
+write about some of the artworks / artists, locations, particular mentions?
 
 
 
