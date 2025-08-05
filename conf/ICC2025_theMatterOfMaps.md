@@ -19,54 +19,29 @@ As counter-cartography tackles ways of thinking and ways of making, all the whil
 
 Counter-mapping, as methodology and as posture, became a strategy to renew the imaginaries of public art, thwarting the dominant narratives in order to share a more diverse history of public art. This paper therefore aims to contribute to the contemporary mapping landscape from an art historical perspective with *\[…\] and counting*, a research-creation project on public art by womxn in Tiohtià:ke · Montréal. It also strives to challenge how we think about and through maps, how we might “use” them and how they work through us.
 
-As a researcher of mixed transnational origins who settled in Tiohtià:ke · Montréal, working with cartography on unceeded territory has heavy historical and contemporary implications. While the western scientific, colonial and imperial uses of maps is strongly critiqued in critical, radical, and decolonial cartography as documented in Martel and MK (2023), 
+To present this research-creation process, this article will follow a slow backwards movement. It begins nested deep in the soft creases of the fur-covered surface, then progressively zooms out, distinguishing shapes and objects that form the map. From its rugged edges, we enter the space of its installation and the temporality of its participatory activation.
 
-- counter-cartography to *reverse the power dynamics and produce new epistemologies*
-- Halder and Michel (2018) from *Not an Atlas* shed light on “Indigenous cartography \[serving\] as inspiration for non-hegemonic and emancipatory practices.” <!--extend this paragraph, add Marcoux for relevant examples in indigenous cartography--> 
-- Counter-cartography to make a « less colonial » or « least-colonial possible  » map? 
-- → questionning/challenging each « map-making » decision 
-  - material
-  - frame 
+Inscribing the elements of *[…] and counting* into an academic narrative is an opportunity to expose the back-and-forth dynamic between research and creation, where theory serves as inspiration and practice provides fertile ground to further theory.
 
+### soft creases
 
+As a researcher of mixed transnational origins who settled in Tiohtià:ke · Montréal, working with cartography on unceeded territory has heavy historical and contemporary implications. The western scientific, colonial and imperial uses of maps is strongly critiqued in critical, radical, and decolonial cartography, as documented in Martel and MK (2023). Counter-cartography, in aiming to reverse these power dynamics and produce more diverse epistemologies, can look to  “indigenous cartography \[as] inspiration for non-hegemonic and emancipatory practices.” (Halder and Michel 2018). Indigenous artists and writers have structured counter-mapping discourses using Indigenous epistemologies. By creating theoretical frameworks from personal, collective, and mythological stories, they reactivate the kinship networks that also shape ancestral laws, land management practices and modes of identity formation (Marcoux 2024). 
 
+Decolonial narratives and monuments can also provide relevant approaches to counter institutional practices. *PeoPL* (2018) by Laura Nsengiyumva is a reproduction of the Léopold II’s equestrian statue made of ice. The pedestal, placed upside-down above the sculpture, is fitted with incandescent lamps that slowly melt the sculpture during its exhibition at the Nuit Blanche 2018 in Brussels (Bisschop 2022, Yakoub 2021). *On Monumental Silences* (2018) by Ibrahim Mahama presents reinterpretations of a monument to the missionary-father De Deken, including a collective and participatory performance in which the public was invited to interact – mutilate, destroy, remodel – a clay reproduction of the monument (Bisschop 2022). Both artists used careful consideration to reflect the stakes of their narrative in the materials chosen to enact them. 
 
+In the theoretical sphere, new materialisms and authors such as Karen Barad argue that « *matter matters*: the material matters because it bears meaning » (Vitali Rosati, 2024, p. 62). Therefore considering that ideas, thoughts and concepts are expressed in a physical, material instance, the medium I chose for my map needed to effectively defy colonial mindsets about the territory. Instead of the virgin *terra nullius* symbolised by a blank sheet of paper, *the* bureaucratic medium, I thought that raw organic material (untreated/not industrially produced and transformed) could convey the living  nature of the land. As I was researching this question, it happened to be the bi-annual shedding of my (late) dog, Saphira. Her fluffy and soft fur attracted people to the point I sometimes noticed them “discreetly” reaching to try to touch it as we cross paths on the street. This intuitive touch was exactly what I was aiming for, and her shedding seemed an excellent way to use an organic material whilst preserving any waste, destruction or loss of life in its sourcing[^3]. Far from disposing of the shedding, I often used to leave little bundles out and about for animals to pad their nests with. It is the fabric of homes, bringing insulation and comfort in both its origin and reuse in the wild (? non human; animal realm). 
 
-To present this research-creation process, this article will follow a slow backwards movement, starting nested deep in the fur patches and progressively zooming out, distinguishing shapes and objects on the map. 
-
-zoom-out du processus de recherche-création: des creux feutrés de la matière à l’installation participative
-
-- 
+I created my basemap by glueing patches of shedding to a white insulation panel that served as a structural base for the map (do I mention it? a technique I learned from *drag*, to make beards). From the originally rectangular shape of the panel – an unused byproduct of my partner’s work in construction –,  I cut out the shape of the island of Tiohtià:ke · Montréal, choosing a natural border over the colonial government’s administrative delimitations. … *rough edges of the thick Styrofoam* … As an attempt to forgo the capitalist, extractivist and alienating urban network set by the automotive industry, I traced a reference grid formed by the [open data on cycling paths](https://www.donneesquebec.ca/recherche/dataset/vmtl-pistes-cyclables). By placing the fur patches along the path I drew with a light orange felt pen, using a projector to superimpose the digital map as reference, the surface of the map evokes the built infrastructure. Yet the fuzzy hair *can’t quite be tamed*, and the cycling roads are blurry to the sight. 
 
 
 
+off-white, the insulation panel is only visible on the edges and in the areas where I ran out 
 
-
-### 
-
-
-
-> - 
-
-### sources - restitution of narrative through materiality
+inhabited → material for nests
 
 
 
->  matter matters! 
->
-> - Barad explique que matter matters : la matière compte car elle porte du sens” (Vitali Rosati, 2024, p. 62) p93
-> - la pensée, le sens, les idées, les concepts sont matériels” (Vitali Rosati, 2024, p. 64)
-> - “Nous pouvons ajouter avec Barad : le message est un arrangement physique spécifique ; et c’est exactement ce qu’est aussi un média.” (Vitali Rosati, 2024, p. 64)
->
-> hypothèse de départ: alors, pour quelqu’un qui faisait des cartes numériques, qu’arrive-t-il à la carte si je change sa matérialité? 
->
-> - expérimentation qui requiert la pratique: faire pour réfléchir
-
-Two artworks tackling decolonial narratives and monuments, as documented and analyzed by Bisschop (2022) and Yakoub (2021) , particularly inspired me. *PeoPL* (2018) by Laura Nsengiyumva is a reproduction of the Léopold II’s equestrian statue made of ice. The pedestal, placed upside-down above the sculpture, is fitted with incandescent lamps that slowly melt the sculpture during its exhibition at the Nuit Blanche 2018 in Brussels. *On Monumental Silences* (2018) by Ibrahim Mahama presents reinterpretations of a monument to the missionary-father De Deken, including a collective and participatory performance in which the public was invited to interact – mutilate, destroy, remodel – a clay reproduction of the monument. Both artists used careful consideration to reflect the stakes of their narrative in the materials chosen to enact them. These artistic strategies and decolonial methods guided me toward the conceptual and material choices I made for this public art counter-cartography experiment. 
-
-
-
-### tactile (textile)
+Bryan-Wilson (2024) argues that using an organic material both “combats the normal ‘hands-off’ protocols of art spectatorship” and “\[blurs\] the distinction between the animate and the inanimate”, which, in a mapping context, can therefore (re-)connect us to the living nature of the represented land.tactile (textile) wayfaring
 
 > tactile interface: sensory knowing
 >
@@ -80,15 +55,37 @@ Two artworks tackling decolonial narratives and monuments, as documented and ana
 
 To offset the god’s eye view, its imperial paradigm and visual technologies denounced by Ramaswamy (2014), I was inspired by O’Connor et al. (2023)’s proposal for indigenous epistemologies of “tactile data visualisation”. Tactility makes space for different interaction with cartography: the “viewer” is invited to physically interact with the map, going beyond the visual sphere to experience a sensory implication with the mapped territory. 
 
-Bryan-Wilson (2024) argues that using an organic material both “combats the normal ‘hands-off’ protocols of art spectatorship” and “\[blurs\] the distinction between the animate and the inanimate”, which, in a mapping context, can therefore (re-)connect us to the living nature of the represented land<!--extend-->. As I was researching this question, it happened to be the bi-annual shedding of my dog, Saphira. Her fluffy and soft fur attracts people to the point I sometimes notice them “discreetly” trying to touch it as we cross paths on the street. This intuitive touch was exactly what I was aiming for, and her shedding seemed an excellent way to use an organic material whilst preserving any waste, destruction or loss of life in its sourcing[^3]. 
 
-Recycling and waste reduction also motivated the use of an insulation panel as a structural base for the map, as it was an unused byproduct of my partner’s work in construction. I therefore restricted the data in order to map the island of Tiohtià:ke · Montréal, choosing a natural border over the colonial government’s administrative delimitations. <!--stronger word than natural? thinking about how we situate ourselves on the land-->
 
-As an attempt to forgo the capitalist, extractivist and alienating urban network set by the automotive industry, I used [open data on cycling paths](https://www.donneesquebec.ca/recherche/dataset/vmtl-pistes-cyclables) to provide a relevant grid to locate each artwork <!--extend about the base map, what we use as reference to orient ourselves, how we read maps-->.
+- - 
 
 
 
 
+
+> travel 
+>
+> - wayfaring is replaced by destination-oriented transport (from trail to route)
+> - mapping, where the drawn sketch is replaced by the route-plan,
+> - textuality, where storytelling is replaced by the pre-composed plot. 
+>
+> To sum up so far: I have established a contrast between two modalities of travel, namely wayfaring and transport. Like the line that goes out for a walk, **the path of the wayfarer wends hither and thither, and may even pause here and there before moving on. But it has no beginning or end** While on the trail the wayfarer is always somewhere, yet every ‘somewhere’ is on the way to somewhere else. The inhabited world is a reticulate meshwork of such trails, which is continually being woven as life goes on along them.Transport, by contrast, is tied to specific locations. Every move serves the purpose of relocating persons and their effects, and is oriented to a specific destination. The traveller who departs from one location and arrives at another is, in between, nowhere at all. Taken together, the lines of transport form a network of point-to-point connections. **In the colonial project of occupation, this network, once an undercurrent to life and constrained by its ways, becomes ascendant, spreading across the territory and overriding the tangled trails of inhabitants**. (85)
+
+Tim Ingold, in his book titled *Lines: Brief history* (2016 [2007]) distinguishes modalities of travel, and thus the relationship between the traveller and the land. On the one end, wayfaring
+
+on the other end, transport
+
+map for wayfaring and not functional colonial use such as transport
+
+- in relation to the land
+
+show how the distinction between the walk and the connector underlies a fundamental difference not only in the dynamics of movement but also in the integration of knowledge
+
+> these lines, drawn across the surface of the cartographic map, signify occupation, not habitation. They betoken as appropriation of the space surrounding the points that the lines connect or – if they are frontier lines that they enclose (87)
+>
+> gestural trace, or the line that has gone out for a walk, has no business in the discipline of cartography. Far from becoming a part of the map, it is considered an excrescence that should be removed (Ingold 2000: 234). For the cartographic line is not the trace of a gesture, nor does the eye, in reading it, follow the line as it would follow a gesture.These lines are not traces but connectors (88)
+>
+> « Occupant knowledge, in short, is upwardly integrated. And this finally brings us to the crux of the difference between these two knowledge systems, of **habitation** and **occupation** respectively. In the first, a way of knowing is itself a path of movement through the world: the wayfarer literally ‘knows as he goes’ (Ingold 2000: 229–30), along a line of travel. The second, by contrast, is founded upon a categorical distinction between the mechanics of movement and the formation of knowledge, or between locomotion and cognition. Whereas the former cuts from point to point across the world, the latter builds up, from the array of points and the materials collected therefrom, into an integrated assembly. » (Ingold, 2016, p. 92)
 
 ### agency
 
