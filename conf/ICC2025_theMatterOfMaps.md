@@ -33,25 +33,17 @@ In the theoretical sphere, new materialisms and authors such as Karen Barad argu
 
 Thus I created my basemap by covering a white insulation panel, the structural base for the map, with the off-white shedding. From the originally rectangular shape of the panel – an unused byproduct of my partner’s work in construction –,  I cut out the shape of the island of Tiohtià:ke · Montréal, choosing a natural border over the colonial government’s administrative demarcations. The rough edges of the hand-trimmed Styrofoam contrast with the rectangular, glossy or slick sheets of paper commonly used for maps. As an attempt to forgo the capitalist, extractivist and alienating urban network set by the automotive industry, I chose a reference grid formed by the [open data on cycling paths](https://www.donneesquebec.ca/recherche/dataset/vmtl-pistes-cyclables). Using a projector, I superimposed the digital map and traced the routes with a light orange felt pen. To affix the shedding to the panel, I drew upon my drag experience: to make an artificial beard, one simply glues patches of hair to the intended area. Though the first bushes rarely seem convincing, persevering patiently usually leads to a satisfying result. I therefore proceeded to glue little balls of fur to the surface, following the pathways. Some areas are detailed enough to reveal the urban grid, while others are visually covered in off-white fur. In a western section of the island, the insulation panel remains visible as I ran out of shedding. 
 
-As the fuzzy hair *can’t quite be tamed*, the surface of the map only evokes the built infrastructure. This fit well with my intent to offset the god’s eye view which, enhanced by an imperial paradigm and visual technologies, made the map a formidable instrument of power (Ramaswamy 2014). As an alternative approach, I was inspired by indigenous epistemologies of “tactile data visualisation” (O’Connor et al. 2023). Tactility allows for different interactions with cartography: the “viewer” is invited to physically interact with the map, going beyond the visual sphere to experience a sensory implication with the mapped territory. In the map, the arteries are present but invisible at a distance, covered by the fuzzy surface. One can decipher their serpentine courses by gently following them with their fingers. Visual uncertainty makes way for touch, an almost universal interface (Lupton and Lipps 2018).
+As the fuzzy hair *can’t quite be tamed*, the surface of the map only evokes the built infrastructure. This fit well with my intent to offset the god’s eye view which, enhanced by an imperial paradigm and visual technologies, made the map a formidable instrument of power (Ramaswamy 2014). As an alternative approach, I was inspired by indigenous epistemologies of “tactile data visualisation” (O’Connor et al. 2023). Tactility allows for different interactions with cartography: the “viewer” is invited to physically interact with the map, going beyond the visual sphere to experience a sensory implication with the mapped territory. As textile artist and theorist Anni Albers reminds us, « [o]ur tactile experiences are elemental » (1974 [1965], 62). In this map, the haziness of surface decenters the visual process of knowledge-making. The serpentine paths are present throughout the map but invisible at a distance. As fingers gently parse the fur to find and follow the arteries, touch becomes the guiding sense through the interface. Going beyond vision makes space for tactile ways of knowing, responding to Bruce Mau’s call « to explore, experiment, and invent new formats and combinations of sensory experience, new ways of telling stories. » (Mau 2018, 20). Multisensory design practices are also more inclusive, as they « [support] everyone’s opportunity to receive information, explore the world, and experience joy, wonder, and social connections, regardless of our sensory abilities. » (Lupton and Lipps 2018, 9)
+
+<!-- straight lines vs fuzzy:  spectrum from the simplified-schematic to a fuzzinness that expresses the fact it never aimed to seem complete-->
+
+In her essay *Fibre Creatures, Furry Beasts: Queer Textile Crittercism*, art historian Julia Bryan-Wilson provides an interesting lens on the use of organic materials in art practices:
+
+> Textile crittercism attends to work that takes critterly form, to practices that use animal and insect by-products, and to art that stages creatureliness (embracing touch and the body’s base necessities for survival) as an oppositional tactic in the face of masculinist demands to prioritise logic and rationality (Byan-Wilson 2024, 25)
+
+In the case of Peruvian American artist Sarah Zapata, Bryan-Wilson highlights how her furry sculptures wield tactilty and pleasure as political tools, refuting the ‘hands-off’ protocols of art spectatorship (2024, 23). Using materials that cry out for touch nurtures a relational approach. It « connects the human and the non-human » (Bryan-Wilson 2024, 23) which, in a mapping context, can therefore (re-)connect us to the living nature of the represented land.
 
 
-
----
-
-***notes for writing***
-
----
-
-
-
->  *Sensory knowing?*  
->
-> fuzziness vs certainty: less certainty of how we know the land (straight lines, spectrum from the simplified-schematic to a fuzzinness that expresses the fact it never aimed to seem complete)
-
-Using an organic material both “combats the normal ‘hands-off’ protocols of art spectatorship” and “\[blurs\] the distinction between the animate and the inanimate” (Bryan-Wilson 2024)
-
-which, in a mapping context, can therefore (re-)connect us to the living nature of the represented land.tactile (textile) 
 
 
 
