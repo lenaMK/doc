@@ -41,14 +41,20 @@ In her essay *Fibre Creatures, Furry Beasts: Queer Textile Crittercism*, art his
 
 > Textile crittercism attends to work that takes critterly form, to practices that use animal and insect by-products, and to art that stages creatureliness (embracing touch and the body’s base necessities for survival) as an oppositional tactic in the face of masculinist demands to prioritise logic and rationality (Byan-Wilson 2024, 25)
 
-In the case of Peruvian American artist Sarah Zapata, Bryan-Wilson highlights how her furry sculptures wield tactilty and pleasure as political tools, refuting the ‘hands-off’ protocols of art spectatorship (2024, 23). Using materials that cry out for touch nurtures a relational approach. It « connects the human and the non-human » (Bryan-Wilson 2024, 23) which, in a mapping context, can therefore (re-)connect us to the living nature of the represented land.
+In the case of Peruvian American artist Sarah Zapata, Bryan-Wilson highlights how her furry sculptures wield tactilty and pleasure as political tools, refuting the ‘hands-off’ protocols of art spectatorship (2024, 23). Using materials that cry out for touch nurtures a relational approach. It queers the field of possibilities and « connects the human and the non-human » (Bryan-Wilson 2024, 23) which, in a mapping context, can therefore (re-)connect us to the living nature of the represented land.
+
+### Where we are
+
+Now we slowly emerge from the fuzzy patches to wonder: where are we ? 
 
 
 
+---
 
 
-> ingold: wayfinding
->
+
+ingold: wayfinding
+
 > Tim Ingold, in his book titled *Lines: Brief history* (2016 [2007]) distinguishes modalities of travel, and thus the relationship between the traveller and the land. On the one end, wayfaring
 
 > travel 
@@ -65,7 +71,7 @@ In the case of Peruvian American artist Sarah Zapata, Bryan-Wilson highlights ho
 >
 > « Occupant knowledge, in short, is upwardly integrated. And this finally brings us to the crux of the difference between these two knowledge systems, of **habitation** and **occupation** respectively. In the first, a way of knowing is itself a path of movement through the world: the wayfarer literally ‘knows as he goes’ (Ingold 2000: 229–30), along a line of travel. The second, by contrast, is founded upon a categorical distinction between the mechanics of movement and the formation of knowledge, or between locomotion and cognition. Whereas the former cuts from point to point across the world, the latter builds up, from the array of points and the materials collected therefrom, into an integrated assembly. » (Ingold, 2016, p. 92)
 
-### agency
+
 
 > agency of maps over the land → acupuncture metaphore
 >
