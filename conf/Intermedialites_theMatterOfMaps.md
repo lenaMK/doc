@@ -2,43 +2,11 @@
 
 Lena MK
 
-> Notes for the oral presentation at ICC2025.
->
-> [slides](https://www.canva.com/design/DAGwKEEorIs/TsrGkygrVBarh4XfsfQvKg/view?utm_content=DAGwKEEorIs&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h55096ce7f3)
+> Article (writing in progress) for *Intermédialité* and oral presentation at ICC2025.
 
-## Presentation
+![](../img/installationView.JPG)
 
-### Intro
-
-- thank you
-- PhD candidate at Université de Montréal
-- with funding from the Canadian Social Sciences and Humanities Research Council
-
-***presentation* plan**
-
-
-
-### Diving in
-
-Art historian and programmer, making maps and data visualisation
-
-Developped a growing interest in maps, starting with historical institutional maps and all the way to contemporary artistic practices
-
-- Maps radically evolved in the last century
-  - definition, context and means of production of maps, as well as their materiality 
-  - from hand-drawn “official” (institutional) maps 
-  - to encompassing a wide variety of practices such as self-published digital visualisations or collective textile cartographic abstractions. 
-- **Critical inquiries** brought changes in cartographic practices by questioning and challenging 
-  - *what* and *who* are or aren’t part of a map
-  - *why* and *how* they are represented
-  - in addition to *who* participates *when* and *how* in the process of map-making.
-
-- Counter-cartography
-  - political practices of mapping back (13)
-
-
-
-Rest
+From critical cartography to counter-mapping, the matter of maps has been increasingly analysed, questioned, and experimented with. Their definition, context and means of production, as well as their materiality have radically evolved in the last century, from hand-drawn “official” (institutional) maps to encompassing a wide variety of practices such as self-published digital visualisations or collective textile cartographic abstractions. Critical inquiries brought changes in cartographic practices by questioning and challenging *what* and *who* are or aren’t part of a map, *why* and *how* they are represented, in addition to *who* participates *when* and *how* in the process of map-making. A wide range of examples demonstrating how each project pushes back to its local context is provided in *This is not an Atlas: a global collection of counter-cartographies* (Kollektif Orangotango+ 2018). Bringing these initiatives together into a publication also provides useful frame of reference, highlighting the collective change operating at a larger scale. As an art historian with a practice of cartography and data visualisation, my encounter with this book raised the question of how I could learn from it and work in this direction myself? 
 
 As counter-cartography tackles ways of thinking and ways of making, all the while considering the maker’s positionnality, it presents a good fit with the topic of restitution and reparation[^1]. On Turtle Island (or North America), restitution is always deeply interlinked with the land (Engel 2023). In art history, restitution also emerges in the question of narratives, in the stories and the histories that are told on a subject matter. For example, in the case of public art, which was generally commissioned by those in power, it has tended to the over-representation of normativity (Vernet 2021). Monuments and art in public space often present a bias toward *men* artists [^11], favouring settlers or those of European origins, a colonial and capitalistic vision of society, considering the land and people through the lens of power and control. However, especially in recent years, public art also began including artworks and artists who challenge these narratives (Alvarez Hernandez 2021). My engagement with public art comes from the work we do at Maison MONA, a cultural non-profit based in Tiohtià:ke · Montréal. Through research-action, artistic residencies and cultural outreach, we work at the crossroads between art and technology to the democratise and broaden access to art, heritage and culture in public spaces in the province of Québec. In a project tackling public art and its visibility in the digital space [^2], my colleagues and I worked on a data set of artists who have at least one public artwork in the MONA database. The frame of our project led us to analyze the dataset with a focus including gender identity. After years of experiencing the gender gap while doing research or preparing cultural outreach programs, it was the first time we could take a quantitative insight to analyse the presence of womxn creating in the public art context. This became an opportunity to tell a new story, about the entry of womxn artists in the public art sphere.
 
