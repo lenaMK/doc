@@ -10,58 +10,109 @@ Lena MK
 
 ### Intro
 
-- thank you
-- PhD candidate at Université de Montréal
-- with funding from the Canadian Social Sciences and Humanities Research Council
+- thank you , name
+- PhD candidate in art history and computer science at Université de Montréal
+  - doctoral research funded from the Canadian Social Sciences and Humanities Research Council
 
-***presentation* plan**
-
-
-
-### Diving in
-
-Art historian and programmer, making maps and data visualisation
-
-Developped a growing interest in maps, starting with historical institutional maps and all the way to contemporary artistic practices
-
-- Maps radically evolved in the last century
-  - definition, context and means of production of maps, as well as their materiality 
-  - from hand-drawn “official” (institutional) maps 
-  - to encompassing a wide variety of practices such as self-published digital visualisations or collective textile cartographic abstractions. 
-- **Critical inquiries** brought changes in cartographic practices by questioning and challenging 
-  - *what* and *who* are or aren’t part of a map
-  - *why* and *how* they are represented
-  - in addition to *who* participates *when* and *how* in the process of map-making.
-
-- Counter-cartography
-  - political practices of mapping back (13)
+- founder and technical director of Maison MONA
+  - cultural non–profit organisation aiming to make art more accessible in the province of Québec
 
 
+### [plan]
 
-Rest
+- Today, i will be presenting about a participatory installation titled *[…] and counting*. It’s main element is a map of public art made by wom·x·n in Tiohtià:ke · Montréal
+- begin by situating both the theoretical and territorial contexts of my work
+- then we will dwelve into more details of the research-creation process 
+  - (practice-based research)
+  - where theory serves as inspiration and practice provides fertile ground to further theory
 
-As counter-cartography tackles ways of thinking and ways of making, all the while considering the maker’s positionnality, it presents a good fit with the topic of restitution and reparation[^1]. On Turtle Island (or North America), restitution is always deeply interlinked with the land (Engel 2023). In art history, restitution also emerges in the question of narratives, in the stories and the histories that are told on a subject matter. For example, in the case of public art, which was generally commissioned by those in power, it has tended to the over-representation of normativity (Vernet 2021). Monuments and art in public space often present a bias toward *men* artists [^11], favouring settlers or those of European origins, a colonial and capitalistic vision of society, considering the land and people through the lens of power and control. However, especially in recent years, public art also began including artworks and artists who challenge these narratives (Alvarez Hernandez 2021). My engagement with public art comes from the work we do at Maison MONA, a cultural non-profit based in Tiohtià:ke · Montréal. Through research-action, artistic residencies and cultural outreach, we work at the crossroads between art and technology to the democratise and broaden access to art, heritage and culture in public spaces in the province of Québec. In a project tackling public art and its visibility in the digital space [^2], my colleagues and I worked on a data set of artists who have at least one public artwork in the MONA database. The frame of our project led us to analyze the dataset with a focus including gender identity. After years of experiencing the gender gap while doing research or preparing cultural outreach programs, it was the first time we could take a quantitative insight to analyse the presence of womxn creating in the public art context. This became an opportunity to tell a new story, about the entry of womxn artists in the public art sphere.
+### I :heart: Maps
+
+over the last ten years, i’ve developped a growing interest in maps, especially in how they have so radically evolved 
+
+- from hand-drawn “official” state maps 
+- to encompass a wide variety of practices
+  - self-published digital visualisations
+  - collective textile cartographic abstractions. 
+
+
+**Critical inquiries** brought changes into cartographic practices by questioning and challenging 
+
+- *what* and *who* are or aren’t part of a map
+- *why* and *how* they are represented
+- in addition to *who* participates *when* and *how* in the process of map-making.
+
+As an art historian and a programmer, I make maps and data visualisations
+
+- when I read about **Counter-cartography** and the political practices of mapping back (in this amazing publication)
+- I wondered how I can apply these ways of thinking and ways of making in my own research, in the field of public art
+
+
+
+### Public art
+
+Because they were generally commissioned by those in power, monuments and art in public space demonstrate many biases
+
+- presenting a predominance for *men* artists, 
+- favouring a colonial and capitalistic vision of society, 
+- considering the land and people through the lens of power and control
+
+However, especially in recent years, public art *also began* including artworks and artists who challenge these narratives
+
+My engagement with public art comes from the work we do at Maison MONA. Through cultural outreach, artistic residencies and research projects, we work at the crossroads between art and technology to the democratise and broaden access to art, heritage and culture in public spaces in the province of Québec. 
+
+- In a project tackling public art and its visibility in the digital space [^2], my colleagues and I worked on a data set of artists who have at least one public artwork in the MONA database. The frame of our project led us to analyze the dataset with a focus including gender identity. 
+- After years of experiencing the gender gap while doing research or preparing cultural outreach programs, it was the first time we could take a quantitative insight to analyse the presence of womxn creating in the public art context. 
+- This timeline is part of the initial data visualisations I developed
+
+I also saw an opportunity to tell a new story, about the entry of womxn artists in the public art sphere.
 
 - Who were the first womxn to contribute public artworks? 
 - When and where did they do so? 
 
-Counter-mapping, as methodology and as posture, became a strategy to renew the imaginaries of public art, thwarting the dominant narratives in order to share a more diverse history of public art. This paper therefore aims to contribute to the contemporary mapping landscape from an art historical perspective with *\[…\] and counting*, a research-creation project on public art by womxn in Tiohtià:ke · Montréal. It also strives to challenge how we think about and through maps, how we might “use” them and how they work through us.
+Counter-mapping, as methodology and as posture, became a strategy to renew the imaginaries of public art, thwarting the dominant narratives in order to share a more diverse history of public art. 
 
-Inscribing the elements of *[…] and counting* into an academic narrative is an opportunity to expose the back-and-forth dynamic between research and creation, where theory serves as inspiration and practice provides fertile ground to further theory. This article takes the reader on a spatial journey through the installation, following a slow backwards movement. It begins nested deep in the soft creases of the fur-covered surface of the map, in the heart of the material questions. Progressively zooming out, we slowly distinguish the shapes and objects that construct a new story of womxn and public art in Tiohtià:ke · Montréal. <!--theory: wayfinding-->
+### [Turtle island]
 
-Leaving its rugged edges, we enter the space of its installation and the temporality of its participatory activation.
+Western scientific, colonial and imperial uses of maps have been long critiqued
 
-<!--amener le processus - devient narratif (journal/log/diary ?)- requiert d’être précisé pour clarifier le sens pour les lecteurs. Start with zoom in - intimacy. Brings in positionality, related to cartography? talks about space and placing the reader in relation to the map. -->
+- counter-cartography is an approach aiming to reverse these power dynamics and produce more diverse epistemologies
 
-### Deep within the soft creases
+crucial in regards to my own positionnality on Turtle Island
 
-As a researcher of mixed transnational origins who settled in Tiohtià:ke · Montréal, working with cartography on unceeded territory has heavy historical and contemporary implications. The western scientific, colonial and imperial uses of maps is strongly critiqued in critical, radical, and decolonial cartography, as documented in Martel and MK (2023). Counter-cartography, in aiming to reverse these power dynamics and produce more diverse epistemologies, can look to  “indigenous cartography \[as] inspiration for non-hegemonic and emancipatory practices.” (Halder and Michel 2018). Indigenous artists and writers have structured counter-mapping discourses using Indigenous epistemologies. By creating theoretical frameworks from personal, collective, and mythological stories, they reactivate the kinship networks that also shape ancestral laws, land management practices and modes of identity formation (Marcoux 2024). 
+- As a researcher of mixed transnational origins who settled in Tiohtià:ke · Montréal
+- also right now, as we are currently on unceded and ancestral territories of the Coast Salish peoples
+- cartography on and of unceded territory must be considered with its substantial historical and contemporary implications 
 
-Decolonial narratives and monuments can also provide relevant approaches to counter institutional practices. *PeoPL* (2018) by Laura Nsengiyumva is a reproduction of the Léopold II’s equestrian statue made of ice. The pedestal, placed upside-down above the sculpture, is fitted with incandescent lamps that slowly melt the sculpture during its exhibition at the Nuit Blanche 2018 in Brussels (Bisschop 2022, Yakoub 2021). *On Monumental Silences* (2018) by Ibrahim Mahama presents reinterpretations of a monument to the missionary-father De Deken, including a collective and participatory performance in which the public was invited to interact – mutilate, destroy, remodel – a clay reproduction of the monument (Bisschop 2022). Both artists used careful consideration to reflect the stakes of their narrative in the materials chosen to enact them. 
+In short, I didn’t want to just **make** a « map ». 
 
-<!--continuer au présent? -->
+challenge how we think about maps, how we “use” them and how they work through us.
 
-In the theoretical sphere, new materialisms and authors such as Karen Barad argue that « *matter matters*: the material matters because it bears meaning » (Vitali Rosati, 2024, p. 62). Therefore considering that ideas, thoughts and concepts are expressed in a physical, material instance, the medium I chose for my map needed to effectively defy colonial mindsets about the territory. Instead of the virgin *terra nullius* symbolised by a blank sheet of paper, *the* bureaucratic medium, I thought that raw organic material (untreated/not industrially produced and transformed) could convey the living  nature of the land. As I was researching this question, it happened to be the bi-annual shedding of my (late) dog, Saphira. Her fluffy and soft fur attracted people to the point I sometimes noticed them “discreetly” reaching to try to touch it as we cross paths on the street. This intuitive touch was exactly what I was aiming for, and her shedding seemed an excellent way to use an organic material whilst preserving any waste, destruction or loss of life in its sourcing[^3]. Far from disposing of the shedding, I often used to leave little bundles out and about for animals to pad their nests with. It is the fabric of homes, bringing insulation and comfort in both its origin and reuse in the wild (? non human; animal realm). 
+### [Matter matters]
+
+> What should this map look like, what shall it be made of?
+
+I drew inspiration from an essay by Allison Biscchop presenting two artists whose practice pursue the decolonisation of public space in Belgium. She highlights how these artists, I quote « produce alternative readings and new plastic languages in response to the presence of colonial monuments in public space and the predominant Eurocentric vision that emanates from them. »
+
+- *PeoPL* (2018) by Laura Nsengiyumva
+  - starting point: Léopold II’s equestrian statue, one of the many heroisations of the royal figure that occupy public space in Brussels
+  - created a replica from ice, then placed its pedestal upside-down above the sculpture,
+  -  is fitted with incandescent lamps that slowly melted the sculpture during its exhibition at the Nuit Blanche 2018 in Brussels
+- *On Monumental Silences* (2018) by Ibrahim Mahama presents 
+  - reinterpretations of a monument to the missionary-father De Deken
+  - including a collective and participatory performance in which the public was invited to interact – mutilate, destroy, remodel – a clay reproduction of the monument (Bisschop 2022). 
+
+1. Both artists found a way to reflect the stakes of the narrative in the materials chosen to enact them
+2. I find that by changing medium, the artists proceed to a profanation (Agamben), or desecration, of the monument that turns the colonial apparatus against itself. 
+3. By enacting them in public, or even with the public, they created a sort of cleansing or healing ritual, creating a new shared history and showing us a way forward.
+
+
+
+
+
+
+
+Therefore considering that ideas, thoughts and concepts are expressed in a physical, material instance, the medium I chose for my map needed to effectively defy colonial mindsets about the territory. Instead of the virgin *terra nullius* symbolised by a blank sheet of paper, *the* bureaucratic medium, I thought that raw organic material (untreated/not industrially produced and transformed) could convey the living  nature of the land. As I was researching this question, it happened to be the bi-annual shedding of my (late) dog, Saphira. Her fluffy and soft fur attracted people to the point I sometimes noticed them “discreetly” reaching to try to touch it as we cross paths on the street. This intuitive touch was exactly what I was aiming for, and her shedding seemed an excellent way to use an organic material whilst preserving any waste, destruction or loss of life in its sourcing[^3]. Far from disposing of the shedding, I often used to leave little bundles out and about for animals to pad their nests with. It is the fabric of homes, bringing insulation and comfort in both its origin and reuse in the wild (? non human; animal realm). 
 
 Thus I created my basemap by covering a white insulation panel, the structural base for the map, with the off-white shedding. From the originally rectangular shape of the panel – an unused byproduct of my partner’s work in construction –,  I cut out the shape of the island of Tiohtià:ke · Montréal, choosing a natural border over the colonial government’s administrative demarcations. The rough edges of the hand-trimmed Styrofoam contrast with the rectangular, glossy or slick sheets of paper commonly used for maps. As an attempt to forgo the capitalist, extractivist and alienating urban network set by the automotive industry, I chose a reference grid formed by the [open data on cycling paths](https://www.donneesquebec.ca/recherche/dataset/vmtl-pistes-cyclables). Using a projector, I superimposed the digital map and traced the routes with a light orange felt pen. To affix the shedding to the panel, I drew upon my drag experience: to make an artificial beard, one simply glues patches of hair to the intended area. Though the first bushes rarely seem convincing, persevering patiently usually leads to a satisfying result. I therefore proceeded to glue little balls of fur to the surface, following the pathways. Some areas are detailed enough to reveal the urban grid, while others are visually covered in off-white fur. In a western section of the island, the insulation panel remains visible as I ran out of shedding. 
 
