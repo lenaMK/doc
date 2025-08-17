@@ -170,20 +170,9 @@ I found that using acupuncture needles could well embody both these stakes.
 I therefore decided to use needles to activate the location of each artwork by a woman on my map.
 
 - Following a chronological order materialised a narrative of how womxn artists progressively entered public space
-- and emphasised their relation to each other. 
+- and it emphasised their relation to each other. 
 
-### Rituals (no slide change)
-
-I only realized the extent of the ritualistic dimension during its practice
-
-- searching for my paths
-- carefully placing a needle for each artwork onto the map
-- I felt an agency both upon the history and the geography of public art made by womxn
-- It seemed almost necessary to share this feeling with others
-
-I also had to slve the questions of
-
-> “how many needles should I place? When is this piece complete or when do I stop?”. 
+> But how many should I place?
 
 ### Timeline highlight
 
@@ -198,7 +187,7 @@ Going back to the chronological view
 
 I therefore chose to begin the map with these 18 needles.
 
-The following are still to be activated, just as this history is yet to be made.
+
 
 ### [Screen and map view]
 
@@ -215,6 +204,21 @@ in a minimal, almost « bare » computing approach
 - accessing the artwork details through the browser console to learn about the artwork
 - and foraging around the fur patches to find my way
 
+
+
+### Rituals (no slide change)
+
+It was only while I was doing it, that I realised how much this approach neared a ritual
+
+- searching for my paths
+- carefully placing a needle for each artwork onto the map
+
+I felt an **agency** both upon the history and the geography of public art made by womxn
+
+It seemed almost necessary to share this feeling with others
+
+
+
 ### Participatory activation
 
 To share this experience, I created an ongoing activation process. 
@@ -223,7 +227,7 @@ There you can see
 
 - the map propped up to a table’s height
 - is accompanied by a computer and a second screen, displaying respectively the source code and a digital version of the map
--  Participants are invited (with my help) to
+-  Participants are invited to
   - add “to the count” in the code,
   - search for the new artwork that appeared on the digital map,
   - and place a new needle on the equivalent location of the physical map.
@@ -236,7 +240,19 @@ The participatory process also became a way to reveal my methods:
 
 ### Conclusion?
 
-It’s hard to find a conclusion to an open-ended thought process. As I read, write and talk about this map, new ideas and associations keep accumulating. I hope to reach a satisfying form in an upcoming article, but I do look forward to « mixing it up » a little more with your feedback and comments before committing to the written word.
+The map currently states *28 and counting*. 
+
+- The following are still to be activated, just as this history is yet to be made. 
+- I wish we could have continued at ICC2025, but I couldn’t find a solution to the transport constraints
+- Perhaps these constraints are another way to anchor the map to the territory, as it simply can’t go as far from it as we do 
+
+In closing, I hope to have contributed some thoughts on counter-mapping through situated, material and sensory interfaces to this exciting conference.
+
+The scripts, data visualisation and some documentation are available online. Please don’t hesitate to contact me if you have any follow up questions, I’m especially welcoming feedback as I am planning a publication on the matter.
+
+Thank you very much! 
+
+---
 
 
 
@@ -246,12 +262,11 @@ It’s hard to find a conclusion to an open-ended thought process. As I read, wr
 - what’s the current count? 
 - how did you make the texture? drag → making a beard
 - orientation? montreal north is 57° off the cardinal north
+- when are the participatory activations? when I find a local opportunity. So far, there was one last Spring at my university.
 
 
 
-![(../img/andCounting_detail.JPG)
 
-<figcaption style="text-align:right ">Photograph of *\[...\] and Counting* (detail), 2024  <br>CC-BY-SA Lena MK</figcaption>
 
 ---
 
