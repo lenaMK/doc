@@ -15,7 +15,11 @@ As counter-cartography tackles ways of thinking and ways of making, all the whil
 
 Counter-mapping, as methodology and as posture, became a strategy to renew the imaginaries of public art, thwarting the dominant narratives in order to share a more diverse history of public art. This paper therefore aims to contribute to the contemporary mapping landscape from an art historical perspective with *\[…\] and counting*, a research-creation project on public art by womxn in Tiohtià:ke · Montréal. It also strives to challenge how we think about and through maps, how we might “use” them and how they work through us.
 
-Inscribing the elements of *[…] and counting* into an academic narrative is an opportunity to expose the back-and-forth dynamic between research and creation, where theory serves as inspiration and practice provides fertile ground to further theory. This article takes the reader on a spatial journey through the installation, following a slow backwards movement. It begins nested deep in the soft creases of the fur-covered surface of the map, in the heart of the material questions. Progressively zooming out, we slowly distinguish the shapes and objects that construct a new story of womxn and public art in Tiohtià:ke · Montréal. <!--theory: wayfinding-->
+Inscribing the elements of *[…] and counting* into an academic narrative is an opportunity to expose the back-and-forth dynamic between research and creation, where theory serves as inspiration and practice provides fertile ground to further theory. 
+
+<!--suchet?-->
+
+This article takes the reader on a spatial journey through the installation, following a slow backwards movement. It begins nested deep in the soft creases of the fur-covered surface of the map, in the heart of the material questions. Progressively zooming out, we slowly distinguish the shapes and objects that construct a new story of womxn and public art in Tiohtià:ke · Montréal. <!--theory: wayfinding-->
 
 Leaving its rugged edges, we enter the space of its installation and the temporality of its participatory activation.
 

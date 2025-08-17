@@ -23,8 +23,8 @@ Lena MK
 - Today, i will be presenting a participatory installation titled *[…] and counting*. It’s main element is a map of public art made by wom·x·n in Tiohtià:ke · Montréal
 - I’ll begin by situating both the theoretical and territorial contexts of my work
 - then we will delve into more details of the research-creation process 
-  - a type of practice-based research
-  - where theory serves as inspiration 
+  - by which I mean a type of practice-based research
+  - where theory serves as inspiration for creation
   - and practice provides fertile ground to further theory
 
 ### I :heart: Maps
@@ -51,10 +51,12 @@ such as
 
 However, especially in recent years, we can see more and more artworks and artists who challenge these narratives
 
-My engagement with public art comes from the work we do at Maison MONA. Through cultural outreach, artistic residencies and research projects, we work at the crossroads between art and technology to the democratise and broaden access to art, heritage and culture in public spaces in the province of Québec. 
+Both these examples are local btw
 
-- In a project tackling public art and its visibility in the digital space [^2], my colleagues and I worked on a data set of artists who have at least one public artwork in our database. The frame of our project led us to analyze the dataset with a focus including gender identity. 
-- [timeline]
+My engagement with public art comes from the work we do at Maison MONA. Through cultural outreach, artistic residencies and research projects, we work at the crossroads between art and technology to the democratise access to art, heritage and culture in public space.
+
+- In a project tackling public art’s visibility in the digital space [^2], my colleagues and I worked on a data set of artists who have at least one public artwork in our database. The frame of our project led us to analyze the dataset with a focus including gender identity. 
+- [**timeline**]
 - After years of experiencing the gender gap while doing research or preparing cultural outreach programs, it was the first time we could take a quantitative insight to analyse the presence of womxn creating in the public art context. 
 
 I also saw an opportunity to tell a new story, about the entry of womxn artists in the public sphere.
@@ -87,7 +89,7 @@ I drew inspiration from an essay by Allison Bischop presenting two artists whose
   - the artist first created an ice replica of the statue, then placed its pedestal upside-down above the sculpture,
   - the pedestal was fitted with incandescent lamps that slowly melted the sculpture during its exhibition
 
-  [slide]
+  [**slide**]
 
 - *On Monumental Silences* by Ibrahim Mahama  
 
@@ -95,16 +97,16 @@ I drew inspiration from an essay by Allison Bischop presenting two artists whose
   - it included a collective and participatory performance 
   - in which the public was invited to interact – by which i mean mutilate, destroy, remodel – a clay reproduction of the monument 
 
-1. Both artists found a way to reflect the stakes of their narrative in the materials chosen to enact them
-2. By enacting them in public, or even with the public, they provide a sort of cleansing or healing ritual, creating a new shared history and showing us a way forward.
+1. Both artists found a way to reflect the **stakes** of their narrative in the **materials** chosen to enact them
+2. By enacting them in public, or even **with** the public, they provide a sort of cleansing or healing ritual, creating a new shared history and showing us a way forward.
 
 ### Matter matters
 
-In the theoretical sphere, these ideas relate to *new materialisms* and authors such as Karen Barad, arguing that « *matter matters*: the material matters because it bears meaning » (Vitali Rosati, 2024, p. 62).
+In the theoretical sphere, these ideas relate to *new materialisms* and authors such as Karen Barad, arguing that « *matter matters*: the *material* matters because it **bears** meaning » (Vitali Rosati, 2024, p. 62).
 
 Considering that ideas, thoughts and concepts are expressed in a physical, material instance
 
-- the medium I choose for my map needed to effectively defy colonial mindsets about the territory
+- my map’s medium needed to effectively defy colonial mindsets about the territory
   - instead of the virgin *terra nullius* 
   - one could associate with a blank sheet of paper, *the* bureaucratic medium
 - i looked for a raw, organic material
@@ -115,7 +117,8 @@ As I was researching this question, it happened to be the bi-annual shedding of 
 
 ### Saphira
 
-- Her fluffy and soft fur attracted people to the point I sometimes noticed them “discreetly” reaching to try to touch it as we cross paths on the street. 
+- Her fluffy and soft fur was like a tactile magnet
+- I often noticed people, “discreetly” reaching their hand out, trying to touch it as we crossed paths on the street. 
 - This intuitive touch was exactly what I was aiming for, and her shedding seemed an excellent way to use an organic material whilst preserving any waste, destruction or loss of life in its sourcing[^3]. 
 
 Thus I created my basemap 
@@ -142,25 +145,25 @@ Yet the fuzzy hair can’t quite be tamed, and thus the surface of the map only 
 - Instead, tactility creates a sensory experience, where one physically interacts with the map
 - our senses are enhanced by the use of an organic material
   - especially one that sparks our curiosity
-- in the cultural realm, art historian Julia Bryan Wilson argues that the use of organic matter, 
+- in museums, for example, art historian Julia Bryan Wilson argues that the use of organic matter, 
   - which she affectionately nicknames critters and furry beasts
   - “combat the normal ‘hands-off’ protocols of art spectatorship” 
 
-***– 4min –*** (no slide change)
+***– 4min –*** **(no slide change)**
 
 Quite on the contrary to the *hands-off* paradigm,
 
 - a sensory and tactile interaction is central to this proposal
-- as the haziness of surface decenters our visual habits
+- as the haziness of the surface decenters our visual habits
   - the paths are hard to see.
   - our fingers must gently parse the fur to find and follow the arteries
   - touch becomes the guiding sense through the interface of the map
 
 ### Sensory experience
 
-Going back to the power of rituals, and still thinking about tactility,
+Thinking about tactile care practices,
 
-I found that using acupuncture needles could well embody both these stakes. 
+I found that using acupuncture needles could provide a form of ritual. 
 
 - Acupuncture is an alternative medicine practice that defies western scientific knowledges. 
 - Following ancient asian traditions, needles are used to stimulate selected locations of the body.
@@ -199,25 +202,18 @@ As you can see from this preliminary picture,
 
 in a minimal, almost « bare » computing approach
 
-- I did not work go beyond the basic UI/UX
+- I did not go beyond the basic UI/UX
 - instead, I wanted to take the time to search for the each new dot as it appeared on the screen
-- accessing the artwork details through the browser console to learn about the artwork
+- accessing the artwork details through the browser console to learn about it
 - and foraging around the fur patches to find my way
 
+### Rituals
 
+It was only while I was doing it, that I realised how ritualistic it felt
 
-### Rituals (no slide change)
-
-It was only while I was doing it, that I realised how much this approach neared a ritual
-
-- searching for my paths
 - carefully placing a needle for each artwork onto the map
-
-I felt an **agency** both upon the history and the geography of public art made by womxn
-
-It seemed almost necessary to share this feeling with others
-
-
+- I felt an **agency** both upon the history and the geography of public art made by womxn
+- It seemed almost necessary to share this feeling with others
 
 ### Participatory activation
 
