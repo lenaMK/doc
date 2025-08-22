@@ -4,7 +4,7 @@ Recherche-création doctorale de [Lena MK](http://lenamk.site), 2023-2027, Unive
 
 
 
-## Écrire
+## 
 
 ### Examen de synthèse, mai 2025
 
@@ -38,6 +38,9 @@ Recherche-création doctorale de [Lena MK](http://lenamk.site), 2023-2027, Unive
 ### Conférences
 
 - « The Matter of Maps. A Public Art Experiment », présentation orale à [ICC2025](https://icc2025.com/) *Mapping the Future: Innovation, Inclusion, and Sustainability* du 16 au 22 août à Vancouver, et article à suivre dans le N°47 *Contre-cartographier / Counter-mapping* de la revue [Intermédialités](http://intermedialites.com/appel-a-contributions-no-47-contre-cartographier-counter-mapping/)
+  - [Notes from the presentation](./conf/ICC2025_theMatterOfMaps)
+  - [Article](./conf/Intermedialites_theMatterOfMaps) (writing in progess)
+
 - Avec Cassandre Roy, « La recherche-création en histoire de l’art :  Perspectives actuelles et futures », panel pour les Journées d’étude du  doctorat interuniversitaire en histoire de l’art *Trois décennies d’histoire de l’art à Montréal · Three Decades of Art History in Montreal Doc-Inter (1994-2024)*, 1er mai 2025, Montréal 
 - [Imagining public art : feminist and algorithmic cartographies](./conf/ecoleDePrintemps_project), notes de la conférence présentée à la *XXIIème École de printemps d’histoire de l’art*, « Social imagining and the role of images, artworks and buildings », Weimar, Allemagne, 17 au 21 juin 2024
 

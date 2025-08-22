@@ -5,6 +5,8 @@ Lena MK
 > Notes for the oral presentation at ICC2025.
 >
 > [slides](https://www.canva.com/design/DAGwKEEorIs/TsrGkygrVBarh4XfsfQvKg/view?utm_content=DAGwKEEorIs&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h55096ce7f3)
+>
+> will be published as an [article](./Intermedialites_theMatterOfMaps)) (writing in progress) for *Intermédialités*
 
 ## Presentation
 
