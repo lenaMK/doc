@@ -6,13 +6,13 @@ Lena MK
 >
 > [slides](https://www.canva.com/design/DAGwKEEorIs/TsrGkygrVBarh4XfsfQvKg/view?utm_content=DAGwKEEorIs&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h55096ce7f3)
 >
-> will be published as an [article](./Intermedialites_theMatterOfMaps)) (writing in progress) for *Intermédialités*
+> will be published as an [article](./Intermedialites_theMatterOfMaps) (writing in progress) for *Intermédialités*
 
 ## Presentation
 
 ### Intro
 
-- thank you , name
+- thank you , intro
 - PhD candidate in art history and computer science at Université de Montréal
   - doctoral research funded by the Canadian Social Sciences and Humanities Research Council
 
@@ -277,6 +277,8 @@ This proposal is an extension of the research project *Towards a digital commons
 
 
 #### References
+
+(to be completed)
 
 - Agamben, Giorgio. 2007. *Qu’est-ce qu’un dispositif?* Payot & Rivages.
 - Alvarez Hernandez, « Le monument dans un champ élargi : les pratiques performatives de Giorgia Volpe, Claudia Bernal et Constanza Camelo Suarez », *Espace art actuel*,  dossier thématique « Sortir/Come out », Laurent Vernet  (rédacteur invité), no 127, hiver 2021, p.  14-21. https://www.erudit.org/en/journals/espace/2021-n127-espace05876/95142ac/
