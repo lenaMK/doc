@@ -8,7 +8,7 @@ From critical cartography to counter-mapping, the matter of maps has been increa
 
 [*re-write intro, remove restitution to directly tackle counter-cartographic approaches and narratives*]
 
-As counter-cartography tackles ways of thinking and ways of making, all the while considering the maker’s positionnality, it presents a good fit with the topic of restitution and reparation[^1]. On Turtle Island (or North America), restitution is always deeply interlinked with the land (Engel 2023). In art history, restitution also emerges in the question of narratives, in the stories and the histories that are told on a subject matter. For example, in the case of public art, which was generally commissioned by those in power, it has tended to the over-representation of normativity (Vernet 2021). Monuments and art in public space often present a bias toward *men* artists [^2], favouring settlers or those of European origins, a colonial and capitalistic vision of society, considering the land and people through the lens of power and control. However, especially in recent years, public art also began including artworks and artists who challenge these narratives (Alvarez Hernandez 2021). My engagement with public art comes from the work we do at Maison MONA, a cultural non-profit based in Tiohtià:ke · Montréal. Through research-action, artistic residencies and cultural outreach, we work at the crossroads between art and technology to the democratise and broaden access to art, heritage and culture in public spaces in the province of Québec. In a project tackling public art and its visibility in the digital space [3](https://github.com/lenaMK/doc/commit/27907658c0b7fe8c2277a76a582effbcf9f7947f#user-content-fn-2-edc20a6d390a37ec82e0dbcd4d294f03), my colleagues and I worked on a data set of artists who have at least one public artwork in the MONA database. The frame of our project led us to analyze the dataset with a focus including gender identity. After years of experiencing the gender gap while doing research or preparing cultural outreach programs, it was the first time we could take a quantitative insight to analyse the presence of womxn creating in the public art context. This became an opportunity to tell a new story, about the entry of womxn artists in the public art sphere.
+As counter-cartography tackles ways of thinking and ways of making, all the while considering the maker’s positionnality, it presents a good fit with the topic of restitution and reparation[^1]. On Turtle Island (or North America), restitution is always deeply interlinked with the land (Engel 2023). In art history, restitution also emerges in the question of narratives, in the stories and the histories that are told on a subject matter. For example, in the case of public art, which was generally commissioned by those in power, it has tended to the over-representation of normativity (Vernet 2021). Monuments and art in public space often present a bias toward *men* artists [^2], favouring settlers or those of European origins, a colonial and capitalistic vision of society, considering the land and people through the lens of power and control. However, especially in recent years, public art also began including artworks and artists who challenge these narratives (Alvarez Hernandez 2021). My engagement with public art comes from the work we do at Maison MONA, a cultural non-profit based in Tiohtià:ke · Montréal. Through research-action, artistic residencies and cultural outreach, we work at the crossroads between art and technology to the democratise and broaden access to art, heritage and culture in public spaces in the province of Québec. In a project tackling public art and its visibility in the digital space [^3], my colleagues and I worked on a data set of artists who have at least one public artwork in the MONA database. The frame of our project led us to analyze the dataset with a focus including gender identity. After years of experiencing the gender gap while doing research or preparing cultural outreach programs, it was the first time we could take a quantitative insight to analyse the presence of womxn creating in the public art context. This became an opportunity to tell a new story, about the entry of womxn artists in the public art sphere.
 
 - Who were the first womxn to contribute public artworks?
 - When and where did they do so?
@@ -27,7 +27,7 @@ As a researcher of mixed transnational origins who settled in Tiohtià:ke · Mon
 
 Decolonial narratives and monuments can also provide relevant approaches to counter institutional practices. *PeoPL* (2018) by Laura Nsengiyumva is a reproduction of the Léopold II’s equestrian statue made of ice. The pedestal, placed upside-down above the sculpture, is fitted with incandescent lamps that slowly melt the sculpture during its exhibition at the Nuit Blanche 2018 in Brussels (Bisschop 2022, Yakoub 2021). *On Monumental Silences* (2018) by Ibrahim Mahama presents reinterpretations of a monument to the missionary-father De Deken, including a collective and participatory performance in which the public was invited to interact – mutilate, destroy, remodel – a clay reproduction of the monument (Bisschop 2022). Both artists used careful consideration to reflect the stakes of their narrative in the materials chosen to enact them.
 
-In the theoretical sphere, new materialisms and authors such as Karen Barad argue that « *matter matters*: the material matters because it bears meaning » (Vitali Rosati, 2024, p. 62). Therefore considering that ideas, thoughts and concepts are expressed in a physical, material instance, the medium I chose for my map needed to effectively defy colonial mindsets about the territory. Instead of the virgin *terra nullius* symbolised by a blank sheet of paper, *the* bureaucratic medium, I thought that raw organic material (untreated/not industrially produced and transformed) could convey the living nature of the land. As I was researching this question, it happened to be the bi-annual shedding of my (late) dog, Saphira. Her fluffy and soft fur attracted people to the point I sometimes noticed them “discreetly” reaching to try to touch it as we cross paths on the street. This intuitive touch was exactly what I was aiming for, and her shedding seemed an excellent way to use an organic material whilst preserving any waste, destruction or loss of life in its sourcing[4](https://github.com/lenaMK/doc/commit/27907658c0b7fe8c2277a76a582effbcf9f7947f#user-content-fn-3-edc20a6d390a37ec82e0dbcd4d294f03). Far from disposing of the shedding, I often used to leave little bundles out and about for animals to pad their nests with. It is the fabric of homes, bringing insulation and comfort in both its origin and reuse in the wild (? non human; animal realm).
+In the theoretical sphere, new materialisms and authors such as Karen Barad argue that « *matter matters*: the material matters because it bears meaning » (Vitali Rosati, 2024, p. 62). Therefore considering that ideas, thoughts and concepts are expressed in a physical, material instance, the medium I chose for my map needed to effectively defy colonial mindsets about the territory. Instead of the virgin *terra nullius* symbolised by a blank sheet of paper, *the* bureaucratic medium, I thought that raw organic material (untreated/not industrially produced and transformed) could convey the living nature of the land. As I was researching this question, it happened to be the bi-annual shedding of my dog Saphira. Her fluffy and soft fur attracted people to the point I sometimes noticed them “discreetly” reaching to try to touch it as we cross paths on the street. This intuitive touch was exactly what I was aiming for, and her shedding seemed an excellent way to use an organic material whilst preserving any waste, destruction or loss of life in its sourcing [^4]. Far from disposing of the shedding, I often used to leave little bundles out and about for animals to pad their nests with. It is the fabric of homes, bringing insulation and comfort in both its origin and reuse in the wild (? non human; animal realm).
 
 Thus I created my basemap by covering a white insulation panel, the structural base for the map, with the off-white shedding. From the originally rectangular shape of the panel – an unused byproduct of my partner’s work in construction –, I cut out the shape of the island of Tiohtià:ke · Montréal, choosing a natural border over the colonial government’s administrative demarcations. The rough edges of the hand-trimmed Styrofoam contrast with the rectangular, glossy or slick sheets of paper commonly used for maps. As an attempt to forgo the capitalist, extractivist and alienating urban network set by the automotive industry, I chose a reference grid formed by the [open data on cycling paths](https://www.donneesquebec.ca/recherche/dataset/vmtl-pistes-cyclables). Using a projector, I superimposed the digital map and traced the routes with a light orange felt pen. To affix the shedding to the panel, I drew upon my drag experience: to make an artificial beard, one simply glues patches of hair to the intended area. Though the first bushes rarely seem convincing, persevering patiently usually leads to a satisfying result. I therefore proceeded to glue little balls of fur to the surface, following the pathways. Some areas are detailed enough to reveal the urban grid, while others are visually covered in off-white fur. In a western section of the island, the insulation panel remains visible as I ran out of shedding.
 
@@ -75,58 +75,38 @@ Going beyond vision makes space for tactile ways of knowing responding to Bruce 
 
 Thinking about tactile care practices, I found that using acupuncture needles could provide a form of ritual. Acupuncture is an alternative medicine practice that defies western scientific knowledges. Following ancient asian traditions, needles are used to stimulate selected locations of the body. (Acupuncture) needles can provoke physical reactions: sometimes even just on sight, they are associated with a feeling of them piercing skin and even causing bloodshed. I therefore decided to use needles to activate the location of each artwork by a woman on my map.
 
-Using a chronological order materialises a narrative of how womxn artists progressively entered public space, emphasising their relation to each other. While exploring the chronological view of the data, where each dot is a public artwork in our dataset[^4], I noted several phases. First, the lonely outliers, sparsely 
-
-I also wanted to include the first cluster, between 1982 and 1987, where some of them were finally able to stand together
-
-
-
-in sum, those that defied the odds in a public art sphere blatantly dominated by men
-
-I therefore chose to begin the map with these 18 needles. 
+Using a chronological order materialises a narrative of how womxn artists progressively entered public space, emphasising their relation to each other. While exploring a chronological view of the data where each dot is a public artwork (Figure 1), I noted several phases. First, the outliers, sparsely distributed on the timeline up to 1981. Then, a first cluster forms between 1982 and 1987. It felt like some of them were finally able to stand together. More clusters come after that, following waves of public art production. I chose to begin the map with the first 18 artworks by womxn, those that defied the odds in a public art sphere blatantly dominated by men [^5].
 
 ![Timeline of gender repartition in public art (1950 - 2024)](../img/GenderInPublicArt_timeline.png)
 
-<figcaption style=" text-align: right " id="fig11">Figure [tbc]: Timeline of artworks in MONA database, ordered by <br>À droite: Deux motifs de la galerie d’art ASCII, sans auteur·rice documenté·e, s.d.</figcaption>
+<figcaption style=" text-align: right " id="fig11">Figure 1: Timeline of artworks in MONA database. This view starts in 1951, when a yearly production cycle becomes apparent in our data.</figcaption>
 
+To place each needle, I was using a digital map generated on my laptop with a d3.js script. Then I visually followed the cycling paths to find the artwork’s location. Between every needle, i « upped » the count, updating the title that was generated on the digital map. In a minimal, almost « bare » computing approach, I did not go beyond the basic UI/UX for the digital map. Instead, I wanted to take the time to search for the each new dot as it appeared on the screen, accessing the artwork details through the browser console to learn about it and foraging around the fur patches to find my way.
 
+### Making .
 
+As if performing a ritual, the experience of carefully placing each of the 18 needles brought a feeling of agency, both upon the history and the geography of public art made by womxn. It seemed almost necessary to share this feeling with others, embracing the collective approach to promote a history in the making. *\[…\] and couting* became an installation intented for participatory activation. In such setting the map rests flat, propped up to a table’s height. It is accompanied by a computer and a second screen, displaying respectively the source code and a digital version of the map run on a localhost. Participants are invited to 
 
+1. add “to the count” in the code,
+2. search for the new artwork that appeared on the digital map, using the browser console to access its metadata,
+3. and place a new needle on the equivalent location of the physical map.
 
-I only realized the extent of the ritualistic dimension during its practice: carefully placing a needle for each artwork onto the map, I felt an agency both upon the history and the geography of public art made by womxn. It seemed almost necessary to share this feeling with others, and also solved the questions of “how many needles should I place? When is this piece complete or when do I stop?”.
-
-data, code, map
-
-\~~~~
-
-?
-
-~~ ~~
-
-Story-making / story telling
-
-\~~~~
-
-> how we « use » maps
->
-> requires participation / exchange:
->
-> - low visibility: effort to « read »
-> - data on interface: working between the mediums
-
-description of installation + participatory approach
-
-\~~~~~~ *\[…\] and couting* became an installation focusing on the history of public art made by womxn. Its central component is a map of the Tiohtià:ke · Montréal, cut out from a white insulating panel made of extruded polystyrene a few centimeters thick. It is about 1.5 meters at its longest and half as wide, forming a crescent characteristic of the island’s topography. Its surface is covered in patches of white-beige dog hair. The patches fill the gaps between the pattern formed by the urban cycling paths, hand drawn with a light orange felt pen. Sticking out from the patches are acupuncture needles indicating the location of the first – 18 at the instantiation of the project – public artworks made by womxn. For its participatory activation, the map rests flat, propped up to a table’s height. It is accompanied by a computer and a second screen, displaying respectively the source code and a digital version of the map run on a localhost. Participants are invited to ~~
-
-- add “to the count” in the code,
-- search for the new artwork that appeared on the digital map, using the browser console to access its metadata,
-- and place a new needle on the equivalent location of the physical map.
-
-To find the location, they can use the other needles/artworks as references while also following the both tactile and visual topographical references of the cycling paths and the fur patches. The title updates the count as each participatory action enriches the map, progressively activating a new narrative on public art and its history [5](https://github.com/lenaMK/doc/commit/27907658c0b7fe8c2277a76a582effbcf9f7947f#user-content-fn-5-edc20a6d390a37ec82e0dbcd4d294f03). The participatory process also became a way to reveal my methods: I use data and write code to create digital visualisations and maps. Exhibiting the code and the digital map reinstates this algorithmic approach even when the “end result” is a physical map[6](https://github.com/lenaMK/doc/commit/27907658c0b7fe8c2277a76a582effbcf9f7947f#user-content-fn-6-edc20a6d390a37ec82e0dbcd4d294f03). 
+To find the location, they can use the other needles/artworks as references while also following the both tactile and visual topographical references of the cycling paths and the fur patches. The title updates the count as each participatory action enriches the map, progressively activating a new narrative on public art and its history [^9]. The participatory process also became a way to reveal my methods: I use data and write code to create digital visualisations and maps. Exhibiting the code and the digital map reinstates this algorithmic approach even when the “end result” is a physical map[^6]. 
 
 The following are still to be activated, just as this history is yet to be made.
 
+### conclusions
 
+In closing, I hope to have contributed some thoughts on counter-mapping through situated, material and sensory interfaces to this exciting conference.
+
+
+
+*questions/ opening to other avenues*
+
+ when and where to be activated? not too far
+
+- transport constraints
+- Perhaps these constraints are another way to anchor the map to the territory, as it simply can’t go as far from it as we do ?
 
 
 
@@ -134,13 +114,36 @@ The following are still to be activated, just as this history is yet to be made.
 
 ---
 
+#### Acknowledgements
 
+This proposal is an extension of the research project *Towards a digital commons of public art* (funded by the Canada Arts Council) lead by at Maison MONA, a cultural non-profit based in Tiohtià:ke · Montréal. In this pilot project tackling public art and its visibility in the digital space, we worked on the identification and the referencing of public art artists active in Québec and who have at least one artwork in the MONA database[^8]. This dataset therefore contains 1528 artworks, described with properties such as title, artist, production date, and geolocation. We initially had very little previous data on the 781 artists that produced these artwork. During the project, we identified artists who are yet to be added to Wikidata, and chose our participants amongst them based on EDI criteria, favoring womxn, BIPOC artists and artists who have an artwork outside of the cultural metropolis of Tiohtià:ke · Montréal. For the artists’ gender identity, we researched their mediatic gender identity, using available biographies from galleries and their personal websites. Participating artists were then contacted and could choose which information they wanted to make public, including their gender identity, while for the rest we used the available mediatic identity in Fall 2023. The public artworks in our database are dated between 1750 (even though it was only moved much later to its current location) and 2022, and most were produced between 1960 and 2022. Geographically speaking, they are on the territory commonly called the province of Québec, though most are located on the island of Tiohtià:ke · Montréal.
+
+
+
+#### References
+
+(to be completed)
+
+- Agamben, Giorgio. 2007. *Qu’est-ce qu’un dispositif?* Payot & Rivages.
+- Alvarez Hernandez, « Le monument dans un champ élargi : les pratiques performatives de Giorgia Volpe, Claudia Bernal et Constanza Camelo Suarez », *Espace art actuel*,  dossier thématique « Sortir/Come out », Laurent Vernet  (rédacteur invité), no 127, hiver 2021, p.  14-21. https://www.erudit.org/en/journals/espace/2021-n127-espace05876/95142ac/
+- Bisschop, Allisson. 2022. ‘La force de l’art actuel face à la statuaire coloniale : les artistes et la question de la décolonisation de l’espace public en Belgique – Journal NaKaN’. 2022. https://nakanjournal.com/la-force-de-lart-actuel-face-a-la-statuaire-coloniale-les-artistes-et-la-question-de-la-decolonisation-de-lespace-public-en-belgique/.
+- Bryan-Wilson, Julia. 2024. ‘Fibers, Creatures, Furry Beasts: Queer Textile Crittercism’. In *Unravel: The Power and Politics of Textiles in Art*, edited by Lotte Johnson, Amanda Pinatih, Wells Fray-Smith, Barbican Art Gallery, and Stedelijk Museum Amsterdam. Munich London New York: Prestel.
+- ‘Call for Papers – No.47 « Counter-Mapping / Contre-Cartographier » – Intermédialités’. n.d. Accessed 1 February 2025. http://intermedialites.com/en/2738-2/.
+- Graff, Julie, Lena Krause, Alexia Pinto Ferretti, Camille Delattre, David Valentine, and Simon Janssen. 2024. ‘Vers un commun numérique de l’art public’. *Sens public*, no. 1759 (May). http://sens-public.org/dossiers/1759/.
+- Halder, Severin, and Boris Michel. 2018. ‘Editorial – This Is Not an Atlas’. In *This Is Not an Atlas*, 12–25. transcript Verlag. https://doi.org/10.14361/9783839445198-001. 
+- Martel, Andréanne, and Lena Krause. 2023. ‘Cartography and Restitution’. Online thematic bibliography. Zotero. https://www.zotero.org/groups/5236090/cartographie-et-restitution/library. 
+- O’Connor, January, Mark Parman, Nicole Bowman, and Stephanie Evergreen. 2023. ‘Decolonizing Data Visualization: A History and Future of Indigenous Data Visualization’. *Journal of MultiDisciplinary Evaluation* 19 (44): 62–79. https://doi.org/10.56645/jmde.v19i44.783. 
+- Ramaswamy, Sumathi. 2014. ‘The Work of Vision in the Age of European Empires’. In *Empires of Vision: A Reader*. Duke University Press. https://doi.org/10.2307/j.ctv1220q6d. 
+- Yakoub, Joachim Ben. 2021. ‘PeoPL’s Bursting Light’. *Third Text* 35 (4): 413–30. https://doi.org/10.1080/09528822.2021.1944531.
+- Vitali Rosati, Marcello. 2024. *Éloge du bug. Être libre à l’époque du numérique*. La Découverte. Zones. https://www.editions-zones.fr/lyber?eloge-du-bug.Analays 
+- 
 
 [^1]: This project originated during a doctoral seminar on restitution, repatriation and return in museum studies (Prof. Abigail E. Celis, Fall 2023, Université de Montréal)
-[^2]: The data from the MONA research project is further described in the acknowledgments,
-[^3]: Saphira is an Alaskan Husky breed we adopted a few years ago. I used her shedding of Fall 2023, and ran out while covering West Island.
-[^4]: Notebook documenting the data visualisation experiments: https://observablehq.com/@maison-mona/chronologie-et-genre?collection=@maison-mona/gender-analysis.
-[^5]: One such participatory activation was organised on April 17th 2024, during a end-of-year student exhibition (CIN7008).
-[^6]: The code for the participatory mapping activity is published on Github: https://github.com/lenaMK/doc/tree/main/viz/carte.
-[^7]: The MONA database was created as a data source for the MONA app. It unites public art collections to enable *in-situ* outreach and cultural mediation with a free mobile app.
-[^11]: I use *men* artist, a purposefully odd-sounding turn of phrase, to accentuate the double standard with women artists.
+[^2]: I use *men* artist, a purposefully odd-sounding turn of phrase, to accentuate the double standard with women artists.
+[^3]: *Towards a digital commons of public art* was a Maison MONA project funded by the Canada Arts Council. Between 2023 and 2024, our team experimented with the potential, viability, and usefulness of linked open data (LOD), while also aiming to generate interest in the semantic web within the artistic and cultural community. The main focus was to increase the visibility of artists involved in public art on the Wikidata, Wikimedia Commons, and Wikipedia platforms. By identifying the current initiatives, needs, and issues specific to the visual arts sector, this project intends to equip artists with good wiki practices and thus to foster the development of a digital commons of public art.
+[^4]: Saphira was an Alaskan Husky breed we adopted a few years ago. I used her shedding of Fall 2023, and ran out while covering West Island. She passed away in May 2025 and we miss her very much.
+[^5]: The timeline published in this article covers the years 1950 until 2024. In the notebook documenting the data visualisation experiments, I created several other views to better understand the entire time frame. https://observablehq.com/@maison-mona/chronologie-et-genre?collection=@maison-mona/gender-analysis  
+[^6]: One such participatory activation was organised on April 17th 2024, during a end-of-year student exhibition (CIN7008).
+[^7]: The code for the participatory mapping activity is published on Github: https://github.com/lenaMK/doc/tree/main/viz/carte.
+[^8]: The MONA database was created as a data source for the MONA app. It unites public art collections to enable *in-situ* outreach and cultural mediation with a free mobile app.
+[^?]: Foot note explaining gender identity ? or in acknowledgements?.
