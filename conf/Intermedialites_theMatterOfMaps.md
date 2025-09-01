@@ -75,15 +75,27 @@ process / experiential
 
 
 
-
-
-contribution on counter-mapping through situated, material and sensory interfaces to this exciting conference.
+contribution on counter-mapping through situated, material and sensory interfaces to this « dossier thématique ».
 
 - embedding meaning into materiality 
+- bridging the gap: from algorithmic to tactile practices? 
+- storytelling
+- agency of maps
 
 
 
+documentation of the map’s journey (not static object)
 
+-  when and where to be activated? not too far
+
+  - transport constraints
+  - Perhaps these constraints are another way to anchor the map to the territory, as it simply can’t go as far from it as we do ?
+
+- journal? map’s voice? 
+
+
+
+(very meta) reflecting on the storytelling in this article? 
 
 
 
@@ -91,10 +103,7 @@ contribution on counter-mapping through situated, material and sensory interface
 
 *questions/ opening to other avenues*
 
- when and where to be activated? not too far
-
-- transport constraints
-- Perhaps these constraints are another way to anchor the map to the territory, as it simply can’t go as far from it as we do ?
+- 
 
 
 
