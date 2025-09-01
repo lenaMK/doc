@@ -15,15 +15,13 @@ Counter-mapping, as methodology and as posture, became a strategy to renew the i
 
 My writing takes the reader on a spatial journey through the installation, following a slow backwards movement. It begins nested deep in the soft creases of the fur-covered surface of the map. Progressively zooming out, one ca progressively distinguish the shapes and objects that construct a new story of womxn and public art on the island of Tiohtià:ke · Montréal. Leaving its rugged edges, we enter the space of its installation and the temporality of its participatory activation. Each transition also follows a sensory *crescendo* to reverberate the depth of the proposed tactile experience. It begins with the internal perception of being immersed in the material. Moving outwards slowly exposes layers of visual and spatial awareness. Finally, active participation mobilises the agency of touch and its potentially sharp impact on the collaborative building of a new narrative. By sharing this experience, I strive to challenge how we think about and through maps, how we might “use” them and how they work through us.
 
-
-
 ### Deep within the soft creases
 
 As a researcher of mixed transnational origins who settled in Tiohtià:ke · Montréal, working with cartography on unceeded territory has heavy historical and contemporary implications. The western scientific, colonial and imperial uses of maps is strongly critiqued in critical, radical, and decolonial cartography, as documented in Martel and MK (2023). Counter-cartography, in aiming to reverse these power dynamics and produce more diverse epistemologies, can look to “indigenous cartography [as] inspiration for non-hegemonic and emancipatory practices.” (Halder and Michel 2018). Indigenous artists and writers have structured counter-mapping discourses using Indigenous epistemologies. By creating theoretical frameworks from personal, collective, and mythological stories, they reactivate the kinship networks that also shape ancestral laws, land management practices and modes of identity formation (Marcoux 2024).
 
 Decolonial narratives and monuments can also provide relevant approaches to counter institutional practices. *PeoPL* (2018) by Laura Nsengiyumva is a reproduction of the Léopold II’s equestrian statue made of ice. The pedestal, placed upside-down above the sculpture, is fitted with incandescent lamps that slowly melt the sculpture during its exhibition at the Nuit Blanche 2018 in Brussels (Bisschop 2022, Yakoub 2021). *On Monumental Silences* (2018) by Ibrahim Mahama presents reinterpretations of a monument to the missionary-father De Deken, including a collective and participatory performance in which the public was invited to interact – mutilate, destroy, remodel – a clay reproduction of the monument (Bisschop 2022). Both artists used careful consideration to reflect the stakes of their narrative in the materials chosen to enact them.
 
-In the theoretical sphere, new materialisms and authors such as Karen Barad argue that « *matter matters*: the material matters because it bears meaning » (Vitali Rosati, 2024, p. 62). Therefore considering that ideas, thoughts and concepts are expressed in a physical, material instance, the medium I chose for my map needed to effectively defy colonial mindsets about the territory. Instead of the virgin *terra nullius* symbolised by a blank sheet of paper, *the* bureaucratic medium, I thought that raw organic material (untreated/not industrially produced and transformed) could convey the living nature of the land. As I was researching this question, it happened to be the bi-annual shedding of my dog Saphira. Her fluffy and soft fur attracted people to the point I sometimes noticed them “discreetly” reaching to try to touch it as we cross paths on the street. This intuitive touch was exactly what I was aiming for, and her shedding seemed an excellent way to use an organic material whilst preserving any waste, destruction or loss of life in its sourcing [^4]. Far from disposing of the shedding, I often used to leave little bundles out and about for animals to pad their nests with. It is the fabric of homes, bringing insulation and comfort in both its origin and reuse in the wild (? non human; animal realm).
+In the theoretical sphere, new materialisms and authors such as Karen Barad argue that « *matter matters*: the material matters because it bears meaning » (Vitali Rosati, 2024, p. 62). Therefore considering that ideas, thoughts and concepts are expressed in a physical, material instance, the medium I chose for my map needed to effectively defy colonial mindsets about the territory. Instead of the virgin *terra nullius* symbolised by a blank sheet of paper, *the* bureaucratic medium, I thought that raw organic material (untreated/not industrially produced and transformed) could convey the living nature of the land. As I was researching this question, it happened to be the bi-annual shedding of my dog Saphira. Her fluffy and soft fur attracted people to the point I sometimes noticed them “discreetly” reaching to try to touch it as we cross paths on the street. This intuitive touch was exactly what I was aiming for, and her shedding seemed an excellent way to use an organic material whilst preserving any waste, destruction or loss of life in its sourcing [^4]. Far from disposing of the shedding, I often used to leave little bundles out and about for animals to pad their nests with. It is the fabric of homes, bringing insulation and comfort in both its origin and reuse in the wild.
 
 Thus I created my basemap by covering a white insulation panel, the structural base for the map, with the off-white shedding. From the originally rectangular shape of the panel – an unused byproduct of my partner’s work in construction –, I cut out the shape of the island of Tiohtià:ke · Montréal, choosing a natural border over the colonial government’s administrative demarcations. The rough edges of the hand-trimmed Styrofoam contrast with the rectangular, glossy or slick sheets of paper commonly used for maps. As an attempt to forgo the capitalist, extractivist and alienating urban network set by the automotive industry, I chose a reference grid formed by the [open data on cycling paths](https://www.donneesquebec.ca/recherche/dataset/vmtl-pistes-cyclables). Using a projector, I superimposed the digital map and traced the routes with a light orange felt pen. To affix the shedding to the panel, I drew upon my drag experience: to make an artificial beard, one simply glues patches of hair to the intended area. Though the first bushes rarely seem convincing, persevering patiently usually leads to a satisfying result. I therefore proceeded to glue little balls of fur to the surface, following the pathways. Some areas are detailed enough to reveal the urban grid, while others are visually covered in off-white fur. In a western section of the island, the insulation panel remains visible as I ran out of shedding.
 
@@ -55,19 +53,39 @@ Using a chronological order materialises a narrative of how womxn artists progre
 
 To place each needle, I used a digital map generated on my laptop with a d3.js script. Then I visually followed the cycling paths to find the artwork’s location. Between every needle, i « upped » the count, updating the title that was generated on the digital map. In a minimal, almost « bare » computing approach, I did not go beyond the basic UI/UX for the digital map. Instead, I wanted to take the time to search for the each new dot as it appeared on the screen, accessing the artwork details through the browser console to learn about it and foraging around the fur patches to find my way.
 
-As if performing a ritual, the experience of carefully placing each of the 18 needles brought a feeling of agency, both upon the history and the geography of public art made by womxn. It seemed almost necessary to share this feeling with others, embracing the collective approach to promote a history in the making. *\[…\] and couting* became an installation intented for participatory activation. In such setting the map rests flat, propped up to a table’s height. It is accompanied by a computer and a second screen, displaying respectively the source code and a digital version of the map run on a localhost. Participants are invited to 
+As if performing a ritual, the experience of carefully placing each of the 18 needles brought a feeling of agency, both upon the history and the geography of public art made by womxn. It seemed almost necessary to share this feeling with others, embracing the collective approach to promote a history in the making. *\[…\] and couting* became an installation intented for participatory activation. In such setting the map rests flat, propped up to a table’s height. It is accompanied by a computer and a second screen, displaying respectively the source code and a digital version of the map run on a localhost [^7]. Participants are invited to 
 
 1. add “to the count” in the code,
 2. search for the new artwork that appeared on the digital map, using the browser console to access its metadata,
 3. and place a new needle on the equivalent location of the physical map.
 
-To find the location, they can use the other needles/artworks as references while also following the both tactile and visual topographical references of the cycling paths and the fur patches. The title updates the count as each participatory action enriches the map, progressively activating a new narrative on public art and its history [^9]. The participatory process also became a way to reveal my methods: I use data and write code to create digital visualisations and maps. Exhibiting the code and the digital map reinstates this algorithmic approach even when the “end result” is a physical map[^6]. 
+To find the location, they can use the other needles/artworks as references while also following the both tactile and visual topographical references of the cycling paths and the fur patches. The title updates the count as each participatory action enriches the map, progressively activating a new narrative on public art and its history. One such participatory activation was organised on April 17th 2024, during a end-of-year student exhibition [^6]. Since then, the map states *28 and counting*. The following are still to be activated, just as this history is yet to be made.
 
-The following are still to be activated, just as this history is yet to be made.
+
+
+
 
 ### Emerging unscathed? 
 
-In closing, I hope to have contributed some thoughts on counter-mapping through situated, material and sensory interfaces to this exciting conference.
+process / experiential
+
+> *transformations that alter ways of thinking*
+
+
+
+
+
+
+
+contribution on counter-mapping through situated, material and sensory interfaces to this exciting conference.
+
+- embedding meaning into materiality 
+
+
+
+
+
+
 
 
 
@@ -112,8 +130,8 @@ This proposal is an extension of the research project *Towards a digital commons
 [^2]: I use *men* artist, a purposefully odd-sounding turn of phrase, to accentuate the double standard with women artists.
 [^3]: *Towards a digital commons of public art* was a Maison MONA project funded by the Canada Arts Council. Between 2023 and 2024, our team experimented with the potential, viability, and usefulness of linked open data (LOD), while also aiming to generate interest in the semantic web within the artistic and cultural community. The main focus was to increase the visibility of artists involved in public art on the Wikidata, Wikimedia Commons, and Wikipedia platforms. By identifying the current initiatives, needs, and issues specific to the visual arts sector, this project intends to equip artists with good wiki practices and thus to foster the development of a digital commons of public art.
 [^4]: Saphira was an Alaskan Husky breed we adopted a few years ago. I used her shedding of Fall 2023, and ran out while covering West Island. She passed away in May 2025 and we miss her very much.
-[^5]: The timeline published in this article covers the years 1950 until 2024. In the notebook documenting the data visualisation experiments, I created several other views to better understand the entire time frame. https://observablehq.com/@maison-mona/chronologie-et-genre?collection=@maison-mona/gender-analysis  
-[^6]: One such participatory activation was organised on April 17th 2024, during a end-of-year student exhibition (CIN7008).
-[^7]: The code for the participatory mapping activity is published on Github: https://github.com/lenaMK/doc/tree/main/viz/carte.
+[^5]: The timeline published in this article covers the years 1950 until 2024. In the notebook documenting the data visualisation experiments, I created several other views to better understand the entire time frame. https://observablehq.com/@maison-mona/chronologie-et-genre?collection=@maison-mona/gender-analysis
+[^6]: Exhibition of the research-creation doctoral students of the art history, cinema and media studies department (Prof. Frédéric Dallaire, CIN7008, Winter 2024), public activation on April 17th 2024 at Université de Montréal.
+[^7]: The participatory process also became a way to reveal my methods: I use data and write code to create digital visualisations and maps. Exhibiting the code and the digital map reinstates this algorithmic approach even when the “end result” is a physical map. The digital map is accessible at: https://lenamk.site/doc/viz/carte/ and the code is published on Github: https://github.com/lenaMK/doc/tree/main/viz/carte.
 [^8]: The MONA database was created as a data source for the MONA app. It unites public art collections to enable *in-situ* outreach and cultural mediation with a free mobile app.
 [^?]: Foot note explaining gender identity ? or in acknowledgements?.
