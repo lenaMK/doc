@@ -1,19 +1,43 @@
 # The Matter of Maps
 
-Lena MK
+Lena MK, version submitted for peer review on September 2nd
 
-> Writing in progress
+## About the article
+
+- Title: *The Matter of Maps. A Public Art Experiment*
+- Full name: Lena MK (https://orcid.org/0000-0001-6280-6657)
+- Institutional affiliation: Université de Montréal; Maison MONA
+
+
+
+### Synopsis
+
+This article recounts and analyses the research-creation process that led to the participatory mapping installation titled *[…] and counting* (2024) in the light of its approach to counter-cartography. The installation space welcomes participants to learn about and contribute to a map about the entry of womxn artists in the public art sphere of Tiohtià:ke · Montréal. Data and algorithms cross with queer textiles practices to embody new and more diverse narratives. Through these situated and sensory interfaces of the map, meaning is embedded into materiality and touch becomes the motor for cartographic interaction as well as knowledge production. 
+
+### Résumé
+
+Cet article relate et analyse les étapes de la recherche-création qui ont mené à l’installation de cartographie participative intitulée *[…] and counting* (2024), à la lumière de son approche de la contre-cartographie. Cette installation invite son public à apprendre et à participer à une carte au sujet de l’entrée des femme·x·s artistes dans l’espace public à Tiohtià:ke · Montréal. Données et algorithmes se mêlent à des pratiques textiles *queer* pour produire de nouveaux récits de la diveristé. À travers les interfaces sensorielles et situées de la carte, la matérialité devient porteuse de sens et la tactilité guide les interactions cartographiques ainsi que la production de connaissances.
+
+
+
+### Biographical note
+
+Lena MK is a research-creation doctoral candidate in art history and computer science at Université de Montréal. Her doctoral research, at the crossroads of textility and algorithmics, experiments with the physicalisation of cultural data as a new form of access to collections. Passionate about cultural outreach and mediation, Lena has developed a specialisation in data visualisation and cartography as methods to shape and share situated narratives. As founder and technical director of Maison MONA, she creates, develops and maintain projects aiming to democratise access to art and culture in public spaces in Québec.
+
+
+
+## Content
 
 From critical cartography to counter-mapping, the matter of maps has been increasingly analysed, questioned, and experimented with. Their definition, context and means of production, as well as their materiality have radically evolved in the last century, from hand-drawn “official” (institutional) maps to encompassing a wide variety of practices such as self-published digital visualisations or collective textile cartographic abstractions. Critical inquiries brought changes in cartographic practices by questioning and challenging *what* and *who* are or aren’t part of a map, *why* and *how* they are represented, in addition to *who* participates *when* and *how* in the process of map-making. A wide range of examples demonstrating how each project pushes back to its local context is provided in *This is not an Atlas: a global collection of counter-cartographies* (Kollektif Orangotango+ 2018). Bringing these initiatives together into a publication also provides useful frame of reference, highlighting the collective change operating at a larger scale. As I began my PhD program in research-creation[^1], I wanted to experiment with counter-cartography, especially how it tackles ways of thinking and ways of making, all the while considering the maker’s positionnality.
 
-As an art historian with a practice of cartography and data visualisation, counter-cartographic approaches are particularly relevant to tackle overlooked narratives. In the case of public art, as it has long been commissioned by those in power, it tends to the over-representation of normativity (Vernet 2021). Monuments and art in public space often present a bias toward *men* artists [^2], favouring settlers or those of European origins, a colonial and capitalistic vision of society, considering the land and people through the lens of power and control. However, especially in recent years, public art also began including artworks and artists who challenge these narratives (Alvarez Hernandez 2021). My engagement with public art comes from the work we do at Maison MONA, a cultural non-profit based in Tiohtià:ke · Montréal. Through research-action, artistic residencies and cultural outreach, we work at the crossroads between art and technology to the democratise and broaden access to art, heritage and culture in public spaces in the province of Québec. In a project tackling public art and its visibility in the digital space [^3], my colleagues and I worked on a data set of artists who have at least one public artwork in the MONA database. The frame of our project led us to analyze the dataset with a focus including gender identity. After years of experiencing the gender gap while doing research or preparing cultural outreach programs, it was the first time we could take a quantitative insight to analyse the presence of womxn creating in the public art context. This became an opportunity to tell a new story, about the entry of womxn artists in the public art sphere.
+As an art historian with a practice of cartography and data visualisation, counter-cartographic approaches are particularly relevant to tackle overlooked narratives. In the case of public art, as it has long been commissioned by those in power, it tends to the over-representation of normativity (Vernet 2021). Monuments and art in public space present many bias, such as toward a dominance of *men* artists [^2], favouring settlers or those of European origins, a colonial and capitalistic vision of society, considering the land and people through the lens of power and control (Walsh et al. 2020, 8-9; Alvarez Hernandez 2019, 47) . However, especially in recent years, public art also began including artworks and artists who challenge these narratives (Alvarez Hernandez 2021). My engagement with public art comes from the work we do at Maison MONA, a cultural non-profit based in Tiohtià:ke · Montréal. Through research-action, artistic residencies and cultural outreach, we work at the crossroads between art and technology to the democratise and broaden access to art, heritage and culture in public spaces in the province of Québec. In a project tackling public art and its visibility in the digital space [^3], my colleagues and I worked on a data set of artists who have at least one public artwork in the MONA database. The frame of our project led us to analyze the dataset with a focus including gender identity. After years of experiencing the gender gap while doing research or preparing cultural outreach programs, it was the first time we could take a quantitative insight to analyse the presence of womxn creating in the public art context. This became an opportunity to tell a new story, about the entry of womxn artists in the public art sphere.
 
 - Who were the first womxn to contribute public artworks?
 - When and where did they do so?
 
 Counter-mapping, as methodology and as posture, became a strategy to renew the imaginaries of public art, thwarting the dominant narratives in order to share a more diverse history of public art. This paper therefore aims to contribute to the contemporary mapping landscape from an art historical perspective with *[…] and counting*, a research-creation project on public art by womxn in Tiohtià:ke · Montréal. Inscribing the elements of *[…] and counting* into an academic narrative presents an opportunity to further the back-and-forth dynamic between research and creation. While theory serves as inspiration, practice provides fertile ground to further theory. Following Miriam Suchet’s advice in *Indiscipline!*, when considering the role and impact of research-creation, this article documents my public art experiment to « allow others to see the transformations that alter [my] ways of thinking » (Suchet 2016, 69). 
 
-My writing takes the reader on a spatial journey through the installation, following a slow backwards movement. It begins nested deep in the soft creases of the fur-covered surface of the map. Progressively zooming out, one ca progressively distinguish the shapes and objects that construct a new story of womxn and public art on the island of Tiohtià:ke · Montréal. Leaving its rugged edges, we enter the space of its installation and the temporality of its participatory activation. Each transition also follows a sensory *crescendo* to reverberate the depth of the proposed tactile experience. It begins with the internal perception of being immersed in the material. Moving outwards slowly exposes layers of visual and spatial awareness. Finally, active participation mobilises the agency of touch and its potentially sharp impact on the collaborative building of a new narrative. By sharing this experience, I strive to challenge how we think about and through maps, how we might “use” them and how they work through us.
+My writing takes the reader on a spatial journey through the installation, following a slow backwards movement. It begins nested deep in the soft creases of the fur-covered surface of the map. Progressively zooming out, one can progressively distinguish the shapes and objects that construct a new story of womxn and public art on the island of Tiohtià:ke · Montréal. Leaving its rugged edges, we enter the space of its installation and the temporality of its participatory activation. Each transition also follows a sensory *crescendo* to reverberate the depth of the proposed tactile experience. It begins with the internal perception of being immersed in the material. Moving outwards slowly exposes layers of visual and spatial awareness. Finally, active participation mobilises the agency of touch and its potentially sharp impact on the collaborative building of a new narrative. By sharing this experience, I strive to challenge how we think about and through maps, how we might “use” them and how they work through us [^9].
 
 ### Deep within the soft creases
 
@@ -37,9 +61,9 @@ As we slowly emerge from the fuzzy patches, we might wonder: where am I ? In *Li
 
 Tim Ingold’s theoretical insights strengthen counter-cartographic practices to think and make from our positionnality within the land, building knowledge as we experience it rather then from afore-collected information and materials. It also provides an additional layer of interpretation to *[…] and counting*. As the fuzzy hair can’t quite be tamed, the surface of the map only evokes the built infrastructure. The hand-drawn serpentine paths are present throughout the map but invisible at a distance. The only way to move across the map is by wayfaring. Fingers gently parse the fur to find and follow the arteries, touch becomes the guiding sense through the interface. 
 
-Tactile epistemologies have long been sidelined by western knowledge production. Tactile data visualisation, such as « incorporat[ing] stories (qualitative data) and numbers (quantitative data) into [indigenous] textiles, fabrics, governments and ceremonies » was long disregarded by western powers, both as representations of legal agreements and as historical approaches to data visualisation (O’Connor et al 2023, 68). Textile practitioners and their tactile knowledge were also sidelined. Anni Albers notes in 1965 how we have increasingly grown insensitive in our perception by touch. Modern industry saves us time and manual labor, but « it also bars us from taking part in the forming of material and leaves idle our sense of touch and with it those formative factulties that are stimulated by it. »  ([1965] 1974), 62)
+Tactile epistemologies have long been sidelined by western knowledge production. Tactile data visualisation, such as « incorporat[ing] stories (qualitative data) and numbers (quantitative data) into [indigenous] textiles, fabrics, governments and ceremonies » was long disregarded by western powers, both as representations of legal agreements and as historical approaches that would include indigenous epistemologies in data visualisation (O’Connor et al 2023, 68). Textile practitioners and their tactile knowledge were also sidelined. Anni Albers notes in 1965 how we have increasingly grown insensitive in our perception by touch. Modern industry saves us time and manual labour, but « it also bars us from taking part in the forming of material and leaves idle our sense of touch and with it those formative factulties that are stimulated by it. »  ([1965] 1974), 62)
 
-In the context of cartography, tactility allows for different interactions with cartography: the “viewer” is invited to physically interact with the map, going beyond the visual sphere to experience a sensory implication with the mapped territory. Reinstating a sensory-driven narrative relinquishes control over to land to favour an embodied relationship to it. Going beyond vision makes space for tactile ways of knowing, responding to Bruce Mau’s call « to explore, experiment, and invent new formats and combinations of sensory experience, new ways of telling stories. » (Mau 2018, 20). Multisensory design practices are also more inclusive, as they « [support] everyone’s opportunity to receive information, explore the world, and experience joy, wonder, and social connections, regardless of our sensory abilities. » (Lupton and Lipps 2018, 9)
+In the context of cartography, reinstating a sensory-driven narrative relinquishes control over to land to favour an embodied relationship to it. Tactility allows for different interactions with cartography: the “viewer” is invited to physically interact with the map, going beyond the visual sphere to experience a sensory implication with the mapped territory. Going beyond vision makes space for tactile ways of knowing, responding to Bruce Mau’s call « to explore, experiment, and invent new formats and combinations of sensory experience, new ways of telling stories. » (Mau 2018, 20). Multisensory design practices are also more inclusive, as they « [support] everyone’s opportunity to receive information, explore the world, and experience joy, wonder, and social connections, regardless of our sensory abilities. » (Lupton and Lipps 2018, 9)
 
 ### Piercing narratives
 
@@ -61,55 +85,15 @@ As if performing a ritual, the experience of carefully placing each of the 18 ne
 
 To find the location, they can use the other needles/artworks as references while also following the both tactile and visual topographical references of the cycling paths and the fur patches. The title updates the count as each participatory action enriches the map, progressively activating a new narrative on public art and its history. One such participatory activation was organised on April 17th 2024, during a end-of-year student exhibition [^6]. Since then, the map states *28 and counting*. The following are still to be activated, just as this history is yet to be made.
 
-
-
-
-
 ### Emerging unscathed? 
 
-process / experiential
+*[…] and counting* presents as a spatial installation but it was (and is) a temporal journey. This article documents several steps of the creative process that led research on counter-mapping through situated, material and sensory interfaces. It shares strategies for embedding meaning into materiality, embracing touch for knowledge production, nurturing collective agency, and bridging the gap between algorithmic and textile makerspaces. If many of these ideas occurred at different times, they are only brought together into a linear narrative through the writing process. I experience research-creation as a particularly meandering process: the ramifications of a thought or a creative decision, both of which might have emerged as intuition, can later shape a large portion of the outcome. And by outcome, I mean as much the participatory mapping installation as this article. Time might still reveal new layers of meaning-making in this proposal, especially as further activations of the installation may continue *counting*.
 
-> *transformations that alter ways of thinking*
-
-
-
-
-
-contribution on counter-mapping through situated, material and sensory interfaces to this « dossier thématique ».
-
-- embedding meaning into materiality 
-- bridging the gap: from algorithmic to tactile practices? 
-- storytelling
-- agency of maps
-
-
-
-documentation of the map’s journey (not static object)
-
--  when and where to be activated? not too far
-
-  - transport constraints
-  - Perhaps these constraints are another way to anchor the map to the territory, as it simply can’t go as far from it as we do ?
-
-- journal? map’s voice? 
-
-
-
-(very meta) reflecting on the storytelling in this article? 
+If this article already tackles some elements of documentation, different directions could continue adding depth to this experiment. For example, considering further activations brings to light a possible object/installation biography. How might we document *[…] and counting*’s journeys? We can turn our critical inquiries onto the production of documentation, considering which voices should or can be heard, what formats to record them with, and how and where to share them. Moreover, when considering the layers of narratives, this article focused on the experimental counter-mapping process. However, the story of the entry of womxn artists in the public art sphere on the island of Tiohtià:ke · Montréal that was central to the installation may seem relegated to the sidelines of this publication. This is in part due to the aforementioned questions regarding the documentation of the lived experience. During the first year of my thesis, I was discovering many aspects of research-creation, and while enthralled by the creative possibilities, I was not as attentive to the production of documentation. Even now, I am not sure how to share the many thoughts, feelings and conversations that occurred while considering each artwork we mapped. Writing about such a narrative would feel more considerate in a publication dedicated to the topic, such as Valentine Desmorat’s thesis on the entry of women artists into Montreal’s Contemporary Art Museum (2024). In this regard, I hope for this article to motivate further diverse writings on counter-cartography, and on public art.
 
 
 
 
-
-*questions/ opening to other avenues*
-
-- 
-
-
-
-
-
----
 
 #### Acknowledgements
 
@@ -117,7 +101,7 @@ This proposal is an extension of the research project *Towards a digital commons
 
 
 
-#### References
+## References
 
 (to be completed)
 
@@ -143,4 +127,5 @@ This proposal is an extension of the research project *Towards a digital commons
 [^6]: Exhibition of the research-creation doctoral students of the art history, cinema and media studies department (Prof. Frédéric Dallaire, CIN7008, Winter 2024), public activation on April 17th 2024 at Université de Montréal.
 [^7]: The participatory process also became a way to reveal my methods: I use data and write code to create digital visualisations and maps. Exhibiting the code and the digital map reinstates this algorithmic approach even when the “end result” is a physical map. The digital map is accessible at: https://lenamk.site/doc/viz/carte/ and the code is published on Github: https://github.com/lenaMK/doc/tree/main/viz/carte.
 [^8]: The MONA database was created as a data source for the MONA app. It unites public art collections to enable *in-situ* outreach and cultural mediation with a free mobile app.
+[^9]: Part of this research-creation was presented at the International Cartographic Conference 2025 in Vancouver (upcoming abstract publication). 
 [^?]: Foot note explaining gender identity ? or in acknowledgements?.
