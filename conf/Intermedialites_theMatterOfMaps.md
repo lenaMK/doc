@@ -28,6 +28,8 @@ Lena MK is a research-creation doctoral candidate in art history and computer sc
 
 ## Content
 
+[toc]
+
 # The Matter of Maps
 
 - **A Public Art Experiment** (initial submission and abstract title)
@@ -90,25 +92,9 @@ In practice, I approach counter-cartography as a critical state of mind, questio
 
 Envisioning the map’s « biography » [^12] brings about another set of critical questions about display, conservation and documentation. *Who* is this map for and how will they have access to it? This is not a topic to be left for last as it, for example, could impact the choice of medium. A map printed on textile rather than paper might be easier to travel with. Maps hosted on the web may seem more accessible on a global scale, yet their digital components may require powerful computers, rapid internet access, or time/resource-consuming maintenance. Material approaches to mapping therefore imply different modes of circulations. Moreover, they also afford different interactions: while the digital realm offers ever-growing possibilities for interactivity, engagement with physical maps is enhanced by touch when pointing to a detail or tracing a path upon it. Hybrid means of production, such as 3D-printing, can convey tactile semantics by associating different meanings to textures or by providing braille inscriptions(Wabiński and al. 2025; Hwang and al. 2025). The range of interactions with or within a map make it an environment where the production of meaning and knowledge is co-constructed between the conceptual and material choices made by the mapmaker(s), and the involvement of the person experiencing it. Finally, few (if any) maps can journey through space and time unaffected or can claim to be universally accessible. I therefore find that creating diverse forms of documentation can offer relevant strategies in terms of accessibility. Diversity in documentation can address different senses (Lupton and Lipps 2018). For instance, text or audio descriptions can relieve dependency on visual documentation. In terms of scale, digital documentation can be shared openly or adapted to respect cultural protocols. Layering multiple perspectives in documentation is particularly relevant for research-creation, as the complex entanglements between theory and creative practice may not manifest wholly in the map itself.
 
-I therefore conceive counter-cartography as a frame. On the theoretical end, it inscribes map making into a critical framework. In its practice, it recognises and inscribes cartographic processes into the map, making it self-conscious and (hopefully) self-critical. In the following sections of this article, I address how certain elements of *[…] and counting* relate to counter-cartography. 
+I therefore conceive counter-cartography as a frame. On the theoretical end, it inscribes map making into a critical framework. In its practice, it recognises and inscribes cartographic processes into the map, making it self-conscious and (hopefully) self-critical. In the following sections of this article, I will progressively address how certain elements of *[…] and counting* relate to counter-cartography through situated, material and sensory interfaces.
 
-~~~
-Mapping of public art by womxn situated on colonised territory calls for an intersectional approach that extends to 
-
-- decolonial practices. with regards to the territory
-- feminist → domination of men both in the art and in the public sphere 
-  - thwarting the dominant narratives in order to share a more diverse history of public art
-- anticapitalist → **public** art
-- ecology → material relation to the earth
-
-counter-cartographic approaches seem particularly relevant to bring often overlooked narratives to the spotlight
-~~~
-
-
-
----
-
-### Deep within the soft creases
+## Deep within the soft creases
 
 New materialisms and authors such as Karen Barad argue that “*matter matters*: the material matters because it bears meaning.” (Vitali-Rosati 2024) Considering that ideas, thoughts and concepts are expressed in a physical, material instance, the medium I chose for my map needed to effectively defy colonial mindsets about the territory. I drew inspiration from the treatment of materiality in two decolonial monuments. *PeoPL* (2018) by Laura Nsengiyumva is a reproduction of the Léopold II’s equestrian statue made of ice. The pedestal, placed upside-down above the sculpture, is fitted with incandescent lamps that slowly melt the sculpture during its exhibition at the Nuit Blanche 2018 in Brussels.[13](#sdfootnote13sym) *On Monumental Silences* (2018) by Ibrahim Mahama presents reinterpretations of a monument to the missionary-father De Deken, including a collective and participatory performance in which the public was invited to interact – mutilate, destroy, remodel – a clay reproduction of the monument.[14](#sdfootnote14sym) Both artists used careful consideration to reflect the stakes of their narrative in the materials chosen to enact them.
 
@@ -120,54 +106,15 @@ For my map, instead of the virgin *terra nullius* symbolised by a blank sheet of
 
 CC BY Lena MK 2024
 
-
-
 Thus I created my base map by covering a white insulation panel[18](#sdfootnote18sym), the structural base for the map, with the off-white shedding. From the originally rectangular shape of the panel–, I cut out the shape of the island of Tiohtià:ke · Montréal, choosing a natural border over the colonial government’s administrative demarcations. The rough edges of the hand-trimmed Styrofoam contrast with the rectangular, glossy or slick sheets of paper commonly used for maps. As an attempt to forgo the capitalist, extractivist and alienating urban network set by the automotive industry, I chose a reference grid formed by available open data on cycling paths.[19](#sdfootnote19sym) Using a projector, I superimposed the digital map and traced the routes with a light orange felt pen. To affix the shedding to the panel, I drew upon my drag experience: to make an artificial beard, one glues patches of hair to the intended area. Though the first bushes rarely seem convincing, persevering usually leads to a satisfying result. I therefore proceeded to glue little balls of fur to the surface, following the pathways. Some areas are detailed enough to reveal the urban grid, while others are visually covered in off-white fur. In a western section of the island, the insulation panel remains visible as I ran out of shedding.
 
 In her essay *Fibre Creatures, Furry Beasts: Queer Textile Crittercism*, art historian Julia Bryan-Wilson provides an interesting lens on the use of organic materials in art practices: “Textile crittercism attends to work that takes critterly form, to practices that use animal and insect by-products, and to art that stages creatureliness (embracing touch and the body’s base necessities for survival) as an oppositional tactic in the face of masculinist demands to prioritise logic and rationality.”[20](#sdfootnote20sym) In the case of Peruvian American artist Sarah Zapata, Bryan-Wilson highlights how her furry sculptures wield tactility and pleasure as political tools, “refuting the ‘hands-off’ protocols of art spectatorship.”[21](#sdfootnote21sym) Using materials that cry out for touch nurtures a relational approach. It queers the field of possibilities and “connects the human and the non-human”[22](#sdfootnote22sym) which, in a mapping context, can therefore (re-)connect us to the living nature of the represented land. 
 
 Choosing shedding as the material for my base map therefore situates several values that I wanted to embed into my map. From my lifestyle came the immediate assessment that I wanted to make a physical map whilst limiting its ecological footprint. Using materials available to me was a way to try and stay clear of the consumer mindset and to reduce waste production[^14]. On a larger scale, I was looking for ways to recognise the living nature of the land in my map. Animal shedding echoes the acute changes in seasons that gives rhythm to all organic life on the island. Deeply rooted within its wider ecosystem, it decentres urban life to bring forth more-than-human time and space. I aimed to create relational engagement with the map nonetheless. The unsettling matter clouds the familiarity usually brought by a paper map to reach beyond utilitarian mindsets. Softness evokes feelings of comfort and the safety of a home. We can experience sensory response or « visceral reaction[s] » based on sight (Jennifer M. Barker cited by Lupton 2018, 41). Building an embodied response to the map through the desire of touch will be discussed in the next section of the article.  This section, however, is not complete without acknowledging the many strands of decolonial thinking that I continuously call on to challenge my positionality on this land. It thus began with inspiring artworks deconstructing colonial monuments and mindsets. It shall end with Miranda Smitheram and Frances Joseph’s proposal to « enable human-environmental engagements through reciprocal processes of making-with, rather than extractive ways of making-from, things in the ecosystem. » (Smitheram and Joseph 2022 p. 41) [^15] As their proposal resonates with the values I just identified, I wonder, could the future of cartography hold reciprocity in its human-environmental engagements?
 
+## Tactile findings
 
-
-### Tactile findings
-
-Sight alone is not enough to find locations on this map. The fuzzy base map offsets the visual process of knowledge-making (Haraway 1988), as the god’s eye view doesn’t afford clarity on its spatial organisation. Stubbornly puffing beyond the area to which they are glued, the fur patches obfuscate the cycling path. The hand-drawn serpentine paths are present throughout the map but invisible at a distance. As fingers must gently parse the fur to find and follow the arteries, touch becomes the guiding sense through the map’s interface. 
-
-Tactile epistemologies have long been sidelined by western knowledge production. Tactile data visualisation, such as “incorporat[ing] stories (qualitative data) and numbers (quantitative data) into [indigenous] textiles, fabrics, governments and ceremonies”[28](#sdfootnote28sym) was long disregarded by western powers, both as representations of legal agreements and as historical approaches that would include indigenous epistemologies in data visualisation. Textile practitioners and their tactile knowledge were also sidelined. Anni Albers remarks already in 1965 how we have increasingly grown insensitive in our perception by touch. Modern industry saves us time and manual labor, but “it also bars us from taking part in the forming of material and leaves idle our sense of touch and with it those formative faculties that are stimulated by it.”[29](#sdfootnote29sym)
-
-In the context of cartography, reinstating a sensory-driven narrative relinquishes control over to land to favor an embodied relationship to it. Tactility allows for different interactions with cartography: the “viewer” is invited to physically interact with the map, going beyond the visual sphere to experience a sensory implication with the mapped territory. Going beyond vision makes space for tactile ways of knowing, responding to Bruce Mau’s call “to explore, experiment, and invent new formats and combinations of sensory experience, new ways of telling stories.”[30](#sdfootnote30sym) Multisensory design practices are also more inclusive, as they “[support] everyone’s opportunity to receive information, explore the world, and experience joy, wonder, and social connections, regardless of our sensory abilities.”[31](#sdfootnote31sym)
-
-? 
-
-. The only way to move across the map is by wayfaring. 
-
-
-
-
-
-
-
-describe tactile vs visual discovery and exploration
-
- we might wonder:  
-
-~~~
-- Page 5/6. Under the heading of “Tactile findings,” the author considers Ingold’s work but the relation to the fluff-map is not clear. Ingold speaks of the difference between lines made by wayfarers and “destination-oriented transport” (commuters?). The author uses lines made by tracing cycling paths. What is the connection between Ingold, cycling paths and women artists?
-
-- The discussion of tactility and fuzz on the map has potential, but it is not clear how the physical interaction transmits cartographic knowledge How does the viewer “know” where on the map they are through feeling the fur? Is there correlation between real place and representation on this fuzzmap? How is tactility related to the visual map? It would be worthwhile to explore these questions with greater specificity.
-- more direct engagement with the questions of touch, tactility and positionality that drive this research creation project, within the wider frame of counter-cartographies.
-~~~
-
-
-
-
-
-where am I?
-
- In *Lines: Brief history*, Tim Ingold analyses maps by considering their relationships with both the traveler and the land.*[24](#sdfootnote24sym)* The anthropologist highlights two knowledge systems of habitation and occupation, and opposes wayfaring and travel as ways of moving within the land. On the one end of the spectrum, paths across the land are shaped by its inhabitants. Tangled trails follow the path of the wayfarer. They have no beginning nor end, as they are continually woven into a reticulate meshwork by the ways of life.[25](#sdfootnote25sym) On the other end, in the colonial project of occupation, travel and transport form a network of connections between select locations. “The traveler who departs from one location and arrives at another is, in between, nowhere at all.”[26](#sdfootnote26sym) Looking at maps, these antagonistic modalities of travel can be distinguished by the shape of their lines : wayfarers draw fluid streaks that compose a sketch. In the case of destination-oriented transport, the line become jerky. It jolts on the surface, fragments into a series of connected dots to form a route-plan. In terms of narrative, pre-composed plots replace the storytelling that accompanies the hand-drawn sketch.[27](#sdfootnote27sym) Tim Ingold’s theoretical insights strengthen counter-cartographic practices to think and make from our positionality within the land, building knowledge as we experience it rather then from afore-collected information and materials. It also provides an additional layer of interpretation to *[…] and counting*. 
-
-
+Sight alone does not suffice to find locations on this map. The fuzzy base map hence offsets the visual process of knowledge-making (Haraway 1988), as the god’s eye view doesn’t afford clarity on its spatial organisation. Stubbornly puffing beyond the area to which they are glued, the fur patches obfuscate the cycling paths. The hand-drawn serpentine lines are present throughout the map but invisible at a distance. Fingers must gently parse the fur to find and follow the arteries, and as a result, touch becomes the guiding sense through the map’s interface. 
 
 
 
@@ -175,30 +122,25 @@ where am I?
 
 CC BY Lena MK 2024
 
+Tactile epistemologies have long been sidelined by western knowledge production. Tactile data visualisation, such as “incorporat[ing] stories (qualitative data) and numbers (quantitative data) into [indigenous] textiles, fabrics, governments and ceremonies”[28](#sdfootnote28sym) was long disregarded by western powers, both as representations of legal agreements and as historical approaches that would include indigenous epistemologies in data visualisation. Textile practitioners and their tactile knowledge were also sidelined. Textile artist and theorist Anni Albers remarks already in 1965 how we have increasingly grown insensitive in our perception by touch. Modern industry saves us time and manual labour, but “it also bars us from taking part in the forming of material and leaves idle our sense of touch and with it those formative faculties that are stimulated by it.”[29](#sdfootnote29sym) Embracing tactility in maps can therefore be associated with a counter-cartographic practice, pushing back against dominant forms of knowledge production to make space for more diverse ways of knowing.
 
+Additionally,  textures introduce different interactions with maps: the “viewer” must physically experience it through touch. Going beyond the visual sphere, textures establish a sensory implication with the mapped territory. Going beyond vision unlocks alternatives for cartographers “to explore, experiment, and invent new formats and combinations of sensory experience, new ways of telling stories.”[30](#sdfootnote30sym) (Mau). It provides subversive tactics, challenging *how* a (counter-)narrative comes across their maps. Multisensory design practices are also more inclusive, as they “[support] everyone’s opportunity to receive information, explore the world, and experience joy, wonder, and social connections, regardless of our sensory abilities.”[31](#sdfootnote31sym). Tactile maps can also reinstate a sensory-driven narrative that relinquishes the illusion of visual control over to land. The map as a formidable instrument of power, often enhanced by an imperial paradigm and visual technologies,[23](#sdfootnote23sym) turns to fluff. Holding out one’s hand to embrace softness, perhaps can we reach for new horizons.
 
- 
+A digression into *Lines: A Brief history* by anthropologist Tim Ingold offers further insight into the significance of an embodied relationship with the land. Ingold analyses maps by considering their relationships with both the traveler and the land.*[24](#sdfootnote24sym)*  He highlights two knowledge systems, habitation and occupation, and opposes wayfaring and travel as ways of moving within the land. On the one end of the spectrum, paths across the land are shaped by its inhabitants. Tangled trails follow the path of the wayfarer. They have no beginning nor end, as they are continually woven into a reticulate meshwork by the ways of life.[25](#sdfootnote25sym) On the other end, in the colonial project of occupation, travel and transport form a network of connections between select locations. “The traveler who departs from one location and arrives at another is, in between, nowhere at all.”[26](#sdfootnote26sym) Looking at maps, these antagonistic modalities of travel can be distinguished by the shape of their lines : wayfarers draw fluid streaks that compose a sketch. In the case of destination-oriented transport, the line become jerky. It jolts on the surface, fragments into a series of connected dots to form a route-plan. Considering narrative, pre-composed plots replace the storytelling that accompanies the hand-drawn sketch.[27](#sdfootnote27sym) This distinction between wayfaring and travel provides an additional layer of interpretation to *[…] and counting*. Indeed, the only way to gain spatial knowledge in the fluffy map is by wayfaring. When trailing along its arteries, one accepts to always be somewhere. Searching for landmarks in the narrative of the map, one must turn to human and non-human interlocutors to uncover its stories. Before we dwelve into these *Piercing narratives*, I would like to conclude noting that Tim Ingold’s theoretical insights offer incentives for counter-cartographers to think and make from our positionality within the land, building knowledge as we experience it rather then from afore-collected information and materials. Without excluding the (re-)use of data or archives, I read it as an invitation to situate ourselves not just within the map, but also within the network of its materials.
 
+## Piercing narratives together
 
-
- The formidable instrument of power, usually enhanced by an imperial paradigm and visual technologies,[23](#sdfootnote23sym) turns to fluff.
-
-
-
-### Piercing narratives: thematic  mapping
-
-
-
-~~~
-Les trois premiers paragraphes de cette section sont "confusants": manque d'ordre et explications un peu lacunaires. Il me semble que ces explications (améliorées) devraient venir plus tôt. La suite, au sujet de la participation, peut rester en place, le lien se fait bien
-
-- try and find a better angle to bring up the topic of acupuncture needles
-- And what does it mean that a woman’s artwork is represented by a needle? Is the land therefore skin that can be punctured? Some development of the iconography would enrich the narrative here.
-~~~
+During the doctoral seminar on restitution, repatriation and return in museum studies taught by Prof. Abigail E. Celis (Fall 2023, Université de Montréal), for which I initially created *[…] and counting* as a research-creation submission, I was inspired by profound conversations with my fellow classmates. While debating the ongoing presence of colonial monuments in Tiohtià:ke · Montréal and around the globe, we contemplated how their removal from public would also require a form of ritual, a gesture that says good riddance not just to their material instances but also to the meaning and the historical weight that they embodied. Monuments, just as maps, are a tool of power: like an aura, their presence spread the ideologies they carry into their urban surroundings. Public art may be a broader artistic category than monuments, but they have in common their socio-political inscription into public space. To map public art by womxn, I was looking for a way turn the power of public art against itself, against its dominant narrative. Making use of my previous research, I found that following a chronological order materialises a narrative of how womxn artists progressively entered public space, emphasising their relation to each other. While exploring a chronological view of the data where each dot is a public artwork (Figure 1), I noted several phases. First, the outliers, sparsely distributed on the timeline up to 1981. Then, a first cluster forms between 1982 and 1987. It felt like some of them were finally able to stand together. More clusters come after that, following waves of public art production. I chose to begin the map with the first 18 artworks by womxn, those that defied the odds in a public art sphere blatantly dominated by men [32](#sdfootnote32sym).
 
 
 
-Thinking about tactile care practices, I found that using acupuncture needles in the map could provide a form of ritual. Acupuncture is an alternative medicine practice that defies western scientific knowledges. Following ancient asian traditions, needles are used to stimulate selected locations of the body. (Acupuncture) needles can provoke physical reactions: sometimes even just on sight, they are associated with a feeling of them piercing skin and even causing bloodshed. I therefore decided to use needles to activate the location of each artwork by a woman on my map.
+[Timeline of gender repartition in public art (1950 - 2024)](../img/GenderInPublicArt_timeline.png)
+
+> Figure : Timeline of artworks in MONA database. 
+> This view starts in 1951, when a yearly production cycle becomes apparent in our data.
+> CC BY Lena MK and Maison MONA, 2025.
+
+To anchor their stories into the furry map, I was looking for contrast, something that would activate them as landmarks at their locations. While thinking about tactile care practices, I realised that acupuncture quite literally hit the mark. Needles are a powerful tool that can both pierce skin and flesh, and suture as a form of healing (Fray-Smith 2024, 185). In acupuncture, key locations of the body are targeted and stimulated by needles to provide relief and well being to the organism being treated (Kwan 2010). Although it has widely been assimilated into contemporary medical practices, its stems from a very different belief system, far from western medicine (Chang 2014). Applied onto the organic map background, acupuncture intensifies urbanists’ ways of thinking about cities as organisms. Searching along the fur patches adds a new meaning to the metaphor of main roads being called « arteries ». As I will detail in the following paragraphs, the experience of carefully placing a needle upon the location of an artwork brought a feeling of ritualistic agency, both upon the history and the geography of public art made by womxn. 
 
 
 
@@ -206,56 +148,27 @@ Thinking about tactile care practices, I found that using acupuncture needles in
 
 CC BY Lena MK 2024
 
-
-
-Using a chronological order materialises a narrative of how womxn artists progressively entered public space, emphasising their relation to each other. While exploring a chronological view of the data where each dot is a public artwork (Figure 1), I noted several phases. First, the outliers, sparsely distributed on the timeline up to 1981. Then, a first cluster forms between 1982 and 1987. It felt like some of them were finally able to stand together. More clusters come after that, following waves of public art production. I chose to begin the map with the first 18 artworks by womxn, those that defied the odds in a public art sphere blatantly dominated by men [32](#sdfootnote32sym).
-
-[enrich this section]
-
-![Timeline of gender repartition in public art (1950 - 2024)](../img/GenderInPublicArt_timeline.png)
-
-
-
-> Figure : Timeline of artworks in MONA database. 
-> This view starts in 1951, when a yearly production cycle becomes apparent in our data.
-> CC BY Lena MK and Maison MONA, 2025.
-
-
-
-To place each needle, I used a digital map generated on my laptop with a d3.js script. Then I visually followed the cycling paths to find the artwork’s location. Between every needle, i “upped” the count, updating the title that was generated on the digital map. In a minimal, almost “bare” computing approach, I did not go beyond the basic UI/UX for the digital map. Instead, I wanted to take the time to search for the each new dot as it appeared on the screen, accessing the artwork details through the browser console to learn about it and foraging around the fur patches to find my way.
-
-
-
-> Figure : *[...] and counting*, installation view
-> CC BY Lena MK 2024
-
-
-
-As if performing a ritual, the experience of carefully placing each of the 18 needles brought a feeling of agency, both upon the history and the geography of public art made by womxn. It seemed almost necessary to share this feeling with others, embracing the collective approach to promote a history in the making 
-
-
-
-#### Participatory mapping
-
-*[…] and counting* became an installation intended for participatory activation. In such setting the map rests flat, propped up to a table’s height. It is accompanied by a computer and a second screen, displaying respectively the source code and a digital version of the map run on a localhost.[33](#sdfootnote33sym) Participants are invited to 
+I initiated the mapping process, placing the 18 first needles, following the steps that were later open to all participants: 
 
 1. add “to the count” in the code,
 2. search for the new artwork that appeared on the digital map, using the browser console to access its metadata,
 3. and place a new needle on the equivalent location of the physical map.
 
+The first step, reveals the data-driven approach to the map by asking the participant to look into the code I wrote to create the digital map. In the following paragraph, I briefly explain the operating principles behind the excerpt of the code provided in the figure [..x..], to at least share a glimpse of its contents with readers who aren’t familiar with programming. These explanations echo those I shared with participants interested in understanding the script’s logic. In the excerpt of the code , the `Promise` loads the json files with the cycling network (*réseau cyclable*), the simplified outline of the island and the artworks by womxn exported from the MONA data (`femx`). However, not all artworks are mapped (function `map`, toward the end, right before the error catch): `data` takes after `femx`, which are ordered by year of production ( lines 119 to 121), and it only copies the number of entries defined by `count`. Therefore, if `count = 1`, data would only have the first artwork in the chronologically-ordered database. In the figure, the count (line 117), is at 28. The title of the digital map is dynamically updated (line 123) to reflect the count: « 28 and counting ». When a participant is invited to « up » the count, they change the value of « count » (i.e. from 28 from 29), which in turn updates the title, and shows an additional artwork on the digital map.
+
 <img src="/home/lenamk/pCloudDrive/My Documents/Doc/articles/Intermedialites/img/code_carte.png" style="zoom:50%;" />
 
-##### figure … Lines 110 to 139 of the script 
+##### figure … Lines 110 to 139 of the [script](https://github.com/lenaMK/and-counting/blob/main/index.js)
 
-→ **make github repo for clean reference**
 
-The first step,  reveals the data-driven approach to the map by asking the participant to look into the code I wrote to create the digital map. In the excerpt of the code provided in the figure [..x..], the `Promise` loads the json files with the cycling network (*réseau cyclable*), the simplified outline of the island and the artworks by womxn exported from the MONA data (`femx`). However, not all artworks are mapped (function `map`, toward the end, right before the error catch): `data` takes after `femx`, which are ordered by year of production ( lines 119 to 121), and it only copies the number of entries defined by `count`. Therefore, if `count = 1`, data would only have the first artwork in the chronologically-ordered database. In the figure, the count (line 117), is at 28. The title of the digital map is dynamically updated (line 123) to reflect the count: « 28 and counting ». When a participant is invited to « up » the count, they change the value of « count » (i.e. from 28 from 29), which in turn updates the title, and shows an additional artwork on the digital map.
+
+The digital map is very minimalistic. Its only visible text is the title. Below, a black background provides contrast for the simplified outline of the island’s shape, filled in white to mimic the physical map. The cycling paths add an uneven grid. To the familiar eye, some elements of the urban landscape can be distinguished, such as the dense neighbourhood of Rosemont and the Plateau. As urban cycling infrastructure often takes advantage of the safety and greenery of parks, one might make out the large loop going around the Parc Frédéric-back or the sinous path to climb up the Mont Royal. This grid also reveals gaps, areas where commuters have fewer access to bicycle lanes. Though several maps, both physical and digital, show the city’s cycling network, I have never seen it on a map without road network. The cycling network map layer provides recognisable features of the city while offering an critical perspective on its built infrastructure. Since this context doesn’t comprise a functional commuting purpose, this alternative way to map an urban area suits the aim of *[…] and couting*, which is to situate artworks on the island and to visualise their spatial relations. 
 
 ![screenshot of the digital map at « 28 and counting »](/home/lenamk/pCloudDrive/My Documents/Doc/articles/Intermedialites/img/interface.png)
 
 ##### figure … screenshot of the digital map at *28 and counting*
 
-The digital map is very minimalistic. Its only visible text is the title. Below, a black background provides contrast for the simplified outline of the island’s shape, filled in white to mimic the physical map. The cycling paths add an uneven grid. To the familiar eye, some elements of the urban landscape can be distinguished, such as the dense neighbourhood of Rosemont and the Plateau. As urban cycling infrastructure often takes advantage of the safety and greenery of parks, one might make out the large loop going around the Parc Frédéric-back or the sinous path to climb up the Mont Royal. This grid also reveals gaps, areas where commuters have fewer access to bicycle lanes. Though several maps, both physical and digital, show the city’s cycling network, I have never seen it on a map without road network. The cycling network map layer provides recognisable features of the city while offering an critical perspective on its built infrastructure. Since this context doesn’t comprise a functional commuting purpose, this alternative way to map an urban area suits the aim of *[…] and couting*, which is to situate artworks on the island and to visualise their spatial relations. 
+
 
 Small black dots form the last layer of the map[^8], indicating the locations of the artworks « in » the count. However, I consciously opted for this almost barren approach rather than providing a « dumb-proof » or « brainless » interface. I believe that collectively writing a new page of public art history calls for work, and active participation.  The challenging nature of this task was, however, mediated by my presence. I provided assistance to people who were less familiar with the territory, or who experienced challenges reading the map. These interactions proved often fruitful to pursue longer and deeper conversations, about maps, about the land, about the artworks, etc.
 
@@ -265,27 +178,15 @@ Small black dots form the last layer of the map[^8], indicating the locations of
 
 Placing a new needle onto the physical map could, in theory, be done simply by comparing it with the digital map and figuring out which dot was yet to be materialised by a needle. However, all participants (including myself) were invested and wanted to know more about the artwork being added. Since the digital map is generated by a local script executed in a browser [^9], I decided to us the console – one of the many developer tools provided in contemporary browsers –  not just to debug my code but also to log the data. One could therefore view the data associated with each dot, first as a brief summary with their title, artist, and date, then as a complete `Object`, with many more properties such as `owner` and their respective values: `Université McGill`, `Centre de services scolaire de Montréal`, or `Ville de Montréal`. Matching each dot with an artwork therefore also revealed my methods and the data behind the map. For some participants, this was their first time looking at data, and/or a browser console. As many interfaces today are enriched with photographs, being exposed to a technical description of an artwork without a visual representation sometimes proved an unsettling experience. At times, this sparked curiosity and topics linked to digital literacy, while others immediately reclaimed the browser as a tool to further research an artwork or an artist. 
 
-~~~
-unfinished re-rewriting here
-~~~
+Participatory map-making embraces a collective approach that also promotes a history in the making. It also became a way to reveal my methods: I use data and write code to create digital visualisations and maps. Displaying the code and the digital map reinstates this algorithmic approach even when the “end result” is a physical map. One such participatory activation was organised on April 17th 2024, during a end-of-year student exhibition [34](#sdfootnote34sym). Since then, the map states *28 and counting*. The following are still to be activated, just as this history is yet to be made.
 
 
 
- required collaboration. I had placed the first 18, so I generally remembered their locations. As participants contributed, the number of artworks grew.
-
-The participatory process also became a way to reveal my methods: I use data and write code to create digital visualisations and maps. Exhibiting the code and the digital map reinstates this algorithmic approach even when the “end result” is a physical map. The digital map is accessible at: https://lenamk.site/doc/viz/carte/ and the code is published on Github: https://github.com/lenaMK/doc/tree/main/viz/carte.
-
-To find the location, they can use the other needles/artworks as references while also following the both tactile and visual topographical references of the cycling paths and the fur patches. The title updates the count as each participatory action enriches the map, progressively activating a new narrative on public art and its history. One such participatory activation was organised on April 17th 2024, during a end-of-year student exhibition [34](#sdfootnote34sym). Since then, the map states *28 and counting*. The following are still to be activated, just as this history is yet to be made.
-
-### Emerging unscathed? 
+## Emerging unscathed? 
 
 *[…] and counting* presents as a spatial installation but it was (and is) a temporal journey. This article documents several steps of the creative process that led research on counter-mapping through situated, material and sensory interfaces. It shares strategies for embedding meaning into materiality, embracing touch for knowledge production, nurturing collective agency, and bridging the gap between algorithmic and textile maker spaces. If many of these ideas occurred at different times, they are only brought together into a linear narrative through the writing process. I experience research-creation as a particularly meandering process: the ramifications of a thought or a creative decision, both of which might have emerged as intuition, can later shape a large portion of the outcome. And by outcome, I mean as much the participatory mapping installation as this article. Time might still reveal new layers of meaning-making in this proposal, especially as further activations of the installation may continue *counting*.
 
-If this article already tackles some elements of documentation, different directions could continue adding depth to this experiment. For example, considering further activations brings to light a possible object or installation biography. How might we document *[…] and counting*’s journeys? We can turn our critical inquiries onto the production of documentation, considering which voices should or can be heard, what formats to record them with, and how and where to share them. Moreover, when considering the layers of narratives, this article focused on the experimental counter-mapping process. However, the story of the entry of womxn artists in the public art sphere on the island of Tiohtià:ke · Montréal that was central to the installation may seem relegated to the sidelines of this publication. This is in part due to the aforementioned questions regarding the documentation of the lived experience. During the first year of my thesis, I was discovering many aspects of research-creation, and while enthralled by the creative possibilities, I was not as attentive to the production of documentation. Even now, I am not sure how to share the many thoughts, feelings and conversations that occurred while considering each artwork we mapped. Writing about such a narrative would feel more considerate in a publication dedicated to the topic, such as Valentine Desmorat’s thesis on the entry of women artists into Montreal’s Contemporary Art Museum (2024). In this regard, I hope for this article to motivate further diverse writings on counter-cartography, and on public art.
-
-
-
-<!--incredulous look from a child asking: why would you have to do that?-->
+If this article already tackles some elements of documentation, different directions could continue adding depth to this experiment. For example, considering further activations brings to light a possible object or installation biography. How might we document *[…] and counting*’s journeys and the stories that it holds? We can turn our critical inquiries onto the production of documentation, considering which voices should or can be heard, what formats to record them with, and how and where to share them. Moreover, when considering the layers of narratives, this article focused on the experimental counter-mapping process. However, the story of the entry of womxn artists in the public art sphere on the island of Tiohtià:ke · Montréal that was central to the installation may seem relegated to the sidelines of this publication. This is in part due to the aforementioned questions regarding the documentation of the lived experience. During the first year of my thesis, I was discovering many aspects of research-creation, and while enthralled by the creative possibilities, I was not as attentive to the production of documentation. Even now, I am not sure how to share the many thoughts, feelings and conversations that occurred while considering each artwork we mapped. Writing about such a narrative would feel more considerate in a publication dedicated to the topic, such as Valentine Desmorat’s thesis on the entry of women artists into Montreal’s Contemporary Art Museum (2024). In this regard, I hope for this article to motivate further diverse writings on counter-cartography, and on public art.
 
 
 
