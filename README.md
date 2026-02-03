@@ -10,7 +10,7 @@ Recherche-création doctorale de [Lena MK](http://lenamk.site), 2023-2027, Unive
 
 - [Résumé de la proposition](./exSynth/resume) ([version en anglais](./exSynth/abstract))
 - Travail écrit&nbsp;: [Collections tactiles. Recherche-création en matérialisation de données culturelles](./exSynth/examen-ecrit.html)
-- Partie pratique&nbsp;: *Célébration de données molles*, matérialisation de données de la collection du Musée d’art contemporain de Montréal
+- Partie pratique&nbsp;: [*Célébration de données molles*](https://lenamk.site/soft-data-celebration/README), matérialisation de données de la collection du Musée d’art contemporain de Montréal
   - (dé-)monstration du 20 au 22 mai
   - disponibilités durant le mois de juin&nbsp;: 
     - jeudi 5 juin: 16h à 18h
@@ -18,8 +18,8 @@ Recherche-création doctorale de [Lena MK](http://lenamk.site), 2023-2027, Unive
     - jeudi 12 juin: 16h à 17h30
     - jeudi 19 juin: 13h à 18h
   - [protocole: « Célébration de données molles »](./exSynth/protocole_MAC) 
-  - [audiodescription](./exSynth/audiodescription_donneesMolles.html)
-  - documentation participative: mise en ligne des photographies et des vidéos à venir
+  - [audiodescription](https://lenamk.site/soft-data-celebration/audiodescription)
+  - [documentation participative](https://u.pcloud.link/publink/show?code=kZSGxe5ZrsmgqJYI2gkRvTaHkVq9MY4FUfEX): *Citer le projet en cas de réutilisation/diffusion des photographies svp*, mai-juin 2025
   - documentation wiki
     - [description sur wikidata](https://www.wikidata.org/wiki/Q134700898)
     - [photographie sur wikimédia commons](https://commons.wikimedia.org/wiki/File:Soft_Data_Celebration_data_physicalization_by_Lena_MK_2.jpg)
