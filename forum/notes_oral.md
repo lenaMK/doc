@@ -1,5 +1,9 @@
 # Cartographie et recherche-création : la collection du Musée du Peuple Palestinien
 
+10 avril 2026
+
+[Dérivé du texte écrit remis le 27 mars](./ecrit.md)
+
 [Support visuel utilisé pendant la présentation](./LenaMK_forum_2026.pdf)
 
 ## Intro, sujet de thèse

@@ -1,8 +1,7 @@
 # Cartographie et recherche-création : la collection du Musée du Peuple Palestinien
 
-Texte remis le 27 mars 2026, en prévision d’une présentation orale le 10 avril 2026
+Texte remis le 27 mars 2026, en prévision d’une [présentation orale](./notes_oral.md) le 10 avril 2026
 
-Support visuel utilisé pendant la présentation orale
 
 - **Titre de la thèse** : Collections tactiles. Recherche-création en matérialisation de données  
   culturelles
