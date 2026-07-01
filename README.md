@@ -2,6 +2,11 @@
 
 Recherche-création doctorale de [Lena MK](http://lenamk.site), 2023-2027, Université de Montréal. Cette recherche est financée par le [CRSH](https://www.nserc-crsng.gc.ca/Students-Etudiants/PG-CS/CGSD-BESCD_fra.asp).
 
+### Forum doctoral, avril 2026
+- [Texte écrit](./forum/ecrit.md) remis le 27 mars 2026 
+- [Notes de la présentation orale](./forum/notes_oral.md) du 10 avril 2026
+- [Support visuel](./forum/LenaMK_forum_2026.pdf)
+
 ### Examen de synthèse, mai 2025
 
 - [Résumé de la proposition](./exSynth/resume) ([version en anglais](./exSynth/abstract))
